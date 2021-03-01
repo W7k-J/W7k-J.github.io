@@ -1,5 +1,5 @@
 ---
-layout: test  
+layout: post  
 title: 2021.03.01 Hello World!
 ---
 
