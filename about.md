@@ -8,8 +8,14 @@ This page is under construction
 
 ### More Information
 
-This page is under construction
+Julian Wandzilak W7k
+NIP:
+6762588331
+REGON:
+387538171
+Adres:
+ul. św. Jana 9/6, 31-017, Kraków, Polska
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+jw@w7k.pl
