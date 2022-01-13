@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VR
+title: Virtual Reality
 permalink: /vr/
 ---
 This page is under construction
