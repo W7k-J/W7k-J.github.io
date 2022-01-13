@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 2021 BIMsmith Winter Wonderland Holiday Revit Family Competition 
+title: BIMsmith Winter Wonderland Holiday Revit Family Competition 
 date: 2022-01-13 14:00:00
 author: Julian
 ---
@@ -21,4 +21,4 @@ The family was built using basic parametric profiles hosted by sweep paths that 
 The parameter that drives the family’s size and pattern is easy to understand and surprisingly fun to manipulate. Watch Julian demonstrate his Revit family here."
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GvU_dKd0E0s" title="Introducing the WINNERS of the 2021 BIMsmith Winter Wonderland Holiday Revit Family Competition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1030" height="630" src="https://www.youtube.com/embed/GvU_dKd0E0s" title="Introducing the WINNERS of the 2021 BIMsmith Winter Wonderland Holiday Revit Family Competition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
