@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UAV test
-permalink: /uav as/
+title: UAV
+permalink: /uav/
 ---
 This page is under construction! 
