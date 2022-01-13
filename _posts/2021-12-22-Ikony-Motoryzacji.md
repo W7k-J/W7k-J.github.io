@@ -1,7 +1,7 @@
 ---
 layout: post  
-title: BIMsmith Winter Wonderland Holiday Revit Family Competition 
-date: 2022-01-13 14:00:00
+title: Ikony motoryzacji, an exhibion in Fabryka Norblina
+date: 2021-12-22 14:00:00
 author: Julian
 ---
 ![Plansza_1](/images/20211222_IkonyMotoryzacji.jpg)
