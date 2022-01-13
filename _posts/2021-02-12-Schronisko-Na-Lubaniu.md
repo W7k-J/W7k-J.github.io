@@ -8,4 +8,7 @@ Yesterday during official post-competition discussion at SARP Kraków we tried t
 
 https://youtu.be/WZUiQtZH62s
 
+<iframe width="420" height="315" src="https://youtu.be/WZUiQtZH62s" frameborder="0" allowfullscreen></iframe>
+
+
 Enjoy!
