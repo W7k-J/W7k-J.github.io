@@ -1,6 +1,6 @@
 ---
 layout: page
 title: VR
-permalink: /VR/
+permalink: /vr/
 ---
 This page is under construction
