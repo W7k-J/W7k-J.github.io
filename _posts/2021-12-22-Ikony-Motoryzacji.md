@@ -4,7 +4,7 @@ title: BIMsmith Winter Wonderland Holiday Revit Family Competition
 date: 2022-01-13 14:00:00
 author: Julian
 ---
-![Plansza_1](/images/20210213_WinterWonder.jpg)
+![Plansza_1](/images/20211222_IkonyMotoryzacji.jpg)
 
 <!--excerpt-->
 
