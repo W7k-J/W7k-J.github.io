@@ -2,6 +2,7 @@
 layout: post  
 title: Schronisko Na Lubaniu
 date: 2021-02-12 14:00:00
+author: Julian
 ---
 ![Plansza_1](/images/1_Schronisko1.jpg)
 ![Plansza_2](/images/1_Schronisko2.jpg)
