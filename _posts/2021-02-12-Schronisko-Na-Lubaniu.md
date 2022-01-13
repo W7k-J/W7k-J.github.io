@@ -5,7 +5,9 @@ date: 2021-02-12 14:00:00
 author: Julian
 ---
 ![Plansza_1](/images/1_Schronisko1.jpg)
+
 <!--excerpt-->
+
 ![Plansza_2](/images/1_Schronisko2.jpg)
 
 Last year with a group of friends (Bartek Dendura, Martyna Mądry, Tomasz Obara and Katarzyna Przybyło) we received an honourable mention in the architectural competition.
