@@ -55,6 +55,8 @@ else:
   
   
 I decided to filter out the ceilings to which script is unable to assign proper room number. I didn’t want it to later overwrite ceilings which were manually corrected.
+
+![Filtering out ceilings without rooms](/images/Dynamo/DS1/20220618_schemat_2.png)  
   
   
 ### Assign Room Name instead of Room Number (3)
