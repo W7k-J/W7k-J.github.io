@@ -1,8 +1,8 @@
 
 .highlight {
-  background-color: lightgrey;
+  background-color: #F8F8F8;
   padding: 1px 1px 1px 1px;
-  border: 1px lightgrey;
+  border: 1px #F8F8F8;
   -moz-box-shadow: 0px 0px rgba(0,0,0,0.1);
   -webkit-box-shadow: 0px 0px rgba(0,0,0,0.1);
   box-shadow: 0px 0px rgba(0,0,0,0.1);
@@ -11,7 +11,7 @@
 }
 
 code {
-  font-family:'Montserrat','Courier', monospace, black;
+  font-family:'Montserrat','Courier', monospace;
 }
 
 .highlight .c { color: #586E75 } /* Comment */
