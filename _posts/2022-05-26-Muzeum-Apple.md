@@ -4,7 +4,7 @@ title: Muzeum Apple Polska
 date: 2022-05-26 12:00:00
 author: Julian
 ---
-![Muzeum Apple](/images/2022 05 28 Apple BW.jpg)
+![Muzeum Apple](/images/20220528_Apple_BW.jpg)
 
 <!--excerpt-->
 
@@ -19,17 +19,17 @@ So next time you are in Warsaw, you know what to do! And after that, tell me wha
 
 For more information, visit:
 
-<https://applemuzeumpolska.pl/>
+<https://applemuzeumpolska.pl/>  
 
+<br>  
+![Photo_1](/images/20220528_Apple06.jpg)  
 <br>
-![Photo_1](/images/2022 05 28 Apple06.jpg)
+![Photo_2](/images/20220528_Apple05.jpg)  
 <br>
-![Photo_2](/images/2022 05 28 Apple05.jpg)
+![Photo_3](/images/20220528_Apple04.jpg)  
 <br>
-![Photo_3](/images/2022 05 28 Apple04.jpg)
+![Photo_4](/images/20220528_Apple03.jpg)  
 <br>
-![Photo_4](/images/2022 05 28 Apple03.jpg)
+![Photo_5](/images/20220528_Apple02.jpg)  
 <br>
-![Photo_5](/images/2022 05 28 Apple02.jpg)
-<br>
-![Photo_6](/images/2022 05 28 Apple01.jpg)
+![Photo_6](/images/20220528_Apple01.jpg)  
