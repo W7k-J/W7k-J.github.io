@@ -14,9 +14,9 @@ I am interested in probably too many things like:
 Programming  
 [UAV](https://w7k.pl/uav/)  
 [VR](https://w7k.pl/vr/)  
-+  
+and many more  
   
-Bear in mind that everything here is under construction and probably will as long as I am alive ;)  
+Bear in mind that everything here is under construction and probably will be as long as I am alive ;)  
   
 Don't hesitate to contact me if you need any help - especially with something cool!  
   
