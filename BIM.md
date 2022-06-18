@@ -8,6 +8,7 @@ permalink: /bim/
 
 
 ### Revit Modeling
+[BIMsmith Winter Wonderland Holiday Revit Family Competition - 1st Place](https://w7k.pl/BIMSmith-Winter/)
 
 
 ### Dynamo Scripts
