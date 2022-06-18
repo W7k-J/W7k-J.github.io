@@ -9,7 +9,7 @@ permalink: /architecture/
 
 [2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
   
-[2021 Plac Kossakaa](https://w7k.pl/Plac-Kossaka-w-Krakowie/)  
+[2021 Plac Kossaka](https://w7k.pl/Plac-Kossaka-w-Krakowie/)  
 
 ### Architectural Projects:
 
