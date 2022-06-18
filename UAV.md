@@ -4,14 +4,12 @@ title: UAV
 permalink: /uav/
 ---
 
-I am certified UAV Pilot (BVLOS and VLOS up to 25kg)
-
 ### UAV Photography:
 
-[Photo_1](/images/UAV_4.jpg)
-[Photo_2](/images/UAV_3.jpg)
-[Photo_3](/images/UAV_2jpg)
-[Photo_4](/images/UAV_1.jpg)
+![Photo_1](/images/UAV_4.jpg) \
+![Photo_2](/images/UAV_3.jpg) \
+![Photo_3](/images/UAV_2jpg) \
+![Photo_4](/images/UAV_1.jpg) \
 
 ### UAV photogrammetry for mapping and 3d modeling
 

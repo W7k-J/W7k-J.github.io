@@ -1,10 +1,10 @@
 ---
 layout: post  
-title: Muzem Apple Polska
+title: Muzeum Apple Polska
 date: 2022-05-26 12:00:00
 author: Julian
 ---
-![Zdjecie_1](/images/2022 05 28 Apple BW.jpg)
+![Muzeum Apple](/images/2022 05 28 Apple BW.jpg)
 
 <!--excerpt-->
 
@@ -21,9 +21,9 @@ For more information, visit:
 
 https://applemuzeumpolska.pl/
 
-[Zdjecie_1](/images/2022 05 28 Apple06.jpg)
-[Zdjecie_2](/images/2022 05 28 Apple05.jpg)
-[Zdjecie_3](/images/2022 05 28 Apple04.jpg)
-[Zdjecie_4](/images/2022 05 28 Apple03.jpg)
-[Zdjecie_5](/images/2022 05 28 Apple02.jpg)
-[Zdjecie_6](/images/2022 05 28 Apple01.jpg)
+![Zdjecie_1](/images/2022 05 28 Apple06.jpg)
+![Zdjecie_2](/images/2022 05 28 Apple05.jpg)
+![Zdjecie_3](/images/2022 05 28 Apple04.jpg)
+![Zdjecie_4](/images/2022 05 28 Apple03.jpg)
+![Zdjecie_5](/images/2022 05 28 Apple02.jpg)
+![Zdjecie_6](/images/2022 05 28 Apple01.jpg)
