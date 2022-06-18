@@ -6,11 +6,15 @@ permalink: /bim/
 
 ### BIM Coordination
 
+
 ### Revit Modeling
+
 
 ### Dynamo Scripts
 
+
 ### Python/C# Scripts 
+
 
 ### UAV photogrammetry for mapping and 3d modeling
 

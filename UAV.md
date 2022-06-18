@@ -6,18 +6,18 @@ permalink: /uav/
 
 ### UAV Photography:
 
-![Photo_1](/images/UAV_4.jpg) \
+![Photo_1](/images/UAV_4.jpg)  
+  
+![Photo_2](/images/UAV_3.jpg)  
+  
+![Photo_3](/images/UAV_2jpg)  
+  
+![Photo_4](/images/UAV_1.jpg)  
+  
+### UAV photogrammetry for mapping and 3d modeling  
 
-![Photo_2](/images/UAV_3.jpg) \
 
-![Photo_3](/images/UAV_2jpg) \
-
-![Photo_4](/images/UAV_1.jpg) 
-
-### UAV photogrammetry for mapping and 3d modeling
-
-
-### 360°
+### 360°  
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1655559604321!6m8!1m7!1sCAoSLEFGMVFpcFBpMU1LMjVOUTFoQXlOWDB1cE5EWEN0S0lJQzJ4YnFfd05ydnE0!2m2!1d50.0564117!2d19.928648!3f0!4f0!5f0.7820865974627469" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
