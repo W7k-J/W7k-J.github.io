@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Muzem Apple Polska
-date: 2021-12-22 14:00:00
+date: 2022-05-26 12:00:00
 author: Julian
 ---
 ![Zdjecie_1](/images/2022 05 28 Apple BW.jpg)
