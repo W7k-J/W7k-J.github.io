@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Dynamo Scripts - Assign Room Name To Ceiling
+title: Dynamo Script - Assign Room Names To The Ceilings Above
 date: 2022-06-18 12:00:00
 author: Julian
 ---
@@ -9,20 +9,22 @@ author: Julian
 <!--excerpt-->
 
 I’ve recently started using dynamo again more often which made me spend some time playing with it.   
-Today I ended up doing some learning material from <http://learndynamo.com/mod1/>  
+Today I ended up doing some learning material from <http://learndynamo.com/>  
 
-The whole course is super cool and long time ago I used exactly this script to solve a big task. It is allowing you to assign the number of the room below to the ceiling above. Cool thing often needed in Fit-Out projects.  
+The whole course is super cool and long time ago I used this script to solve a big task. It is allowing you to assign the number of the room below to the ceiling above. Cool thing often needed in Fit-Out projects.  
 
 I decided to take a deeper look on it and play a little with it.  
-Before continuing reading, please check Jeremy’s post about his script at:  
-<http://learndynamo.com/mod1/> 
+Before continuing reading, please check Jeremy’s post about his script at: 
+ 
+<http://learndynamo.com/mod1/>  
+
 His explanations are great!  
   
 So let’s go through the changes I did.
   
 ![Script with changes](/images/Dynamo/DS1/20220618_schemat.png)  
   
-###Adding exception to Python Code (1)  
+### Adding exception to Python Code (1)  
   
 A lot of people in the comments didn’t know why sometimes the script was not working. The problem is that in case of not finding the room below the ceiling python doesn’t know what to do. So it crashes.  
 Below is the solution to this problem (google: try and except in python). As you can see in case of not finding the room the script is adding “No Room” to the list instead. 
@@ -44,11 +46,11 @@ else:
     OUT = "Set toogle to True"
 ```
 
-###Filter out ceilings without rooms (2)
+### Filter out ceilings without rooms (2)
 
 I decided to filter out the ceilings to which script is unable to assign proper room number. I didn’t want it to later overwrite ceilings which were manually corrected.
 
-###Assign Room Name instead of Room Number (3)
+### Assign Room Name instead of Room Number (3)
 
 ![NumbersToNames](/images/Dynamo/DS1/20220618_schemat_3.png)
 
@@ -75,7 +77,7 @@ Probably you can do it smarter but I think it is fairly good trick:
 
 For each element (in list of numbers of rooms with ceilings above) it is looking for its index/position in list of rooms and it's assigning the name based on its index from the list of names.   
 
-###Parameter Name (4)
+### Parameter Name (4)
 
 Revit parameters should not contain mathematical operators (+, -, /, ) in names so I changed it from “CEILING-ROOM’ to “Ceiling_Room”. The reason behind it is that later you can’t use them easily in formulas.
 
