@@ -8,9 +8,9 @@ permalink: /uav/
 
 ![Photo_1](/images/UAV_4.jpg)  
   
-![Photo_2](/images/UAV_3.jpg)  
+![Photo_2](/images/UAV_3.JPG)  
   
-![Photo_3](/images/UAV_2.jpg)  
+![Photo_3](/images/UAV_2.JPG)  
   
 ![Photo_4](/images/UAV_1.jpg)  
   
