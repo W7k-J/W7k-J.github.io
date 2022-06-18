@@ -29,7 +29,7 @@ So let’s go through the changes I did.
 A lot of people in the comments didn’t know why sometimes the script was not working. The problem is that in case of not finding the room below the ceiling python doesn’t know what to do. So it crashes.  
 Below is the solution to this problem (google: try and except in python). As you can see in case of not finding the room the script is adding “No Room” to the list instead. 
 
-```
+```python
 if toggle == True:
     for point in points:
         try:
@@ -58,7 +58,7 @@ That’s probably the biggest change requested by many in the comments. At the b
 
 So, I ended up extending dynamo script and doing some python magic
 
-```
+```python
 L1 = IN[0]
 L2 = IN[1]
 L3 = IN[2]
