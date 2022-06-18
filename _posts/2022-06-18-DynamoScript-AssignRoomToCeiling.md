@@ -84,6 +84,6 @@ Revit parameters should not contain mathematical operators (+, -, /, ) in names 
 
 Please find the link to the script below:
 
-<https://w7kpl-my.sharepoint.com/:u:/g/personal/jw_w7k_pl/EQOmeh7hRjdMnCuI5K_HqGoBPi9Ey0smVrYpMXlEvga7Aw?e=VtWC8C>
+[download](https://w7kpl-my.sharepoint.com/:u:/g/personal/jw_w7k_pl/EQOmeh7hRjdMnCuI5K_HqGoBPi9Ey0smVrYpMXlEvga7Aw?e=VtWC8C)
 
 ![Script highres](/images/Dynamo/DS1/20220618_AssignRoomToCeiling.png)
