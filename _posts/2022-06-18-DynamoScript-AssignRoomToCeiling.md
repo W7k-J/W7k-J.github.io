@@ -34,60 +34,29 @@ Below is the solution to this problem (google: try and except in python). As you
 
 ```python
 if toggle == True:
-    for point in points:
-        try:
-            room = doc.GetRoomAtPoint(point.ToXyz())
-            lst.append(room.Number)
-        except:
-            lst.append("No Room")
+	for point in points:
+		try:
+			room = doc.GetRoomAtPoint(point.ToXyz())
+			lst.append(room.LookupParameter("Name").AsString())
+		except:
+			lst.append("No Room")
 
-    OUT = lst
-    
-else:
-    pass
-    
-    OUT = "Set toogle to True"
-
+	OUT = lst
 ```
   
   
-### Filter out ceilings without rooms (2)
+### Filter out ceilings without rooms (3)
   
   
 I decided to filter out the ceilings to which script is unable to assign proper room number. I didn’t want it to later overwrite ceilings which were manually corrected.
-
-![Filtering out ceilings without rooms](/images/Dynamo/DS1/20220618_schemat_2.png)  
   
   
 ### Assign Room Name instead of Room Number (3)
-  
-  
-![NumbersToNames](/images/Dynamo/DS1/20220618_schemat_3.png)
 
 That’s probably the biggest change requested by many in the comments. At the beginning I thought it should be quick change but apparently Iron Python has some problems with using room names.
 
-So, I ended up extending dynamo script and doing some python magic
-
-```python
-L1 = IN[0]
-L2 = IN[1]
-L3 = IN[2]
-
-L4=[]
-
-for element in L1:
-    for RoomNumber in L2:
-        if     element == RoomNumber:
-            ind = L2.index(RoomNumber)
-            L4.append(L3[ind])
-
-OUT = L4
-```
-  
-Probably you can do it smarter but I think it is fairly good trick: 
-
-For each element (in list of numbers of rooms with ceilings above) it is looking for its index/position in list of rooms and it's assigning the name based on its index from the list of names.   
-  
+You can access it by using .LookupParameter() and this is how I did it in the end. Of course you can also use dynamo to swich numbers into names - that was my first idea after having problems with "Room name".
+ 
   
 ### Parameter Name (4)
   
