@@ -35,7 +35,7 @@ Below is the solution to this problem (try and except). As you can see in case o
 
 That’s probably the biggest change requested by many in the comments. At the beginning I thought it should be quick change but apparently Iron Python has some problems with using room names.
 
-You can access it by using .LookupParameter() and this is how I did it in the end. Of course you can also use dynamo to swich numbers into names - that was my first idea after having problems with "Room name".
+You can access it by using .LookupParameter() and this is how I did it in the end. Of course you can also use dynamo to switch numbers into names - that was my first idea after having problems with "Room name".
 
 
 ```python
