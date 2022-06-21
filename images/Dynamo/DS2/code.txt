@@ -1,0 +1,38 @@
+import sys
+import clr
+clr.AddReference('ProtoGeometry')
+from Autodesk.DesignScript.Geometry import *
+
+dataEnteringNode = IN
+
+lst = IN[0]
+
+list_of_levels =[]
+for k in lst:
+    if "B1" in k:
+        list_of_levels.append('B1')
+    elif "GROUND FL" in k:
+        list_of_levels.append('GF')
+    elif "LEVEL 01"	in k:
+        list_of_levels.append("L01")	
+    elif "LEVEL 02"	in k:
+        list_of_levels.append("L02")
+    elif "LEVEL 03"	in k:
+        list_of_levels.append("L03")
+    elif  "LEVEL 04"	in k:
+        list_of_levels.append("L04-L07")
+    elif "LEVEL 08"	in k:
+        list_of_levels.append("L08")	        
+    elif "LEVEL 09"	in k:
+        list_of_levels.append("L09")		
+    elif "LEVEL 10"	in k:
+        list_of_levels.append("L10-L16")	
+    elif "LEVEL 17"	in k:
+        list_of_levels.append("L17")
+    elif "ROOF"	in k:
+        list_of_levels.append("Roof")
+    else:
+        list_of_levels.append("-")
+        
+
+OUT = list_of_levels
