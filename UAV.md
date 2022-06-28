@@ -10,11 +10,8 @@ permalink: /uav/
 ### UAV Photography:  
   
 ![Photo_1](/images/UAV_4.jpg)  
-  
 ![Photo_2](/images/UAV_3.JPG)  
-  
 ![Photo_3](/images/UAV_2.JPG)  
-  
 ![Photo_4](/images/UAV_1.jpg)  
   
 ### UAV photogrammetry for mapping and 3d modeling  
