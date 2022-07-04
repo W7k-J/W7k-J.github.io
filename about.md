@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
   
-![Me](/images/JW (Large).png)  
+![Me](/images/JWLarge.png)  
 
 My name is Julian Wandzilak. Here I will try to save my journey in AEC industry.  
 
