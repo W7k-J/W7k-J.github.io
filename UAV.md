@@ -5,7 +5,7 @@ permalink: /uav/
 ---
 ### I have flown for:  
   
-<work-in-progress>  
+work-in-progress  
   
 ### UAV Photography:  
   
