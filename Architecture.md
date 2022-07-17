@@ -5,7 +5,7 @@ permalink: /architecture/
 ---
 
 
-### Design Competions:
+### Design Competitions:
 
 [2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
   
