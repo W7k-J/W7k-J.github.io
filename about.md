@@ -6,9 +6,13 @@ permalink: /about/
   
 ![Me](/images/JWLarge.png)  
 
-My name is Julian Wandzilak. Here I will try to save my journey in AEC industry.  
+My name is Julian Wandzilak. I will try to save my journey here (not only in AEC industry).  
 
-I am interested in probably too many things like:  
+So I am an architect, designer, BIM coordinator with small but slowly growing knowledge of programming (Python, C++ and JS). Also I am a UAV pilot. And I do 3d models ;)
+
+I am probably interested in too many things but "specialisation is for insects..."
+
+Main areas:
 
 [Architecture](https://w7k.pl/architecture/)  
 [BIM](https://w7k.pl/bim/)  
@@ -19,9 +23,9 @@ and many more
   
 Bear in mind that everything here is under construction and probably will be as long as I am alive ;)  
   
-Don't hesitate to contact me if you need any help - especially with something cool!  
+Please don't hesitate to contact me if you need any help - especially with something cool!  
   
-### More Information
+### Business information 
 
 Julian Wandzilak W7k  
 NIP:  
