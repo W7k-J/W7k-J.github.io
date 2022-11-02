@@ -7,9 +7,11 @@ permalink: /architecture/
 
 ### Design Competitions:
 
+[2020 Zespół Szkolno-Przedszkolny przy ulicy Cynamonowej, Wrocław]https://w7k.pl/Szkola-Cynamonowa/
+
 [2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
   
-[2021 Plac Kossaka](https://w7k.pl/Plac-Kossaka-w-Krakowie/)  
+[2021 Plac Kossaka, Kraków](https://w7k.pl/Plac-Kossaka-w-Krakowie/)  
 
 ### Architectural Projects:  
   
