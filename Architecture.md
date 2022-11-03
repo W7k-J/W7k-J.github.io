@@ -7,7 +7,7 @@ permalink: /architecture/
 
 ### Design Competitions:
 
-[2020 Zespół Szkolno-Przedszkolny przy ulicy Cynamonowej, Wrocław]https://w7k.pl/Szkola-Cynamonowa/
+[2020 Zespół Szkolno-Przedszkolny przy ulicy Cynamonowej, Wrocław](https://w7k.pl/Szkola-Cynamonowa/)
 
 [2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
   
