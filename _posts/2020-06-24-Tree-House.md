@@ -10,7 +10,7 @@ author: Julian
 
 My vision of a Tree House Module for YAC competition. 
 
-![Plansza_1](/images/2020 W7K Treehouse/Cover_31560_THM.png)
+![Plansza_1](/images/2020 W7K Treehouse/A1_31560_THM.png)
 ![View_3d_Close](/images/2020 W7K Treehouse/1close.png)
 ![View_3d_Open](/images/2020 W7K Treehouse/1open.png)
 
