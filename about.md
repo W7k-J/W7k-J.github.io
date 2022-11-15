@@ -15,8 +15,9 @@ I am probably interested in too many things but "specialisation is for insects..
 Main areas:
 
 [Architecture](https://w7k.pl/architecture/)  
-[BIM](https://w7k.pl/bim/)  
-Programming  
+[BIM](https://w7k.pl/bim/)
+[Graphic Design](https://w7k.pl/gd/)  
+[Programming](https://w7k.pl/programming/)    
 [UAV](https://w7k.pl/uav/)  
 [VR](https://w7k.pl/vr/)  
 and many more  
