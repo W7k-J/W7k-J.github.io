@@ -7,6 +7,8 @@ permalink: /architecture/
 
 ### Design Competitions:
 
+[2020 Tree House Module](https://w7k.pl/Tree-House/)
+
 [2020 Zespół Szkolno-Przedszkolny przy ulicy Cynamonowej, Wrocław](https://w7k.pl/Szkola-Cynamonowa/)
 
 [2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
@@ -15,7 +17,7 @@ permalink: /architecture/
 
 ### Architectural Projects:  
   
-[2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)  
+[2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)
   
   
 ### Other:
