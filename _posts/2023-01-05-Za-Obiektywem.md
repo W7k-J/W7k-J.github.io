@@ -32,9 +32,7 @@ For more information, visit:
 <br>
 ![Photo_2](/images/2023 UAV_ZaObiektywem/Szczepanski_0744.JPG)    
 <br>
-![Photo_3](/images/2023 UAV_ZaObiektywem/Szczepanski_0751.JPG)    
+![Photo_3](/images/2023 UAV_ZaObiektywem/Szczepanski_0755.JPG)  
 <br>
-![Photo_4](/images/2023 UAV_ZaObiektywem/Szczepanski_0755.JPG)  
-<br>
-![Photo_5](/images/2023 UAV_ZaObiektywem/Szczepanski_0760.JPG)  
+![Photo_4](/images/2023 UAV_ZaObiektywem/Szczepanski_0760.JPG)  
 
