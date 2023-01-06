@@ -8,10 +8,6 @@ author: Julian
 
 <!--excerpt-->
 
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
 <div>
 Once again, I managed to involve myself in something cool. As some of you know, in the last couple of years, I have taken a number of aerial photos from my UAV. Most of the time they were somehow connected with architecture or construction. My photos have been used in CGIs, building evaluations, photogrammetry models, or promotional materials of different companies.
 

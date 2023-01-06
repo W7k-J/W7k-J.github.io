@@ -23,6 +23,11 @@ body {
   color: $darkGray;
 }
 
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 .container {
   margin: 0 auto;
   max-width: 1000px;
