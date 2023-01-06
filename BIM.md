@@ -9,8 +9,8 @@ permalink: /bim/
 [2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
 
 ### Revit Modeling
-[BIMsmith Winter Wonderland Holiday Revit Family Competition - 1st Place](https://w7k.pl/BIMSmith-Winter/)
-
+[BIMsmith Winter Wonderland Holiday Revit Family Competition 2021 - 1st Place](https://w7k.pl/BIMSmith-Winter/)
+[BIMsmith Winter Wonderland Holiday Revit Family Competition 2022](https://w7k.pl/BIMSmith-Winter2022/)
 
 ### Dynamo Scripts
 
