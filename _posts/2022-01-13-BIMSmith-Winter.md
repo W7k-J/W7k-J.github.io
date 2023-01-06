@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: BIMsmith Winter Wonderland Holiday Revit Family Competition 
+title: BIMsmith Winter Wonderland Holiday Revit Family Competition 2021
 date: 2022-01-13 14:00:00
 author: Julian
 ---
