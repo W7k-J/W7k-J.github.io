@@ -4,7 +4,7 @@ title: Muzeum Apple Polska
 date: 2022-05-26 12:00:00
 author: Julian
 ---
-![Muzeum Apple](/images/20220528_Apple_BW.png)
+![Muzeum Apple](/images/20220528_Apple.jpg)
 
 <!--excerpt-->
 

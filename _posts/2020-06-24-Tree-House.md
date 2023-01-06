@@ -4,7 +4,7 @@ title: Tree House Module
 date: 2020-06-24 14:00:00
 author: Julian
 ---
-![Cover](/images/2020 W7K Treehouse/Cover_31560_THM.png)
+![Cover](/images/2020 W7K Treehouse/Cover_31560_THM.jpg)
 
 <!--excerpt-->
 

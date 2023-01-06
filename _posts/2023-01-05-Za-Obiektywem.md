@@ -23,7 +23,9 @@ For more information, visit:
 
 <https://ank.gov.pl/13629/>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i9cHwtJcMdU" title="Plac Szczepański 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="container">
+<iframe src="https://www.youtube.com/embed/i9cHwtJcMdU" title="Plac Szczepański 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <br>  
 ![Photo_1](/images/2023 UAV_ZaObiektywem/Szczepanski_0715.JPG)  
