@@ -12,7 +12,7 @@ permalink: /uav/
 
 work-in-progress  
 
-## What I can offer:
+## What I do:
 ### UAV Photography:  
   
 ![Photo_1](/images/UAV_4.jpg)  
