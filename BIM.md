@@ -6,6 +6,7 @@ permalink: /bim/
 
 ### BIM Coordination
 
+[2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
 
 ### Revit Modeling
 [BIMsmith Winter Wonderland Holiday Revit Family Competition - 1st Place](https://w7k.pl/BIMSmith-Winter/)

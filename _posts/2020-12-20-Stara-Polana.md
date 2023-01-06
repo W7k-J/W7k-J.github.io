@@ -8,17 +8,21 @@ author: Julian
 
 <!--excerpt-->
 
-We were asked by Cracow University of Technology to convert a heritage-listed building into a hotel. It was the first project in BIM for Cracow University of Technology. The goal was to minimalise the problems by using laser scans and making design documentation in BIM software (in our case it was Revit, but contracting party allowed also ArchiCAD).
+We were asked by Cracow University of Technology to convert a heritage-listed building into a hotel. It was the first project in BIM for Cracow University of Technology. The main goal was to minimalise the problems by using laser scans and making design documentation in BIM software (in our case it was Revit, but contracting party allowed also ArchiCAD).
 
 We were responisble for making survey drawings, a planning application and construction drawings.
-
-Work for Pracownia Inżynierska.  
+  
+  
+  
+Work done for Pracownia Inżynierska.  
 
 Design Team: Bartosz Hodurek, Mirosław Stępień, Julian Wandzilak 
 
-Project Status: Planning Aplication Approved, Contractor Selected
-Project Area: approx. 700 sq m
-Project Value: approx. 6 million PLN
+Project Status: Planning Aplication Approved, Contractor Selected  
+
+Project Area: approx. 700 sq m  
+
+Project Value: approx. 6 million PLN  
 
 Views from the model below:
 
