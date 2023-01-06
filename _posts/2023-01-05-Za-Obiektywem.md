@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: How did I end up in the publication with photos of photographers from the first half of the 20th century?
+title: How did I end up in a publication with photos of photographers from the first half of the 20th century?
 date: 2023-01-05 12:00:00
 author: Julian
 ---
