@@ -3,10 +3,16 @@ layout: page
 title: UAV
 permalink: /uav/
 ---
+
+### Some of my works work below:
+
+[2022 Plan Szczepański 2 for MuFo & National Archive in Krakow](https://w7k.pl/Za-Obiektywem/)
+
 ### I have flown for:  
-  
+
 work-in-progress  
-  
+
+## What I can offer:
 ### UAV Photography:  
   
 ![Photo_1](/images/UAV_4.jpg)  

@@ -28,9 +28,11 @@ For more information, visit:
 
 <https://ank.gov.pl/13629/>  
 
-<div class="container">
+Video and some other photos from this job below:
+
+
 <iframe src="https://www.youtube.com/embed/i9cHwtJcMdU" title="Plac Szczepański 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+
 
 <br>  
 ![Photo_1](/images/2023 UAV_ZaObiektywem/Szczepanski_0715.JPG)  
