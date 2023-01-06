@@ -31,7 +31,7 @@ For more information, visit:
 Video and some other photos from this job below:
 
 
-<iframe src="https://www.youtube.com/embed/i9cHwtJcMdU" title="Plac Szczepański 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1000" height="auto" src="https://www.youtube.com/embed/i9cHwtJcMdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <br>  
