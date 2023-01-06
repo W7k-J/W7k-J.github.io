@@ -31,7 +31,7 @@ For more information, visit:
 Video and some other photos from this job below:
 
 
-<iframe width="1000" height="auto" src="https://www.youtube.com/embed/i9cHwtJcMdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1000" height="500" src="https://www.youtube.com/embed/i9cHwtJcMdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <br>  
