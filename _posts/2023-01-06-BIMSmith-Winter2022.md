@@ -8,7 +8,9 @@ author: Julian
 
 <!--excerpt-->
 
-Please find my submission for BIM Smith Holiday Revit Family Competition. It is an important event because there are no other Revit modeling competitions out there!
+Ok, I won again this year ;)  
+
+You may find my submission for BIM Smith Holiday Revit Family Competition below. It is an important event because there are no other Revit modeling competitions out there!
 
 And competitions are important!
 
@@ -21,7 +23,9 @@ For the entry I decided to make a simple wrapping family with a limited number o
 
 For more information, visit:
 
-https://blog.bimsmith.com/Here-are-the-Semifinalists-for-the-2022-BIMsmith-Winter-Wonderland-Holiday-Revit-Family-Competition
+[About competition](https://blog.bimsmith.com/Here-are-the-Semifinalists-for-the-2022-BIMsmith-Winter-Wonderland-Holiday-Revit-Family-Competition)
+  
+[Winners!](https://blog.bimsmith.com/Introducing-the-Winners-for-the-2022-BIMsmith-Winter-Wonderland-Holiday-Revit-Family-Competition)
 
 Animation below:
 
