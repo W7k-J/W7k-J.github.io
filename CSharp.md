@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C#
+title: c#
 permalink: /csharp/
 ---
 
