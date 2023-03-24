@@ -1,6 +1,6 @@
 ---
 layout: page
-title: w7kTools Understand JSON Format 
+title: Understand JSON Format and how to use with W7k tools!
 permalink: /w7kTools/JSON
 ---
 
