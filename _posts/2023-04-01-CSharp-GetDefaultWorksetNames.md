@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: C# - GetDefaultWorksetNames Method
+title: C# - Method GetDefaultWorksetNames
 date: 2023-04-01 12:00:00
 author: Julian
 ---
@@ -12,10 +12,8 @@ author: Julian
 My code end up in the github of Jeremy Tammik, The building coder!  
 
 [Link](https://github.com/jeremytammik/the_building_coder_samples/blob/master/BuildingCoder/Util.cs#L2144-L2238)
-  
-# Method GetDefaultWorksetNames  
 
-It is a default language checker which comes back with names for both default worksets. 
+It is a default language checker which comes back with names for both default worksets - Workset1 and Level And Grids.   
 
 ```csharp 
 // Shared by Julian Wandzilak in the Revit API discussion thread
