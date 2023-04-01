@@ -28,6 +28,13 @@ body {
   text-justify: inter-word;
 }
 
+.markdown-body {
+  --md-code-background: #e3dcef;
+  --md-code-text: default;
+  --md-code-tabs: #363636;
+  --md-code-radius: 4px;
+}
+
 .container {
   margin: 0 auto;
   max-width: 1000px;
