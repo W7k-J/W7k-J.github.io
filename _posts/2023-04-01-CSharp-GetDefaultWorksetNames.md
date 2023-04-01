@@ -17,7 +17,8 @@ My code end up in the github of Jeremy Tammik, The building coder!
 
 It is a default language checker which comes back with names for both default worksets. 
 
-```c#
+```{ .c# }
+
 // Shared by Julian Wandzilak in the Revit API discussion thread
 // https://forums.autodesk.com/t5/revit-api-forum/doc-enableworksharing-amp-language-versions/m-p/11845252#M70159
 /// <summary>
