@@ -118,7 +118,7 @@ bool GetDefaultWorksetNames(
  
 
 There are some interesting findings in it. Firstly, we have two langagueType (hungarian and dutch) in Revit API. I couldn't find them in language help.
-https://help.autodesk.com/view/RVT/2023/ENU/?guid=GUID-BD09C1B4-5520-475D-BE7E-773642EEBD6C
+[Link to help](https://help.autodesk.com/view/RVT/2023/ENU/?guid=GUID-BD09C1B4-5520-475D-BE7E-773642EEBD6C)
 
 I assumed that those language versions are being developed, so for now I commented them out in the code.
 
