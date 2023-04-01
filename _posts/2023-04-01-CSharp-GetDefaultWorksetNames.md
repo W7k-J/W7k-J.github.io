@@ -17,7 +17,8 @@ My code end up in the github of Jeremy Tammik, The building coder!
 
 It is a default language checker which comes back with names for both default worksets. 
 
-<code class="language-c#">
+```C#
+
 // Shared by Julian Wandzilak in the Revit API discussion thread
 // https://forums.autodesk.com/t5/revit-api-forum/doc-enableworksharing-amp-language-versions/m-p/11845252#M70159
 /// <summary>
@@ -111,7 +112,7 @@ bool GetDefaultWorksetNames(
     }
     return 0 < wsnLevelsAndGrids.Length;
 }
-</code class="language-c#">
+```
   
   There is an "Unknown type" - I didn't know if I should add it (default in a switch would cover it). In the end, I left it in the code. What should we do to get this type from revit api? 
 
