@@ -1,7 +1,7 @@
 ---
 layout: page
-title: c#
-permalink: /csharp/
+title: code
+permalink: /code/
 ---
 
 Work in progress 
