@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
-  //color: $darkGray;
+  color: $darkGray;
 }
 
 .just {
@@ -52,7 +52,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  //color: $darkerGray;
+  color: $darkerGray;
   font-weight: normal;
 
   line-height: 1.7;
@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    //color: inherit;
+    color: inherit;
   }
 }
 
@@ -81,7 +81,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  //color: $gray;
+  color: $gray;
 }
 
 p {
@@ -137,16 +137,16 @@ img {
 
 .date {
   font-style: italic;
-  //color: $gray;
+  color: $gray;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  //color: $black;
+  color: $black;
   background: $lightGray;
 }
 ::selection {
-  //color: $black;
+  color: $black;
   background: $lightGray;
 }
 
