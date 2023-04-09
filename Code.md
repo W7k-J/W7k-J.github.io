@@ -1,10 +1,12 @@
 ---
 layout: page
-title: code
+title: My Code and everything related to Programming
 permalink: /code/
 ---
 
-## Programming for AEC (Dynamo, Revit API, C#, Python)
+## Programming for AEC
+
+WIP 
 
 ### Dynamo Scripts
 
@@ -14,7 +16,7 @@ permalink: /code/
 
 ### Python Revit Tools
 
-### C# Code
+### C# Scripts
 
 [Method GetDefaultWorksetNames](https://w7k.pl/CSharp-GetDefaultWorksetNames/)  
 

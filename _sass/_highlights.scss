@@ -1,12 +1,12 @@
 
 .highlight {
   background-color: #1e1e1e;
-  padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
+  padding: 0px 0px 0px 0px;
+  border: 1px solid #1e1e1e;
   -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
   -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
-  margin: 20px 0 20px 0;
+  margin: 0px 0 0px 0;
   overflow: scroll;
 }
 
@@ -24,10 +24,10 @@ code {
 .highlight .n { color: #f8f8f2 } /* Name */
 .highlight .o { color: #f92672 } /* Operator */
 .highlight .p { color: #f8f8f2 } /* Punctuation */
-.highlight .cm { color: #75715e } /* Comment.Multiline */
-.highlight .cp { color: #75715e } /* Comment.Preproc */
-.highlight .c1 { color: #75715e } /* Comment.Single */
-.highlight .cs { color: #75715e } /* Comment.Special */
+.highlight .cm { color: #54a13c } /* Comment.Multiline */
+.highlight .cp { color: #54a13c } /* Comment.Preproc */
+.highlight .c1 { color: #54a13c } /* Comment.Single */
+.highlight .cs { color: #54a13c } /* Comment.Special */
 .highlight .ge { font-style: italic } /* Generic.Emph */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
 .highlight .kc { color: #66d9ef } /* Keyword.Constant */
