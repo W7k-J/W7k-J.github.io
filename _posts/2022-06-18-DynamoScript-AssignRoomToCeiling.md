@@ -38,7 +38,7 @@ That’s probably the biggest change requested by many in the comments. At the b
 You can access it by using .LookupParameter() and this is how I did it in the end. Of course you can also use dynamo to switch numbers into names - that was my first idea after having problems with "Room name".
 
 
-```python
+```Py
 if toggle == True:
 	for point in points:
 		try:
