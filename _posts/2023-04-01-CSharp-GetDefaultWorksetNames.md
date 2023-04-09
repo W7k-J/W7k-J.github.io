@@ -15,6 +15,25 @@ My code end up in the github of Jeremy Tammik, The building coder!
 
 It is a default language checker which comes back with names for both default worksets - Workset1 and Level And Grids.   
 
+```c#
+bool GetDefaultWorksetNames(
+    string sLanguage,
+    out string wsnLevelsAndGrids,
+    out string wsnWorkset1)
+```
+test
+
+```
+bool GetDefaultWorksetNames(
+    string sLanguage,
+    out string wsnLevelsAndGrids,
+    out string wsnWorkset1)
+```
+
+test
+
+
+
 ```csharp 
 // Shared by Julian Wandzilak in the Revit API discussion thread
 // https://forums.autodesk.com/t5/revit-api-forum/doc-enableworksharing-amp-language-versions/m-p/11845252#M70159
