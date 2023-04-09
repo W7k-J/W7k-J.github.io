@@ -29,12 +29,14 @@ body {
   text-justify: inter-word;
 }
 
+/*
 .markdown-body {
   --md-code-background: #e3dcef;
   --md-code-text: default;
   --md-code-tabs: #363636;
   --md-code-radius: 4px;
 }
+*/
 
 .container {
   margin: 0 auto;
@@ -275,8 +277,12 @@ nav {
 
 .post {
   blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
     font-size: 22px;
-    font-style: bold;
+    font-style: italic;
   }
 
   .comments {
