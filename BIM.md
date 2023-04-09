@@ -4,6 +4,8 @@ title: BIM
 permalink: /bim/
 ---
 
+## Projects
+
 ### BIM Coordination
 
 [2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
@@ -13,20 +15,14 @@ permalink: /bim/
 
 [BIMsmith Winter Wonderland Holiday Revit Family Competition 2022 - 1st Place](https://w7k.pl/BIMSmith-Winter2022/)
 
-### Dynamo Scripts
+### Programming for AEC (Dynamo, Revit API, C#, Python)
 
-[Assign Room Names To The Ceilings Above](https://w7k.pl/DynamoScript-AssignRoomToCeiling/)
-
-### Python Scripts
-
-### Python Revit Tools
-
-### C# Scripts 
-
-[Method GetDefaultWorksetNames](https://w7k.pl/CSharp-GetDefaultWorksetNames/)  
-
-### C# Revit Tools
+[more info -> Code](https://w7k.pl/cdoe/)
 
 ### UAV photogrammetry for mapping and 3d modeling
 
 [more info -> UAV](https://w7k.pl/uav/)
+
+## Knowledge 
+
+WIP

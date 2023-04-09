@@ -4,6 +4,7 @@ title: Architecture
 permalink: /architecture/
 ---
 
+## Projects 
 
 ### Design Competitions:
 
@@ -27,3 +28,6 @@ permalink: /architecture/
 
 [2021 Ikony motoryzacji, an exhibion in Fabryka Norblina](https://w7k.pl/Ikony-Motoryzacji/)  
 
+## Knowledge 
+
+WIP
