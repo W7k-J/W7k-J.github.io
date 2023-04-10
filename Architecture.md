@@ -8,25 +8,46 @@ permalink: /architecture/
 
 ### Design Competitions:
 
-[2020 Tree House Module](https://w7k.pl/Tree-House/)
+[2021 Plac Kossaka, Kraków](https://w7k.pl/Plac-Kossaka-w-Krakowie/)  
+
+[2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
+
 
 [2020 Zespół Szkolno-Przedszkolny przy ulicy Cynamonowej, Wrocław](https://w7k.pl/Szkola-Cynamonowa/)
 
-[2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
-  
-[2021 Plac Kossaka, Kraków](https://w7k.pl/Plac-Kossaka-w-Krakowie/)  
+[2020 Tree House Module](https://w7k.pl/Tree-House/)
 
 ### Architectural Projects:  
 
-[2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
-  
+[2022 Horisont, Norway](https://w7k.pl/Horisont/)
+
 [2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)
   
-[2022 Horisont, Norway](https://w7k.pl/Horisont/)
+Extension of the existing hospital with a new building (7500 m²) including Emergency department, ICU,
+sterile department, and operating block – with T.Zawisza, A.Zaboklicki & A.Wąś
+
+[2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
+
+Co-working space in Warsaw (heritage-listed building, 500 m²) – with B.Hodurek
+Concept design and design development
+
+60 Curzon Street (£600m High-end residential project - Fit-Out) 
+Revit lead, BIM coordination and drawing packages from design development to construction stage. During my time at Darling Associates)
+
+Audley Square House (£2b High-end residential project - Fit-Out and Shell&Core)
+Revit lead, BIM coordination, drawing packages from design development to tender stage. During my time at Darling Associates)
+
+Fontanna na Służewcu, Warsaw (heritage-listed park layout - planning application) Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek
+
+Design support on several private and social housing schemes (Planning application, Tender, Construction
+stages). During my time at Buttress Architects
+
   
 ### Other:
 
 [2021 Ikony motoryzacji, an exhibion in Fabryka Norblina](https://w7k.pl/Ikony-Motoryzacji/)  
+
+Bang&Olufsen in Norblin Factory, Warsaw (space layout)
 
 ## Knowledge 
 
