@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Horisont, Norway
+title: Horisont Bygg A, Norway
 date: 2023-02-10 12:00:00
 author: Julian
 ---

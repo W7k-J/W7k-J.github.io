@@ -12,19 +12,21 @@ permalink: /architecture/
 
 [2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
 
-
 [2020 Zespół Szkolno-Przedszkolny przy ulicy Cynamonowej, Wrocław](https://w7k.pl/Szkola-Cynamonowa/)
 
 [2020 Tree House Module](https://w7k.pl/Tree-House/)
 
 ### Architectural Projects:  
 
-[2022 Horisont, Norway](https://w7k.pl/Horisont/)
+2023 Horisont Bygg B & C, Norway
+
+[2022 Horisont Bygg A, Norway](https://w7k.pl/Horisont/)
+
 
 [2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)
   
 Extension of the existing hospital with a new building (7500 m²) including Emergency department, ICU,
-sterile department, and operating block – with T.Zawisza, A.Zaboklicki & A.Wąś
+sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki & D.Zając. 
 
 [2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
 
@@ -48,6 +50,9 @@ stages). During my time at Buttress Architects
 [2021 Ikony motoryzacji, an exhibion in Fabryka Norblina](https://w7k.pl/Ikony-Motoryzacji/)  
 
 Bang&Olufsen in Norblin Factory, Warsaw (space layout)
+
+### Student works :
+
 
 ## Knowledge 
 
