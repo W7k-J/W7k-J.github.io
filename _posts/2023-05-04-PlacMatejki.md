@@ -12,4 +12,4 @@ author: Julian
 I quick test I did using my DJI and Reality Capture.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i5vvm8kygQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1000" height="562" src="https://www.youtube.com/embed/i5vvm8kygQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
