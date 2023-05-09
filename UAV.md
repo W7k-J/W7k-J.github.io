@@ -22,7 +22,10 @@ work-in-progress
   
 ### UAV photogrammetry for mapping and 3d modeling  
   
-work-in-progress  
+<iframe width="1000" height="562" src="https://www.youtube.com/embed/i5vvm8kygQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[2023 Plan Matejki](https://w7k.pl/PlacMatejki/)
+
   
 ### 360°  
   
