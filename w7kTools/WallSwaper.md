@@ -10,11 +10,11 @@ The purpose of this tool is to allow user to create shortcuts for <strong>Locati
 
 ## How to use it
 
-The tool is super easy to use. Simply set your preferred shortcuts combination in your Revit <b> Keyboard Shortcuts Settings </b>.
+The tool is super easy to use. Simply set your preferred shortcuts combination in your Revit <b> Keyboard Shortcuts Settings</b>.
 
 ### SHORTCUTS WE ARE USING:  
   
-| <b>  Icon   </b> | <b>Location Line  </b> | <b>   Shortcut</b> |
+| <b>    Icon    </b> | <b>Location Line  </b> | <b>&nbsp &nbsp &nbsp Shortcut</b> |
 | :---: | :--- | ---: |
 |![Finish Face Exterior](/images/Tools/WallSwap/WallSwapWE.png)   | Finish Face Exterior | W1 |
 |![Core Face Exterior](/images/Tools/WallSwap/WallSwapCE.png)   | Core Face Exterior | W2 |
