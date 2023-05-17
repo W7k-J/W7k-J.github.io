@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wall Swap
+title: Wall Location Line
 permalink: /tools/WallSwap
 ---
 
@@ -23,15 +23,7 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 |![Core Face: Interior](/images/Tools/WallSwap/WallSwapCI.png)   | Core Face: Interior | W5 |
 |![Finish Face: Interior](/images/Tools/WallSwap/WallSwapWI.png)   | Finish Face: Interior | W6 |
 
-
-
 ## Video
 
-
-
+***
 [Disclaimers, Policies, Terms & Conditions ](https://w7k.pl/terms/)
-
-
-<div style="text-align:center">
-  <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
-</div>
