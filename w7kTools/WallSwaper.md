@@ -26,7 +26,6 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 
 
 ## Video
-<iframe width=100% height=width src="https://www.youtube.com/embed/i5vvm8kygQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
