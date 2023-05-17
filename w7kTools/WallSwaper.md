@@ -6,7 +6,7 @@ permalink: /tools/WallSwap
 
 ![WallSwapIcon](/images/Tools/WallSwap/WallSwap.png)
 
-The purpose of this tool is to allow user to create shortcuts for <strong>Location Line </strong>. In my personal experience (and from discussions with many fellow Revit Users) changing location line of a wall easily breaks the person from the flow of your work.  
+The purpose of this tool is to allow user to create shortcuts for <strong>Location Line</strong>. In my personal experience (and from discussions with many fellow Revit Users) changing location line of a wall easily breaks the person from the flow of your work.  
 
 ## How to use it
 
@@ -26,7 +26,7 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 
 
 ## Video
-<iframe width=100% height=560vw src="https://www.youtube.com/embed/i5vvm8kygQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width=100% height=width src="https://www.youtube.com/embed/i5vvm8kygQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
