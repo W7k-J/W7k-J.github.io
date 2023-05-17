@@ -12,9 +12,9 @@ The purpose of this tool is to allow user to create shortcuts for <strong>Locati
 
 The tool is super easy to use. Simply set your preferred shortcuts combination in your Revit <b> Keyboard Shortcuts Settings <b/>.
 
-#### SHORTCUTS WE ARE USING:  
+### SHORTCUTS WE ARE USING:  
   
-| Icon | Location Line | Shortcut |
+| **Icon   ** | **Location Line** | **Shortcut** |
 | :--- | :--- | ---: |
 |![Finish Face Exterior](/images/Tools/WallSwap/WallSwapWE.png)   | Finish Face Exterior | W1 |
 |![Core Face Exterior](/images/Tools/WallSwap/WallSwapCE.png)   | Core Face Exterior | W2 |
@@ -25,11 +25,14 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 
 ## Video
 
-<iframe width=100% height=width src="https://www.youtube.com/embed/i5vvm8kygQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/i5vvm8kygQ4" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
 
 ***
 <div style="text-align:center">
   <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
-
-[Disclaimers, Policies, Terms & Conditions ](https://w7k.pl/terms/)
