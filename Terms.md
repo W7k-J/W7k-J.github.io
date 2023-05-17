@@ -26,7 +26,7 @@ If it is not stated that materials are free to use please contact me before usin
 
 ### Use of the revit tools
 
-All Revit API add-ons are experimental in nature. Those applications are provided “as is” with no warranty of any kind and you use the applications at your own risk. 
+All Revit API add-ons are experimental in nature. Those applications are provided "as is" with no warranty of any kind and you use the applications at your own risk. 
 
 That said the tools were thoroughly tested. If you see any problems please [contact Us](mailto:apps@w7k.pl) and we will try to help as soon as possible! 
 
