@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Level Changer
-permalink: /w7kTools/LevelChanger
+permalink: /tools/LevelChanger
 ---
 
 ### change level
