@@ -7,8 +7,11 @@ permalink: /about/
 ![Me](/images/JWLarge.png)  
 
 My name is Julian Wandzilak and I will try to save my professional journey here. You can expect to see posts mostly about things which I am doing right now, but with some extra time I hope to add some about my past projects. And it won’t be only about AEC industry.   
+  
 So, at the beginning a few worlds about me. I am an architect, designer, BIM coordinator with a slowly growing knowledge of programming (Python, C++, C# and JS). I gained my professional experience working in the UK (London, Manchester), USA (Chicago) and Poland (Kraków). I was also involved in architectural projects in Australia and Norway. 
-During my professional life I was involved in preparing masterplans, factories, healthcare projects, education, high-end residential projects, high-rise buildings (residential & student), interiors for museum, extensions and refurbishment of heritage-listed projects and small houses. Lately I did some concepts for playgrounds… 
+  
+During my professional life I have been involved in preparing masterplans, factories, healthcare projects, education, high-end residential projects, high-rise buildings (residential & student), interiors for a museum, extensions and refurbishment of heritage-listed projects and small houses. Lately I did some concepts for playgrounds… 
+  
 Also, I am a UAV pilot and photographer. And I do 3d models, 2d & 3d graphic design ;) And I am probably interested in too many things but "specialisation is for insects..."
 
 
