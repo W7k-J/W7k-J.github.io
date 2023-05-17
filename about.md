@@ -39,3 +39,8 @@ ul. św. Jana 9/6, 31-017, Kraków, Polska
 ### Contact me
 
 jw@w7k.pl
+
+
+<div style="text-align:center">
+  <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
