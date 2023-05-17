@@ -4,9 +4,6 @@ title: Disclaimers, Policies, Terms & Conditions
 permalink: /Terms/
 ---
 
-
-
-
 ### Use of Autodesk registered trademark
 
 This website is independent of Autodesk, Inc. and is not sponsored, endorsed, or affiliated with, Autodesk, Inc. Autodesk Revit is a product that is wholly owned by Autodesk. Any reference to Revit on this site is made acknowledging this ownership. Refer to Autodesk's own website and product pages for specific trademark and copyright information. Please visit www.autodesk.com to buy Revit or to get more information. 
