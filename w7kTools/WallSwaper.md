@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wall Location Line
-permalink: /tools/WallSwap
+permalink: /tools/wallswap
 ---
 
 ![WallSwapIcon](/images/Tools/WallSwap/WallSwap.png)
@@ -12,10 +12,10 @@ The purpose of this tool is to allow user to create shortcuts for <strong>Locati
 
 The tool is super easy to use. Simply set your preferred shortcuts combination in your Revit <b> Keyboard Shortcuts Settings</b>.
 
-### SHORTCUTS WE ARE USING:  
+## Shortcuts we are using:  
   
-| <b>    Icon    </b> | <b>Location Line  </b> | <b>&nbsp &nbsp &nbsp Shortcut</b> |
-| :---: | :--- | ---: |
+| <b>Icon       </b> | <b>Location Line</b> | <b>         Shortcut</b> |
+| :--- | :--- | ---: |
 |![Finish Face Exterior](/images/Tools/WallSwap/WallSwapWE.png)   | Finish Face Exterior | W1 |
 |![Core Face Exterior](/images/Tools/WallSwap/WallSwapCE.png)   | Core Face Exterior | W2 |
 |![Wall Centerline](/images/Tools/WallSwap/WallSwapWC.png)   | Wall Centerline | W3|
@@ -32,7 +32,8 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
   </div>
 </div>
 
-***
+
+  
 <div style="text-align:center">
   <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>

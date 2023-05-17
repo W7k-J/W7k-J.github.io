@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Disclaimers, Policies, Terms & Conditions 
-permalink: /Terms/
+permalink: /terms/
 ---
 
 ### Use of Autodesk registered trademark
