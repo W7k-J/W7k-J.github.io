@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Level Changer
-permalink: /tools/LevelChanger
+permalink: /tools/levelchanger
 ---
 
 ![MainTab](/maIge/Tools/LevelChanger/LevelChangerTab.png)
