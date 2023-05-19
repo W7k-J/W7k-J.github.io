@@ -25,9 +25,12 @@ permalink: /architecture/
 
 [2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)
   
-Extension of the existing hospital with a new building (7500 m²) including Emergency department, ICU,
+Concept design of an new building connected with exisiting hospital (7500 m²) including Emergency department, ICU,
+sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki. 
+  
+Concept design of a superstructure and refurbishment of an existing hospital (4500 m²) including Emergency department, ICU,
 sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki & D.Zając. 
-
+  
 [2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
 
 Co-working space in Warsaw (heritage-listed building, 500 m²) – with B.Hodurek
