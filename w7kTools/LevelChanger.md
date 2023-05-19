@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: toolspage
 title: Level Changer
 permalink: /tools/levelchanger
 ---
@@ -51,7 +51,7 @@ The tool will automatically change the reference level to one above currently se
 The levels will be calculated separately for all selected elements.
 
 <i>For example  
-if you have a floor on level 1 it will change its reference to level 2 and its offset to 3000 mm. </i>
+if you have a floor on level 1 it will change its reference to level 2 and its offset to -3000 mm. </i>
 
 
 ### Set level to the one below currently selected 
@@ -60,7 +60,7 @@ The tool will automatically change the reference level to one above currently se
 The levels will be calculated separately for all selected elements.
 
 <i>For example:  
-if you have a floor on level 2 it will change its reference to level 1 and its offset to - 3000 mm. </i>
+if you have a floor on level 2 it will change its reference to level 1 and its offset to 3000 mm. </i>
 
 ## Levels - Objects With One Reference
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
@@ -109,13 +109,13 @@ Experimental! Courtain Windows
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
-  
-  
+<br>
+<br>
 <div style="text-align:center">
-  <a href="https://w7k.pl/tools/">Go Back to tools</a>
+    <a href="https://w7k.pl/tools/">Go Back to tools</a>
 </div>
-  
-  
+<br>
+<br>
 <div class="terms">
-  <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>

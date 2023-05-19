@@ -1,5 +1,5 @@
 ---
-layout: toolspage
+layout: page
 title: Wall Location Line
 permalink: /tools/wallswap
 ---
@@ -31,3 +31,14 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
+<br>
+<br>
+<div style="text-align:center">
+    <a href="https://w7k.pl/tools/">Go Back to tools</a>
+</div>
+<br>
+<br>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+
