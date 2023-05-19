@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Level Changer
-permalink: /tools/levelchanger
+permalink: /tools/levelchanger/
 ---
 
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTab.png)
@@ -19,23 +19,20 @@ Each of the buttons has 6 different option you might use:
 ### Default  
 
 ![FloorsLToSL](/images/Tools/LevelChanger/FloorsLToSL.png)
-![FloorsLToSL](/images/Tools/LevelChanger/RoofsLToSL.png)
-![FloorsLToSL](/images/Tools/LevelChanger/CeilingsLToSL.png)
-![FloorsLToSL](/images/Tools/LevelChanger/PadsLToSL.png)
-![FloorsLToSL](/images/Tools/LevelChanger/VariousLToSL.png)
-
-![FloorsLToSL](/images/Tools/LevelChanger/WallsLToSLT.png)
-![FloorsLToSL](/images/Tools/LevelChanger/WallsLToSLB.png)
-![FloorsLToSL](/images/Tools/LevelChanger/ColumnsLToSLT.png)
-![FloorsLToSL](/images/Tools/LevelChanger/ColumnsLToSLB.png)
-![FloorsLToSL](/images/Tools/LevelChanger/VariousLToSLT.png)
-![FloorsLToSL](/images/Tools/LevelChanger/VariousLToSLB.png)
-
-![FloorsLToSL](/images/Tools/LevelChanger/WindowsLToSL.png)
-![FloorsLToSL](/images/Tools/LevelChanger/DoorsLToSL.png)
-
-![FloorsLToSL](/images/Tools/LevelChanger/CWindowsLToSL.png)
-![FloorsLToSL](/images/Tools/LevelChanger/CDoorsLToSL.png)
+![RoofsLToSL](/images/Tools/LevelChanger/RoofsLToSL.png)
+![CeilingsLToSL](/images/Tools/LevelChanger/CeilingsLToSL.png)
+![PadsLToSL](/images/Tools/LevelChanger/PadsLToSL.png)
+![VariousLToSL](/images/Tools/LevelChanger/VariousLToSL.png)
+![WallsLToSLT](/images/Tools/LevelChanger/WallsLToSLT.png)
+![WallsLToSLB](/images/Tools/LevelChanger/WallsLToSLB.png)
+![ColumnsLToSLT](/images/Tools/LevelChanger/ColumnsLToSLT.png)
+![ColumnsLToSLB](/images/Tools/LevelChanger/ColumnsLToSLB.png)
+![VariousLToSLT](/images/Tools/LevelChanger/VariousLToSLT.png)
+![VariousLToSLB](/images/Tools/LevelChanger/VariousLToSLB.png)
+![WindowsLToSL](/images/Tools/LevelChanger/WindowsLToSL.png)
+![DoorsLToSL](/images/Tools/LevelChanger/DoorsLToSL.png)
+![CWindowsLToSL](/images/Tools/LevelChanger/CWindowsLToSL.png)
+![CDoorsLToSL](/images/Tools/LevelChanger/CDoorsLToSL.png)
   
   
 You will be prompted to choose <b>one level</b> and the tool will try to set it for all selected elements:  
