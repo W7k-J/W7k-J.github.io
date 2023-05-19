@@ -111,7 +111,7 @@ Experimental! Courtain Windows
 </div>
 <br>
 <br>
-<div style="text-align:center">
+<div class="backToTools">
     <a href="https://w7k.pl/tools/">Go Back to tools</a>
 </div>
 <br>

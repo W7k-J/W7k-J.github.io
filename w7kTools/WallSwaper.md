@@ -33,7 +33,7 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 </div>
 <br>
 <br>
-<div style="text-align:center">
+<div class="backToTools">
     <a href="https://w7k.pl/tools/">Go Back to tools</a>
 </div>
 <br>
