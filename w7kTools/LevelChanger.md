@@ -12,15 +12,35 @@ No longer you will have to manually calculate them. Simply choose new level (or 
 
 ## Options
 
-![MainTab](/images/Tools/LevelChanger/LevelChangerExtendedOptions.png)
+![LevelChangerExtendedOptions](/images/Tools/LevelChanger/LevelChangerExtendedOptions.png)
 
 Each of the buttons has 6 different option you might use:
 
 ### Default  
 
+![FloorsLToSL](/images/Tools/LevelChanger/FloorsLToSL.png)
+![FloorsLToSL](/images/Tools/LevelChanger/RoofsLToSL.png)
+![FloorsLToSL](/images/Tools/LevelChanger/CeilingsLToSL.png)
+![FloorsLToSL](/images/Tools/LevelChanger/PadsLToSL.png)
+![FloorsLToSL](/images/Tools/LevelChanger/VariousLToSL.png)
+
+![FloorsLToSL](/images/Tools/LevelChanger/WallsLToSLT.png)
+![FloorsLToSL](/images/Tools/LevelChanger/WallsLToSLB.png)
+![FloorsLToSL](/images/Tools/LevelChanger/ColumnsLToSLT.png)
+![FloorsLToSL](/images/Tools/LevelChanger/ColumnsLToSLB.png)
+![FloorsLToSL](/images/Tools/LevelChanger/VariousLToSLT.png)
+![FloorsLToSL](/images/Tools/LevelChanger/VariousLToSLB.png)
+
+![FloorsLToSL](/images/Tools/LevelChanger/WindowsLToSL.png)
+![FloorsLToSL](/images/Tools/LevelChanger/DoorsLToSL.png)
+
+![FloorsLToSL](/images/Tools/LevelChanger/CWindowsLToSL.png)
+![FloorsLToSL](/images/Tools/LevelChanger/CDoorsLToSL.png)
+  
+  
 You will be prompted to choose <b>one level</b> and the tool will try to set it for all selected elements:  
    
-![MainTab](/images/Tools/LevelChanger/LevelChangerSelection.png)
+![LevelChangerSelection](/images/Tools/LevelChanger/LevelChangerSelection.png)
 
 ### Set level to the Closest 
 
@@ -65,28 +85,28 @@ if you have a floor on level 2 it will change its reference to level 1 and its o
 ## Levels - Objects With One Reference
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
 
-Floors
+### Floors
+  Works on default system floors and also on structural 
+### Roofs 
 
-Roofs 
+### Ceilings
 
-Ceilings
+### Pads (for older versions of Revit (pre 2024))
 
-Pads (for older versions of Revit (pre 2024))
-
-Experimental! Various With One Reference
+### Experimental! Various With One Reference
 
 ## Levels - Objects With Two References
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabTwoRef.png)
 
-Walls 
+### Walls 
   Top
   Bottom
 
-Columns 
+### Columns 
   Top
   Bottoms
 
-Experimental! Various With Two References
+### Experimental! Various With Two References
   Top
   Bottoms
 
