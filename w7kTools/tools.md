@@ -6,9 +6,9 @@ permalink: /tools/
 
 ### Revit Addons
 
-<a href=w7k.pl/tools/levelchanger>Level Changer</a>
+<a href="https://w7k.pl/tools/levelchanger/">Level Changer</a>
 
-<a href=w7k.pl/tools/wallswap>Wall Location Line Swapper</a>
+<a href="https://w7k.pl/tools/wallswap/">Wall Location Line Swapper</a>
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
