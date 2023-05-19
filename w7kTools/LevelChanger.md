@@ -1,5 +1,5 @@
 ---
-layout: toolspage
+layout: page
 title: Level Changer
 permalink: /tools/levelchanger
 ---
