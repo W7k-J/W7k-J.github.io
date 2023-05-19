@@ -10,7 +10,7 @@ The purpose of this tool is to allow you to change reference levels without chan
 
 No longer you will have to manually calculate them. Simply choose new level (or use other provided option ) and it will be done. Moreover because the tool changes the offsets and levels at the same time your Revit model will not explode in the process. 
 
-## Options
+## Buttons by Options
 
 ![LevelChangerExtendedOptions](/images/Tools/LevelChanger/LevelChangerExtendedOptions.png)
 
@@ -41,37 +41,117 @@ You will be prompted to choose <b>one level</b> and the tool will try to set it 
 
 ### Set level to the Closest 
 
+![FloorsLToCL](/images/Tools/LevelChanger/FloorsLToCL.png)
+![RoofsLToCL](/images/Tools/LevelChanger/RoofsLToCL.png)
+![CeilingsLToCL](/images/Tools/LevelChanger/CeilingsLToCL.png)
+![PadsLToCL](/images/Tools/LevelChanger/PadsLToCL.png)
+![VariousLToCL](/images/Tools/LevelChanger/VariousLToCL.png)
+![WallsLToCLT](/images/Tools/LevelChanger/WallsLToCLT.png)
+![WallsLToCLB](/images/Tools/LevelChanger/WallsLToCLB.png)
+![ColumnsLToCLT](/images/Tools/LevelChanger/ColumnsLToCLT.png)
+![ColumnsLToCLB](/images/Tools/LevelChanger/ColumnsLToCLB.png)
+![VariousLToCLT](/images/Tools/LevelChanger/VariousLToCLT.png)
+![VariousLToCLB](/images/Tools/LevelChanger/VariousLToCLB.png)
+![WindowsLToCL](/images/Tools/LevelChanger/WindowsLToCL.png)
+![DoorsLToCL](/images/Tools/LevelChanger/DoorsLToCL.png)
+![CWindowsLToCL](/images/Tools/LevelChanger/CWindowsLToCL.png)
+![CDoorsLToCL](/images/Tools/LevelChanger/CDoorsLToCL.png)
+
 The tool will automatically choose <b>the closest level</b> (the one which will result in the smallest offset) for each selected elements.  
 
 The levels will be calculated separately for all selected elements.
 
 ### Set level to the Closest Above
 
+![FloorsLToCA](/images/Tools/LevelChanger/FloorsLToCA.png)
+![RoofsLToCA](/images/Tools/LevelChanger/RoofsLToCA.png)
+![CeilingsLToCA](/images/Tools/LevelChanger/CeilingsLToCA.png)
+![PadsLToCA](/images/Tools/LevelChanger/PadsLToCA.png)
+![VariousLToCA](/images/Tools/LevelChanger/VariousLToCA.png)
+![WallsLToCAT](/images/Tools/LevelChanger/WallsLToCAT.png)
+![WallsLToCAB](/images/Tools/LevelChanger/WallsLToCAB.png)
+![ColumnsLToCAT](/images/Tools/LevelChanger/ColumnsLToCAT.png)
+![ColumnsLToCAB](/images/Tools/LevelChanger/ColumnsLToCAB.png)
+![VariousLToCAT](/images/Tools/LevelChanger/VariousLToCAT.png)
+![VariousLToCAB](/images/Tools/LevelChanger/VariousLToCAB.png)
+![WindowsLToCA](/images/Tools/LevelChanger/WindowsLToCA.png)
+![DoorsLToCA](/images/Tools/LevelChanger/DoorsLToCA.png)
+![CWindowsLToCA](/images/Tools/LevelChanger/CWindowsLToCA.png)
+![CDoorsLToCA](/images/Tools/LevelChanger/CDoorsLToCA.png)
+
 Similarly, The tool will automatically choose the closest level for your elements, but this time it will look only for a level which elevation is above the selected elements. 
 The levels will be calculated separately for all selected elements.
 
-<i>For example  
+<i>For example:  
 if you have a floor between two levels the tool will always assign the level above your floor - even if the offset would be comparable larger then to level below. </i>
 
 
 ### Set level to the Closest Below
 
+![FloorsLToCB](/images/Tools/LevelChanger/FloorsLToCB.png)
+![RoofsLToCB](/images/Tools/LevelChanger/RoofsLToCB.png)
+![CeilingsLToCB](/images/Tools/LevelChanger/CeilingsLToCB.png)
+![PadsLToCB](/images/Tools/LevelChanger/PadsLToCB.png)
+![VariousLToCB](/images/Tools/LevelChanger/VariousLToCB.png)
+![WallsLToCBT](/images/Tools/LevelChanger/WallsLToCBT.png)
+![WallsLToCBB](/images/Tools/LevelChanger/WallsLToCBB.png)
+![ColumnsLToCBT](/images/Tools/LevelChanger/ColumnsLToCBT.png)
+![ColumnsLToCBB](/images/Tools/LevelChanger/ColumnsLToCBB.png)
+![VariousLToCBT](/images/Tools/LevelChanger/VariousLToCBT.png)
+![VariousLToCBB](/images/Tools/LevelChanger/VariousLToCBB.png)
+![WindowsLToCB](/images/Tools/LevelChanger/WindowsLToCB.png)
+![DoorsLToCB](/images/Tools/LevelChanger/DoorsLToCB.png)
+![CWindowsLToCB](/images/Tools/LevelChanger/CWindowsLToCB.png)
+![CDoorsLToCB](/images/Tools/LevelChanger/CDoorsLToCB.png)
+
 Similarly, The tool will automatically choose the closest level for your elements, but this time it will look only for a level which elevation is below the selected elements. 
 The levels will be calculated separately for all selected elements.
 
-<i>For example  
+<i>For example:  
 if you have a floor between two levels the tool will always assign the level below your floor - even if the offset would be comparable larger then to level above.</i>
 
 ### Set level to the one above currently selected 
 
+![FloorsLToOA](/images/Tools/LevelChanger/FloorsLToOA.png)
+![RoofsLToOA](/images/Tools/LevelChanger/RoofsLToOA.png)
+![CeilingsLToOA](/images/Tools/LevelChanger/CeilingsLToOA.png)
+![PadsLToOA](/images/Tools/LevelChanger/PadsLToOA.png)
+![VariousLToOA](/images/Tools/LevelChanger/VariousLToOA.png)
+![WallsLToOAT](/images/Tools/LevelChanger/WallsLToOAT.png)
+![WallsLToOAB](/images/Tools/LevelChanger/WallsLToOAB.png)
+![ColumnsLToOAT](/images/Tools/LevelChanger/ColumnsLToOAT.png)
+![ColumnsLToOAB](/images/Tools/LevelChanger/ColumnsLToOAB.png)
+![VariousLToOAT](/images/Tools/LevelChanger/VariousLToOAT.png)
+![VariousLToOAB](/images/Tools/LevelChanger/VariousLToOAB.png)
+![WindowsLToOA](/images/Tools/LevelChanger/WindowsLToOA.png)
+![DoorsLToOA](/images/Tools/LevelChanger/DoorsLToOA.png)
+![CWindowsLToOA](/images/Tools/LevelChanger/CWindowsLToOA.png)
+![CDoorsLToOA](/images/Tools/LevelChanger/CDoorsLToOA.png)
+
 The tool will automatically change the reference level to one above currently selected.
 The levels will be calculated separately for all selected elements.
 
-<i>For example  
+<i>For example:  
 if you have a floor on level 1 it will change its reference to level 2 and its offset to -3000 mm. </i>
 
 
 ### Set level to the one below currently selected 
+
+![FloorsLToOB](/images/Tools/LevelChanger/FloorsLToOB.png)
+![RoofsLToOB](/images/Tools/LevelChanger/RoofsLToOB.png)
+![CeilingsLToOB](/images/Tools/LevelChanger/CeilingsLToOB.png)
+![PadsLToOB](/images/Tools/LevelChanger/PadsLToOB.png)
+![VariousLToOB](/images/Tools/LevelChanger/VariousLToOB.png)
+![WallsLToOBT](/images/Tools/LevelChanger/WallsLToOBT.png)
+![WallsLToOBB](/images/Tools/LevelChanger/WallsLToOBB.png)
+![ColumnsLToOBT](/images/Tools/LevelChanger/ColumnsLToOBT.png)
+![ColumnsLToOBB](/images/Tools/LevelChanger/ColumnsLToOBB.png)
+![VariousLToOBT](/images/Tools/LevelChanger/VariousLToOBT.png)
+![VariousLToOBB](/images/Tools/LevelChanger/VariousLToOBB.png)
+![WindowsLToOB](/images/Tools/LevelChanger/WindowsLToOB.png)
+![DoorsLToOB](/images/Tools/LevelChanger/DoorsLToOB.png)
+![CWindowsLToOB](/images/Tools/LevelChanger/CWindowsLToOB.png)
+![CDoorsLToOB](/images/Tools/LevelChanger/CDoorsLToOB.png)
 
 The tool will automatically change the reference level to one above currently selected. 
 The levels will be calculated separately for all selected elements.
@@ -79,44 +159,168 @@ The levels will be calculated separately for all selected elements.
 <i>For example:  
 if you have a floor on level 2 it will change its reference to level 1 and its offset to 3000 mm. </i>
 
+## Buttons by elements
+
+Please find below a short desription with information how each category works. We also inclueded some information about limitations of this tool. 
+
 ## Levels - Objects With One Reference
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
+  
+This tab contains tools for elements with one reference level. 
 
-### Floors
-  Works on default system floors and also on structural 
-### Roofs 
+### Floors  
 
-### Ceilings
+![FloorsLToSL](/images/Tools/LevelChanger/FloorsLToSL.png)
+![FloorsLToCL](/images/Tools/LevelChanger/FloorsLToCL.png)
+![FloorsLToCA](/images/Tools/LevelChanger/FloorsLToCA.png)
+![FloorsLToCB](/images/Tools/LevelChanger/FloorsLToCB.png)
+![FloorsLToOA](/images/Tools/LevelChanger/FloorsLToOA.png)
+![FloorsLToOB](/images/Tools/LevelChanger/FloorsLToOB.png)  
+Works on default system floors and also on structural fundations 
+
+### Roofs  
+
+![RoofsLToSL](/images/Tools/LevelChanger/RoofsLToSL.png)
+![RoofsLToCL](/images/Tools/LevelChanger/RoofsLToCL.png)
+![RoofsLToCA](/images/Tools/LevelChanger/RoofsLToCA.png)
+![RoofsLToCB](/images/Tools/LevelChanger/RoofsLToCB.png)
+![RoofsLToOA](/images/Tools/LevelChanger/RoofsLToOA.png)
+![RoofsLToOB](/images/Tools/LevelChanger/RoofsLToOB.png)
+
+
+### Ceilings  
+
+![CeilingsLToSL](/images/Tools/LevelChanger/CeilingsLToSL.png)
+![CeilingsLToCL](/images/Tools/LevelChanger/CeilingsLToCL.png)
+![CeilingsLToCA](/images/Tools/LevelChanger/CeilingsLToCA.png)
+![CeilingsLToCB](/images/Tools/LevelChanger/CeilingsLToCB.png)
+![CeilingsLToOA](/images/Tools/LevelChanger/CeilingsLToOA.png)
+![CeilingsLToOB](/images/Tools/LevelChanger/CeilingsLToOB.png)
+
 
 ### Pads (for older versions of Revit (pre 2024))
 
-### Experimental! Various With One Reference
+![PadsLToSL](/images/Tools/LevelChanger/PadsLToSL.png)
+![PadsLToCL](/images/Tools/LevelChanger/PadsLToCL.png)
+![PadsLToCA](/images/Tools/LevelChanger/PadsLToCA.png)
+![PadsLToCB](/images/Tools/LevelChanger/PadsLToCB.png)
+![PadsLToOA](/images/Tools/LevelChanger/PadsLToOA.png)
+![PadsLToOB](/images/Tools/LevelChanger/PadsLToOB.png)
+
+
+### Experimental! Various With One Reference  
+
+![VariousLToSL](/images/Tools/LevelChanger/VariousLToSL.png)
+![VariousLToCL](/images/Tools/LevelChanger/VariousLToCL.png)
+![VariousLToCA](/images/Tools/LevelChanger/VariousLToCA.png)
+![VariousLToCB](/images/Tools/LevelChanger/VariousLToCB.png)
+![VariousLToOA](/images/Tools/LevelChanger/VariousLToOA.png)
+![VariousLToOB](/images/Tools/LevelChanger/VariousLToOB.png)
+
 
 ## Levels - Objects With Two References
+
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabTwoRef.png)
+  
+This tab contains tools for elements with two reference levels (Top and Bottom). The tool is also allowing to select <b> Unconnected Level </b> for them. 
 
-### Walls 
-  Top
-  Bottom
+### Walls
 
-### Columns 
-  Top
-  Bottoms
+#### Bottom
+![WallsLToSLT](/images/Tools/LevelChanger/WallsLToSLB.png)
+![WallsLToCLT](/images/Tools/LevelChanger/WallsLToCLB.png)
+![WallsLToCAT](/images/Tools/LevelChanger/WallsLToCAB.png)
+![WallsLToCBT](/images/Tools/LevelChanger/WallsLToCBB.png)
+![WallsLToOAT](/images/Tools/LevelChanger/WallsLToOAB.png)
+![WallsLToOBT](/images/Tools/LevelChanger/WallsLToOBB.png)
+
+#### Top
+![WallsLToSLT](/images/Tools/LevelChanger/WallsLToSLT.png)
+![WallsLToCLT](/images/Tools/LevelChanger/WallsLToCLT.png)
+![WallsLToCAT](/images/Tools/LevelChanger/WallsLToCAT.png)
+![WallsLToCBT](/images/Tools/LevelChanger/WallsLToCBT.png)
+![WallsLToOAT](/images/Tools/LevelChanger/WallsLToOAT.png)
+![WallsLToOBT](/images/Tools/LevelChanger/WallsLToOBT.png)
+
+
+### Columns  
+
+#### Bottom
+![ColumnsLToSLB](/images/Tools/LevelChanger/ColumnsLToSLB.png)
+![ColumnsLToCLB](/images/Tools/LevelChanger/ColumnsLToCLB.png)
+![ColumnsLToCAB](/images/Tools/LevelChanger/ColumnsLToCAB.png)
+![ColumnsLToCBB](/images/Tools/LevelChanger/ColumnsLToCBB.png)
+![ColumnsLToOAB](/images/Tools/LevelChanger/ColumnsLToOAB.png)
+![ColumnsLToOBB](/images/Tools/LevelChanger/ColumnsLToOBB.png)
+
+#### Top
+![ColumnsLToSLT](/images/Tools/LevelChanger/ColumnsLToSLT.png)
+![ColumnsLToCLT](/images/Tools/LevelChanger/ColumnsLToCLT.png)
+![ColumnsLToCAT](/images/Tools/LevelChanger/ColumnsLToCAT.png)
+![ColumnsLToCBT](/images/Tools/LevelChanger/ColumnsLToCBT.png)
+![ColumnsLToOAT](/images/Tools/LevelChanger/ColumnsLToOAT.png)
+![ColumnsLToOBT](/images/Tools/LevelChanger/ColumnsLToOBT.png)
 
 ### Experimental! Various With Two References
-  Top
-  Bottoms
 
-## Levels - Other Objects
+#### Bottom
+![VariousLToSLB](/images/Tools/LevelChanger/VariousLToSLB.png)
+![VariousLToCLB](/images/Tools/LevelChanger/VariousLToCLB.png)
+![VariousLToCAB](/images/Tools/LevelChanger/VariousLToCAB.png)
+![VariousLToCBB](/images/Tools/LevelChanger/VariousLToCBB.png)
+![VariousLToOAB](/images/Tools/LevelChanger/VariousLToOAB.png)
+![VariousLToOBB](/images/Tools/LevelChanger/VariousLToOBB.png)
+
+#### Top
+![VariousLToSLT](/images/Tools/LevelChanger/VariousLToSLT.png)
+![VariousLToCLT](/images/Tools/LevelChanger/VariousLToCLT.png)
+![VariousLToCAT](/images/Tools/LevelChanger/VariousLToCAT.png)
+![VariousLToCBT](/images/Tools/LevelChanger/VariousLToCBT.png)
+![VariousLToOAT](/images/Tools/LevelChanger/VariousLToOAT.png)
+![VariousLToOBT](/images/Tools/LevelChanger/VariousLToOBT.png)
+
+## Levels - Other Objects  
+
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOther.png)
 
-Doors
+### Doors  
 
-Windows
+![DoorsLToSL](/images/Tools/LevelChanger/DoorsLToSL.png)
+![DoorsLToCL](/images/Tools/LevelChanger/DoorsLToCL.png)
+![DoorsLToCA](/images/Tools/LevelChanger/DoorsLToCA.png)
+![DoorsLToCB](/images/Tools/LevelChanger/DoorsLToCB.png)
+![DoorsLToOA](/images/Tools/LevelChanger/DoorsLToOA.png)
+![DoorsLToOB](/images/Tools/LevelChanger/DoorsLToOB.png)
 
-Experimental! Courtain Doors
 
-Experimental! Courtain Windows 
+
+### Windows  
+
+![WindowsLToSL](/images/Tools/LevelChanger/WindowsLToSL.png)
+![WindowsLToCL](/images/Tools/LevelChanger/WindowsLToCL.png)
+![WindowsLToCA](/images/Tools/LevelChanger/WindowsLToCA.png)
+![WindowsLToCB](/images/Tools/LevelChanger/WindowsLToCB.png)
+![WindowsLToOA](/images/Tools/LevelChanger/WindowsLToOA.png)
+![WindowsLToOB](/images/Tools/LevelChanger/WindowsLToOB.png)
+
+
+### Experimental! Courtain Doors  
+
+![CDoorsLToSL](/images/Tools/LevelChanger/CDoorsLToSL.png)
+![CDoorsLToCL](/images/Tools/LevelChanger/CDoorsLToCL.png)
+![CDoorsLToCA](/images/Tools/LevelChanger/CDoorsLToCA.png)
+![CDoorsLToCB](/images/Tools/LevelChanger/CDoorsLToCB.png)
+![CDoorsLToOA](/images/Tools/LevelChanger/CDoorsLToOA.png)
+![CDoorsLToOB](/images/Tools/LevelChanger/CDoorsLToOB.png)
+
+### Experimental! Courtain Windows  
+
+![CWindowsLToSL](/images/Tools/LevelChanger/CWindowsLToSL.png)
+![CWindowsLToCL](/images/Tools/LevelChanger/CWindowsLToCL.png)
+![CWindowsLToCA](/images/Tools/LevelChanger/CWindowsLToCA.png)
+![CWindowsLToCB](/images/Tools/LevelChanger/CWindowsLToCB.png)
+![CWindowsLToOA](/images/Tools/LevelChanger/CWindowsLToOA.png)
+![CWindowsLToOB](/images/Tools/LevelChanger/CWindowsLToOB.png)
 
 # Video
 
@@ -126,9 +330,10 @@ Experimental! Courtain Windows
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
+
 <br>
 <div class="backToTools">
-    <a href="https://w7k.pl/tools/"> 	Go Back to tools </a>
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
 </div>
 <br>
 <div class="terms">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wall Location Line
-permalink: /tools/wallswap
+permalink: /tools/wallswap/
 ---
 
 ![WallSwapIcon](/images/Tools/WallSwap/WallSwap.png)
@@ -33,7 +33,7 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 </div>
 <br>
 <div class="backToTools">
-    <a href="https://w7k.pl/tools/"> Go Back to tools </a>
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
 </div>
 <br>
 <div class="terms">
