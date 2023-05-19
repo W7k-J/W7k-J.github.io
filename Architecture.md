@@ -18,10 +18,9 @@ permalink: /architecture/
 
 ### Architectural Projects:  
 
-2023 Horisont Bygg B & C, Norway
+2023 Horisont Bygg B & C, Norway - underconstructions
 
-[2022 Horisont Bygg A, Norway](https://w7k.pl/Horisont/)
-
+[2022 Horisont Bygg A, Norway](https://w7k.pl/HorisontByggA/)
 
 [2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)
   

@@ -24,7 +24,7 @@ You will be prompted to choose <b>one level</b> and the tool will try to set it 
 
 ### Set level to the Closest 
 
-The tool will automatically choose <b>the closest level</b> (the one which will result in the smallest offset) for your elements and the tool will try to set it for all selected elements.  
+The tool will automatically choose <b>the closest level</b> (the one which will result in the smallest offset) for each selected elements.  
 
 The levels will be calculated separately for all selected elements.
 
@@ -110,11 +110,9 @@ Experimental! Courtain Windows
   </div>
 </div>
 <br>
-<br>
 <div class="backToTools">
-    <a href="https://w7k.pl/tools/">Go Back to tools</a>
+    <a href="https://w7k.pl/tools/"> 	&#60;Go Back to tools&#62; </a>
 </div>
-<br>
 <br>
 <div class="terms">
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
