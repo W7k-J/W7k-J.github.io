@@ -33,7 +33,8 @@ The levels will be calculated separately for all selected elements.
 Similarly, The tool will automatically choose the closest level for your elements, but this time it will look only for a level which elevation is above the selected elements. 
 The levels will be calculated separately for all selected elements.
 
-<i>For example if you have a floor between two levels the tool will always assign the level above your floor - even if the offset would be comparable larger then to level below. </i>
+<i>For example  
+if you have a floor between two levels the tool will always assign the level above your floor - even if the offset would be comparable larger then to level below. </i>
 
 
 ### Set level to the Closest Below
@@ -41,14 +42,16 @@ The levels will be calculated separately for all selected elements.
 Similarly, The tool will automatically choose the closest level for your elements, but this time it will look only for a level which elevation is below the selected elements. 
 The levels will be calculated separately for all selected elements.
 
-<i>For example if you have a floor between two levels the tool will always assign the level below your floor - even if the offset would be comparable larger then to level above.</i>
+<i>For example  
+if you have a floor between two levels the tool will always assign the level below your floor - even if the offset would be comparable larger then to level above.</i>
 
 ### Set level to the one above currently selected 
 
 The tool will automatically change the reference level to one above currently selected.
 The levels will be calculated separately for all selected elements.
 
-<i>For example if you have a floor on level 1 it will change its reference to level 2 and its offset to 3000mm. </i>
+<i>For example  
+if you have a floor on level 1 it will change its reference to level 2 and its offset to 3000 mm. </i>
 
 
 ### Set level to the one below currently selected 
@@ -56,7 +59,8 @@ The levels will be calculated separately for all selected elements.
 The tool will automatically change the reference level to one above currently selected. 
 The levels will be calculated separately for all selected elements.
 
-<i>For example if you have a floor on level 1 it will change its reference to level 2 and its offset to 3000mm. </i>
+<i>For example:  
+if you have a floor on level 2 it will change its reference to level 1 and its offset to - 3000 mm. </i>
 
 ## Levels - Objects With One Reference
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
