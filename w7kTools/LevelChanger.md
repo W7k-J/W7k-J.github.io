@@ -6,30 +6,68 @@ permalink: /tools/levelchanger
 
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTab.png)
 
-The purpose of this tool is to allow Users to change reference levels for different elements without changing their location / elevation. The tool will automatically change the offsets for you. 
+The purpose of this tool is to allow you to change reference levels without changing element's location / elevation. The tool is going to do it automatically. It will set correct offsets for you. 
 
 No longer you will have to manually calculate them. Simply choose new level (or use other provided option ) and it will be done. Moreover because the tool changes the offsets and levels at the same time your Revit model will not explode in the process. 
 
 ## Options
 
-![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
+![MainTab](/images/Tools/LevelChanger/LevelChangerExtendedOptions.png)
 
-There are 6 different option you might use: 
+Each of the buttons has 6 different option you might use:
 
-1. Default - You will be prompted to choose one 
-![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
+1. Default  
 
+You will be prompted to choose one level and the tool will try to set it for all selected elements:  
+   
+![MainTab](/images/Tools/LevelChanger/LevelChangerSelection.png)
 
+2. Set level to Closest 
+
+The tool will automatically choose the closest level (the one which will result in the smallest offset) for your elements and the tool will try to set it for all selected elements.
+
+## pre Autodesk Revit 2024
+
+Pads
 
 ## Levels - Objects With One Reference
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
 
+Floors
+
+Roofs 
+
+Ceilings
+
+Pads (for older versions of Revit (pre 2024))
+
+Experimental! Various With One Reference
+
 ## Levels - Objects With Two References
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabTwoRef.png)
 
+Walls 
+  Top
+  Bottom
+
+Columns 
+  Top
+  Bottoms
+
+Experimental! Various With Two References
+  Top
+  Bottoms
 
 ## Levels - Other Objects
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOther.png)
+
+Doors
+
+Windows
+
+Experimental! Courtain Doors
+
+Experimental! Courtain Windows 
 
 # Video
 
@@ -41,10 +79,10 @@ There are 6 different option you might use:
 </div>
 
 <div style="text-align:center">
-  <a href="https://w7k.pl/terms/">Go Back to tools</a>
+  <a href="https://w7k.pl/tools/">Go Back to tools</a>
 </div>
 
 
-<div style="text-align:center" color=#36454F font-size: 15px >
+<div class="terms">
   <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
