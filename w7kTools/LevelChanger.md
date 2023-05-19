@@ -8,7 +8,11 @@ permalink: /tools/levelchanger/
 
 The purpose of this tool is to allow you to change reference levels without changing element's location / elevation. The tool is going to do it automatically. It will set correct offsets for you. 
 
-No longer you will have to manually calculate them. Simply choose new level (or use other provided option ) and it will be done. Moreover because the tool changes the offsets and levels at the same time your Revit model will not explode in the process. 
+No longer you will have to manually calculate them. Simply choose new level (or use other provided option) and it will be done. Moreover because the tool changes the offsets and levels at the same time your Revit model will not explode in the process. 
+
+## Who should have this tool?
+
+This tool was created with Revit Modellers in mind. It easily saves them countless hours of work each year. 
 
 ## Buttons by Options
 
@@ -16,7 +20,7 @@ No longer you will have to manually calculate them. Simply choose new level (or 
 
 Each of the buttons has 6 different option you might use:
 
-### Default  
+### • Default  
 
 ![FloorsLToSL](/images/Tools/LevelChanger/FloorsLToSL.png)
 ![RoofsLToSL](/images/Tools/LevelChanger/RoofsLToSL.png)
@@ -39,7 +43,7 @@ You will be prompted to choose <b>one level</b> and the tool will try to set it 
    
 ![LevelChangerSelection](/images/Tools/LevelChanger/LevelChangerSelection.png)
 
-### Set level to the Closest 
+### • Set level to the Closest 
 
 ![FloorsLToCL](/images/Tools/LevelChanger/FloorsLToCL.png)
 ![RoofsLToCL](/images/Tools/LevelChanger/RoofsLToCL.png)
@@ -61,7 +65,7 @@ The tool will automatically choose <b>the closest level</b> (the one which will 
 
 The levels will be calculated separately for all selected elements.
 
-### Set level to the Closest Above
+### • Set level to the Closest Above
 
 ![FloorsLToCA](/images/Tools/LevelChanger/FloorsLToCA.png)
 ![RoofsLToCA](/images/Tools/LevelChanger/RoofsLToCA.png)
@@ -86,7 +90,7 @@ The levels will be calculated separately for all selected elements.
 if you have a floor between two levels the tool will always assign the level above your floor - even if the offset would be comparable larger then to level below. </i>
 
 
-### Set level to the Closest Below
+### • Set level to the Closest Below
 
 ![FloorsLToCB](/images/Tools/LevelChanger/FloorsLToCB.png)
 ![RoofsLToCB](/images/Tools/LevelChanger/RoofsLToCB.png)
@@ -110,7 +114,7 @@ The levels will be calculated separately for all selected elements.
 <i>For example:  
 if you have a floor between two levels the tool will always assign the level below your floor - even if the offset would be comparable larger then to level above.</i>
 
-### Set level to the one above currently selected 
+### • Set level to the one above currently selected 
 
 ![FloorsLToOA](/images/Tools/LevelChanger/FloorsLToOA.png)
 ![RoofsLToOA](/images/Tools/LevelChanger/RoofsLToOA.png)
@@ -135,7 +139,7 @@ The levels will be calculated separately for all selected elements.
 if you have a floor on level 1 it will change its reference to level 2 and its offset to -3000 mm. </i>
 
 
-### Set level to the one below currently selected 
+### • Set level to the one below currently selected 
 
 ![FloorsLToOB](/images/Tools/LevelChanger/FloorsLToOB.png)
 ![RoofsLToOB](/images/Tools/LevelChanger/RoofsLToOB.png)
@@ -162,13 +166,14 @@ if you have a floor on level 2 it will change its reference to level 1 and its o
 ## Buttons by elements
 
 Please find below a short desription with information how each category works. We also inclueded some information about limitations of this tool. 
+By default the tool is filtering out model-in-place families. 
 
 ## Levels - Objects With One Reference
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
   
 This tab contains tools for elements with one reference level. 
 
-### Floors  
+### • Floors  
 
 ![FloorsLToSL](/images/Tools/LevelChanger/FloorsLToSL.png)
 ![FloorsLToCL](/images/Tools/LevelChanger/FloorsLToCL.png)
@@ -176,9 +181,9 @@ This tab contains tools for elements with one reference level.
 ![FloorsLToCB](/images/Tools/LevelChanger/FloorsLToCB.png)
 ![FloorsLToOA](/images/Tools/LevelChanger/FloorsLToOA.png)
 ![FloorsLToOB](/images/Tools/LevelChanger/FloorsLToOB.png)  
-Works on default system floors and also on structural fundations 
+Works on default system floors and also on structural fundations. 
 
-### Roofs  
+### • Roofs  
 
 ![RoofsLToSL](/images/Tools/LevelChanger/RoofsLToSL.png)
 ![RoofsLToCL](/images/Tools/LevelChanger/RoofsLToCL.png)
@@ -186,9 +191,9 @@ Works on default system floors and also on structural fundations
 ![RoofsLToCB](/images/Tools/LevelChanger/RoofsLToCB.png)
 ![RoofsLToOA](/images/Tools/LevelChanger/RoofsLToOA.png)
 ![RoofsLToOB](/images/Tools/LevelChanger/RoofsLToOB.png)
+Works on all 3 different system roofs (Roof by footprint, Roof by Extrusion and Roof by Face)
 
-
-### Ceilings  
+### • Ceilings  
 
 ![CeilingsLToSL](/images/Tools/LevelChanger/CeilingsLToSL.png)
 ![CeilingsLToCL](/images/Tools/LevelChanger/CeilingsLToCL.png)
@@ -196,9 +201,9 @@ Works on default system floors and also on structural fundations
 ![CeilingsLToCB](/images/Tools/LevelChanger/CeilingsLToCB.png)
 ![CeilingsLToOA](/images/Tools/LevelChanger/CeilingsLToOA.png)
 ![CeilingsLToOB](/images/Tools/LevelChanger/CeilingsLToOB.png)
+v
 
-
-### Pads (for older versions of Revit (pre 2024))
+### • Pads (for older versions of Revit (pre 2024))
 
 ![PadsLToSL](/images/Tools/LevelChanger/PadsLToSL.png)
 ![PadsLToCL](/images/Tools/LevelChanger/PadsLToCL.png)
@@ -207,8 +212,9 @@ Works on default system floors and also on structural fundations
 ![PadsLToOA](/images/Tools/LevelChanger/PadsLToOA.png)
 ![PadsLToOB](/images/Tools/LevelChanger/PadsLToOB.png)
 
+Works on building pads. This function is included only in versions up to 2023.  
 
-### Experimental! Various With One Reference  
+### • Experimental! Various With One Reference  
 
 ![VariousLToSL](/images/Tools/LevelChanger/VariousLToSL.png)
 ![VariousLToCL](/images/Tools/LevelChanger/VariousLToCL.png)
@@ -217,6 +223,13 @@ Works on default system floors and also on structural fundations
 ![VariousLToOA](/images/Tools/LevelChanger/VariousLToOA.png)
 ![VariousLToOB](/images/Tools/LevelChanger/VariousLToOB.png)
 
+It is an experimental option on our TODO list.
+In theory it should works on many categories but right now it is limited to:
+
+Reavels
+Wall Sweeps
+
+Please inform us if you see any problems or would like us to include another category of objects to it. It is on our TODO list. 
 
 ## Levels - Objects With Two References
 
@@ -224,7 +237,7 @@ Works on default system floors and also on structural fundations
   
 This tab contains tools for elements with two reference levels (Top and Bottom). The tool is also allowing to select <b> Unconnected Level </b> for them. 
 
-### Walls
+### • Walls
 
 #### Bottom
 ![WallsLToSLT](/images/Tools/LevelChanger/WallsLToSLB.png)
@@ -242,8 +255,9 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
 ![WallsLToOAT](/images/Tools/LevelChanger/WallsLToOAT.png)
 ![WallsLToOBT](/images/Tools/LevelChanger/WallsLToOBT.png)
 
+Works on system walls and cutain walls. 
 
-### Columns  
+### • Columns  
 
 #### Bottom
 ![ColumnsLToSLB](/images/Tools/LevelChanger/ColumnsLToSLB.png)
@@ -261,7 +275,9 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
 ![ColumnsLToOAT](/images/Tools/LevelChanger/ColumnsLToOAT.png)
 ![ColumnsLToOBT](/images/Tools/LevelChanger/ColumnsLToOBT.png)
 
-### Experimental! Various With Two References
+Works on architectural and structural colummns. 
+
+### • Experimental! Various With Two References
 
 #### Bottom
 ![VariousLToSLB](/images/Tools/LevelChanger/VariousLToSLB.png)
@@ -279,11 +295,25 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
 ![VariousLToOAT](/images/Tools/LevelChanger/VariousLToOAT.png)
 ![VariousLToOBT](/images/Tools/LevelChanger/VariousLToOBT.png)
 
+It is an experimental option on our TODO list.
+Works on many categories and because of that it is really hard to include all scenerious. Should be fine but please inform us if you see any problems or would like us to include another category of objects.
+
+Works on:
+Generic Families
+Shafts 
+Straight Wall Openings 
+Stairs
+etc. 
+
+So things to keep in mind: 
+2 level based families - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didnt know about it too.
+Stairs - For top constrain Revit is using a "None" parameter insted of "Unconnected". Please don't select "Unconnected". We added implementing it to our TODO list but sadly it is more complicated than it should be.  
+
 ## Levels - Other Objects  
 
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOther.png)
 
-### Doors  
+### • Doors  
 
 ![DoorsLToSL](/images/Tools/LevelChanger/DoorsLToSL.png)
 ![DoorsLToCL](/images/Tools/LevelChanger/DoorsLToCL.png)
@@ -292,9 +322,9 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
 ![DoorsLToOA](/images/Tools/LevelChanger/DoorsLToOA.png)
 ![DoorsLToOB](/images/Tools/LevelChanger/DoorsLToOB.png)
 
+Works on doors hosted on the walls. 
 
-
-### Windows  
+### • Windows  
 
 ![WindowsLToSL](/images/Tools/LevelChanger/WindowsLToSL.png)
 ![WindowsLToCL](/images/Tools/LevelChanger/WindowsLToCL.png)
@@ -303,9 +333,10 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
 ![WindowsLToOA](/images/Tools/LevelChanger/WindowsLToOA.png)
 ![WindowsLToOB](/images/Tools/LevelChanger/WindowsLToOB.png)
 
+Works on windows hosted on the walls. 
 
-### Experimental! Courtain Doors  
-
+### • Experimental! Courtain Doors  
+  
 ![CDoorsLToSL](/images/Tools/LevelChanger/CDoorsLToSL.png)
 ![CDoorsLToCL](/images/Tools/LevelChanger/CDoorsLToCL.png)
 ![CDoorsLToCA](/images/Tools/LevelChanger/CDoorsLToCA.png)
@@ -313,14 +344,22 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
 ![CDoorsLToOA](/images/Tools/LevelChanger/CDoorsLToOA.png)
 ![CDoorsLToOB](/images/Tools/LevelChanger/CDoorsLToOB.png)
 
-### Experimental! Courtain Windows  
+It is an experimental option. 
 
+Did you know that Revit API allows you to change the level of curtain panel doors? It is highly experimental option so use it wisely. One thing editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall).
+
+### • Experimental! Courtain Windows  
+  
 ![CWindowsLToSL](/images/Tools/LevelChanger/CWindowsLToSL.png)
 ![CWindowsLToCL](/images/Tools/LevelChanger/CWindowsLToCL.png)
 ![CWindowsLToCA](/images/Tools/LevelChanger/CWindowsLToCA.png)
 ![CWindowsLToCB](/images/Tools/LevelChanger/CWindowsLToCB.png)
 ![CWindowsLToOA](/images/Tools/LevelChanger/CWindowsLToOA.png)
 ![CWindowsLToOB](/images/Tools/LevelChanger/CWindowsLToOB.png)
+
+It is an experimental option. 
+
+Did you know that Revit API allows you to change the level of curtain panel windows? It is highly experimental option so use it wisely. One thing editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall). 
 
 # Video
 
@@ -330,6 +369,10 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
+
+## Versions
+Version 1.0 was published at XXXX-XX-XX
+
 
 <br>
 <div class="backToTools">

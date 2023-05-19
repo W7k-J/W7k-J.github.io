@@ -12,6 +12,10 @@ The purpose of this tool is to allow users to create shortcuts for <b>Wall Locat
 
 The tool is super easy to use. Simply set your preferred shortcuts combination in your Revit <b> Keyboard Shortcuts Settings</b>.
 
+## Who should have this tool?
+
+This tool was created for every Revit User. It easily saves them countless hours of work each year allowing users to work faster with one less distraction. 
+
 ## Shortcuts we are using:  
   
 | <b>Icon       </b> | <b>Location Line</b> | <b>         Shortcut</b> |
@@ -31,6 +35,9 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
+
+## Versions
+Version 1 was published at XXXX-XX-XX
 <br>
 <div class="backToTools">
     <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
