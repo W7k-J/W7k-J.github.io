@@ -12,13 +12,15 @@ No longer you will have to manually calculate them. Simply choose new level (or 
 
 ## Who should have this tool?
 
-This tool was created with Revit Modellers in mind. It easily saves them countless hours of work each year. 
+This tool was created with Revit Modellers in mind. It easily saves them countless of hours of work each year. 
+
+I came out with the idea of this tool when I had to change manually references of almost all elements in the projects. We were working on groups and to be able to edit height of levels we had to change to top reference of all objects in the goup. I think this tiny tool would easily save us 2 weeks of work.  
 
 ## Buttons by Options
 
 ![LevelChangerExtendedOptions](/images/Tools/LevelChanger/LevelChangerExtendedOptions.png)
 
-Each of the buttons has 6 different option you might use:
+Each of the buttons has 6 different option you might use:  
 
 ### • Default  
 
@@ -181,6 +183,7 @@ This tab contains tools for elements with one reference level.
 ![FloorsLToCB](/images/Tools/LevelChanger/FloorsLToCB.png)
 ![FloorsLToOA](/images/Tools/LevelChanger/FloorsLToOA.png)
 ![FloorsLToOB](/images/Tools/LevelChanger/FloorsLToOB.png)  
+
 Works on default system floors and also on structural fundations. 
 
 ### • Roofs  
@@ -201,7 +204,8 @@ Works on all 3 different system roofs (Roof by footprint, Roof by Extrusion and 
 ![CeilingsLToCB](/images/Tools/LevelChanger/CeilingsLToCB.png)
 ![CeilingsLToOA](/images/Tools/LevelChanger/CeilingsLToOA.png)
 ![CeilingsLToOB](/images/Tools/LevelChanger/CeilingsLToOB.png)
-v
+
+Works on standard system ceilings.
 
 ### • Pads (for older versions of Revit (pre 2024))
 
@@ -223,7 +227,7 @@ Works on building pads. This function is included only in versions up to 2023.
 ![VariousLToOA](/images/Tools/LevelChanger/VariousLToOA.png)
 ![VariousLToOB](/images/Tools/LevelChanger/VariousLToOB.png)
 
-It is an experimental option on our TODO list.
+It is an experimental option.
 In theory it should works on many categories but right now it is limited to:
 
 Reavels
@@ -295,7 +299,7 @@ Works on architectural and structural colummns.
 ![VariousLToOAT](/images/Tools/LevelChanger/VariousLToOAT.png)
 ![VariousLToOBT](/images/Tools/LevelChanger/VariousLToOBT.png)
 
-It is an experimental option on our TODO list.
+It is an experimental option.
 Works on many categories and because of that it is really hard to include all scenerious. Should be fine but please inform us if you see any problems or would like us to include another category of objects.
 
 Works on:
@@ -305,8 +309,10 @@ Straight Wall Openings
 Stairs
 etc. 
 
-So things to keep in mind: 
-2 level based families - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didnt know about it too.
+So things to keep in mind:  
+
+2 level based families - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didnt know about it too.  
+
 Stairs - For top constrain Revit is using a "None" parameter insted of "Unconnected". Please don't select "Unconnected". We added implementing it to our TODO list but sadly it is more complicated than it should be.  
 
 ## Levels - Other Objects  
@@ -322,7 +328,7 @@ Stairs - For top constrain Revit is using a "None" parameter insted of "Unconnec
 ![DoorsLToOA](/images/Tools/LevelChanger/DoorsLToOA.png)
 ![DoorsLToOB](/images/Tools/LevelChanger/DoorsLToOB.png)
 
-Works on doors hosted on the walls. 
+Works on standard door families hosted on the walls. 
 
 ### • Windows  
 
@@ -333,7 +339,7 @@ Works on doors hosted on the walls.
 ![WindowsLToOA](/images/Tools/LevelChanger/WindowsLToOA.png)
 ![WindowsLToOB](/images/Tools/LevelChanger/WindowsLToOB.png)
 
-Works on windows hosted on the walls. 
+Works on standard window families hosted on the walls. 
 
 ### • Experimental! Courtain Doors  
   
@@ -346,7 +352,7 @@ Works on windows hosted on the walls.
 
 It is an experimental option. 
 
-Did you know that Revit API allows you to change the level of curtain panel doors? It is highly experimental option so use it wisely. One thing editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall).
+Did you know that Revit API allows you to change the level of curtain panel doors? It is highly experimental option so use it wisely. One thing to keep in mind is that editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall).
 
 ### • Experimental! Courtain Windows  
   
@@ -359,7 +365,7 @@ Did you know that Revit API allows you to change the level of curtain panel door
 
 It is an experimental option. 
 
-Did you know that Revit API allows you to change the level of curtain panel windows? It is highly experimental option so use it wisely. One thing editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall). 
+Did you know that Revit API allows you to change the level of curtain panel windows? It is highly experimental option so use it wisely. One thing to keep in mind is that editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall).
 
 # Video
 

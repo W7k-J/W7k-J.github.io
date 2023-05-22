@@ -18,7 +18,7 @@ permalink: /architecture/
 
 ### Architectural Projects:  
 
-2023 Horisont Bygg B & C, Norway - underconstructions
+2023 Horisont Bygg B & C, Norway - underconstruction
 
 [2022 Horisont Bygg A, Norway](https://w7k.pl/HorisontByggA/)
 
