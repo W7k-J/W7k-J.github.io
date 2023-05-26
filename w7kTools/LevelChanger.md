@@ -231,10 +231,10 @@ Works on building pads. This function is included only in versions up to 2023.
 It is an experimental option.
 In theory it should works on many categories but right now it is limited to:
 
-Reavels
-Wall Sweeps
+Reavels  
+Wall Sweeps  
 
-Please inform us if you see any problems or would like us to include another category of objects to it. Adding more categories is on our TODO list. 
+Please inform us if you see any problems or would like us to include another category of objects to it. Adding more categories is on our ToDo list. 
 
 ## Levels - Objects With Two References
 
@@ -302,19 +302,19 @@ Works on architectural and structural colummns.
 
 It is an experimental option.
 Works on many categories and because of that it is really hard to include all scenerious. Should be fine but please inform us if you see any problems or would like us to include another category of objects.
-
-Works on:
-Generic Families
-Shafts 
-Straight Wall Openings 
-Stairs
-Ramps
-etc. 
+  
+Works on:  
+Generic Families  
+Shafts  
+Straight Wall Openings   
+Stairs  
+Ramps  
+etc.  
 
 ### Things to keep in mind:  
-2 level based families - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didnt know about it too.  
+<strong>2 level based families</strong> - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didnt know about it too.  
 
-Stairs & Ramps - For top constrain Revit is using a "None" parameter insted of "Unconnected". Please don't select "Unconnected". We added implementing it to our TODO list but sadly it is more complicated than it should be.  
+<strong>Stairs & Ramps</strong> - For top constrain Revit is using a "None" parameter insted of "Unconnected". Please don't select "Unconnected". We added implementing it to our ToDo list but sadly it is more complicated than it should be.  
 
 ## Levels - Other Objects  
 
