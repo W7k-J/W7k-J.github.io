@@ -378,7 +378,7 @@ Did you know that Revit API allows you to change the level of curtain panel wind
 </div>
 
 ## Versions
-Version 1.0 was published at XXXX-XX-XX
+Version 1.0 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024
 
 <br>
 <div class="backToTools">

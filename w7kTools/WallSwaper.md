@@ -16,7 +16,7 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 
 This tool was created for every Revit User. It easily saves them countless hours of work each year allowing users to work faster with one less distraction. 
 
-## Shortcuts we are using:  
+### Shortcuts we are using
   
 | <b>Icon       </b> | <b>Location Line</b> | <b>         Shortcut</b> |
 | :--- | :--- | ---: |
@@ -37,12 +37,11 @@ This tool was created for every Revit User. It easily saves them countless hours
 </div>
 
 ## Versions
-Version 1 was published at XXXX-XX-XX
+Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024
 <br>
 <div class="backToTools">
     <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
 </div>
-<br>
 <div class="terms">
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
