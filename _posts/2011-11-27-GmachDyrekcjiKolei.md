@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Gmach Dyrekcji Kolei 
+title: Gmach Dyrekcji Kolei, Kraków 
 
 date: 2011-11-27 14:00:00
 author: Julian
