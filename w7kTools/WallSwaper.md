@@ -37,7 +37,7 @@ This tool was created for every Revit User. It easily saves them countless hours
 </div>
 
 ## Versions
-Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024
+Version 1 was published at XXXX-XX-XX as a part of Level Changer_v1 (experimental tool). Works on Autodesk Revit 2020 - 2024
 <br>
 <div class="backToTools">
     <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
