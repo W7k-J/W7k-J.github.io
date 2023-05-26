@@ -10,7 +10,7 @@ The purpose of this tool is to allow you to change reference levels without chan
 
 No longer you will have to manually calculate them. Simply choose new level (or use other provided option) and it will be done. Moreover because the tool changes the offsets and levels at the same time your Revit model will not explode in the process. 
 
-## Who should have this tool?
+## Who should use this tool?
 
 This tool was created with Revit Modellers in mind. It easily saves them countless of hours each year. 
 
