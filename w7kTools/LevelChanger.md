@@ -184,7 +184,7 @@ This tab contains tools for elements with one reference level.
 ![FloorsLToOA](/images/Tools/LevelChanger/FloorsLToOA.png)
 ![FloorsLToOB](/images/Tools/LevelChanger/FloorsLToOB.png)  
 
-Works on default system floors and also on structural fundations. 
+Works on default system floors. 
 
 ### Roofs  
 
@@ -231,6 +231,7 @@ Works on building pads. This function is included only in versions up to 2023.
 It is an experimental option.
 In theory it should works on many categories but right now it is limited to:
 
+Structural Fundations
 Reavels  
 Wall Sweeps  
 
@@ -302,7 +303,7 @@ Works on architectural and structural colummns.
 
 It is an experimental option.
 Works on many categories and because of that it is really hard to include all scenerious. Should be fine but please inform us if you see any problems or would like us to include another category of objects.
-  
+
 Works on:  
 Generic Families  
 Shafts  
@@ -313,8 +314,10 @@ etc.
 
 ### Things to keep in mind:  
 <strong>2 level based families</strong> - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didnt know about it too.  
-
-<strong>Stairs & Ramps</strong> - For top constrain Revit is using a "None" parameter insted of "Unconnected". Please don't select "Unconnected". We added implementing it to our ToDo list but sadly it is more complicated than it should be.  
+  
+<strong>Ramps</strong> - Ramps are broken in Revit - For more info visit:  
+<a href="https://w7k.pl//knowledge/revit/ramps/">Revit Ramps</a>  
+In short : Please don't select "Unconnected" and do not use the tool on ramps where level is set to "None".   
 
 ## Levels - Other Objects  
 

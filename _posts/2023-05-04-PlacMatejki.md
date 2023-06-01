@@ -4,7 +4,7 @@ title: Plac Matejki, Kraków - Photogrammetry tests
 date: 2023-04-01 12:00:00
 author: Julian
 ---
-![PostPage](/images/2023 UAV_PlacMatejki/PlanMatejki1.png)
+![PostPage](/images/2023 UAV_PlacMatejki/PlanMatejki1.jpg)
 
 <!--excerpt-->
 
