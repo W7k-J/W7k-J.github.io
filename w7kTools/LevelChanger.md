@@ -14,7 +14,7 @@ No longer you will have to manually calculate them. Simply choose new level (or 
 
 This tool was created with Revit Modellers in mind. It easily saves them countless of hours each year. 
 
-I came out with the idea of this tool when I had to change manually references of almost all elements in the projects. We were working on groups and to be able to edit height of levels we had to change top references of all objects in the goup. This tiny tool would had saved us at least 2 weeks of work.  
+I came out with the idea of this tool when I had to change manually references of almost all elements in the projects. This tiny tool would had saved us at least 2 weeks of work.  
 
 ## Buttons by Options
 
