@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Wall Location Line
+title: Wall Swap
 permalink: /tools/wallswap/
 ---
 
@@ -16,7 +16,7 @@ The tool is super easy to use. Simply set your preferred shortcuts combination i
 
 This tool was created for every Revit User. It easily saves them countless hours of work each year allowing users to work faster with one less distraction. 
 
-### How to set up the tool? 
+## How to set up the tool? 
 
 Firstly you need to go to "File" and "Options".   
 ![File](/images/Tools/WallSwap/File.png)
@@ -29,7 +29,7 @@ After that in Keyboard Shortcuts filter W7k Tools Tab. You will have to just set
   
 ![Keyboard Shortcuts](/images/Tools/WallSwap/KeyboardShortcuts.png)
   
-### Shortcuts we are using
+## Shortcuts we are using
   
 | <b>Icon       </b> | <b>Location Line</b> | <b>         Shortcut</b> |
 | :--- | :--- | ---: |
