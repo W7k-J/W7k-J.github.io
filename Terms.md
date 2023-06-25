@@ -8,8 +8,6 @@ permalink: /terms/
 
 This website is independent of Autodesk, Inc. and is not sponsored, endorsed, or affiliated with, Autodesk, Inc. Autodesk Revit is a product that is wholly owned by Autodesk. Any reference to Revit on this site is made acknowledging this ownership. Refer to Autodesk's own website and product pages for specific trademark and copyright information. Please visit www.autodesk.com to buy Revit or to get more information. 
 
-### Privacy Policies
-
 ### Terms and conditions
 
 ### Licence regarding contents
@@ -29,3 +27,29 @@ That said all the tools were thoroughly tested. If you see any problems please [
 Keep in mind that Autodesk Revit provides you an option to undo any changes you made. In short please have some basic Revit knowledge, know what you try to do and you will be fine. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Privacy Policies
+
+This Privacy Policy describes how your personal information is collected, used, and shared by us when you visit this page or make a purchase from Autodesk Store.
+
+We want to collect the least amount of data and we don't collect any information about you except:
+
+When you make a purchase or attempt to make a purchase through the Autodesk Store, we collect certain information from you, including your name, billing address, shipping address, payment information - (for more information about it visit PayPal & Autodesk Store). This is called Order Information.
+
+We use the Order Information that we collect generally to fulfil any orders placed through the Autodesk Store (including processing your payment information, arranging for online shipping, and providing you with invoices and/or order confirmations). We shall use this information for tax purposes and share it with our accountants. We will maintain your Order Information for our records as we are requested by the law. 
+
+In case of you writing to us we will use obtain information about you (email, name etc.) in order to contact with you and resolve the issue / discuss business oportunities etc. We will not share your information with others (except in case of receiving permition from you to do so).
+
+
+#### GitHub Pages Service
+
+This Website is hosted as a GitHub Pages website. GitHub may collect User Personal Information from visitors to this GitHub Pages website - for more info visit GitHub [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement). We receive from them information about webpage traffic (views and number of unique visitors). 
+
+#### Autodesk Store
+
+When buying the add-on from Autodesk Store please refere to [Autodesk Privacy Statement](https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement) and [Paypal Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
+
+
+### Disqus
+
+We are using Disqus as a way for you to engage with our page. Please refere to [Disqus Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy) for more information about how your data are being collected and processed by them. 
