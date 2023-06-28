@@ -33,6 +33,8 @@ sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklick
 2021 Co-working space in Warsaw (heritage-listed building, 500 m²) – with B.Hodurek
 Concept design and design development
 
+2021 Concept design of small buildins at Jordana, Kraków (heritage-listed park layout - concept designs) I did a number of concepts to improve the quality of buildings located at the park area (including public toilets, restaurant, trafo station, gardener's building and local sport facility). We received possitive opinion from the city heritage department.  Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek
+
 [2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
 
 2020 Fontanna na Służewcu, Warsaw (heritage-listed park layout - planning application) Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek

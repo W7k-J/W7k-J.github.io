@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Level Changer
-permalink: /tools/levelchanger/
+title: Leveler
+permalink: /tools/leveler/
 ---
 
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTab.png)
@@ -14,7 +14,7 @@ No longer you will have to manually calculate them. Simply choose new level (or 
 
 This tool was created with Revit Modellers in mind. It easily saves them countless of hours each year. 
 
-I came out with the idea of this tool when I had to change manually references of almost all elements in the projects. This tiny tool would had saved us at least 2 weeks of work.  
+I came out with the idea of this tool when I had to change manually references of almost all elements in the projects. This tiny tool would saved us at least 2 weeks of work.  
 
 ## Buttons by Options
 

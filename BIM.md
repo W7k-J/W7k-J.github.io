@@ -34,9 +34,10 @@ Concept designs and early BIM documentation for discussion with client and herit
 [2022 Horisont Bygg A, Norway](https://w7k.pl/HorisontByggA/)
 
 ### Revit Families - Modeling
-[BIMsmith Winter Wonderland Holiday Revit Family Competition 2021 - 1st Place](https://w7k.pl/BIMSmith-Winter/)  
 
 [BIMsmith Winter Wonderland Holiday Revit Family Competition 2022 - 1st Place](https://w7k.pl/BIMSmith-Winter2022/)
+
+[BIMsmith Winter Wonderland Holiday Revit Family Competition 2021 - 1st Place](https://w7k.pl/BIMSmith-Winter/)  
 
 ### Programming for AEC & BIM (Dynamo, Revit API, C#, Python)
 
