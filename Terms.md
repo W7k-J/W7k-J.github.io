@@ -49,6 +49,9 @@ This Website is hosted as a GitHub Pages website. GitHub may collect User Person
 
 When buying the add-on from Autodesk Store please refere to [Autodesk Privacy Statement](https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement) and [Paypal Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
 
+#### Autodesk Apps
+
+Our apps are not collecting any data. 
 
 ### Disqus
 
