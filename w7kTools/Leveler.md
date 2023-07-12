@@ -8,13 +8,13 @@ permalink: /tools/leveler/
 
 The purpose of this tool is to allow you to change reference levels without changing element's location / elevation. The tool is going to do it automatically. It will set correct offsets for you. 
 
-No longer you will have to manually calculate them. Simply choose new level (or use other provided option) and it will be done. Moreover because the tool changes the offsets and levels at the same time your Revit model will not explode in the process. 
+No longer, you will have to manually calculate them. Simply choose new level (or use other provided option) and it will be done. Moreover, because the tool changes the offsets and levels at the same time your Revit model will not explode in the process. 
 
 ## Who should use this tool?
 
-This tool was created with Revit Modellers in mind. It easily saves them countless of hours each year. 
+This tool was created with Revit Modellers in mind. It easily saves them countless hours each year. 
 
-I came out with the idea of this tool when I had to change manually references of almost all elements in the projects. This tiny tool would saved us at least 2 weeks of work.  
+I came out with the idea of this tool when I had to change manually references of almost all elements in the projects. This tiny tool would save us at least 2 weeks of work.  
 
 ## Buttons by Options
 
@@ -89,7 +89,7 @@ Similarly, The tool will automatically choose the closest level for your element
 The levels will be calculated separately for all selected elements.
 
 <i>For example:  
-if you have a floor between two levels the tool will always assign the level above your floor - even if the offset would be comparable larger then to level below. </i>
+if you have a floor between two levels, the tool will always assign the level above your floor - even if the offset would be comparable larger than to the level below. </i>
 
 
 ### Set level to the Closest Below
@@ -114,7 +114,7 @@ Similarly, The tool will automatically choose the closest level for your element
 The levels will be calculated separately for all selected elements.
 
 <i>For example:  
-if you have a floor between two levels the tool will always assign the level below your floor - even if the offset would be comparable larger then to level above.</i>
+if you have a floor between two levels, the tool will always assign the level below your floor - even if the offset would be comparable larger than to the level above.</i>
 
 ### Set level to the one above currently selected 
 
@@ -138,7 +138,7 @@ The tool will automatically change the reference level to one above currently se
 The levels will be calculated separately for all selected elements.
 
 <i>For example:  
-if you have a floor on level 1 it will change its reference to level 2 and its offset to -3000 mm. </i>
+if you have a floor on level 1, it will change its reference to level 2 and its offset to -3000 mm. </i>
 
 
 ### Set level to the one below currently selected 
@@ -163,12 +163,12 @@ The tool will automatically change the reference level to one above currently se
 The levels will be calculated separately for all selected elements.
 
 <i>For example:  
-if you have a floor on level 2 it will change its reference to level 1 and its offset to 3000 mm. </i>
+if you have a floor on level 2, it will change its reference to level 1 and its offset to 3000 mm. </i>
 
 ## Buttons by elements
 
-Please find below a short desription with information how each category works. We also inclueded some information about limitations of this tool. 
-By default the tool is filtering out model-in-place families. 
+Please find below a short description with information how each category works. We also included some information about limitations of this tool. 
+By default the tool filters out all model-in-place families. 
 
 ## Levels - Objects With One Reference
 ![MainTab](/images/Tools/LevelChanger/LevelChangerTabOneRef.png)
@@ -208,7 +208,7 @@ Works on all 3 different system roofs (Roof by footprint, Roof by Extrusion and 
 
 Works on standard system ceilings.
 
-### Pads (for older versions of Revit (pre 2024))
+### Pads (for older versions of Revit (pre-2024))
 
 ![PadsLToSL](/images/Tools/LevelChanger/PadsLToSL.png)
 ![PadsLToCL](/images/Tools/LevelChanger/PadsLToCL.png)
@@ -233,7 +233,14 @@ In theory it should works on many categories but right now it is limited to:
 
 Structural Fundations
 Reavels  
-Wall Sweeps  
+Wall Sweeps
+Furiture
+Parkings
+Mechanical Equipement
+Ligting fixtrures
+Plumbing fixtures
+Generic models
+
 
 Please inform us if you see any problems or would like us to include another category of objects to it. Adding more categories is on our ToDo list. 
 
@@ -261,7 +268,7 @@ This tab contains tools for elements with two reference levels (Top and Bottom).
 ![WallsLToOAT](/images/Tools/LevelChanger/WallsLToOAT.png)
 ![WallsLToOBT](/images/Tools/LevelChanger/WallsLToOBT.png)
 
-Works on system walls and cutain walls. 
+Works on system walls and curtain walls. 
 
 ### Columns  
 
@@ -281,7 +288,7 @@ Works on system walls and cutain walls.
 ![ColumnsLToOAT](/images/Tools/LevelChanger/ColumnsLToOAT.png)
 ![ColumnsLToOBT](/images/Tools/LevelChanger/ColumnsLToOBT.png)
 
-Works on architectural and structural colummns. 
+Works on architectural and structural columns. 
 
 ### Experimental! Various With Two References
 
@@ -302,7 +309,7 @@ Works on architectural and structural colummns.
 ![VariousLToOBT](/images/Tools/LevelChanger/VariousLToOBT.png)
 
 It is an experimental option.
-Works on many categories and because of that it is really hard to include all scenerious. Should be fine but please inform us if you see any problems or would like us to include another category of objects.
+Works on many categories and because of that it is really hard to include all scenarious. Should be fine, but please inform us if you see any problems or would like us to include another category of objects.
 
 Works on:  
 Generic Families  
@@ -313,7 +320,7 @@ Ramps
 etc.  
 
 ### Things to keep in mind:  
-<strong>2 level based families</strong> - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didnt know about it too.  
+<strong>2 level based families</strong> - Top Level can't be set to "Unconnected". It is default Revit limitation so we can't do anything about it. I didn't know about it too.  
   
 <strong>Ramps</strong> - Ramps are broken in Revit - For more info visit:  
 <a href="https://w7k.pl//knowledge/revit/ramps/">Revit Ramps</a>  
@@ -345,7 +352,7 @@ Works on standard door families hosted on the walls.
 
 Works on standard window families hosted on the walls. 
 
-### Experimental! Courtain Doors  
+### Experimental! Curtain Doors  
   
 ![CDoorsLToSL](/images/Tools/LevelChanger/CDoorsLToSL.png)
 ![CDoorsLToCL](/images/Tools/LevelChanger/CDoorsLToCL.png)
@@ -356,9 +363,9 @@ Works on standard window families hosted on the walls.
 
 It is an experimental option. 
 
-Did you know that Revit API allows you to change the level of curtain panel doors? It is highly experimental option so use it wisely. One thing to keep in mind is that editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall).
+Did you know that Revit API allows you to change the level of curtain panel doors? It is a highly experimental option, so use it wisely. One thing to keep in mind is that editing curtain wall sometimes overwrites these settings back to default ones (base of curtain wall).
 
-### Experimental! Courtain Windows  
+### Experimental! Curtain Windows  
   
 ![CWindowsLToSL](/images/Tools/LevelChanger/CWindowsLToSL.png)
 ![CWindowsLToCL](/images/Tools/LevelChanger/CWindowsLToCL.png)
@@ -369,7 +376,7 @@ Did you know that Revit API allows you to change the level of curtain panel door
 
 It is an experimental option. 
 
-Did you know that Revit API allows you to change the level of curtain panel windows? It is highly experimental option so use it wisely. One thing to keep in mind is that editing curtain wall sometimes overrights these settings back to default ones (base of curtain wall).
+Did you know that Revit API allows you to change the level of curtain panel windows? It is a highly experimental option, so use it wisely. One thing to keep in mind is that editing curtain wall sometimes overwrites these settings back to default ones (base of curtain wall).
 
 # Video
 
