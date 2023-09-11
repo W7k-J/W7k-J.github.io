@@ -30,13 +30,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ### Privacy Policies
 
-This Privacy Policy describes how your personal information is collected, used, and shared by us when you visit this page or make a purchase from Autodesk Store.
+This Privacy Policy describes how your personal information is collected, used, and shared by us when you visit this page or make a purchase from Autodesk App Store.
 
 We want to collect the least amount of data and we don't collect any information about you except:
 
-When you make a purchase or attempt to make a purchase through the Autodesk Store, we collect certain information from you, including your name, billing address, shipping address, payment information - (for more information about it visit PayPal & Autodesk Store). This is called Order Information.
+When you make a purchase or attempt to make a purchase through the Autodesk App Store, we collect certain information from you, including your name, billing address, shipping address, payment information - (for more information about it visit PayPal & Autodesk App Store). This is called Order Information.
 
-We use the Order Information that we collect generally to fulfil any orders placed through the Autodesk Store (including processing your payment information, arranging for online shipping, and providing you with invoices and/or order confirmations). We shall use this information for tax purposes and share it with our accountants. We will maintain your Order Information for our records as we are requested by the law. 
+We use the Order Information that we collect generally to fulfil any orders placed through the Autodesk App Store (including processing your payment information, arranging for online shipping, and providing you with invoices and/or order confirmations). We shall use this information for tax purposes and share it with our accountants. We will maintain your Order Information for our records as we are requested by the law. 
 
 In case of you writing to us we will use obtain information about you (email, name etc.) in order to contact with you and resolve the issue / discuss business oportunities etc. We will not share your information with others (except in case of receiving permition from you to do so).
 
@@ -45,13 +45,18 @@ In case of you writing to us we will use obtain information about you (email, na
 
 This Website is hosted as a GitHub Pages website. GitHub may collect User Personal Information from visitors to this GitHub Pages website - for more info visit GitHub [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement). We receive from them information about webpage traffic (views and number of unique visitors). 
 
-#### Autodesk Store
+#### Autodesk App Store
 
-When buying the add-on from Autodesk Store please refere to [Autodesk Privacy Statement](https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement) and [Paypal Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
+When buying the add-on from Autodesk App Store please refere to [Autodesk Privacy Statement](https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement) and [Paypal Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
 
-#### Autodesk Apps
+#### Autodesk Revit Apps
 
 Our apps are not collecting any data. 
+
+### Buying our apps - B2B, corporate clients, VAT-EU, invoices etc.  
+
+Because of the way the Autodesk Apps Store is organised we treat all of the transactions from there as "Business to Customer". If you would like to get a B2B invoice please contact us by email before buying the app - [contact Us](mailto:apps@w7k.pl). 
+
 
 ### Disqus
 
