@@ -34,9 +34,9 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 We want to collect the least amount of data and we don't collect any information about you except:
 
-When you make a purchase or attempt to make a purchase through the Autodesk App Store, we collect certain information from you, including your name, billing address, shipping address, payment information - (for more information about it visit PayPal & Autodesk App Store). This is called Order Information.
+When you make a purchase or attempt to make a purchase through the Autodesk App Store or by sending us and email, we collect certain information from you, including your name, billing address, shipping address, payment information - (for more information about it visit PayPal & Autodesk App Store). This is called Order Information.
 
-We use the Order Information that we collect generally to fulfil any orders placed through the Autodesk App Store (including processing your payment information, arranging for online shipping, and providing you with invoices and/or order confirmations). We shall use this information for tax purposes and share it with our accountants. We will maintain your Order Information for our records as we are requested by the law. 
+We use the Order Information that we collect generally to fulfil any orders placed (including processing your payment information, arranging for online shipping, and providing you with invoices and/or order confirmations). We shall use this information for tax purposes and share it with our accountants. We will maintain your Order Information for our records as we are requested by the law. 
 
 In case of you writing to us we will use obtain information about you (email, name etc.) in order to contact with you and resolve the issue / discuss business oportunities etc. We will not share your information with others (except in case of receiving permition from you to do so).
 
@@ -51,7 +51,9 @@ When buying the add-on from Autodesk App Store please refere to [Autodesk Privac
 
 #### Autodesk Revit Apps
 
-Our apps are not collecting any data. 
+Our apps are not shearing any data. The only colleced informations are saved in W7k folder which you can find in your user's document folder - We save your offline licenses and information we use to need to make our scripts work (for example saved to memory informations, last used settings etc.) We do not have access to them and except the licese files they are not encrypted. 
+
+Just to let you know this folder stays on your drive after uinnstalling our apps. It is safe to manually delete it.  
 
 ### Buying our apps - B2B, corporate clients, VAT-EU, invoices etc.  
 
