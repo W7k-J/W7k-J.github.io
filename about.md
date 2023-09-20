@@ -12,7 +12,7 @@ So, at the beginning a few words about me. I am an architect, designer and a  BI
   
 During my professional life I have been involved in preparing masterplans, factories, healthcare projects, education, high-end residential projects, high-rise buildings (residential & student), interiors for a museum, extensions and refurbishment of heritage-listed projects and small houses. Lately I did some concepts for playgrounds… 
 
-Also, I am a UAV pilot and photographer. And I do 3d models, 2d & 3d graphic design ;) And I am probably interested in too many things but "specialisation is for insects..."
+Also, I am a UAV pilot and photographer. And I do 3d models, 2d & 3d graphic design, brand identities and laser scanning for construction (point clouds are so cool) ;) And I am probably interested in too many things but "specialisation is for insects..."
 
 
 Main areas:
@@ -22,6 +22,7 @@ Main areas:
 [Graphic Design](https://w7k.pl/gd/)  
 [Programming](https://w7k.pl/code/)  
 [UAV](https://w7k.pl/uav/)  
+[Point Clouds](https://w7k.pl/pc/)  
 [VR](https://w7k.pl/vr/)  
 and many more  
 

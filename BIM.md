@@ -45,6 +45,10 @@ For info about how I am using programming for BIM go to Code Tab.
 Link Below:
 [more info -> Code](https://w7k.pl/code/)
 
+### Point Clouds, Laser scanning and other cool ways to make a survey
+
+[more info -> PC](https://w7k.pl/uav/)
+
 ### UAV photogrammetry for mapping and 3d modeling
 
 [more info -> UAV](https://w7k.pl/uav/)
