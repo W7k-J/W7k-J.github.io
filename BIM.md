@@ -47,7 +47,7 @@ Link Below:
 
 ### Point Clouds, Laser scanning and other cool ways to make a survey
 
-[more info -> PC](https://w7k.pl/uav/)
+[more info -> PC](https://w7k.pl/pc/)
 
 ### UAV photogrammetry for mapping and 3d modeling
 
