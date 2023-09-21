@@ -8,11 +8,13 @@ permalink: /about/
 
 My name is Julian Wandzilak and I will try to save my professional journey here. You can expect to see posts mostly about things which I am doing right now, but with some extra time I hope to add some about my past projects. And it won’t be only about AEC industry.   
   
-So, at the beginning a few words about me. I am an architect, designer and a  BIM coordinator with a growing knowledge of programming (Python, C++, C# and JS). I gained my professional experience working in the UK (London, Manchester), USA (Chicago) and Poland (Kraków). I was also involved in architectural projects in Australia and Norway. 
-  
-During my professional life I have been involved in preparing masterplans, factories, healthcare projects, education, high-end residential projects, high-rise buildings (residential & student), interiors for a museum, extensions and refurbishment of heritage-listed projects and small houses. Lately I did some concepts for playgrounds… 
+So, at the beginning a few words about me. I am an architect, designer and a  BIM coordinator with a growing knowledge of programming (Python, C++, C# and JS). I studied architecture at Cracow University of Technology, and was international exchange student at University of Tennessee, Knoxville. Lately I finnished postgraduate studies in BIM at AGH.    
 
-Also, I am a UAV pilot and photographer. And I do 3d models, 2d & 3d graphic design, brand identities and laser scanning for construction (point clouds are so cool) ;) And I am probably interested in too many things but "specialisation is for insects..."
+I gained my professional experience working in the UK (Manchester, London), USA (Chicago) and Poland (Kraków). I was also involved in architectural projects in Australia and Norway. 
+  
+During my professional life I have been involved in preparing masterplans, factories, healthcare projects, education, high-end residential projects, high-rise buildings (residential & student), interiors for a museum, extensions and refurbishment of heritage-listed projects and small houses. I also took part in some competitions. Sadly We never got the first prize (but were pretty close). Lately I did some concepts for playgrounds… 
+
+Also, I am a UAV pilot (VLOS and BVLOS, up to 25kg) and photographer. And I do 3d models, 2d & 3d graphic design, brand identities and laser scanning for construction (point clouds are so cool) ;) And I am probably interested in too many things but "specialisation is for insects..."
 
 
 Main areas:
