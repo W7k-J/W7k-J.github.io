@@ -8,6 +8,14 @@ permalink: /terms/
 
 This website is independent of Autodesk, Inc. and is not sponsored, endorsed, or affiliated with, Autodesk, Inc. Autodesk Revit is a product that is wholly owned by Autodesk. Any reference to Revit on this site is made acknowledging this ownership. Refer to Autodesk's own website and product pages for specific trademark and copyright information. Please visit www.autodesk.com to buy Revit or to get more information. 
 
+### Autodesk Developer Network (ADN)
+
+I am a member of Autodesk Developer Network. 
+
+"The Autodesk Developer Network was created for desktop software developers seeking proven tools and technologies to extend Autodesk products and technologies. The ADN program helps developers use Autodesk's large investments and expertise in design, engineering, and media and entertainment platform technologies" from https://www.autodesk.com/developer-network/overview
+
+In short it means that I have an access to, and right to use, Autodesk Software for development purposes. 
+
 ### Terms and conditions
 
 ### Licence regarding contents
@@ -16,7 +24,7 @@ Copyright (c) by Julian Wandzilak
 
 I'm always trying to add an information about an intellectual property (who was the author or where I got the knowledge from). I expect the same from others.  
 
-If it is not stated that materials are free to use please contact me before using them and ask for permission. Mentioning me in your posts / web pages or other articles doesn't cost you anything and most of the time it will be everything I will ask for.
+If it is not stated that materials are free to use please contact me before using them and ask for permission. Mentioning me in your posts / web pages or other articles doesn't cost you much and most of the time it will be everything I will ask for.
 
 ### Use of the revit tools
 
@@ -27,6 +35,14 @@ That said all the tools were thoroughly tested. If you see any problems please [
 Keep in mind that Autodesk Revit provides you an option to undo any changes you made. In short please have some basic Revit knowledge, know what you try to do and you will be fine. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Use of experimental revit tools
+
+My add-ons sometimes contain experimental scripts. They are working fine and for now they are part of the provided toolset. 
+
+The thing is, that in the future they might become a part of new add-on, move to other already existing add-on or simply be converted into standard tools in their current toolbar. Some of them might end up in the bin!   
+
+I don't know what will happen with them but I want to share them with you as soon as possible.  
 
 ### Privacy Policies
 
