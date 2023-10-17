@@ -67,13 +67,15 @@ When buying the add-on from Autodesk App Store please refere to [Autodesk Privac
 
 #### Autodesk Revit Apps
 
-Our apps are not shearing any data. The only colleced informations are saved in W7k folder which you can find in your user's document folder - We save your offline licenses and information we use to need to make our scripts work (for example saved to memory informations, last used settings etc.) We do not have access to them and except the licese files they are not encrypted. 
+Our apps are not sharing any data. The only colleced informations are saved in W7k folder which you can find in your user's document folder - We save your offline licenses and information we use to need to make our scripts work (for example saved to memory informations, last used settings etc.) We do not have access to them and except the licese files they are not encrypted. 
 
 Just to let you know this folder stays on your drive after uinnstalling our apps. It is safe to manually delete it.  
 
 ### Buying our apps - B2B, corporate clients, VAT-EU, invoices etc.  
 
-Because of the way the Autodesk Apps Store is organised we treat all of the transactions from there as "Business to Customer". If you would like to get a B2B invoice please contact us by email before buying the app - [contact Us](mailto:apps@w7k.pl). 
+Because of the way the Autodesk Apps Store is organised we treat all of the transactions from there as "Business to Customer". As such they are a subject to VAT and you might have to pay import fees. 
+
+If you would like to get a B2B invoice please contact us by email before buying the app and we will arange it! - [contact Us](mailto:apps@w7k.pl). 
 
 
 ### Disqus
