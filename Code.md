@@ -22,13 +22,13 @@ WIP
 
 ### C# Revit Tools
 
-[My tools](https://w7k.pl/tools/)  
+[Tools](https://w7k.pl/tools/)  
 
-titles: 
+My add-ins: 
 
 [Leveler](https://w7k.pl/tools/leveler/)  
   
-[Wall Swap](https://w7k.pl/tools/leveler/)  
+[Wall Swap](https://w7k.pl/tools/wallswap/)  
 
 ## Programming
 
