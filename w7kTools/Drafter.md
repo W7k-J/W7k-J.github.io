@@ -4,6 +4,8 @@ title: Drafter
 permalink: /tools/drafter/
 ---
 
+![MainTab](/images/Tools/Drafter/drafter_1.jpg)
+
 I strongly believe in the power of nice drawings, neatly organized tags, consistency, I hate misalignments and “blinking” things in pdf-s. I learned that I could automate these (and other) things with Dynamo, but everyone should be able to do it without learning programming.
 
 Drafter is intended to help you with all things connected with production of drawings so you can make them faster and be prouder of work you do!
@@ -29,7 +31,7 @@ Right now, there are 20 groups of tools:
   
     [1.9.  Set TL position and length as in MEMORY – Active sheet]()  
     [1.10. Set TL position and length as in MEMORY – Selected Viewports]()  
-    [10.11. Set TL position and length as in MEMOR – Selected Sheets](##set-tl-position-and-length-as-in-memory-\–-selected-sheets)  
+    [10.11. Set TL position and length as in MEMOR – Selected Sheets](##set-tl-position-and-length-as-in-memory-–-selected-sheets)  
 
 
 2. [Project Browser](#project-browser)
@@ -55,6 +57,8 @@ Right now, there are 20 groups of tools:
 
 
 # Title Lines
+
+![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
 
 ## Align TL to the point
 
@@ -146,7 +150,7 @@ Select sheets in a project browser and use the tool. We will do the rest.
 
 # Project Browser 
 
-
+![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
 
 
 
