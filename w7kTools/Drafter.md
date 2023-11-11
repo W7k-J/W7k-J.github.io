@@ -52,10 +52,10 @@ Right now, there are 20 groups of tools:
 
 
 
-# Title Lines
+
 
 ![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
-
+# Title Lines
 ## Align TL to the point
 
 Gives complete control over a position of title lines and aligns them to selected point.
@@ -144,11 +144,10 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
-# Project Browser 
+
 
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
-
-Project Browser 
+# Project Browser 
 
 Sheet Number – Add prefix 
 
