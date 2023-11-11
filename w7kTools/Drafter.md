@@ -59,7 +59,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 [go back to list](#list)
 
-## Align TL to the point  
+### Align TL to the point  
 
 Gives complete control over a position of title lines and aligns them to selected point.
 
@@ -67,7 +67,7 @@ How to use the tool:
 
 Select viewports which title lines you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.
 
-## Align TL in the X axis
+### Align TL in the X axis
 
 Aligns title lines in X axis to the selected point.
 
@@ -75,7 +75,7 @@ How to use the tool:
 
 Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point. 
 
-## Align TL in the Y axis
+### Align TL in the Y axis
 
 Aligns title lines in Y axis to the selected point.
 
@@ -83,7 +83,7 @@ How to use the tool:
 
 Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point. 
 
-## Set length of selected TL as per PICKED Viewport
+### Set length of selected TL as per PICKED Viewport
 
 Reads the length of picked title lines and applies it to selected ones.
 
@@ -91,7 +91,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to pick the exemplary viewport, from which we will read the length. 
 
-## Set length of selected TL with MENU
+### Set length of selected TL with MENU
 
 Sets the length of selected title lines with provided menu. 
 
@@ -99,7 +99,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to specify the length of them with provided menu.
 
-## Set positions of selected TL as per PICKED Viewport
+### Set positions of selected TL as per PICKED Viewport
 
 Matches positions (measured as offsets from bottom left corners) of selected title lines to the picked one.
 
@@ -107,7 +107,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to pick the exemplary viewport. We will read the relative offset from its left bottom corner. 
 
-## Set positions of selected TL with MENU
+### Set positions of selected TL with MENU
 
 Sets positions of selected title lines with special menu.
 
@@ -115,7 +115,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to specify the offsets in provided menu.
 
-## Save To MEMORY – TL position and length 
+### Save To MEMORY – TL position and length 
 
 Saves a position and length of a selected title line to memory.
 
@@ -123,7 +123,7 @@ How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
 
-## Set TL position and length as in MEMORY – Active sheet
+### Set TL position and length as in MEMORY – Active sheet
 
 Reads a title line position and length from Memory and sets them to all viewports on current sheet.  
 
@@ -131,7 +131,7 @@ How to use the tool:
 
 Go to the sheet and use the tool. We will do the rest.
 
-## Set TL position and length as in MEMORY – Selected Viewports
+### Set TL position and length as in MEMORY – Selected Viewports
 
 Reads a title line position and length from Memory and sets them to all selected viewports.  
 
@@ -139,7 +139,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. We will do the rest.
 
-## Set TL position and length as in MEMORY – Selected Sheets 
+### Set TL position and length as in MEMORY – Selected Sheets 
 
 Reads a title line position and length from Memory and sets them to all viewports on selected sheets.  
 
@@ -154,7 +154,7 @@ Select sheets in a project browser and use the tool. We will do the rest.
 
 [go back to list](#list)  
 
-## Sheet Number – Add prefix 
+### Sheet Number – Add prefix 
 
 Adds a prefix to the numbers of all selected sheets.
 
@@ -162,7 +162,7 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-## Sheet Number – Add suffix 
+### Sheet Number – Add suffix 
 
 Adds a suffix to the numbers of all selected sheets.
 
@@ -170,7 +170,7 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the suffix you want to apply in a special menu. 
 
-## Sheet Number – To lower case 
+### Sheet Number – To lower case 
 
 Changes numbers of all selected sheets to lower case.
 
@@ -178,7 +178,7 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. 
 
-## Sheet Number – To UPPER CASE 
+### Sheet Number – To UPPER CASE 
 
 Changes numbers of all selected sheets to UPPER CASE.
 
@@ -186,7 +186,7 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. 
 
-## Sheet Number – To Title Case 
+### Sheet Number – To Title Case 
 
 Changes numbers of all selected sheets to Title Case.
 
@@ -194,7 +194,7 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. 
 
-## Sheet Number – Find and replace
+### Sheet Number – Find and replace
 
 Finds and replaces parts of numbers of all selected sheets.
 
@@ -202,7 +202,7 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
-## Sheet Number – Find and replace (All)
+### Sheet Number – Find and replace (All)
 
 Finds and replaces parts of numbers of all sheets.
 
@@ -210,7 +210,7 @@ How to use the tool:
 Press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
 
-## Names – Add prefix 
+### Names – Add prefix 
 
 Adds a prefix to the names of all selected views or sheets.
 
@@ -218,7 +218,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-## Names – Add suffix 
+### Names – Add suffix 
 
 Adds a suffix to the names of all selected views or sheets.
 
@@ -226,7 +226,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-## Names – To lower case 
+### Names – To lower case 
 
 Changes names of all selected views or sheets to lower case.
 
@@ -234,7 +234,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-## Names – To UPPER CASE 
+### Names – To UPPER CASE 
 
 Changes names of all selected views or sheets to UPPER CASE.
 
@@ -242,7 +242,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-## Names – To Title Case 
+### Names – To Title Case 
 
 Changes the names of all selected views or sheets to Title Case.
 
@@ -250,7 +250,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-## Names – Find and Replace
+### Names – Find and Replace
 
 Finds and replaces parts of names of all selected views or sheets.
 
