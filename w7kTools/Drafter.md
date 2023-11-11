@@ -14,22 +14,22 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 Right now, there are 20 groups of tools:
 
-1. [Title Lines](#title-lines)
-    [1.1.  Align TL to the point](##align-tL-to-the-point)
-    [1.2.  Align TL in the X axis]()
-    [1.3.  Align TL in the Y axis]()
-
-    [1.4.  Set length of selected TL as per PICKED Viewport]()
-    [1.5.  Set length of selected TL with MENU]()
-
-    [1.6.  Set positions of selected TL as per PICKED Viewport]()
-    [1.7.  Set positions of selected TL with MENU]()
-
-    [1.8.  Save To MEMORY – TL position and length]()
-
-    [1.9.  Set TL position and length as in MEMORY – Active sheet]()
-    [1.10. Set TL position and length as in MEMORY – Selected Viewports]()
-    [10.11. Set TL position and length as in MEMOR – Selected Sheets](##set-tl-position-and-length-as-in-memory-\–-selected-sheets)
+1. [Title Lines](#title-lines)  
+    [1.1.  Align TL to the point](##align-tL-to-the-point)  
+    [1.2.  Align TL in the X axis]()  
+    [1.3.  Align TL in the Y axis]()  
+  
+    [1.4.  Set length of selected TL as per PICKED Viewport]()  
+    [1.5.  Set length of selected TL with MENU]()  
+  
+    [1.6.  Set positions of selected TL as per PICKED Viewport]()  
+    [1.7.  Set positions of selected TL with MENU]()  
+  
+    [1.8.  Save To MEMORY – TL position and length]()  
+  
+    [1.9.  Set TL position and length as in MEMORY – Active sheet]()  
+    [1.10. Set TL position and length as in MEMORY – Selected Viewports]()  
+    [10.11. Set TL position and length as in MEMOR – Selected Sheets](##set-tl-position-and-length-as-in-memory-\–-selected-sheets)  
 
 
 2. [Project Browser](#project-browser)
@@ -144,6 +144,7 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
+# Project Browser 
 
 
 
