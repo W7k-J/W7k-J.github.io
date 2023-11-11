@@ -17,126 +17,19 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 Right now, there are 20 groups of tools:
 
 [1. Title Lines](#title-lines)  
-    [1.1.  Align TL to the point](##align-tL-to-the-point)  
-    [1.2.  Align TL in the X axis](##align-tl-in-the-x-axis)  
-    [1.3.  Align TL in the Y axis](##align-tl-in-the-y-axis)    
-    [1.4.  Set length of selected TL as per PICKED Viewport](##set-length-of-selected-tl-as-per-picked-viewport)  
-    [1.5.  Set length of selected TL with MENU](##set-length-of-selected-tl-with-menu)    
-    [1.6.  Set positions of selected TL as per PICKED Viewport](##set-positions-of-selected-tl-as-per-picked-viewport)  
-    [1.7.  Set positions of selected TL with MENU](##set-length-of-selected-tl-with-menu)    
-    [1.8.  Save To MEMORY – TL position and length](##save-to-memory-–-tl-position-and-length)    
-    [1.9.  Set TL position and length as in MEMORY – Active sheet](##set-tl-position-and-length-as-in-memory-–-active-sheet)  
-    [1.10. Set TL position and length as in MEMORY – Selected Viewports](##set-tl-position-and-length-as-in-memory-–-selected-viewports)  
-    [10.11. Set TL position and length as in MEMORY – Selected Sheets](##set-tl-position-and-length-as-in-memory-–-selected-sheets)    
+    [1.1.  Align TL to the point](#align-tL-to-the-point)  
+    [1.2.  Align TL in the X axis](#align-tl-in-the-x-axis)  
+    [1.3.  Align TL in the Y axis](#align-tl-in-the-y-axis)    
+    [1.4.  Set length of selected TL as per PICKED Viewport](#set-length-of-selected-tl-as-per-picked-viewport)  
+    [1.5.  Set length of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
+    [1.6.  Set positions of selected TL as per PICKED Viewport](#set-positions-of-selected-tl-as-per-picked-viewport)  
+    [1.7.  Set positions of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
+    [1.8.  Save To MEMORY – TL position and length](#save-to-memory-–-tl-position-and-length)    
+    [1.9.  Set TL position and length as in MEMORY – Active sheet](#set-tl-position-and-length-as-in-memory-–-active-sheet)  
+    [1.10. Set TL position and length as in MEMORY – Selected Viewports](#set-tl-position-and-length-as-in-memory-–-selected-viewports)  
+    [10.11. Set TL position and length as in MEMORY – Selected Sheets](#set-tl-position-and-length-as-in-memory-–-selected-sheets)    
+  
 [2. Project Browser](#project-browser)
-
-Project Browser 
-
-Sheet Number – Add prefix 
-
-Adds a prefix to the numbers of all selected sheets.
-
-How to use the tool:
-
-Select sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
-
-Sheet Number – Add suffix 
-
-Adds a suffix to the numbers of all selected sheets.
-
-How to use the tool:
-
-Select sheets in a project browser and press the button. You will be asked to select the suffix you want to apply in a special menu. 
-
-Sheet Number – To lower case 
-
-Changes numbers of all selected sheets to lower case.
-
-How to use the tool:
-
-Select sheets in a project browser and press the button. 
-
-Sheet Number – To UPPER CASE 
-
-Changes numbers of all selected sheets to UPPER CASE.
-
-How to use the tool:
-
-Select the sheets in a project browser and press the button. 
-
-Sheet Number – To Title Case 
-
-Changes numbers of all selected sheets to Title Case.
-
-How to use the tool:
-
-Select the sheets in a project browser and press the button. 
-
-Sheet Number – Find and replace
-
-Finds and replaces parts of numbers of all selected sheets.
-
-How to use the tool:
-
-Select the sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
-
-Sheet Number – Find and replace (All)
-
-Finds and replaces parts of numbers of all sheets.
-
-How to use the tool:
-Press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
-
-
-Names – Add prefix 
-
-Adds a prefix to the names of all selected views or sheets.
-
-How to use the tool:
-
-Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
-
-Names – Add suffix 
-
-Adds a suffix to the names of all selected views or sheets.
-
-How to use the tool:
-
-Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
-
-Names – To lower case 
-
-Changes names of all selected views or sheets to lower case.
-
-How to use the tool:
-
-Select views or sheets in a project browser and press the button. 
-
-Names – To UPPER CASE 
-
-Changes names of all selected views or sheets to UPPER CASE.
-
-How to use the tool:
-
-Select views or sheets in a project browser and press the button. 
-
-Names – To Title Case 
-
-Changes the names of all selected views or sheets to Title Case.
-
-How to use the tool:
-
-Select views or sheets in a project browser and press the button. 
-
-Names – Find and Replace
-
-Finds and replaces parts of names of all selected views or sheets.
-
-How to use the tool:
-
-Select some views or sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
-
-
 
 3. Vertical Views
 4. Viewports
@@ -255,7 +148,111 @@ Select sheets in a project browser and use the tool. We will do the rest.
 
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
 
+Project Browser 
 
+Sheet Number – Add prefix 
+
+Adds a prefix to the numbers of all selected sheets.
+
+How to use the tool:
+
+Select sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
+
+Sheet Number – Add suffix 
+
+Adds a suffix to the numbers of all selected sheets.
+
+How to use the tool:
+
+Select sheets in a project browser and press the button. You will be asked to select the suffix you want to apply in a special menu. 
+
+Sheet Number – To lower case 
+
+Changes numbers of all selected sheets to lower case.
+
+How to use the tool:
+
+Select sheets in a project browser and press the button. 
+
+Sheet Number – To UPPER CASE 
+
+Changes numbers of all selected sheets to UPPER CASE.
+
+How to use the tool:
+
+Select the sheets in a project browser and press the button. 
+
+Sheet Number – To Title Case 
+
+Changes numbers of all selected sheets to Title Case.
+
+How to use the tool:
+
+Select the sheets in a project browser and press the button. 
+
+Sheet Number – Find and replace
+
+Finds and replaces parts of numbers of all selected sheets.
+
+How to use the tool:
+
+Select the sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
+
+Sheet Number – Find and replace (All)
+
+Finds and replaces parts of numbers of all sheets.
+
+How to use the tool:
+Press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
+
+
+Names – Add prefix 
+
+Adds a prefix to the names of all selected views or sheets.
+
+How to use the tool:
+
+Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
+
+Names – Add suffix 
+
+Adds a suffix to the names of all selected views or sheets.
+
+How to use the tool:
+
+Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
+
+Names – To lower case 
+
+Changes names of all selected views or sheets to lower case.
+
+How to use the tool:
+
+Select views or sheets in a project browser and press the button. 
+
+Names – To UPPER CASE 
+
+Changes names of all selected views or sheets to UPPER CASE.
+
+How to use the tool:
+
+Select views or sheets in a project browser and press the button. 
+
+Names – To Title Case 
+
+Changes the names of all selected views or sheets to Title Case.
+
+How to use the tool:
+
+Select views or sheets in a project browser and press the button. 
+
+Names – Find and Replace
+
+Finds and replaces parts of names of all selected views or sheets.
+
+How to use the tool:
+
+Select some views or sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
 
 
