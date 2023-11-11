@@ -497,9 +497,9 @@ Works for vertical views such as sections or elevations.
 
 ![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
 # Scopeboxes
-drafterTitleBlocks
 
-![Title Blocks](/images/Tools/Drafter/drafterScopebox.jpg)  
+
+![Title Blocks](/images/Tools/Drafter/drafterTitleBlocks.jpg)  
 # Title Blocks
 
 ![Legends](/images/Tools/Drafter/drafterLegends.jpg)  
@@ -511,7 +511,7 @@ drafterTitleBlocks
 ![Revisions](/images/Tools/Drafter/drafterRevision.jpg)  
 # Revisions
 
-![Text Notes](/images/Tools/Drafter/drafterScopebox.jpg)  
+![Text Notes](/images/Tools/Drafter/drafterTN.jpg)  
 # Text Notes
 
 
