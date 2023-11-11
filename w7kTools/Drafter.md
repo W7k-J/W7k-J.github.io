@@ -43,42 +43,51 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
     [2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
     [2.3. Sheet Number - To lower case](#sheet-number-to-lower-case) 
     [2.4. Sheet Number - To UPPER CASE](#sheet-number-to-upper-case)   
-    [2.5. Sheet Number - To Title Case](#sheet-number-to-title-case)
+    [2.5. Sheet Number - To Title Case](#sheet-number-to-title-case)  
     [2.6. Sheet Number - Find and replace](#sheet-number-find-and-replace)  
-    [2.7. Sheet Number - Find and replace (All)](#sheet-number-find-and-replace-all)
-    [2.8. Names - Add prefix](#names-add-prefix)
-    [2.9. Names - Add suffix](#names-add-suffix)
-    [2.10. Names - To lower case](#names-to-lower-case)
-    [2.11. Names - To UPPER CASE](#names-to-upper-case)
-    [2.12. Names - To Title Case](#names-to-title-case)
-    [2.13. Names - Find and Replace](#names-find-and-replace)
+    [2.7. Sheet Number - Find and replace (All)](#sheet-number-find-and-replace-all)  
+    [2.8. Names - Add prefix](#names-add-prefix)  
+    [2.9. Names - Add suffix](#names-add-suffix)  
+    [2.10. Names - To lower case](#names-to-lower-case)  
+    [2.11. Names - To UPPER CASE](#names-to-upper-case)  
+    [2.12. Names - To Title Case](#names-to-title-case)  
+    [2.13. Names - Find and Replace](#names-find-and-replace)  
   
-[3. Vertical Views](#vertical-views)
+[3. Vertical Views](#vertical-views)  
 
-[4. Viewports]()
+[4. Viewports]()  
 
-[5. Sheets]()
+[5. Sheets]()  
 
-[6. Scopeboxes]()
+[6. Scopeboxes]()  
 
-[7. Title Blocks]()
+[7. Title Blocks]()  
 
-[8. Legends]()
+[8. Legends]()  
 
-[9. Schedules]()
+[9. Schedules]()  
 
-[10. Revisions]()
+[10. Revisions]()  
 
-[11. Text Notes]()
-[12. Text Notes - Position]()
-[13. Text Note - Leaders]()
-[14. Tags]()
-[15. Tags - Position]()
-[16. Tags - Leaders]()
-[17. Dimensions]()
-[18. Regions]()
-[19. Various]()
-[20. Family Editor]()
+[11. Text Notes]()  
+
+[12. Text Notes - Position]()  
+
+[13. Text Note - Leaders]()  
+
+[14. Tags]()  
+
+[15. Tags - Position]()  
+
+[16. Tags - Leaders]()  
+
+[17. Dimensions]()  
+
+[18. Regions]()  
+
+[19. Various]()  
+
+[20. Family Editor]()  
 
 
 
