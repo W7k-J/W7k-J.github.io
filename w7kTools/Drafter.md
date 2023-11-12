@@ -1581,7 +1581,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="make text note leader lines go with 90-degree elbow (horizontal)"></a> ![Make Text Note leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dH.png) Make Text Note leader lines go with 90-degree elbow (Horizontal)
+## <a id="make-text-note-leader-lines-go-with-90-degree-elbow-(horizontal)"></a> ![Make Text Note leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dH.png) Make Text Note leader lines go with 90-degree elbow (Horizontal)
 
 Sets leaders of selected Text Notes to go horizontal with 90-degree elbows.
 
@@ -1589,7 +1589,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="make text note leader lines go with 90-degree elbow (vertical)"></a> ![Make Text Note leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dV.png) Make Text Note leader lines go with 90-degree elbow (Vertical)
+## <a id="make-text-note-leader-lines-go-with-90-degree-elbow-(vertical)"></a> ![Make Text Note leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dV.png) Make Text Note leader lines go with 90-degree elbow (Vertical)
 
 Sets leaders of selected Text Notes to go vertical with 90-degree elbows.
 
@@ -1597,7 +1597,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="align text note leader elbows to point (horizontal)"></a> ![Align Text Note leader elbows to point (horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointH.png) Align Text Note leader elbows to point (horizontal)
+## <a id="align-text-note-leader-elbows-to-point-(horizontal)"></a> ![Align Text Note leader elbows to point (horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointH.png) Align Text Note leader elbows to point (horizontal)
 
 Aligns elbows of selected Text Note's leaders to selected point (in X-axis).
 
@@ -1607,7 +1607,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-## <a id="align text note leader elbows to point (vertical)"></a> ![Align Text Note leader elbows to point (vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointV.png) Align Text Note leader elbows to point (vertical)
+## <a id="align-text-note-leader-elbows-to-point-(vertical)"></a> ![Align Text Note leader elbows to point (vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointV.png) Align Text Note leader elbows to point (vertical)
 
 Aligns elbows of selected Text Note's leaders to selected point (in Y axis).
 
@@ -1617,7 +1617,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-## <a id="save text note leader to memory"></a> ![Save Text Note Leader to Memory](/images/Tools/Drafter/Icons/TN_LToMemory.png) Save Text Note Leader to Memory
+## <a id="save-text-note-leader-to-memory"></a> ![Save Text Note Leader to Memory](/images/Tools/Drafter/Icons/TN_LToMemory.png) Save Text Note Leader to Memory
 
 Saves leader settings to memory.
 
@@ -1625,7 +1625,7 @@ How to use the tool:
 
 Select a text note, or when started, you will be prompted to do it by the tool. 
 
-## <a id="set text note leader from memory from anchor"></a> ![Set Text Note Leader from MEMORY from Anchor](/images/Tools/Drafter/Icons/TN_LFromMemory.png) Set Text Note Leader from MEMORY from Anchor
+## <a id="set-text-note-leader-from-memory-from-anchor"></a> ![Set Text Note Leader from MEMORY from Anchor](/images/Tools/Drafter/Icons/TN_LFromMemory.png) Set Text Note Leader from MEMORY from Anchor
 
 Sets leader settings from memory starting from the current anchor point.
 
@@ -1633,7 +1633,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="set text note leader from memory from end"></a> ![Set Text Note Leader from MEMORY from End](/images/Tools/Drafter/Icons/TN_LFromMemoryEnd.png) Set Text Note Leader from MEMORY from End
+## <a id="set-text-note-leader-from-memory-from-end"></a> ![Set Text Note Leader from MEMORY from End](/images/Tools/Drafter/Icons/TN_LFromMemoryEnd.png) Set Text Note Leader from MEMORY from End
 
 Sets leader settings from memory starting from the current end point.
 
@@ -1646,7 +1646,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 # <a id="tags"></a> ![Tags](/images/Tools/Drafter/Icons/Tags.png) Tags  
 [back to LIST](#list)  
 
-## <a id="material tags - list empty"></a> ![Material Tags - List empty](/images/Tools/Drafter/Icons/Tags_Empty.png) Material Tags - List empty
+## <a id="material-tags-list-empty"></a> ![Material Tags - List empty](/images/Tools/Drafter/Icons/Tags_Empty.png) Material Tags - List empty
 
 Lists empty material tags in a special form.
 
@@ -1654,7 +1654,7 @@ How to use the tool:
 
 Simply click the tool and we will try to find all empty material tags. 
 
-## <a id="material tags - nudge all empty"></a> ![Material Tags - Nudge all empty](/images/Tools/Drafter/Icons/Tags_Empty_Nudge.png) Material Tags - Nudge all empty
+## <a id="material-tags-nudge-all-empty"></a> ![Material Tags - Nudge all empty](/images/Tools/Drafter/Icons/Tags_Empty_Nudge.png) Material Tags - Nudge all empty
 
 Nudges all empty tags. 
 
@@ -1662,7 +1662,7 @@ How to use the tool:
 
 Simply click the tool and we will try to nudge all empty tags.
 
-## <a id="material tags - delete all empty"></a> ![Material Tags - Delete all empty](/images/Tools/Drafter/Icons/Tags_Empty_Del.png) Material Tags - Delete all empty
+## <a id="material-tags-delete-all-empty"></a> ![Material Tags - Delete all empty](/images/Tools/Drafter/Icons/Tags_Empty_Del.png) Material Tags - Delete all empty
 
 Delets all empty material tags.
 
@@ -1674,7 +1674,7 @@ Simply click the tool and we will try to find all empty material tags and delete
 # <a id="tags-position"></a> ![Tags - Position](/images/Tools/Drafter/Icons/Tags_Pos.png) Tags - Position  
 [back to LIST](#list)  
 
-## <a id="move selected tags to the point"></a> ![Move selected Tags to the point](/images/Tools/Drafter/Icons/Tags_MoveToPoint.png) Move selected Tags to the point
+## <a id="move-selected-tags-to-the-point"></a> ![Move selected Tags to the point](/images/Tools/Drafter/Icons/Tags_MoveToPoint.png) Move selected Tags to the point
 
 Moves selected tags to selected point.
 
@@ -1684,7 +1684,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="move selected tags to the same place"></a> ![Move selected Tags to the same place](/images/Tools/Drafter/Icons/Tags_Same.png) Move selected Tags to the same place
+## <a id="move-selected-tags-to-the-same-place"></a> ![Move selected Tags to the same place](/images/Tools/Drafter/Icons/Tags_Same.png) Move selected Tags to the same place
 
 Moves selected tags to the position of a picked tag. 
 
@@ -1694,7 +1694,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked pick one tag and we will move selected tags to its position. 
 
-## <a id="move selected tags by 2 points"></a> ![Move selected Tags by 2 points](/images/Tools/Drafter/Icons/Tag_MoveByTwo.png) Move selected Tags by 2 points
+## <a id="move-selected-tags-by-2-points"></a> ![Move selected Tags by 2 points](/images/Tools/Drafter/Icons/Tag_MoveByTwo.png) Move selected Tags by 2 points
 
 Moves selected tags by the vector created by 2 points.
 
@@ -1704,7 +1704,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to select 2 points - base point and direction. 
 
-## <a id="swap position of 2 tags"></a> ![Swap position of 2 Tags](/images/Tools/Drafter/Icons/Tag_SWAP.png) Swap position of 2 Tags
+## <a id="swap-position-of-2-tags"></a> ![Swap position of 2 Tags](/images/Tools/Drafter/Icons/Tag_SWAP.png) Swap position of 2 Tags
 
 Swap positions of 2 tags - YOU CAN ALSO USE THE SWAP TOOL FOR THAT!
 
@@ -1712,7 +1712,7 @@ How to use the tool:
 
 Select 2 tags, or when started, you will be prompted to do it by the tool.
 
-## <a id="align selected tags in x-axis"></a> ![Align selected Tags in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Tags in X-Axis
+## <a id="align-selected-tags-in-x-axis"></a> ![Align selected Tags in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Tags in X-Axis
 
 Aligns selected tags in X-Axis to selected point.
 
@@ -1732,7 +1732,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="align selected tags in x-axis (left)"></a> ![Align selected Tags in X-Axis (Left)](/images/Tools/Drafter/Icons/AlignX_Left.png) Align selected Tags in X-Axis (Left)
+## <a id="align-selected-tags-in-x-axis-(left)"></a> ![Align selected Tags in X-Axis (Left)](/images/Tools/Drafter/Icons/AlignX_Left.png) Align selected Tags in X-Axis (Left)
 
 Aligns selected tags in X-Axis to selected point. At the same time the tool sets the alignment of selected tags to the left.
 
@@ -1742,7 +1742,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="align selected tags in x-axis (right)"></a> ![Align selected Tags in X-Axis (Right)](/images/Tools/Drafter/Icons/AlignX_Right.png) Align selected Tags in X-Axis (Right)
+## <a id="align-selected-tags-in-x-axis-(right)"></a> ![Align selected Tags in X-Axis (Right)](/images/Tools/Drafter/Icons/AlignX_Right.png) Align selected Tags in X-Axis (Right)
 
 Aligns selected tags in X-Axis to selected point. At the same time the tool sets the alignment of selected tags to the right.
 
@@ -1753,7 +1753,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 After that, you will be asked to choose the point. 
 
 
-## <a id="align selected tags in y-axis (top)"></a> ![Align selected Tags in Y-Axis (Top)](/images/Tools/Drafter/Icons/AlignY_Top.png) Align selected Tags in Y-Axis (Top)
+## <a id="align-selected-tags-in-y-axis-(top)"></a> ![Align selected Tags in Y-Axis (Top)](/images/Tools/Drafter/Icons/AlignY_Top.png) Align selected Tags in Y-Axis (Top)
 
 Aligns selected tags in Y-Axis to selected point. At the same time the tool sets the alignment of selected tags to the top.
 
@@ -1763,7 +1763,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="align selected tags in y-axis (bottom)"></a> ![Align selected Tags in Y-Axis (Bottom)](/images/Tools/Drafter/Icons/AlignY_Bottom.png) Align selected Tags in Y-Axis (Bottom)
+## <a id="align-selected-tags-in-y-axis-(bottom)"></a> ![Align selected Tags in Y-Axis (Bottom)](/images/Tools/Drafter/Icons/AlignY_Bottom.png) Align selected Tags in Y-Axis (Bottom)
 
 Aligns selected tags in Y-Axis to selected point. At the same time the tool sets the alignment of selected tags to the top.
 
@@ -1773,7 +1773,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="alignment - change and adjust tags (horizontal)"></a> ![Alignment - Change and adjust Tags (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Tags (Horizontal)
+## <a id="alignment-change-and-adjust-tags-(horizontal)"></a> ![Alignment - Change and adjust Tags (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Tags (Horizontal)
 
 Changes alignments of selected tags. Please use only with horizontal tags. 
 
@@ -1783,7 +1783,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-## <a id="alignment - change and adjust tags (vertical)"></a> ![Alignment - Change and adjust Tags (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Tags (Vertical)
+## <a id="alignment-change-and-adjust-tags-(vertical)"></a> ![Alignment - Change and adjust Tags (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Tags (Vertical)
 
 Changes alignments of selected tags. Please use only with vertical tags. 
 
@@ -1793,7 +1793,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-## <a id="distances (y-axis) between selected tags (horizontal)"></a> ![Distances (Y-Axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_Dist2H.png) Distances (Y-Axis) between selected Tags (Horizontal)
+## <a id="distances-(y-axis)-between-selected-tags-(horizontal)"></a> ![Distances (Y-Axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_Dist2H.png) Distances (Y-Axis) between selected Tags (Horizontal)
 
 Orders tags and sets the same distances (Y-Axis).
 
@@ -1803,7 +1803,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two tags. We will calculate the distance between 2 of them and apply it to the selected. 
 
-## <a id="distances (x-axis) between selected tags (vertical)"></a> ![Distances (X-Axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_Dist2V.png) Distances (X-Axis) between selected Tags (Vertical)
+## <a id="distances-(x-axis)-between-selected-tags-(vertical)"></a> ![Distances (X-Axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_Dist2V.png) Distances (X-Axis) between selected Tags (Vertical)
 
 Orders tags and sets the same distances (X-Axis).
 
@@ -1813,7 +1813,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
 
-## <a id="average distance (y-axis) between selected tags (horizontal)"></a> ![Average distance (Y-axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_DistAverageH.png) Average distance (Y-axis) between selected Tags (Horizontal)
+## <a id="average-distance-(y-axis)-between-selected-tags-(horizontal)"></a> ![Average distance (Y-axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_DistAverageH.png) Average distance (Y-axis) between selected Tags (Horizontal)
 
 Orders tags and sets the average distances between them (Y-axis).
 
@@ -1821,7 +1821,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="average distance (x-axis) between selected tags (vertical)"></a> ![Average distance (X-axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_DistAverageV.png) Average distance (X-axis) between selected Tags (Vertical)
+## <a id="average-distance-(x-axis)-between-selected-tags-(vertical)"></a> ![Average distance (X-axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_DistAverageV.png) Average distance (X-axis) between selected Tags (Vertical)
 
 Orders tags and sets the average distances between them (X-axis).
 
@@ -1829,7 +1829,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="distance between selected tags with menu"></a> ![Distance between selected Tags with MENU](/images/Tools/Drafter/Icons/Tags_DistMenu.png) Distance between selected Tags with MENU
+## <a id="distance-between-selected-tags-with-menu"></a> ![Distance between selected Tags with MENU](/images/Tools/Drafter/Icons/Tags_DistMenu.png) Distance between selected Tags with MENU
 
 Orders tags and sets the distances between them with provided menu.
 
@@ -1842,7 +1842,7 @@ After that you will be asked to choose distance in provided menu.
 # <a id="tags-leaders"></a> ![Tags - Leaders](/images/Tools/Drafter/Icons/TagsLeader.png) Tags - Leaders  
 [back to LIST](#list)  
 
-## <a id="make tag leader lines horizontal"></a> ![Make Tag leader lines horizontal](/images/Tools/Drafter/Icons/Tags_Leader_H.png) Make Tag leader lines horizontal
+## <a id="make-tag-leader-lines-horizontal"></a> ![Make Tag leader lines horizontal](/images/Tools/Drafter/Icons/Tags_Leader_H.png) Make Tag leader lines horizontal
 
 Sets leaders of selected tags to go exactly horizontal.
 
@@ -1850,7 +1850,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="make tag leader lines vertical"></a> ![Make Tag leader lines vertical](/images/Tools/Drafter/Icons/Tags_Leader_V.png) Make Tag leader lines vertical
+## <a id="make-tag-leader-lines-vertical"></a> ![Make Tag leader lines vertical](/images/Tools/Drafter/Icons/Tags_Leader_V.png) Make Tag leader lines vertical
 
 Sets leaders of tags notes to go exactly vertical.
 
@@ -1858,7 +1858,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="move tags so their leader lines go horizontal"></a> ![Move Tags so their leader lines go horizontal](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadH.png) Move Tags so their leader lines go horizontal
+## <a id="move-tags-so-their-leader-lines-go-horizontal"></a> ![Move Tags so their leader lines go horizontal](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadH.png) Move Tags so their leader lines go horizontal
 
 Moves selected tags up and down so their leader lines go exactly horizontal.
 
@@ -1866,7 +1866,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="move tags so their leader lines go vertical"></a> ![Move Tags so their leader lines go vertical](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadV.png) Move Tags so their leader lines go vertical
+## <a id="move-tags-so-their-leader-lines-go-vertical"></a> ![Move Tags so their leader lines go vertical](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadV.png) Move Tags so their leader lines go vertical
 
 Moves selected tags left and right so their leader lines go exactly vertical.
 
@@ -1874,7 +1874,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="make tags leader lines go straight without elbow"></a> ![Make tags leader lines go straight without elbow](/images/Tools/Drafter/Icons/Tags_Leader_NoElbow.png) Make tags leader lines go straight without elbow
+## <a id="make-tags-leader-lines-go-straight-without-elbow"></a> ![Make tags leader lines go straight without elbow](/images/Tools/Drafter/Icons/Tags_Leader_NoElbow.png) Make tags leader lines go straight without elbow
 
 Sets leaders of selected tags to go exactly straight.
 
@@ -1882,7 +1882,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="make tags leader lines go with 90-degree elbow (horizontal)"></a> ![Make tags leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/Tags_Leader_90dH.png) Make tags leader lines go with 90-degree elbow (Horizontal)
+## <a id="make-tags-leader-lines-go-with-90-degree-elbow-(horizontal)"></a> ![Make tags leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/Tags_Leader_90dH.png) Make tags leader lines go with 90-degree elbow (Horizontal)
 
 Sets leaders of selected tags to go horizontal with 90-degree elbows.
 
@@ -1892,7 +1892,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 It will not work if you have Arc setting selected.
 
-## <a id="make tags leader lines go with 90-degree elbow (vertical)"></a> ![Make tags leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/Tags_Leader_90dV.png) Make tags leader lines go with 90-degree elbow (Vertical)
+## <a id="make-tags-leader-lines-go-with-90-degree-elbow-(vertical)"></a> ![Make tags leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/Tags_Leader_90dV.png) Make tags leader lines go with 90-degree elbow (Vertical)
 
 Sets leaders of selected tags to go vertical with 90-degree elbows.
 
@@ -1902,7 +1902,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 It will not work if you have Arc setting selected.
 
-## <a id="align tags leader elbows to point (horizontal tn)"></a> ![Align tags leader elbows to point (horizontal TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointH.png) Align tags leader elbows to point (horizontal TN)
+## <a id="align-tags-leader-elbows-to-point-(horizontal-tn)"></a> ![Align tags leader elbows to point (horizontal TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointH.png) Align tags leader elbows to point (horizontal TN)
 
 Aligns elbows of selected tags leaders to selected point (in X-Axis).
 
@@ -1912,7 +1912,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-## <a id="align tags leader elbows to point (vertical tn)"></a> ![Align tags leader elbows to point (vertical TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointV.png) Align tags leader elbows to point (vertical TN)
+## <a id="align-tags-leader-elbows-to-point-(vertical-tn)"></a> ![Align tags leader elbows to point (vertical TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointV.png) Align tags leader elbows to point (vertical TN)
 
 Aligns elbows of selected tags leaders to selected point (in Y-Axis).
 
@@ -1926,7 +1926,7 @@ After that select the point.
 # <a id="dimensions"></a> ![Dimensions](/images/Tools/Drafter/Icons/Dim.png) Dimensions  
 [back to LIST](#list)  
 
-## <a id="reset value overrides in selected dimensions"></a> ![Reset value overrides in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png) Reset value overrides in selected Dimensions
+## <a id="reset-value-overrides-in-selected-dimensions"></a> ![Reset value overrides in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png) Reset value overrides in selected Dimensions
 
 Resets value overrides in selected dimensions. 
 
@@ -1934,7 +1934,7 @@ How to use the tool:
 
 Select some dimensions, or when started, you will be prompted to do it by the tool. 
 
-## <a id="reset text position in selected dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverwriteReset.png) Reset text position in selected Dimensions
+## <a id="reset-text-position-in-selected-dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverwriteReset.png) Reset text position in selected Dimensions
 
 Resets text position in selected dimensions. 
 
@@ -1942,7 +1942,7 @@ How to use the tool:
 
 Select some dimensions, or when started, you will be prompted to do it by the tool. 
 
-## <a id="find & replace in all dimensions"></a> ![Find & Replace in all dimensions](/images/Tools/Drafter/Icons/Dim_FindAndReplace.png) Find & Replace in all dimensions
+## <a id="find-&-replace-in-all-dimensions"></a> ![Find & Replace in all dimensions](/images/Tools/Drafter/Icons/Dim_FindAndReplace.png) Find & Replace in all dimensions
 
 Finds specific values in dimensions (above, below, prefixes, suffixes) and gives you a possibility to replace them with value from provided menu. 
 
@@ -1950,7 +1950,7 @@ How to use the tool:
 
 Start the tool.  You will be asked to provide the values in menu you want to search for and replace with.
 
-## <a id="find zeros in dimensions"></a> ![Find Zeros in dimensions](/images/Tools/Drafter/Icons/Dim_Zero.png) Find Zeros in dimensions
+## <a id="find-zeros-in-dimensions"></a> ![Find Zeros in dimensions](/images/Tools/Drafter/Icons/Dim_Zero.png) Find Zeros in dimensions
 
 Finds zeros in your dimensions.  
 
@@ -1979,7 +1979,7 @@ We recommened you to set 'SWAP' shortcut for this button.
 # <a id="regions"></a> ![Regions](/images/Tools/Drafter/Icons/Region.png) Regions  
 [back to LIST](#list)  
 
-## <a id="convert masking region into filled region"></a> ![Convert Masking Region into Filled Region](/images/Tools/Drafter/Icons/Region_Convert.png) Convert Masking Region into Filled Region
+## <a id="convert-masking-region-into-filled-region"></a> ![Convert Masking Region into Filled Region](/images/Tools/Drafter/Icons/Region_Convert.png) Convert Masking Region into Filled Region
 
 Experimental! Converts masking region into filled regions. 
 
@@ -1987,7 +1987,7 @@ How to use the tool:
 
 Select some masking regions, or when started, you will be prompted to do it by the tool. 
 
-## <a id="walls to filled region"></a> ![Walls to Filled Region](/images/Tools/Drafter/Icons/Region_ConvertWall.png) Walls to Filled Region
+## <a id="walls-to-filled-region"></a> ![Walls to Filled Region](/images/Tools/Drafter/Icons/Region_ConvertWall.png) Walls to Filled Region
 
 Experimental! Converts selected walls into filled regions (works in plan only). 
 
@@ -1999,7 +1999,7 @@ Select some walls, or when started, you will be prompted to do it by the tool.
 # <a id="family-editor"></a> ![Family Editor](/images/Tools/Drafter/Icons/Family.png) Family Editor  
 [back to LIST](#list)  
   
-## <a id="move text element to the point"></a> ![Move Text Element to the point](/images/Tools/Drafter/Icons/Text_MoveToPoint.png) Move Text Element to the point 
+## <a id="move-text-element-to-the-point"></a> ![Move Text Element to the point](/images/Tools/Drafter/Icons/Text_MoveToPoint.png) Move Text Element to the point 
 
 Gives complete control over a position of text elements and aligns them to selected point.
 
@@ -2007,7 +2007,7 @@ How to use the tool:
 
 Select text elements which you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.
 
-## <a id="draw lines at (0, 0)"></a> ![Draw lines at (0, 0)](/images/Tools/Drafter/Icons/FE_drawzero.png) Draw lines at (0, 0)
+## <a id="draw-lines-at-(0,-0)"></a> ![Draw lines at (0, 0)](/images/Tools/Drafter/Icons/FE_drawzero.png) Draw lines at (0, 0)
 
 Draws lines at point (0, 0)
 
@@ -2015,7 +2015,7 @@ How to use the tool:
 
 Press the button.
 
-## <a id="set width of selected text elements with menu"></a> ![Set width of selected Text Elements with MENU ](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected Text Elements with MENU 
+## <a id="set-width-of-selected-text-elements-with-menu"></a> ![Set width of selected Text Elements with MENU ](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected Text Elements with MENU 
 
 Sets the width of selected text elements to the width chosen in provided menu. 
 
