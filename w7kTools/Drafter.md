@@ -25,10 +25,10 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 # List
 
-### [1. Title Lines](#title-lines)
-![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) [1.1. Align TL to the point ](#align-tL-to-the-point)  
-[1.2. Align TL in the X axis](#align-tl-in-the-x-axis)  
-[1.3. Align TL in the Y axis](#align-tl-in-the-y-axis)    
+### ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) [1. Title Lines](#title-lines)
+![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) [1.1. Align TL to the point ](#align-tl-to-the-point)  
+![Align TL to the point](/images/Tools/Drafter/Icons/AlignX.png) [1.2. Align TL in the X axis](#align-tl-in-the-x-axis)  
+![Align TL to the point](/images/Tools/Drafter/Icons/AlignY.png) [1.3. Align TL in the Y axis](#align-tl-in-the-y-axis)    
 [1.4. Set length of selected TL as per PICKED Viewport](#set-length-of-selected-tl-as-per-picked-viewport)  
 [1.5. Set length of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
 [1.6. Set positions of selected TL as per PICKED Viewport](#set-positions-of-selected-tl-as-per-picked-viewport)  
@@ -112,7 +112,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 
 ![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
-# Title Lines  
+# <a id="title-lines"></a> ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) Title Lines  
 
 [go back to list](#list)
 
@@ -125,7 +125,7 @@ How to use the tool:
 
 Select viewports which title lines you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.
 
-## Align TL in the X axis
+## <a id="align-tl-in-the-x-axis"></a> ![Align TL in the X axis](/images/Tools/Drafter/Icons/AlignX.png) Align TL in the X axis
 
 Aligns title lines in X axis to the selected point.
 
@@ -133,7 +133,7 @@ How to use the tool:
 
 Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point. 
 
-## Align TL in the Y axis
+## <a id="align-tl-in-the-y-axis"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/AlignY.png) Align TL in the Y axis
 
 Aligns title lines in Y axis to the selected point.
 
