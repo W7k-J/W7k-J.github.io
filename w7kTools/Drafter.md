@@ -289,8 +289,9 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
   
 # Commands
 
-![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
+
 # <a id="title-lines"></a> ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) Title Lines  
+![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
 [back to LIST](#list)  
 
 ## <a id="align-tl-to-the-point"></a> ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point  
@@ -381,9 +382,10 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
-![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
+
 
 # <a id="project-browser"></a> ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) Project Browser  
+![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
 [back to LIST](#list)  
 
 ## <a id="sheet-number-add-prefix"></a> ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixBlue.png) Sheet Number - Add prefix 
@@ -489,9 +491,10 @@ How to use the tool:
 
 Select some views or sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
-![Vertical Views](/images/Tools/Drafter/drafterVview.jpg)  
+
 
 # <a id="vertical-views"></a> ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) Vertical Views  
+![Vertical Views](/images/Tools/Drafter/drafterVview.jpg)  
 [back to LIST](#list)  
 
 ## <a id="top-&-base-offset-active"></a> ![Top & Base Offset - Active](/images/Tools/Drafter/Icons/VV_Offset_ActiveView.png) Top & Base Offset - Active
@@ -686,8 +689,9 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
+
 # <a id="viewports"></a> ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) Viewports  
+![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
 [back to LIST](#list)  
 
 ## <a id="align-selected-viewports-(middle-y-axis)"></a> ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) Align selected Viewports (Middle Y-Axis)
@@ -831,13 +835,10 @@ How to use the tool:
 Select viewports which you want to order, or when started you will be prompted to do it by the tool. 
 
 After selection you will be prompted to pick the 2 points. Start with top left. 
-
- 
-
-
-
-![Sheets](/images/Tools/Drafter/drafterSheets.jpg)  
+  
+   
 # <a id="sheets"></a> ![Sheets](/images/Tools/Drafter/Icons/Sheet_Button.png) Sheets  
+![Sheets](/images/Tools/Drafter/drafterSheets.jpg)  
 [back to LIST](#list)  
   
 ## <a id="numbers-add-1-to-selected-sheet"></a> ![Numbers - Add +1 to Selected Sheet](/images/Tools/Drafter/Icons/Sheet_NumberOneUp.png) Numbers - Add +1 to Selected Sheet
@@ -941,8 +942,8 @@ How to use the tool:
 Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
   
   
-![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
 # <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
+![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
 [back to LIST](#list)  
   
 ## <a id="aling-plans-on-the-sheets-with-the-same-scopebox"></a> ![Aling plans on the sheets with the same scopebox](/images/Tools/Drafter/Icons/Viewport_Scopebox.png) Aling plans on the sheets with the same scopebox  
@@ -1017,9 +1018,8 @@ How to use the tool:
 Select title blocks which you want to change, or when started you will be prompted to do it by the tool. 
 
 
-![Legends](/images/Tools/Drafter/drafterLegends.jpg)  
-# Legends
 # <a id="legends"></a> ![Legends](/images/Tools/Drafter/Icons/Legend_Button.png) Legends  
+![Legends](/images/Tools/Drafter/drafterLegends.jpg)  
 [back to LIST](#list)  
 
 ## <a id="position-of-all-instances-of-selected-legend"></a> ![Position of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_Position.png) Position of all instances of selected Legend
@@ -1079,12 +1079,10 @@ How to use the tool:
 Select legends which you want to change, or when started you will be prompted to do it by the tool. 
 
 Their position on the sheet will be adjusted to position saved in the memory.
-
-
-
-![Schedules](/images/Tools/Drafter/drafterSchedules.jpg)  
-# Schedules
+  
+  
 # <a id="schedules"></a> ![Schedules](/images/Tools/Drafter/Icons/Schedule_Button.png) Schedules  
+![Schedules](/images/Tools/Drafter/drafterSchedules.jpg)  
 [back to LIST](#list)  
 
 ## <a id="position-of-all-instances-of-selected-schedule"></a> ![Position of all instances of selected schedule](/images/Tools/Drafter/Icons/Schedule_Position.png) Position of all instances of selected schedule
@@ -1243,11 +1241,10 @@ Hides columns we made visible from the whole project.
 How to use the tool:
 
 Press the button and the tool will hide columns we made visible and reset their colour to black.
-
-
-
-![Revisions](/images/Tools/Drafter/drafterRevision.jpg)  
+  
+  
 # <a id="revisions"></a> ![Revisions](/images/Tools/Drafter/Icons/Revision.png) Revisions  
+![Revisions](/images/Tools/Drafter/drafterRevision.jpg)  
 [back to LIST](#list)  
 
 ## <a id="save-revision-visibility-to-memory"></a> ![Save revision visibility to MEMORY](/images/Tools/Drafter/Icons/RevisionSaveVisibility.png) Save revision visibility to MEMORY
@@ -1289,10 +1286,10 @@ Delets all revision clouds from active view or sheet.
 How to use the tool:
 
 Select some views or sheets in a project browser and press the button. The tool will delete all revisions from them. If you select a sheet, the tool will give you a possibility to gather all the viewports on it and delete revisions from them too. 
-
-
-![Text Notes](/images/Tools/Drafter/drafterTN.jpg)  
+  
+  
 # <a id="text-notes"></a> ![Text Notes](/images/Tools/Drafter/Icons/TextNotes_Button.png) Text Notes  
+![Text Notes](/images/Tools/Drafter/drafterTN.jpg)  
 [back to LIST](#list)  
 
 ## <a id="text-notes-to-lower-case"></a> ![Text Notes to lower case](/images/Tools/Drafter/Icons/TextToLower.png) Text Notes to lower case 
@@ -1640,10 +1637,10 @@ Sets leader settings from memory starting from the current end point.
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
-
-
-![Tags](/images/Tools/Drafter/drafterTags.jpg)  
+  
+  
 # <a id="tags"></a> ![Tags](/images/Tools/Drafter/Icons/Tags.png) Tags  
+![Tags](/images/Tools/Drafter/drafterTags.jpg)  
 [back to LIST](#list)  
 
 ## <a id="material-tags-list-empty"></a> ![Material Tags - List empty](/images/Tools/Drafter/Icons/Tags_Empty.png) Material Tags - List empty
@@ -1921,9 +1918,10 @@ How to use the tool:
 Select tags, or when started, you will be prompted to do it by the tool. 
 
 After that select the point.
-
-![Dimensions](/images/Tools/Drafter/drafterDim.jpg)  
+  
+  
 # <a id="dimensions"></a> ![Dimensions](/images/Tools/Drafter/Icons/Dim.png) Dimensions  
+![Dimensions](/images/Tools/Drafter/drafterDim.jpg)  
 [back to LIST](#list)  
 
 ## <a id="reset-value-overrides-in-selected-dimensions"></a> ![Reset value overrides in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png) Reset value overrides in selected Dimensions
@@ -1959,8 +1957,9 @@ How to use the tool:
 Start the tool. We will check the project for all dimensions with value "0". You will get a menu with a list of them and an option to export it to a txt file. 
 
 
-![Various](/images/Tools/Drafter/drafterVarious.jpg)  
+
 # <a id="various"></a> ![Various](/images/Tools/Drafter/Icons/Various.png) Various  
+![Various](/images/Tools/Drafter/drafterVarious.jpg)  
 [back to LIST](#list)  
 
 ## <a id="SWAP"></a> ![SWAP](/images/Tools/Drafter/Icons/SWAP.png) SWAP
@@ -2033,11 +2032,21 @@ Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024.
 ## Known Problems  
 [back to LIST](#list)  
 
+The number of tools makes it hard to make sure that all of them work 100% of times. So please don't try to break them and report problems to me! Together we can save even more time for you!
+
 ### Problems on To-Do List:
 
+Tags and Text notes - alignment will not work as intended if you rotate the north - I already made it work on non-perpendicular sections and elevations, but still not on plans!
+Tags and Text notes - copying leader settings from memory might not work on sections and elevations as intended.
 
 ### Problems not on To-Do List:
 
+Full support for older versions (2020, 2021, a few in 2022) – You are able to download the tool, but some buttons might not work (for example title lines, tags, legends1)
+
+
+Your support will help improve this app!
+For the most common list of exceptions, please visit the tool page.
+This toolset will grow in time! Your support will keep it alive and kicking! Please don't hesitate to contact me with a feedback or ideas of new features.
 
 <br>
 <div class="backToTools">
