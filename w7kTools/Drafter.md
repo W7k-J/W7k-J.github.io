@@ -114,9 +114,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 [go back to list](#list)
 
-## Align TL to the point  
-
-![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png)  
+## ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point  
 
 Gives complete control over a position of title lines and aligns them to selected point.
 
