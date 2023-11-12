@@ -26,7 +26,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 # List
 
 ### [1. Title Lines](#title-lines)
-[1.1. Align TL to the point ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png)](#align-tL-to-the-point)  
+![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) [1.1. Align TL to the point ](#align-tL-to-the-point)  
 [1.2. Align TL in the X axis](#align-tl-in-the-x-axis)  
 [1.3. Align TL in the Y axis](#align-tl-in-the-y-axis)    
 [1.4. Set length of selected TL as per PICKED Viewport](#set-length-of-selected-tl-as-per-picked-viewport)  
@@ -114,7 +114,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 [go back to list](#list)
 
-## ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point  
+![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png)
+## Align TL to the point  
 
 Gives complete control over a position of title lines and aligns them to selected point.
 
@@ -768,6 +769,15 @@ Select generic annotations which you want to change, or when started you will be
 
 ![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
 # Scopeboxes
+
+## Aling plans on the sheets with the same scopebox
+
+Alings plans on the sheets with the same scopebox and the same scale as selected.  
+
+How to use the tool:
+
+Select exemplary viewport or when started you will be prompted to do it by the tool.
+You don't have to unpin the viewports - we will do it automatically. 
 
 
 ![Title Blocks](/images/Tools/Drafter/drafterTitleBlocks.jpg)  
