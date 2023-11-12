@@ -34,7 +34,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
     [1.6. Set positions of selected TL as per PICKED Viewport](#set-positions-of-selected-tl-as-per-picked-viewport)  
     [1.7. Set positions of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
     [1.8. Save To MEMORY - TL position and length](#save-to-memory-tl-position-and-length)    
-    [1.9. Set TL position and length as in MEMORY - Active sheet](#set-tl-position-and-length-as-in-memory-active-sheet)  
+    [1.9. Set TL position and length as in MEMORY - Active sheet](#tl9)  
     [1.10. Set TL position and length as in MEMORY - Selected Viewports](#set-tl-position-and-length-as-in-memory-selected-viewports)  
     [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)    
   
@@ -162,7 +162,7 @@ How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
 
-## <a id="#set-tl-position-and-length-as-in-memory-active-sheet"></a> Set TL position and length as in MEMORY - Active sheet
+## <a id="#tl9"></a> Set TL position and length as in MEMORY - Active sheet
 
 Reads a title line position and length from Memory and sets them to all viewports on current sheet.  
 
