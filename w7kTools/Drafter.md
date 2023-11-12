@@ -39,9 +39,10 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Set TL position and length as in MEMORY - Selected Viewports](/images/Tools/Drafter/Icons/TitleLinePositionFromMemory.png) [1.10. Set TL position and length as in MEMORY - Selected Viewports](#set-tl-position-and-length-as-in-memory-selected-viewports)  
 ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)  
   
+
 ### ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) [2. Project Browser](#project-browser)  
   
-![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixBlue.png)[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
+![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixblue.png)[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
 ![Sheet Number - Add suffix](/images/Tools/Drafter/Icons/suffixBlue.png)[2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
 ![Sheet Number - To lower case](/images/Tools/Drafter/Icons/TextToLowerBlue.png)[2.3. Sheet Number - To lower case](#sheet-number-to-lower-case)  
 ![Sheet Number - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpperBlue.png)[2.4. Sheet Number - To UPPER CASE](#sheet-number-to-upper-case)  
@@ -54,7 +55,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Names - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png)[2.11. Names - To UPPER CASE](#names-to-upper-case)  
 ![Names - To Title Case](/images/Tools/Drafter/Icons/TextToTitle.png)[2.12. Names - To Title Case](#names-to-title-case)  
 ![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png)[2.13. Names - Find and Replace](#names-find-and-replace)  
-  
+
+    
 ### ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) [3. Vertical Views](#vertical-views)  
   
 ![Top & Base Offset - Active](/images/Tools/Drafter/Icons/VV_Offset_ActiveView.png)[3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
@@ -76,6 +78,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
   
 ### ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) [4. Viewports](#viewports)  
   
+
 ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) [4.1. Align selected Viewports (Middle Y-Axis)](#align-selected-viewports-(middle-y-axis))  
 ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRMiddle.png) [4.2. Align selected Viewports (Middle Y-Axis)](#align-selected-viewports-(middle-y-axis))  
 ![Align selected Viewports (Bottom)](/images/Tools/Drafter/Icons/Viewport_LocationRLow.png) [4.3. Align selected Viewports (Bottom)](#align-selected-viewports-(bottom))  
@@ -93,13 +96,27 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Order horizontally with a chosen gap](/images/Tools/Drafter/Icons/Viewport_OrderHorizontally.png) [4.15. Order horizontally with a chosen gap](#order-horizontally-with-a-chosen-gap)  
 ![Order up to 4 viewports in two rows with 2 points](/images/Tools/Drafter/Icons/Viewport_OrderUpTo4.png) [4.16. Order up to 4 viewports in two rows with 2 points](#order-up-to-4-viewports-in-two-rows-with-2-points)  
   
+  
 ### ![Sheets](/images/Tools/Drafter/Icons/Sheet_Button.png) [5. Sheets](#sheets)  
-
-
+  
+![Numbers - Add +1 to Selected Sheet](/images/Tools/Drafter/Icons/Sheet_NumberOneUp.png) [5.1. Numbers - Add +1 to Selected Sheet](#numbers-add-1-to-selected-sheet)  
+![Numbers - Subtract 1 from Selected Sheet](/images/Tools/Drafter/Icons/Sheet_NumberOneDown.png) [5.2. Numbers - Subtract 1 from Selected Sheet](#numbers-subtract-1-from-selected-sheet)  
+![Reset Title On Sheet - Active Sheet](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_ActiveView.png) [5.3. Reset Title On Sheet - Active Sheet](#reset-title-on-sheet-active-sheet)  
+![Reset Title On Sheet - Selected Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_Selected.png) [5.4. Reset Title On Sheet - Selected Sheets](#reset-title-on-sheet-selected-sheets)  
+![Reset Title On Sheet - All Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_All.png) [5.5. Reset Title On Sheet - All Sheets](#reset-title-on-sheet-all-sheets)  
+![Fake Scale - Active Sheet](/images/Tools/Drafter/Icons/Sheet_FakeScale_ActiveView.png) [5.6. Fake Scale - Active Sheet](#fake-scale-active-sheet)  
+![Fake Scale - Selected Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_Selected.png) [5.7. Fake Scale - Selected Sheets](#fake-scale-selected-sheets)  
+![Fake Scale - All Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_All.png) [5.8. Fake Scale - All Sheets](#fake-scale-all-sheets)  
+![Generic Annotations - Adjust positions on all sheets](/images/Tools/Drafter/Icons/Sheet_GA.png) [5.9. Generic Annotations - Adjust positions on all sheets](#generic-annotations-adjust-positions-on-all-sheets)  
+![Generic Annotations - Save position to MEMORY](/images/Tools/Drafter/Icons/Sheet_GA_ToMemory.png) [5.10. Generic Annotations - Save position to MEMORY](#generic-annotations-save-position-to-memory)  
+![Generic Annotations - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Sheet_GA_FromMemory.png) [5.11. Generic Annotations - Load position from MEMORY to Selected](#generic-annotations-load-position-from-memory-to-selected)  
+  
+  
 ### ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) [6. Scopeboxes](#scopeboxes)
   
 ![Aling plans on the sheets with the same scopebox](/images/Tools/Drafter/Icons/Viewport_Scopebox.png) [6.1. Aling plans on the sheets with the same scopebox](#aling-plans-on-the-sheets-with-the-same-scopebox)  
   
+
 ### ![Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_Button.png) [7. Title Blocks](#title-blocks)  
 
 ### ![Legends](/images/Tools/Drafter/Icons/Legend_Button.png) [8. Legends](#legends)  
