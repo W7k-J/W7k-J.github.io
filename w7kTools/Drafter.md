@@ -75,7 +75,9 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 [5. Sheets]()  
 
-[6. Scopeboxes]()  
+### [6. Scopeboxes]()  
+
+[6.1. Aling plans on the sheets with the same scopebox](#aling-plans-on-the-sheets-with-the-same-scopebox)
 
 [7. Title Blocks]()  
 
@@ -114,8 +116,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 [go back to list](#list)
 
-![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png)
-## Align TL to the point  
+
+## <a id="align-tl-to-the-point"></a> ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point  
 
 Gives complete control over a position of title lines and aligns them to selected point.
 
