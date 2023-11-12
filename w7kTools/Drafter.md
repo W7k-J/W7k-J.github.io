@@ -53,10 +53,24 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
     [2.12. Names - To Title Case](#names-to-title-case)  
     [2.13. Names - Find and Replace](#names-find-and-replace)  
   
-[3. Vertical Views](#vertical-views)
-    [3.1 Top & Base Offset - Active](#top-&-base-offset-active")  
-
-
+[3. Vertical Views](#vertical-views)  
+    [3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
+    [3.2. Top & Base Offset - Selected Views](#top-&-base-offset-selected-views)  
+    [3.3. Top & Base Offset - Views on Selected Sheets](#top-&-base-offset-views-on-selected-sheets)  
+    [3.4. Extend Side - Active](#extend-side-active)  
+    [3.5. Extend Side - Selected Views](#extend-side-selected-views)  
+    [3.6. Extend Side - Views on Selected Sheets](#extend-side-views-on-selected-sheets)  
+    [3.7. Set Top & Base as Picked - Active Sheet](#set-top-base-as-picked-active-sheet)  
+    [3.8. Set Top & Base as Picked - Selected Views](#set-top-base-as-picked-selected-views)  
+    [3.9. Set Top & Base as Picked - Views on Selected Sheets](#set-top-base-as-picked-views-on-selected-sheets)  
+    [3.10. Set Top & Base with MENU - Active](#set-top-base-with-menu-active)  
+    [3.11. Set Top & Base with MENU - Selected Views](#set-top-base-with-menu-selected-views)  
+    [3.12. Set Top & Base with MENU - Views on Selected Sheets](#set-top-base-with-menu-views-on-selected-sheets)  
+    [3.13. Save To MEMORY - Top & Base Elevation](#save-top-base-to-memory)  
+    [3.14. Set Top & Base from MEMORY - Active](#set-top-base-from-memory-active)  
+    [3.15. Set Top & Base from MEMORY - Selected Views](#set-top-base-from-memory-selected-views)  
+    [3.15. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
+  
 [4. Viewports]()  
 
 [5. Sheets]()  
@@ -101,6 +115,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 [go back to list](#list)
 
 ## Align TL to the point  
+
+![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png)  
 
 Gives complete control over a position of title lines and aligns them to selected point.
 
@@ -303,7 +319,7 @@ Select some views or sheets in a project browser and press the button. You will 
 
 # Vertical Views
 
-## <a id="top-&-base-offset-active"> Top & Base Offset - Active
+## <a id="top-&-base-offset-active"></a> Top & Base Offset - Active
 
 Sets the top and base (as offset from closest levels) for currently active vertical view. 
 
@@ -315,7 +331,7 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works for vertical views such as sections or elevations.
 
-## Top & Base Offset - Selected Views
+## <a id="top-&-base-offset-selected-views"></a> Top & Base Offset - Selected Views
 
 Sets the top and base (as offset from closest levels) for selected views. 
 
@@ -327,7 +343,7 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works for vertical views such as sections or elevations.
 
-Top & Base Offset - Views on Selected Sheets
+## <a id="top-&-base-offset-views-on-selected-sheets"></a> Top & Base Offset - Views on Selected Sheets
 
 Sets the top and base (as offset from closest levels) for views on selected sheets. 
 
@@ -340,7 +356,7 @@ After selection you will be prompted to define the offsets for top and base and 
 Works for vertical views such as sections or elevations. 
 
 
-Extend Side - Active
+## <a id="extend-side-active"></a> Extend Side - Active
 
 Extends/trims both sides of currently active vertical view (or all views on currently open sheet).
 
@@ -352,7 +368,7 @@ After selection you will be prompted to define the extension.
 
 Works for vertical views such as sections or elevations.
 
-Extend Side - Selected Views
+## <a id="extend-side-selected-views"></a> Extend Side - Selected Views
 
 Extends/trims both sides of selected views.
 
@@ -365,7 +381,7 @@ After selection you will be prompted to define the extension.
 Works for vertical views such as sections or elevations.
 
 
-Extend Side - Views on Selected Sheets
+## <a id="extend-side-views-on-selected-sheets"></a> Extend Side - Views on Selected Sheets
 
 Extends/trims both sides of views on selected sheets.
 
@@ -378,7 +394,7 @@ After selection you will be prompted to define the extension.
 Works for vertical views such as sections or elevations.
 
 
-Set Top & Base as Picked - Active Sheet
+## <a id="set-top-base-as-picked-active-sheet"></a> Set Top & Base as Picked - Active Sheet
 
 Sets top and base as per picked view of all selected views.
 
@@ -391,7 +407,7 @@ You will be asked to pick one exemplary view. We will read its top and base elev
 
 Works for vertical views such as sections or elevations.
 
-Set Top & Base as Picked - Selected Views
+## <a id="set-top-base-as-picked-selected-views"></a>  Set Top & Base as Picked - Selected Views
 
 Sets top and base as per picked view to all selected views. 
 
@@ -403,7 +419,7 @@ After that you will be asked to pick one exemplary view. We will read its top an
 
 Works for vertical views such as sections or elevations.
 
-Set Top & Base as Picked - Views on Selected Sheets
+## <a id="set-top-base-as-picked-views-on-selected-sheets"></a> Set Top & Base as Picked - Views on Selected Sheets
 
 Sets top and base as per picked view to all views on selected sheets.
 
@@ -416,7 +432,7 @@ After that you will be asked to pick one exemplary view. We will read its top an
 Works for vertical views such as sections or elevations.
 
 
-Set Top & Base with MENU - Active
+## <a id="set-top-base-with-menu-active"></a> Set Top & Base with MENU - Active
 
 Sets top and base of active view (or all views on currently open sheet) with provided menu.
 
@@ -430,7 +446,8 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-Set Top & Base with MENU - Selected Views
+
+## <a id="set-top-base-with-menu-selected-views"></a> Set Top & Base with MENU - Selected Views
 
 Sets top and base of all selected views with provided menu. 
 
@@ -442,7 +459,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-Set Top & Base with MENU - Views on Selected Sheets
+## <a id="set-top-base-with-menu-views-on-selected-sheets"></a> Set Top & Base with MENU - Views on Selected Sheets
 
 Sets top and base of all views on selected sheets with provided menu.
 
@@ -454,7 +471,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-Save To MEMORY - Top & Base Elevation
+## <a id="save-top-base-to-memory"></a> Save To MEMORY - Top & Base Elevation
 
 Saves to memory top elevation and base elevations of one selected view.
 
@@ -462,7 +479,7 @@ How to use the tool:
 
 Click the button and pick one view. Its settings will be saved in external file for further use.
 
-Set Top & Base from MEMORY - Active
+## <a id="set-top-base-from-memory-active"></a> Set Top & Base from MEMORY - Active
 
 Sets top and base of active view (or all views on currently open sheet) with values saved in Memory.
 
@@ -476,7 +493,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-Set Top & Base from MEMORY - Selected Views
+## <a id="set-top-base-from-memory-selected-views"></a> Set Top & Base from MEMORY - Selected Views
 
 Sets top and base of all selected views with values saved in Memory.
 
@@ -488,7 +505,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-Set Top & Base from MEMORY - Views on Selected Sheets
+## <a id="set-top-base-from-memory-views-on-selected-sheets"></a> Set Top & Base from MEMORY - Views on Selected Sheets
 
 Sets top and base of all views on selected sheets with values saved in Memory.
 
