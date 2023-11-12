@@ -941,10 +941,6 @@ How to use the tool:
 Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
   
   
-
-
-
-
 ![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
 # <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
 [back to LIST](#list)  
@@ -1091,7 +1087,7 @@ Their position on the sheet will be adjusted to position saved in the memory.
 # <a id="schedules"></a> ![Schedules](/images/Tools/Drafter/Icons/Schedule_Button.png) Schedules  
 [back to LIST](#list)  
 
-## <a id="Position of all instances of selected schedule"></a> ![Position of all instances of selected schedule](/images/Tools/Drafter/Icons/Schedule_Position.png) Position of all instances of selected schedule
+## <a id="position-of-all-instances-of-selected-schedule"></a> ![Position of all instances of selected schedule](/images/Tools/Drafter/Icons/Schedule_Position.png) Position of all instances of selected schedule
 
 Sets all instances of selected schedule to the same position on all sheets.
 
@@ -1101,7 +1097,7 @@ Select exemplary schedule or when started you will be prompted to do it by the t
 
 We will find all instances of it and adjust their positions on sheets.
 
-## <a id="Rotation of all instances of selected schedule"></a> ![Rotation of all instances of selected schedule](/images/Tools/Drafter/Icons/Schedule_Rotation.png) Rotation of all instances of selected schedule
+## <a id="rotation-of-all-instances-of-selected-schedule"></a> ![Rotation of all instances of selected schedule](/images/Tools/Drafter/Icons/Schedule_Rotation.png) Rotation of all instances of selected schedule
 
 Sets all instances of selected schedule to have the same rotation on all sheets.
 
@@ -1111,7 +1107,7 @@ Select exemplary schedule or when started you will be prompted to do it by the t
 
 We will find all instances of it and adjust their rotation on sheets.
 
-## <a id="Schedule - Save position to MEMORY"></a> ![Schedule - Save position to MEMORY](/images/Tools/Drafter/Icons/Schedule_PositionToMemory.png) Schedule - Save position to MEMORY
+## <a id="schedule-save-position-to-memory"></a> ![Schedule - Save position to MEMORY](/images/Tools/Drafter/Icons/Schedule_PositionToMemory.png) Schedule - Save position to MEMORY
 
 Saves position of selected schedule to Memory.
 
@@ -1119,7 +1115,7 @@ How to use the tool:
 
 Click the button and pick one schedule. Its position will be saved in external file for further use.
 
-## <a id="Schedule - Load position from MEMORY to Selected"></a> ![Schedule - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_PositionFromMemory.png) Schedule - Load position from MEMORY to Selected
+## <a id="schedule-load-position-from-memory-to-selected"></a> ![Schedule - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_PositionFromMemory.png) Schedule - Load position from MEMORY to Selected
 
 Loads previously saved position of a schedule and applies it to selected legends.
 
@@ -1129,7 +1125,7 @@ Select legends which you want to change, or when started you will be prompted to
 
 Their position on the sheet will be adjusted to position saved in the memory.
 
-## <a id="MATCH 2 Schedules - All Column Widths"></a> ![MATCH 2 Schedules - All Column Widths](/images/Tools/Drafter/Icons/Schedule_Columns2Paint.png) MATCH 2 Schedules - All Column Widths
+## <a id="match-2-schedules-all-column-widths"></a> ![MATCH 2 Schedules - All Column Widths](/images/Tools/Drafter/Icons/Schedule_Columns2Paint.png) MATCH 2 Schedules - All Column Widths
 
 Adjusts the two schedules so their columns match.
 
@@ -1137,7 +1133,7 @@ How to use the tool:
 
 Simply pick two schedules. The tool adjusts the width of all columns of the second schedule to match with the widths of the first one.
 
-## <a id="MATCH 2 Schedules - Total width by changing last column"></a> ![MATCH 2 Schedules - Total width by changing last column](/images/Tools/Drafter/Icons/Schedule_Columns2Last.png) MATCH 2 Schedules - Total width by changing last column
+## <a id="match-2-schedules-total-width-by-changing-last-column"></a> ![MATCH 2 Schedules - Total width by changing last column](/images/Tools/Drafter/Icons/Schedule_Columns2Last.png) MATCH 2 Schedules - Total width by changing last column
 
 Adjusts the last column of a second picked schedule so the total width equal to the first schedule.
 
@@ -1145,7 +1141,7 @@ How to use the tool:
 
 Simply pick two schedules. The tool will read the total width of the first schedule and adjust the width of the last column in the second schedule to match total width of first one. 
 
-## <a id="Column Widths - Adjust with Clicks"></a> ![Column Widths - Adjust with Clicks](/images/Tools/Drafter/Icons/Schedule_ColumnsAllClick.png) Column Widths - Adjust with Clicks
+## <a id="column-widths-adjust-with-clicks"></a> ![Column Widths - Adjust with Clicks](/images/Tools/Drafter/Icons/Schedule_ColumnsAllClick.png) Column Widths - Adjust with Clicks
 
 Adjusts the width of each column to selected points.
 
@@ -1153,7 +1149,7 @@ How to use the tool:
 
 Select a schedule or when started you will be prompted to do it by the tool. After that simple start picking points and we will adjust the widths of schedule columns to them. When clicking Escape you will be asked what to do. 
 
-## <a id="Column Widths - Adjust them with MENU"></a> ![Column Widths - Adjust them with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsAll.png) Column Widths - Adjust them with MENU
+## <a id="column-widths-adjust-them-with-menu"></a> ![Column Widths - Adjust them with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsAll.png) Column Widths - Adjust them with MENU
 
 Reads the width of each column and allows to adjust them with provided menu.
 
@@ -1161,7 +1157,7 @@ How to use the tool:
 
 Select one schedule or when started you will be prompted to do it by the tool. After that you will be prompted to define a width of each column with special menu. The tool will adjust the width of all columns to match with the ones provided in menu. Please do not change the number of columns.  
 
-## <a id="Column Widths - Save widths to MEMORY"></a> ![Column Widths - Save widths to MEMORY](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsToMemory.png) Column Widths - Save widths to MEMORY
+## <a id="column-widths-save-widths-to-memory"></a> ![Column Widths - Save widths to MEMORY](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsToMemory.png) Column Widths - Save widths to MEMORY
 
 Saves column widths of selected schedule to Memory.
 
@@ -1169,7 +1165,7 @@ How to use the tool:
 
 Select a schedule or when started you will be prompted to do it by the tool.
 
-## <a id="Column Widths - Set widths from MEMORY to Selected"></a> ![Column Widths - Set widths from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsFromMemory.png) Column Widths - Set widths from MEMORY to Selected
+## <a id="column-widths-set-widths-from-memory-to-selected"></a> ![Column Widths - Set widths from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsFromMemory.png) Column Widths - Set widths from MEMORY to Selected
 
 Reads the widths from memory and sets it to all selected schedules.
 
@@ -1177,7 +1173,7 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. The tool adjusts the width of all columns to match with the widths saved in memory. In case of having two few columns the tool will stop. 
 
-## <a id="Column Widths - Set all the same with Menu"></a> ![Column Widths - Set all the same with Menu](/images/Tools/Drafter/Icons/Schedule_ColumnsSame.png) Column Widths - Set all the same with Menu
+## <a id="column-widths-set-all-the-same-with-menu"></a> ![Column Widths - Set all the same with Menu](/images/Tools/Drafter/Icons/Schedule_ColumnsSame.png) Column Widths - Set all the same with Menu
 
 Sets the same width for all columns. 
 
@@ -1185,7 +1181,7 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. After that you will be prompted to provide us with desire width for all columns. 
 
-## <a id="Total Width - Adjust it with MENU"></a> ![Total Width - Adjust it with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotal.png) Total Width - Adjust it with MENU
+## <a id="total-width-adjust-it-with-menu"></a> ![Total Width - Adjust it with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotal.png) Total Width - Adjust it with MENU
 
 Changes the total width of selected schedules with menu. 
 
@@ -1193,7 +1189,7 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. After that you will be prompted to provide us with desire width for whole schedule. We will equally divide it by a number of visible columns. 
 
-## <a id="Total Width - Extend/shorten the last column with MENU"></a> ![Total Width - Extend/shorten the last column with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotalLast.png) Total Width - Extend/shorten the last column with MENU
+## <a id="total-width-extend/shorten-the-last-column-with-menu"></a> ![Total Width - Extend/shorten the last column with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotalLast.png) Total Width - Extend/shorten the last column with MENU
 
 Changes the width of selected schedules by changing the last column. 
 
@@ -1204,7 +1200,7 @@ After that you will be prompted to provide us with desire width for whole schedu
 
 The tool will check validity of provided width. 
 
-## <a id="Unhide all columns - Selected Schedules"></a> ![Unhide all columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_Unhide.png) Unhide all columns - Selected Schedules
+## <a id="unhide-all-columns-selected-schedules"></a> ![Unhide all columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_Unhide.png) Unhide all columns - Selected Schedules
 
 Unhides all hidden columns from selected schedules. 
 
@@ -1212,7 +1208,7 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. The tool will check all columns and try to unhide them. For now, the tool will disregard the schedules with template on it. 
 
-## <a id="Toggle visibility of hidden columns - Selected Schedules"></a> ![Toggle visibility of hidden columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_UnhideToggle.png) Toggle visibility of hidden columns - Selected Schedules
+## <a id="toggle-visibility-of-hidden-columns-selected schedules"></a> ![Toggle visibility of hidden columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_UnhideToggle.png) Toggle visibility of hidden columns - Selected Schedules
 
 Unhides and hides hidden columns from selected schedules.
 
@@ -1220,7 +1216,7 @@ How to use the tool:
 
 Select schedules or use the tool in active schedule view. Also, when started you will be prompted to do it by the tool. The tool will unhide the hidden columns and change their colour to red to make them more visible. To reset simply use this button again or use any other provided reset tools.
 
-## <a id="Toggle visibility of hidden columns - Active"></a> ![Toggle visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideToggleActive.png) Toggle visibility of hidden columns - Active
+## <a id="toggle-visibility-of-hidden-columns-active"></a> ![Toggle visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideToggleActive.png) Toggle visibility of hidden columns - Active
 
 Unhides and hides hidden columns from active (view or sheet).
 
@@ -1230,7 +1226,7 @@ Use the tool in active schedule view or in a sheet. In sheet the tool will gathe
 
 The tool will unhide the hidden columns and change their colour to red to make them more visible. To reset simply use this button again or use any other provided reset tools.
 
-## <a id="Reset visibility of hidden columns - Active"></a> ![Reset visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideAll.png) Reset visibility of hidden columns - Active
+## <a id="reset-visibility-of-hidden-columns-active"></a> ![Reset visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideAll.png) Reset visibility of hidden columns - Active
 
 Hides columns we made visible from active (view or sheet).
 
@@ -1240,7 +1236,7 @@ Use the tool in active schedule view or in a sheet. In sheet the tool will gathe
 
 The tool will hide columns we made visible and reset their colour to black. 
 
-## <a id="Reset visibility of hidden columns - All"></a> ![Reset visibility of hidden columns - All](/images/Tools/Drafter/Icons/Schedule_ResetAll.png) Reset visibility of hidden columns - All
+## <a id="reset-visibility-of-hidden-columns-all"></a> ![Reset visibility of hidden columns - All](/images/Tools/Drafter/Icons/Schedule_ResetAll.png) Reset visibility of hidden columns - All
 
 Hides columns we made visible from the whole project.
 
@@ -1254,7 +1250,7 @@ Press the button and the tool will hide columns we made visible and reset their 
 # <a id="revisions"></a> ![Revisions](/images/Tools/Drafter/Icons/Revision.png) Revisions  
 [back to LIST](#list)  
 
-## <a id="Save revision visibility to MEMORY"></a> ![Save revision visibility to MEMORY](/images/Tools/Drafter/Icons/RevisionSaveVisibility.png) Save revision visibility to MEMORY
+## <a id="save-revision-visibility-to-memory"></a> ![Save revision visibility to MEMORY](/images/Tools/Drafter/Icons/RevisionSaveVisibility.png) Save revision visibility to MEMORY
 
 Saves revision visibility settings to Memory.
 
@@ -1262,8 +1258,7 @@ How to use the tool:
 
 Press the button. 
 
-
-## <a id="Restore revision visibility from MEMORY"></a> ![Restore revision visibility from MEMORY](/images/Tools/Drafter/Icons/RevisionRestoreVisibility.png) Restore revision visibility from MEMORY
+## <a id="restore-revision-visibility-from-memory"></a> ![Restore revision visibility from MEMORY](/images/Tools/Drafter/Icons/RevisionRestoreVisibility.png) Restore revision visibility from MEMORY
 
 Reads saved revision visibility settings from memory and restores it. 
 
@@ -1271,8 +1266,7 @@ How to use the tool:
 
 Press the button. The tool will read settings saved in memory and restore them even if you add some new revisions.
 
-
-## <a id="Show all revision clouds and tags"></a> ![Show all revision clouds and tags](/images/Tools/Drafter/Icons/RevisionVisibility.png) Show all revision clouds and tags
+## <a id="show-all-revision-clouds-and-tags"></a> ![Show all revision clouds and tags](/images/Tools/Drafter/Icons/RevisionVisibility.png) Show all revision clouds and tags
 
 Changes visibility of all revisions to show clouds and Tags. 
 
@@ -1280,8 +1274,7 @@ How to use the tool:
 
 Press the button. The tool will save current setting in memory.
 
-
-## <a id="Delete clouds - Active"></a> ![Delete clouds - Active](/images/Tools/Drafter/Icons/RevisionActiveView.png) Delete clouds - Active
+## <a id="delete-clouds-active"></a> ![Delete clouds - Active](/images/Tools/Drafter/Icons/RevisionActiveView.png) Delete clouds - Active
 
 Delets all revision clouds from active view or sheet.
 
@@ -1289,7 +1282,7 @@ How to use the tool:
 
 Press the button. The tool will delete all revisions from active view or active sheet. If you select a sheet, the tool will give you a possibility to gather all the viewports on it and delete revisions from them too. 
  
-## <a id="Delete clouds - Selected Views or Sheets"></a> ![Delete clouds - Selected Views or Sheets](/images/Tools/Drafter/Icons/RevisionViews.png) Delete clouds - Selected Views or Sheets
+## <a id="delete-clouds-selected-views-or-sheets"></a> ![Delete clouds - Selected Views or Sheets](/images/Tools/Drafter/Icons/RevisionViews.png) Delete clouds - Selected Views or Sheets
 
 Delets all revision clouds from active view or sheet.
 
@@ -1302,7 +1295,7 @@ Select some views or sheets in a project browser and press the button. The tool 
 # <a id="text-notes"></a> ![Text Notes](/images/Tools/Drafter/Icons/TextNotes_Button.png) Text Notes  
 [back to LIST](#list)  
 
-## <a id="Text Notes to lower case"></a> ![Text Notes to lower case](/images/Tools/Drafter/Icons/TextToLower.png) Text Notes to lower case 
+## <a id="text-notes-to-lower-case"></a> ![Text Notes to lower case](/images/Tools/Drafter/Icons/TextToLower.png) Text Notes to lower case 
 
 Formats text of all selected text notes to lower case.
 
@@ -1310,7 +1303,7 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, the tool will prompt you to select some text notes.
 
-## <a id="Text Notes to Title Case"></a> ![Text Notes to Title Case ](/images/Tools/Drafter/Icons/TextToTitle.png) Text Notes to Title Case 
+## <a id="text-notes-to-title-case"></a> ![Text Notes to Title Case ](/images/Tools/Drafter/Icons/TextToTitle.png) Text Notes to Title Case 
 
 Formats all selected text notes to Title Case.
 
@@ -1318,7 +1311,7 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, you will be prompted to do select text notes by the tool.
 
-## <a id="Text Notes to UPPER CASE "></a> ![Text Notes to UPPER CASE ](/images/Tools/Drafter/Icons/TextToUpper.png) Text Notes to UPPER CASE 
+## <a id="text-notes-to-upper-case"></a> ![Text Notes to UPPER CASE ](/images/Tools/Drafter/Icons/TextToUpper.png) Text Notes to UPPER CASE 
 
 Formats all selected text notes to UPPER CASE.
 
@@ -1326,7 +1319,7 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, the tool will prompt you to select some text notes.
 
-## <a id="Text Notes to UPPER CASE - Active"></a> ![Text Notes to UPPER CASE - Active](/images/Tools/Drafter/Icons/TextToUpper_ActiveView.png) Text Notes to UPPER CASE - Active
+## <a id="text-notes-to-upper-case-active"></a> ![Text Notes to UPPER CASE - Active](/images/Tools/Drafter/Icons/TextToUpper_ActiveView.png) Text Notes to UPPER CASE - Active
 
 Formats all text notes from active view (or sheet) to UPPER CASE.
 
@@ -1334,7 +1327,7 @@ How to use the tool:
 
 Open a view or a sheet. Use the tool. We will gather all the text notes from it and will format all of them to upper case.  
 
-## <a id="Text Notes to UPPER CASE - All"></a> ![Text Notes to UPPER CASE - All](/images/Tools/Drafter/Icons/TextToUpper_All.png) Text Notes to UPPER CASE - All
+## <a id="text-notes-to-upper-case-all"></a> ![Text Notes to UPPER CASE - All](/images/Tools/Drafter/Icons/TextToUpper_All.png) Text Notes to UPPER CASE - All
 
 Formats all text notes in your project to UPPER CASE.
 
@@ -1342,7 +1335,7 @@ How to use the tool:
 
 Press the button. You will be asked to confirm. After that we will gather all the text notes from your project and will format all of them to upper case.  
 
-## <a id="Delete double spaces - Selected Text Notes"></a> ![Delete double spaces - Selected Text Notes](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces.png) Delete double spaces - Selected Text Notes
+## <a id="delete-double-spaces-selected-text-notes"></a> ![Delete double spaces - Selected Text Notes](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces.png) Delete double spaces - Selected Text Notes
 
 Finds and deletes extra spaces in selected text notes. 
 
@@ -1350,7 +1343,7 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, the tool will prompt you to select some text notes.
 
-## <a id="Delete double spaces - Active"></a> ![Delete double spaces - Active](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces_ActiveView.png) Delete double spaces - Active
+## <a id="delete-double-spaces-active"></a> ![Delete double spaces - Active](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces_ActiveView.png) Delete double spaces - Active
 
 Finds and deletes extra spaces in all text notes from active view (or sheet).
 
@@ -1358,7 +1351,7 @@ How to use the tool:
 
 Open a view or a sheet. Use the tool. We will gather all the text notes from it and will delete all double spaces in them.
 
-## <a id="Delete double spaces - All"></a> ![Delete double spaces - All](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces_All.png) Delete double spaces - All
+## <a id="delete-double-spaces-all"></a> ![Delete double spaces - All](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces_All.png) Delete double spaces - All
 
 Finds and deletes extra spaces in all text notes in your project.
 
@@ -1366,7 +1359,7 @@ How to use the tool:
 
 Press the button. You will be asked to confirm. After that we will gather all the text notes in your project and will delete all double spaces in them. 
 
-## <a id="Match width of selected TN to the PICKED "></a> ![Match width of selected TN to the PICKED ](/images/Tools/Drafter/Icons/TextNotes_SetWidth.png) Match width of selected TN to the PICKED 
+## <a id="match-width-of-selected-tn-to-the-picked"></a> ![Match width of selected TN to the PICKED ](/images/Tools/Drafter/Icons/TextNotes_SetWidth.png) Match width of selected TN to the PICKED 
 
 Match the width of selected text notes to the width of picked one. 
 
@@ -1376,7 +1369,7 @@ Select the text notes in a view or on the sheet. If no text notes are selected, 
 
 After that you will be asked to pick one text note. We will read its width and apply it to all selected text notes.    
 
-## <a id="Set width of selected TN with MENU"></a> ![Set width of selected TN with MENU](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected TN with MENU 
+## <a id="set-width-of-selected-tn-with-menu"></a> ![Set width of selected TN with MENU](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected TN with MENU 
 
 Sets the width of selected text notes to the width chosen in provided menu. 
 
@@ -1388,7 +1381,7 @@ Select text notes or when started you will be prompted to do it by the tool. Aft
 # <a id="text-notes-position"></a> ![Text Notes - Position](/images/Tools/Drafter/Icons/TextNotes_Pos.png) Text Notes - Position  
 [back to LIST](#list)  
 
-## <a id="Move selected Text Notes to the point"></a> ![Move selected Text Notes to the point](/images/Tools/Drafter/Icons/TextNotes_MoveToPoint.png) Move selected Text Notes to the point
+## <a id="move-selected-text-notes-to-the-point"></a> ![Move selected Text Notes to the point](/images/Tools/Drafter/Icons/TextNotes_MoveToPoint.png) Move selected Text Notes to the point
 
 Moves selected Text Notes to selected point.
 
@@ -1398,7 +1391,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Move selected Text Notes by 2 points"></a> ![Move selected Text Notes by 2 points](/images/Tools/Drafter/Icons/TextNotes_MoveByTwo.png) Move selected Text Notes by 2 points
+## <a id="move-selected-text-notes-by-2-points"></a> ![Move selected Text Notes by 2 points](/images/Tools/Drafter/Icons/TextNotes_MoveByTwo.png) Move selected Text Notes by 2 points
 
 Moves selected Text Notes by the vector created by 2 points.
 
@@ -1408,7 +1401,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to select 2 points - base point and direction. 
 
-## <a id="Swap position of 2 Text Notes"></a> ![Swap position of 2 Text Notes](/images/Tools/Drafter/Icons/TextNotes_SWAP.png) Swap position of 2 Text Notes
+## <a id="swap-position-of-2-text-notes"></a> ![Swap position of 2 Text Notes](/images/Tools/Drafter/Icons/TextNotes_SWAP.png) Swap position of 2 Text Notes
 
 Swap positions of 2 text notes - YOU CAN ALSO USE THE SWAP TOOL FOR THAT!
 
@@ -1416,7 +1409,7 @@ How to use the tool:
 
 Select 2 text notes, or when started, you will be prompted to do it by the tool.
 
-## <a id="Align selected Text Notes in X-Axis"></a> ![Align selected Text Notes in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Text Notes in X-Axis
+## <a id="align-selected-text-notes-in x-axis"></a> ![Align selected Text Notes in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Text Notes in X-Axis
 
 Aligns selected text notes in X-Axis to selected point.
 
@@ -1426,7 +1419,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Align selected Text Notes in Y-Axis"></a> ![Align selected Text Notes in Y-Axis](/images/Tools/Drafter/Icons/TitleLineAlignY.png) Align selected Text Notes in Y-Axis
+## <a id="align-selected-text-notes-in-y-axis"></a> ![Align selected Text Notes in Y-Axis](/images/Tools/Drafter/Icons/TitleLineAlignY.png) Align selected Text Notes in Y-Axis
 
 Aligns selected text notes in Y-Axis to selected point.
 
@@ -1436,7 +1429,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Alignment - Change and adjust Text Notes (Horizontal)"></a> ![Alignment - Change and adjust Text Notes (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Text Notes (Horizontal)
+## <a id="alignment-change-and-adjust-text-notes-(horizontal)"></a> ![Alignment - Change and adjust Text Notes (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Text Notes (Horizontal)
 
 Changes alignments of selected text notes. Please use only with horizontal text notes. 
 
@@ -1446,7 +1439,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-## <a id="Alignment - Change and adjust Text Notes (Vertical)"></a> ![Alignment - Change and adjust Text Notes (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Text Notes (Vertical)
+## <a id="alignment-change-and-adjust-text-notes-(vertical)"></a> ![Alignment - Change and adjust Text Notes (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Text Notes (Vertical)
 
 Changes alignments of selected text notes. Please use only with vertical text notes. 
 
@@ -1456,7 +1449,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-## <a id="Rotation - Make TN Horizontal "></a> ![Rotation - Make TN Horizontal ](/images/Tools/Drafter/Icons/TextNotes_Rotation_Horizontal.png) Rotation - Make TN Horizontal 
+## <a id="rotation-make-tn-horizontal"></a> ![Rotation - Make TN Horizontal](/images/Tools/Drafter/Icons/TextNotes_Rotation_Horizontal.png) Rotation - Make TN Horizontal 
 
 Changes the rotation of selected texts notes to make them horizontal. 
 
@@ -1464,7 +1457,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool.
 
-## <a id="Rotation - Make TN Vertical"></a> ![Rotation - Make TN Vertical ](/images/Tools/Drafter/Icons/TextNotes_Rotation_Vertical.png) Rotation - Make TN Vertical 
+## <a id="rotation-make-tn-vertical"></a> ![Rotation - Make TN Vertical ](/images/Tools/Drafter/Icons/TextNotes_Rotation_Vertical.png) Rotation - Make TN Vertical 
 
 Changes the rotation of selected texts notes to make them vertical. 
 
@@ -1472,7 +1465,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool.
 
-## <a id="Rotation - Set TN with Menu"></a> ![Rotation - Set TN with Menu](/images/Tools/Drafter/Icons/TextNotes_Rotation.png) Rotation - Set TN with Menu 
+## <a id="rotation-set-tn-with-menu"></a> ![Rotation - Set TN with Menu](/images/Tools/Drafter/Icons/TextNotes_Rotation.png) Rotation - Set TN with Menu 
 
 Sets the rotation of selected texts notes to one from the provided menu.  
 
@@ -1482,7 +1475,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose rotation in provided menu. 
 
-## <a id="Distances (Y-Axis) between selected Text Notes (Horizontal)"></a> ![Distances (Y-Axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Dist2H.png) Distances (Y-Axis) between selected Text Notes (Horizontal)
+## <a id="distances-(y-axis)-between-selected-text-notes-(horizontal)"></a> ![Distances (Y-Axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Dist2H.png) Distances (Y-Axis) between selected Text Notes (Horizontal)
 
 Orders text notes and sets the same distances (Y-Axis).
 
@@ -1492,7 +1485,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
 
-## <a id="Distances (X-Axis) between selected Text Notes (Vertical)"></a> ![Distances (X-Axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Dist2V.png) Distances (X-Axis) between selected Text Notes (Vertical)
+## <a id="distances-(x-axis)-between-selected-text-notes-(vertical)"></a> ![Distances (X-Axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Dist2V.png) Distances (X-Axis) between selected Text Notes (Vertical)
 
 Orders text notes and sets the same distances (X-Axis).
 
@@ -1502,7 +1495,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
 
-## <a id="Set average distance (Y-axis) between selected Text Notes (Horizontal)"></a> ![Set average distance (Y-axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_DistAverageH.png) Set average distance (Y-axis) between selected Text Notes (Horizontal)
+## <a id="set-average-distance-(y-axis)-between-selected-text-notes-(horizontal)"></a> ![Set average distance (Y-axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_DistAverageH.png) Set average distance (Y-axis) between selected Text Notes (Horizontal)
 
 Orders text notes and sets the average distances between them (Y-axis).
 
@@ -1510,7 +1503,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Set average distance (X-axis) between selected Text Notes (Vertical)"></a> ![Set average distance (X-axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_DistAverageV.png) Set average distance (X-axis) between selected Text Notes (Vertical)
+## <a id="set-average-distance-(x-axis)-between-selected-text-notes-(vertical)"></a> ![Set average distance (X-axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_DistAverageV.png) Set average distance (X-axis) between selected Text Notes (Vertical)
 
 Orders text notes and sets the average distances between them (X-axis).
 
@@ -1518,7 +1511,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Set distance between selected Text Notes with Menu"></a> ![Set distance between selected Text Notes with Menu](/images/Tools/Drafter/Icons/TextNotes_DistMenu.png) Set distance between selected Text Notes with Menu
+## <a id="set-distance-between-selected-text-notes-with-menu"></a> ![Set distance between selected Text Notes with Menu](/images/Tools/Drafter/Icons/TextNotes_DistMenu.png) Set distance between selected Text Notes with Menu
 
 Orders text notes and sets the distances between them with provided menu.
 
@@ -1532,7 +1525,7 @@ After that you will be asked to choose distances in provided menu.
 # <a id="text-note-leaders"></a> ![Text Note - Leaders](/images/Tools/Drafter/Icons/TextNotesLeader.png) Text Note - Leaders  
 [back to LIST](#list)  
 
-## <a id="Delete Leaders"></a> ![Delete Leaders](/images/Tools/Drafter/Icons/TextNotes_Leader_Delete.png) Delete Leaders
+## <a id="delete-leaders"></a> ![Delete Leaders](/images/Tools/Drafter/Icons/TextNotes_Leader_Delete.png) Delete Leaders
 
 Deletes leaders for all selected text notes.
 
@@ -1540,7 +1533,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Leader Settings"></a> ![Leader Settings](/images/Tools/Drafter/Icons/TextNotes_Leader_Settings.png) Leader Settings
+## <a id="leader-settings"></a> ![Leader Settings](/images/Tools/Drafter/Icons/TextNotes_Leader_Settings.png) Leader Settings
 
 Adjusts all anchors of leaders of selected text notes.
 
@@ -1548,7 +1541,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make Text Notes leader lines horizontal"></a> ![Make Text Notes leader lines horizontal](/images/Tools/Drafter/Icons/TextNotes_Leader_Horizontal.png) Make Text Notes leader lines horizontal
+## <a id="make-text-notes-leader-lines-horizontal"></a> ![Make Text Notes leader lines horizontal](/images/Tools/Drafter/Icons/TextNotes_Leader_Horizontal.png) Make Text Notes leader lines horizontal
 
 Sets leaders of selected text notes to go exactly horizontal.
 
@@ -1556,7 +1549,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make Text Notes leader lines vertical"></a> ![Make Text Notes leader lines vertical](/images/Tools/Drafter/Icons/TextNotes_Leader_Vertical.png) Make Text Notes leader lines vertical
+## <a id="make-text-notes-leader-lines-vertical"></a> ![Make Text Notes leader lines vertical](/images/Tools/Drafter/Icons/TextNotes_Leader_Vertical.png) Make Text Notes leader lines vertical
 
 Sets leaders of selected text notes to go exactly vertical.
 
@@ -1564,7 +1557,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Move Text Notes so their leader lines go horizontal"></a> ![Move Text Notes so their leader lines go horizontal](/images/Tools/Drafter/Icons/Text_Leader_StraightHeadH.png) Move Text Notes so their leader lines go horizontal
+## <a id="move-text-notes-so-their-leader-lines-go-horizontal"></a> ![Move Text Notes so their leader lines go horizontal](/images/Tools/Drafter/Icons/Text_Leader_StraightHeadH.png) Move Text Notes so their leader lines go horizontal
 
 Moves selected text notes up and down so their leader lines go exactly horizontal.
 
@@ -1572,7 +1565,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Move Text Notes so their leader lines go vertical"></a> ![Move Text Notes so their leader lines go vertical](/images/Tools/Drafter/Icons/Text_Leader_StraightHeadV.png) Move Text Notes so their leader lines go vertical
+## <a id="move-text-notes-so-their-leader-lines-go-vertical"></a> ![Move Text Notes so their leader lines go vertical](/images/Tools/Drafter/Icons/Text_Leader_StraightHeadV.png) Move Text Notes so their leader lines go vertical
 
 Moves selected text notes left and right so their leader lines go exactly vertical.
 
@@ -1580,7 +1573,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make Text Note leader lines go straight without elbow"></a> ![Make Text Note leader lines go straight without elbow](/images/Tools/Drafter/Icons/TextNotes_Leader_NoElbow.png) Make Text Note leader lines go straight without elbow
+## <a id="make-text-note-leader-lines-go-straight-without-elbow"></a> ![Make Text Note leader lines go straight without elbow](/images/Tools/Drafter/Icons/TextNotes_Leader_NoElbow.png) Make Text Note leader lines go straight without elbow
 
 Sets leaders of selected text notes to go exactly straight.
 
@@ -1588,7 +1581,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make Text Note leader lines go with 90-degree elbow (Horizontal)"></a> ![Make Text Note leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dH.png) Make Text Note leader lines go with 90-degree elbow (Horizontal)
+## <a id="make text note leader lines go with 90-degree elbow (horizontal)"></a> ![Make Text Note leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dH.png) Make Text Note leader lines go with 90-degree elbow (Horizontal)
 
 Sets leaders of selected Text Notes to go horizontal with 90-degree elbows.
 
@@ -1596,7 +1589,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make Text Note leader lines go with 90-degree elbow (Vertical)"></a> ![Make Text Note leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dV.png) Make Text Note leader lines go with 90-degree elbow (Vertical)
+## <a id="make text note leader lines go with 90-degree elbow (vertical)"></a> ![Make Text Note leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dV.png) Make Text Note leader lines go with 90-degree elbow (Vertical)
 
 Sets leaders of selected Text Notes to go vertical with 90-degree elbows.
 
@@ -1604,7 +1597,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Align Text Note leader elbows to point (horizontal)"></a> ![Align Text Note leader elbows to point (horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointH.png) Align Text Note leader elbows to point (horizontal)
+## <a id="align text note leader elbows to point (horizontal)"></a> ![Align Text Note leader elbows to point (horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointH.png) Align Text Note leader elbows to point (horizontal)
 
 Aligns elbows of selected Text Note's leaders to selected point (in X-axis).
 
@@ -1614,7 +1607,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-## <a id="Align Text Note leader elbows to point (vertical)"></a> ![Align Text Note leader elbows to point (vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointV.png) Align Text Note leader elbows to point (vertical)
+## <a id="align text note leader elbows to point (vertical)"></a> ![Align Text Note leader elbows to point (vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointV.png) Align Text Note leader elbows to point (vertical)
 
 Aligns elbows of selected Text Note's leaders to selected point (in Y axis).
 
@@ -1624,7 +1617,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-## <a id="Save Text Note Leader to Memory"></a> ![Save Text Note Leader to Memory](/images/Tools/Drafter/Icons/TN_LToMemory.png) Save Text Note Leader to Memory
+## <a id="save text note leader to memory"></a> ![Save Text Note Leader to Memory](/images/Tools/Drafter/Icons/TN_LToMemory.png) Save Text Note Leader to Memory
 
 Saves leader settings to memory.
 
@@ -1632,7 +1625,7 @@ How to use the tool:
 
 Select a text note, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Set Text Note Leader from MEMORY from Anchor"></a> ![Set Text Note Leader from MEMORY from Anchor](/images/Tools/Drafter/Icons/TN_LFromMemory.png) Set Text Note Leader from MEMORY from Anchor
+## <a id="set text note leader from memory from anchor"></a> ![Set Text Note Leader from MEMORY from Anchor](/images/Tools/Drafter/Icons/TN_LFromMemory.png) Set Text Note Leader from MEMORY from Anchor
 
 Sets leader settings from memory starting from the current anchor point.
 
@@ -1640,7 +1633,7 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Set Text Note Leader from MEMORY from End"></a> ![Set Text Note Leader from MEMORY from End](/images/Tools/Drafter/Icons/TN_LFromMemoryEnd.png) Set Text Note Leader from MEMORY from End
+## <a id="set text note leader from memory from end"></a> ![Set Text Note Leader from MEMORY from End](/images/Tools/Drafter/Icons/TN_LFromMemoryEnd.png) Set Text Note Leader from MEMORY from End
 
 Sets leader settings from memory starting from the current end point.
 
@@ -1653,7 +1646,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 # <a id="tags"></a> ![Tags](/images/Tools/Drafter/Icons/Tags.png) Tags  
 [back to LIST](#list)  
 
-## <a id="Material Tags - List empty"></a> ![Material Tags - List empty](/images/Tools/Drafter/Icons/Tags_Empty.png) Material Tags - List empty
+## <a id="material tags - list empty"></a> ![Material Tags - List empty](/images/Tools/Drafter/Icons/Tags_Empty.png) Material Tags - List empty
 
 Lists empty material tags in a special form.
 
@@ -1661,7 +1654,7 @@ How to use the tool:
 
 Simply click the tool and we will try to find all empty material tags. 
 
-## <a id="Material Tags - Nudge all empty"></a> ![Material Tags - Nudge all empty](/images/Tools/Drafter/Icons/Tags_Empty_Nudge.png) Material Tags - Nudge all empty
+## <a id="material tags - nudge all empty"></a> ![Material Tags - Nudge all empty](/images/Tools/Drafter/Icons/Tags_Empty_Nudge.png) Material Tags - Nudge all empty
 
 Nudges all empty tags. 
 
@@ -1669,7 +1662,7 @@ How to use the tool:
 
 Simply click the tool and we will try to nudge all empty tags.
 
-## <a id="Material Tags - Delete all empty"></a> ![Material Tags - Delete all empty](/images/Tools/Drafter/Icons/Tags_Empty_Del.png) Material Tags - Delete all empty
+## <a id="material tags - delete all empty"></a> ![Material Tags - Delete all empty](/images/Tools/Drafter/Icons/Tags_Empty_Del.png) Material Tags - Delete all empty
 
 Delets all empty material tags.
 
@@ -1681,7 +1674,7 @@ Simply click the tool and we will try to find all empty material tags and delete
 # <a id="tags-position"></a> ![Tags - Position](/images/Tools/Drafter/Icons/Tags_Pos.png) Tags - Position  
 [back to LIST](#list)  
 
-## <a id="Move selected Tags to the point"></a> ![Move selected Tags to the point](/images/Tools/Drafter/Icons/Tags_MoveToPoint.png) Move selected Tags to the point
+## <a id="move selected tags to the point"></a> ![Move selected Tags to the point](/images/Tools/Drafter/Icons/Tags_MoveToPoint.png) Move selected Tags to the point
 
 Moves selected tags to selected point.
 
@@ -1691,7 +1684,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Move selected Tags to the same place"></a> ![Move selected Tags to the same place](/images/Tools/Drafter/Icons/Tags_Same.png) Move selected Tags to the same place
+## <a id="move selected tags to the same place"></a> ![Move selected Tags to the same place](/images/Tools/Drafter/Icons/Tags_Same.png) Move selected Tags to the same place
 
 Moves selected tags to the position of a picked tag. 
 
@@ -1701,7 +1694,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked pick one tag and we will move selected tags to its position. 
 
-## <a id="Move selected Tags by 2 points"></a> ![Move selected Tags by 2 points](/images/Tools/Drafter/Icons/Tag_MoveByTwo.png) Move selected Tags by 2 points
+## <a id="move selected tags by 2 points"></a> ![Move selected Tags by 2 points](/images/Tools/Drafter/Icons/Tag_MoveByTwo.png) Move selected Tags by 2 points
 
 Moves selected tags by the vector created by 2 points.
 
@@ -1711,7 +1704,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to select 2 points - base point and direction. 
 
-## <a id="Swap position of 2 Tags"></a> ![Swap position of 2 Tags](/images/Tools/Drafter/Icons/Tag_SWAP.png) Swap position of 2 Tags
+## <a id="swap position of 2 tags"></a> ![Swap position of 2 Tags](/images/Tools/Drafter/Icons/Tag_SWAP.png) Swap position of 2 Tags
 
 Swap positions of 2 tags - YOU CAN ALSO USE THE SWAP TOOL FOR THAT!
 
@@ -1719,7 +1712,7 @@ How to use the tool:
 
 Select 2 tags, or when started, you will be prompted to do it by the tool.
 
-## <a id="Align selected Tags in X-Axis"></a> ![Align selected Tags in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Tags in X-Axis
+## <a id="align selected tags in x-axis"></a> ![Align selected Tags in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Tags in X-Axis
 
 Aligns selected tags in X-Axis to selected point.
 
@@ -1729,7 +1722,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Align selected Tags in Y-Axis"></a> ![Align selected Tags in Y-Axis](/images/Tools/Drafter/Icons/TitleLineAlignY.png) Align selected Tags in Y-Axis
+## <a id="align selected tags in y-axis"></a> ![Align selected Tags in Y-Axis](/images/Tools/Drafter/Icons/TitleLineAlignY.png) Align selected Tags in Y-Axis
 
 Aligns selected tags in Y-Axis to selected point.
 
@@ -1739,8 +1732,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-
-## <a id="Align selected Tags in X-Axis (Left)"></a> ![Align selected Tags in X-Axis (Left)](/images/Tools/Drafter/Icons/AlignX_Left.png) Align selected Tags in X-Axis (Left)
+## <a id="align selected tags in x-axis (left)"></a> ![Align selected Tags in X-Axis (Left)](/images/Tools/Drafter/Icons/AlignX_Left.png) Align selected Tags in X-Axis (Left)
 
 Aligns selected tags in X-Axis to selected point. At the same time the tool sets the alignment of selected tags to the left.
 
@@ -1750,7 +1742,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Align selected Tags in X-Axis (Right)"></a> ![Align selected Tags in X-Axis (Right)](/images/Tools/Drafter/Icons/AlignX_Right.png) Align selected Tags in X-Axis (Right)
+## <a id="align selected tags in x-axis (right)"></a> ![Align selected Tags in X-Axis (Right)](/images/Tools/Drafter/Icons/AlignX_Right.png) Align selected Tags in X-Axis (Right)
 
 Aligns selected tags in X-Axis to selected point. At the same time the tool sets the alignment of selected tags to the right.
 
@@ -1761,7 +1753,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 After that, you will be asked to choose the point. 
 
 
-## <a id="Align selected Tags in Y-Axis (Top)"></a> ![Align selected Tags in Y-Axis (Top)](/images/Tools/Drafter/Icons/AlignY_Top.png) Align selected Tags in Y-Axis (Top)
+## <a id="align selected tags in y-axis (top)"></a> ![Align selected Tags in Y-Axis (Top)](/images/Tools/Drafter/Icons/AlignY_Top.png) Align selected Tags in Y-Axis (Top)
 
 Aligns selected tags in Y-Axis to selected point. At the same time the tool sets the alignment of selected tags to the top.
 
@@ -1771,7 +1763,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Align selected Tags in Y-Axis (Bottom)"></a> ![Align selected Tags in Y-Axis (Bottom)](/images/Tools/Drafter/Icons/AlignY_Bottom.png) Align selected Tags in Y-Axis (Bottom)
+## <a id="align selected tags in y-axis (bottom)"></a> ![Align selected Tags in Y-Axis (Bottom)](/images/Tools/Drafter/Icons/AlignY_Bottom.png) Align selected Tags in Y-Axis (Bottom)
 
 Aligns selected tags in Y-Axis to selected point. At the same time the tool sets the alignment of selected tags to the top.
 
@@ -1781,7 +1773,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-## <a id="Alignment - Change and adjust Tags (Horizontal)"></a> ![Alignment - Change and adjust Tags (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Tags (Horizontal)
+## <a id="alignment - change and adjust tags (horizontal)"></a> ![Alignment - Change and adjust Tags (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Tags (Horizontal)
 
 Changes alignments of selected tags. Please use only with horizontal tags. 
 
@@ -1791,7 +1783,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-## <a id="Alignment - Change and adjust Tags (Vertical)"></a> ![Alignment - Change and adjust Tags (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Tags (Vertical)
+## <a id="alignment - change and adjust tags (vertical)"></a> ![Alignment - Change and adjust Tags (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Tags (Vertical)
 
 Changes alignments of selected tags. Please use only with vertical tags. 
 
@@ -1801,7 +1793,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-## <a id="Distances (Y-Axis) between selected Tags (Horizontal)"></a> ![Distances (Y-Axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_Dist2H.png) Distances (Y-Axis) between selected Tags (Horizontal)
+## <a id="distances (y-axis) between selected tags (horizontal)"></a> ![Distances (Y-Axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_Dist2H.png) Distances (Y-Axis) between selected Tags (Horizontal)
 
 Orders tags and sets the same distances (Y-Axis).
 
@@ -1811,7 +1803,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two tags. We will calculate the distance between 2 of them and apply it to the selected. 
 
-## <a id="Distances (X-Axis) between selected Tags (Vertical)"></a> ![Distances (X-Axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_Dist2V.png) Distances (X-Axis) between selected Tags (Vertical)
+## <a id="distances (x-axis) between selected tags (vertical)"></a> ![Distances (X-Axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_Dist2V.png) Distances (X-Axis) between selected Tags (Vertical)
 
 Orders tags and sets the same distances (X-Axis).
 
@@ -1821,7 +1813,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
 
-## <a id="Average distance (Y-axis) between selected Tags (Horizontal)"></a> ![Average distance (Y-axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_DistAverageH.png) Average distance (Y-axis) between selected Tags (Horizontal)
+## <a id="average distance (y-axis) between selected tags (horizontal)"></a> ![Average distance (Y-axis) between selected Tags (Horizontal)](/images/Tools/Drafter/Icons/Tags_DistAverageH.png) Average distance (Y-axis) between selected Tags (Horizontal)
 
 Orders tags and sets the average distances between them (Y-axis).
 
@@ -1829,7 +1821,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Average distance (X-axis) between selected Tags (Vertical)"></a> ![Average distance (X-axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_DistAverageV.png) Average distance (X-axis) between selected Tags (Vertical)
+## <a id="average distance (x-axis) between selected tags (vertical)"></a> ![Average distance (X-axis) between selected Tags (Vertical)](/images/Tools/Drafter/Icons/Tags_DistAverageV.png) Average distance (X-axis) between selected Tags (Vertical)
 
 Orders tags and sets the average distances between them (X-axis).
 
@@ -1837,7 +1829,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Distance between selected Tags with MENU"></a> ![Distance between selected Tags with MENU](/images/Tools/Drafter/Icons/Tags_DistMenu.png) Distance between selected Tags with MENU
+## <a id="distance between selected tags with menu"></a> ![Distance between selected Tags with MENU](/images/Tools/Drafter/Icons/Tags_DistMenu.png) Distance between selected Tags with MENU
 
 Orders tags and sets the distances between them with provided menu.
 
@@ -1850,7 +1842,7 @@ After that you will be asked to choose distance in provided menu.
 # <a id="tags-leaders"></a> ![Tags - Leaders](/images/Tools/Drafter/Icons/TagsLeader.png) Tags - Leaders  
 [back to LIST](#list)  
 
-## <a id="Make Tag leader lines horizontal"></a> ![Make Tag leader lines horizontal](/images/Tools/Drafter/Icons/Tags_Leader_H.png) Make Tag leader lines horizontal
+## <a id="make tag leader lines horizontal"></a> ![Make Tag leader lines horizontal](/images/Tools/Drafter/Icons/Tags_Leader_H.png) Make Tag leader lines horizontal
 
 Sets leaders of selected tags to go exactly horizontal.
 
@@ -1858,7 +1850,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make Tag leader lines vertical"></a> ![Make Tag leader lines vertical](/images/Tools/Drafter/Icons/Tags_Leader_V.png) Make Tag leader lines vertical
+## <a id="make tag leader lines vertical"></a> ![Make Tag leader lines vertical](/images/Tools/Drafter/Icons/Tags_Leader_V.png) Make Tag leader lines vertical
 
 Sets leaders of tags notes to go exactly vertical.
 
@@ -1866,7 +1858,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Move Tags so their leader lines go horizontal"></a> ![Move Tags so their leader lines go horizontal](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadH.png) Move Tags so their leader lines go horizontal
+## <a id="move tags so their leader lines go horizontal"></a> ![Move Tags so their leader lines go horizontal](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadH.png) Move Tags so their leader lines go horizontal
 
 Moves selected tags up and down so their leader lines go exactly horizontal.
 
@@ -1874,7 +1866,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Move Tags so their leader lines go vertical"></a> ![Move Tags so their leader lines go vertical](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadV.png) Move Tags so their leader lines go vertical
+## <a id="move tags so their leader lines go vertical"></a> ![Move Tags so their leader lines go vertical](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadV.png) Move Tags so their leader lines go vertical
 
 Moves selected tags left and right so their leader lines go exactly vertical.
 
@@ -1882,7 +1874,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make tags leader lines go straight without elbow"></a> ![Make tags leader lines go straight without elbow](/images/Tools/Drafter/Icons/Tags_Leader_NoElbow.png) Make tags leader lines go straight without elbow
+## <a id="make tags leader lines go straight without elbow"></a> ![Make tags leader lines go straight without elbow](/images/Tools/Drafter/Icons/Tags_Leader_NoElbow.png) Make tags leader lines go straight without elbow
 
 Sets leaders of selected tags to go exactly straight.
 
@@ -1890,7 +1882,7 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Make tags leader lines go with 90-degree elbow (Horizontal)"></a> ![Make tags leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/Tags_Leader_90dH.png) Make tags leader lines go with 90-degree elbow (Horizontal)
+## <a id="make tags leader lines go with 90-degree elbow (horizontal)"></a> ![Make tags leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/Tags_Leader_90dH.png) Make tags leader lines go with 90-degree elbow (Horizontal)
 
 Sets leaders of selected tags to go horizontal with 90-degree elbows.
 
@@ -1900,7 +1892,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 It will not work if you have Arc setting selected.
 
-## <a id="Make tags leader lines go with 90-degree elbow (Vertical)"></a> ![Make tags leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/Tags_Leader_90dV.png) Make tags leader lines go with 90-degree elbow (Vertical)
+## <a id="make tags leader lines go with 90-degree elbow (vertical)"></a> ![Make tags leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/Tags_Leader_90dV.png) Make tags leader lines go with 90-degree elbow (Vertical)
 
 Sets leaders of selected tags to go vertical with 90-degree elbows.
 
@@ -1910,7 +1902,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 It will not work if you have Arc setting selected.
 
-## <a id="Align tags leader elbows to point (horizontal TN)"></a> ![Align tags leader elbows to point (horizontal TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointH.png) Align tags leader elbows to point (horizontal TN)
+## <a id="align tags leader elbows to point (horizontal tn)"></a> ![Align tags leader elbows to point (horizontal TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointH.png) Align tags leader elbows to point (horizontal TN)
 
 Aligns elbows of selected tags leaders to selected point (in X-Axis).
 
@@ -1920,7 +1912,7 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-## <a id="Align tags leader elbows to point (vertical TN)"></a> ![Align tags leader elbows to point (vertical TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointV.png) Align tags leader elbows to point (vertical TN)
+## <a id="align tags leader elbows to point (vertical tn)"></a> ![Align tags leader elbows to point (vertical TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointV.png) Align tags leader elbows to point (vertical TN)
 
 Aligns elbows of selected tags leaders to selected point (in Y-Axis).
 
@@ -1934,7 +1926,7 @@ After that select the point.
 # <a id="dimensions"></a> ![Dimensions](/images/Tools/Drafter/Icons/Dim.png) Dimensions  
 [back to LIST](#list)  
 
-## <a id="Reset value overrides in selected Dimensions"></a> ![Reset value overrides in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png) Reset value overrides in selected Dimensions
+## <a id="reset value overrides in selected dimensions"></a> ![Reset value overrides in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png) Reset value overrides in selected Dimensions
 
 Resets value overrides in selected dimensions. 
 
@@ -1942,7 +1934,7 @@ How to use the tool:
 
 Select some dimensions, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Reset text position in selected Dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverwriteReset.png) Reset text position in selected Dimensions
+## <a id="reset text position in selected dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverwriteReset.png) Reset text position in selected Dimensions
 
 Resets text position in selected dimensions. 
 
@@ -1950,7 +1942,7 @@ How to use the tool:
 
 Select some dimensions, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Find & Replace in all dimensions"></a> ![Find & Replace in all dimensions](/images/Tools/Drafter/Icons/Dim_FindAndReplace.png) Find & Replace in all dimensions
+## <a id="find & replace in all dimensions"></a> ![Find & Replace in all dimensions](/images/Tools/Drafter/Icons/Dim_FindAndReplace.png) Find & Replace in all dimensions
 
 Finds specific values in dimensions (above, below, prefixes, suffixes) and gives you a possibility to replace them with value from provided menu. 
 
@@ -1958,7 +1950,7 @@ How to use the tool:
 
 Start the tool.  You will be asked to provide the values in menu you want to search for and replace with.
 
-## <a id="Find Zeros in dimensions"></a> ![Find Zeros in dimensions](/images/Tools/Drafter/Icons/Dim_Zero.png) Find Zeros in dimensions
+## <a id="find zeros in dimensions"></a> ![Find Zeros in dimensions](/images/Tools/Drafter/Icons/Dim_Zero.png) Find Zeros in dimensions
 
 Finds zeros in your dimensions.  
 
@@ -1987,7 +1979,7 @@ We recommened you to set 'SWAP' shortcut for this button.
 # <a id="regions"></a> ![Regions](/images/Tools/Drafter/Icons/Region.png) Regions  
 [back to LIST](#list)  
 
-## <a id="Convert Masking Region into Filled Region"></a> ![Convert Masking Region into Filled Region](/images/Tools/Drafter/Icons/Region_Convert.png) Convert Masking Region into Filled Region
+## <a id="convert masking region into filled region"></a> ![Convert Masking Region into Filled Region](/images/Tools/Drafter/Icons/Region_Convert.png) Convert Masking Region into Filled Region
 
 Experimental! Converts masking region into filled regions. 
 
@@ -1995,7 +1987,7 @@ How to use the tool:
 
 Select some masking regions, or when started, you will be prompted to do it by the tool. 
 
-## <a id="Walls to Filled Region"></a> ![Walls to Filled Region](/images/Tools/Drafter/Icons/Region_ConvertWall.png) Walls to Filled Region
+## <a id="walls to filled region"></a> ![Walls to Filled Region](/images/Tools/Drafter/Icons/Region_ConvertWall.png) Walls to Filled Region
 
 Experimental! Converts selected walls into filled regions (works in plan only). 
 
@@ -2007,7 +1999,7 @@ Select some walls, or when started, you will be prompted to do it by the tool.
 # <a id="family-editor"></a> ![Family Editor](/images/Tools/Drafter/Icons/Family.png) Family Editor  
 [back to LIST](#list)  
   
-## <a id="Move Text Element to the point "></a> ![Move Text Element to the point](/images/Tools/Drafter/Icons/Text_MoveToPoint.png) Move Text Element to the point 
+## <a id="move text element to the point"></a> ![Move Text Element to the point](/images/Tools/Drafter/Icons/Text_MoveToPoint.png) Move Text Element to the point 
 
 Gives complete control over a position of text elements and aligns them to selected point.
 
@@ -2015,7 +2007,7 @@ How to use the tool:
 
 Select text elements which you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.
 
-## <a id="Draw lines at (0, 0)"></a> ![Draw lines at (0, 0)](/images/Tools/Drafter/Icons/FE_drawzero.png) Draw lines at (0, 0)
+## <a id="draw lines at (0, 0)"></a> ![Draw lines at (0, 0)](/images/Tools/Drafter/Icons/FE_drawzero.png) Draw lines at (0, 0)
 
 Draws lines at point (0, 0)
 
@@ -2023,7 +2015,7 @@ How to use the tool:
 
 Press the button.
 
-## <a id="Set width of selected Text Elements with MENU "></a> ![Set width of selected Text Elements with MENU ](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected Text Elements with MENU 
+## <a id="set width of selected text elements with menu"></a> ![Set width of selected Text Elements with MENU ](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected Text Elements with MENU 
 
 Sets the width of selected text elements to the width chosen in provided menu. 
 
