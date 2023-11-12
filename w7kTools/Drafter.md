@@ -92,47 +92,40 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Order horizontally from the middle of view](/images/Tools/Drafter/Icons/Viewport_OrderFromMiddle.png) [4.14. Order horizontally from the middle of view](#order-horizontally-from-the-middle-of-view)  
 ![Order horizontally with a chosen gap](/images/Tools/Drafter/Icons/Viewport_OrderHorizontally.png) [4.15. Order horizontally with a chosen gap](#order-horizontally-with-a-chosen-gap)  
 ![Order up to 4 viewports in two rows with 2 points](/images/Tools/Drafter/Icons/Viewport_OrderUpTo4.png) [4.16. Order up to 4 viewports in two rows with 2 points](#order-up-to-4-viewports-in-two-rows-with-2-points)  
+  
+### ![Sheets](/images/Tools/Drafter/Icons/Sheet_Button.png) [5. Sheets](#sheets)  
+  
+### ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) [6. Scopeboxes](#scopeboxes)
+  
+![Aling plans on the sheets with the same scopebox](/images/Tools/Drafter/Icons/Viewport_Scopebox.png) [6.1. Aling plans on the sheets with the same scopebox](#aling-plans-on-the-sheets-with-the-same-scopebox)  
+  
+### ![Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_Button.png) [7. Title Blocks](#title-blocks)  
 
+### ![Legends](/images/Tools/Drafter/Icons/Legend_Button.png) [8. Legends](#legends)  
 
+### ![Schedules](/images/Tools/Drafter/Icons/Schedule_Button.png) [9. Schedules](#schedules)  
 
+### ![Revisions](/images/Tools/Drafter/Icons/Revision.png) [10. Revisions](#revisions)  
 
+### ![Text Notes](/images/Tools/Drafter/Icons/TextNotes_Buttonr.png) [11. Text Notes](#text-notes)  
 
+### ![Text Notes - Position](/images/Tools/Drafter/Icons/TextNotes_Pos.png) [12. Text Notes - Position](#text-notes-position)  
 
+### ![Text Note - Leaders](/images/Tools/Drafter/Icons/TextNotesLeader.png) [13. Text Note - Leaders](#text-note-leaders)  
 
+### ![Tags](/images/Tools/Drafter/Icons/Tags.png) [14. Tags](#tags)  
 
-[5. Sheets]()  
+### ![Tags - Position](/images/Tools/Drafter/Icons/Tags_Pos.png) [15. Tags - Position](#tags-position)  
 
-### [6. Scopeboxes]()  
+### ![Tags - Leaders](/images/Tools/Drafter/Icons/TagsLeader.png) [16. Tags - Leaders](#tags-leaders)  
 
-[6.1. Aling plans on the sheets with the same scopebox](#aling-plans-on-the-sheets-with-the-same-scopebox)
+### ![Dimensions](/images/Tools/Drafter/Icons/Dim.png) [17. Dimensions](#dimensions)  
 
-[7. Title Blocks]()  
+### ![Regions](/images/Tools/Drafter/Icons/Region.png) [18. Regions](#regions)  
 
-[8. Legends]()  
+### ![Various](/images/Tools/Drafter/Icons/Various.png) [19. Various](#various)  
 
-[9. Schedules]()  
-
-[10. Revisions]()  
-
-[11. Text Notes]()  
-
-[12. Text Notes - Position]()  
-
-[13. Text Note - Leaders]()  
-
-[14. Tags]()  
-
-[15. Tags - Position]()  
-
-[16. Tags - Leaders]()  
-
-[17. Dimensions]()  
-
-[18. Regions]()  
-
-[19. Various]()  
-
-[20. Family Editor]()  
+### ![Family Editor](/images/Tools/Drafter/Icons/Family.png) [20. Family Editor](#family-editor)  
 
 
 
@@ -680,7 +673,7 @@ How to use the tool:
 Select viewports which you want to order, or when started you will be prompted to do it by the tool. 
 
 After selection you will be prompted to pick the 2 points. Start with top left. 
-  
+
 ![Sheets](/images/Tools/Drafter/drafterSheets.jpg)  
 # Sheets
 
@@ -785,10 +778,16 @@ How to use the tool:
 Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
 
 
-![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
-# Scopeboxes
 
-## Aling plans on the sheets with the same scopebox
+
+
+
+![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
+
+# <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
+[back to LIST](#list)  
+  
+## <a id="aling-plans-on-the-sheets-with-the-same-scopebox"></a> ![Aling plans on the sheets with the same scopebox](/images/Tools/Drafter/Icons/Viewport_Scopebox.png) Aling plans on the sheets with the same scopebox  
 
 Alings plans on the sheets with the same scopebox and the same scale as selected.  
 
