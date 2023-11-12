@@ -119,9 +119,17 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 ### ![Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_Button.png) [7. Title Blocks](#title-blocks)  
   
-
-
+![Reset position to default - Selected TB](/images/Tools/Drafter/Icons/TitleBlock_ResetOne.png) [7.1. Reset position to default - Selected TB ](#reset-position-to-default-selected-tb)  
+![Reset position to default - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_ResetType.png) [7.2. Reset position to default - Instances of Selected TB Type](#reset-position-to-default-instances-of-selected-tb-type)  
+![Reset position to default - All TB](/images/Tools/Drafter/Icons/TitleBlock_ResetAll.png) [7.3. Reset position to default - All TB](#reset-position-to-default-all-tb)   
+![Rescue! Set position - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_SetType.png)[7.4. Rescue! Set position - Instances of Selected TB Type](#rescue!-set-position-instances-of-selected-tb-type)  
+![Rescue! Set position - All Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_SetAll.png) [7.5. Rescue! Set position - All Title Blocks](#rescue!-set-position-all-title-blocks)   
+![TB - Save position to MEMORY](/images/Tools/Drafter/Icons/TitleBlock_Memory.png) [7.6. TB - Save position to MEMORY](#tb-save-position-to-memory)  
+![TB - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/TitleBlock_FromMemory.png) [7.7. TB - Load position from MEMORY to Selected](#tb-load-position-from-memory-to-selected)  
+  
+  
 ### ![Legends](/images/Tools/Drafter/Icons/Legend_Button.png) [8. Legends](#legends)  
+
 
 ### ![Schedules](/images/Tools/Drafter/Icons/Schedule_Button.png) [9. Schedules](#schedules)  
 
@@ -828,7 +836,7 @@ You don't have to unpin the viewports - we will do it automatically.
 [back to LIST](#list)  
   
   
-## Reset position to default - Selected TB
+## <a id="reset-position-to-default-selected-tb"></a> ![Reset position to default - Selected TB](/images/Tools/Drafter/Icons/TitleBlock_ResetOne.png) Reset position to default - Selected TB
 
 Resets selected title blocks to their default position.
 
@@ -836,7 +844,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will reset their position. At the end you will be informed about the number of changes.
 
-## Reset position to default - Instances of Selected TB Type
+## <a id="reset-position-to-default-instances-of-selected-tb-type"></a> ![Reset position to default - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_ResetType.png) Reset position to default - Instances of Selected TB Type
 
 Resets instances of selected title block to their default position. 
 
@@ -844,7 +852,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and reset their position. At the end you will be informed about the number of changes.
 
-## Reset position to default - All TB
+## <a id="reset-position-to-default-all-tb"></a> ![Reset position to default - All TB](/images/Tools/Drafter/Icons/TitleBlock_ResetAll.png) Reset position to default - All TB
 
 Resets all title blocks to their default position. 
 
@@ -852,8 +860,7 @@ How to use the tool:
 
 Simply use the script and the tool will move all title blocks to their default position. At the end you will be informed about the number of changes. 
 
-
-## Rescue! Set position - Instances of Selected TB Type
+## <a id="rescue!-set-position-instances-of-selected-tb-type"></a> ![Rescue! Set position - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_SetType.png) Rescue! Set position - Instances of Selected TB Type
 
 We know! Someone messed it up and now you cannot reset title blocks. Let's keep them for now. This tool sets the same position to all instances of selected title block to its position.
 
@@ -861,7 +868,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and sets their position as selected. At the end you will be informed about the number of changes.
 
-## Rescue! Set position - All Title Blocks
+## <a id="rescue!-set-position-all-title-blocks"></a> ![Rescue! Set position - All Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_SetAll.png) Rescue! Set position - All Title Blocks
 
 We know! Someone messed it up and now you cannot reset title blocks. Let's keep them for now. This tool sets the same position to all title blocks in your project to the position of selected title block.
 
@@ -869,7 +876,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all title blocks in the project and set their position as selected. At the end you will be informed about the number of changes.
 
-## TB - Save position to MEMORY
+## <a id="tb-save-position-to-memory"></a> ![TB - Save position to MEMORY](/images/Tools/Drafter/Icons/TitleBlock_Memory.png) TB - Save position to MEMORY
 
 Saves position of selected title block to Memory.
 
@@ -877,7 +884,7 @@ How to use the tool:
 
 Click the button and pick one title block. Its settings will be saved in external file for further use.
 
-## TB - Load position from MEMORY to Selected
+## <a id="tb-load-position-from-memory-to-selected"></a> ![TB - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/TitleBlock_FromMemory.png) TB - Load position from MEMORY to Selected
 
 Loads previously saved position of a title block from Memory and applies it to selected title blocks.
 
@@ -946,13 +953,17 @@ Select title blocks which you want to change, or when started you will be prompt
 
 ## Versions
 [back to LIST](#list)  
-Version 1 was published at XXXX-XX-XX as Drafter. Works on Autodesk Revit 2020 - 2024. 
+Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024. 
 
 
 
 ## Known Problems  
 [back to LIST](#list)  
 
+### Problems on To-Do List:
+
+
+### Problems not on To-Do List:
 
 <br>
 <div class="backToTools">
