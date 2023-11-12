@@ -25,51 +25,51 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 # List
 
-[1. Title Lines](#title-lines)  
-    [1.1. Align TL to the point](#align-tL-to-the-point)  
-    [1.2. Align TL in the X axis](#align-tl-in-the-x-axis)  
-    [1.3. Align TL in the Y axis](#align-tl-in-the-y-axis)    
-    [1.4. Set length of selected TL as per PICKED Viewport](#set-length-of-selected-tl-as-per-picked-viewport)  
-    [1.5. Set length of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
-    [1.6. Set positions of selected TL as per PICKED Viewport](#set-positions-of-selected-tl-as-per-picked-viewport)  
-    [1.7. Set positions of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
-    [1.8. Save To MEMORY - TL position and length](#save-to-memory-tl-position-and-length)    
-    [1.9. Set TL position and length as in MEMORY - Active sheet](#set-tl-position-and-length-as-in-memory-active-sheet)  
-    [1.10. Set TL position and length as in MEMORY - Selected Viewports](#set-tl-position-and-length-as-in-memory-selected-viewports)  
-    [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)    
+### [1. Title Lines](#title-lines)
+[1.1. Align TL to the point](#align-tL-to-the-point)  
+[1.2. Align TL in the X axis](#align-tl-in-the-x-axis)  
+[1.3. Align TL in the Y axis](#align-tl-in-the-y-axis)    
+[1.4. Set length of selected TL as per PICKED Viewport](#set-length-of-selected-tl-as-per-picked-viewport)  
+[1.5. Set length of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
+[1.6. Set positions of selected TL as per PICKED Viewport](#set-positions-of-selected-tl-as-per-picked-viewport)  
+[1.7. Set positions of selected TL with MENU](#set-length-of-selected-tl-with-menu)    
+[1.8. Save To MEMORY - TL position and length](#save-to-memory-tl-position-and-length)    
+[1.9. Set TL position and length as in MEMORY - Active sheet](#set-tl-position-and-length-as-in-memory-active-sheet)  
+[1.10. Set TL position and length as in MEMORY - Selected Viewports](#set-tl-position-and-length-as-in-memory-selected-viewports)  
+[10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)    
   
-[2. Project Browser](#project-browser)  
-    [2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
-    [2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
-    [2.3. Sheet Number - To lower case](#sheet-number-to-lower-case) 
-    [2.4. Sheet Number - To UPPER CASE](#sheet-number-to-upper-case)   
-    [2.5. Sheet Number - To Title Case](#sheet-number-to-title-case)  
-    [2.6. Sheet Number - Find and replace](#sheet-number-find-and-replace)  
-    [2.7. Sheet Number - Find and replace (All)](#sheet-number-find-and-replace-all)  
-    [2.8. Names - Add prefix](#names-add-prefix)  
-    [2.9. Names - Add suffix](#names-add-suffix)  
-    [2.10. Names - To lower case](#names-to-lower-case)  
-    [2.11. Names - To UPPER CASE](#names-to-upper-case)  
-    [2.12. Names - To Title Case](#names-to-title-case)  
-    [2.13. Names - Find and Replace](#names-find-and-replace)  
+### [2. Project Browser](#project-browser)  
+[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
+[2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
+[2.3. Sheet Number - To lower case](#sheet-number-to-lower-case) 
+[2.4. Sheet Number - To UPPER CASE](#sheet-number-to-upper-case)   
+[2.5. Sheet Number - To Title Case](#sheet-number-to-title-case)  
+[2.6. Sheet Number - Find and replace](#sheet-number-find-and-replace)  
+[2.7. Sheet Number - Find and replace (All)](#sheet-number-find-and-replace-all)  
+[2.8. Names - Add prefix](#names-add-prefix)  
+[2.9. Names - Add suffix](#names-add-suffix)  
+[2.10. Names - To lower case](#names-to-lower-case)  
+[2.11. Names - To UPPER CASE](#names-to-upper-case)  
+[2.12. Names - To Title Case](#names-to-title-case)  
+[2.13. Names - Find and Replace](#names-find-and-replace)  
   
-[3. Vertical Views](#vertical-views)  
-    [3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
-    [3.2. Top & Base Offset - Selected Views](#top-&-base-offset-selected-views)  
-    [3.3. Top & Base Offset - Views on Selected Sheets](#top-&-base-offset-views-on-selected-sheets)  
-    [3.4. Extend Side - Active](#extend-side-active)  
-    [3.5. Extend Side - Selected Views](#extend-side-selected-views)  
-    [3.6. Extend Side - Views on Selected Sheets](#extend-side-views-on-selected-sheets)  
-    [3.7. Set Top & Base as Picked - Active Sheet](#set-top-base-as-picked-active-sheet)  
-    [3.8. Set Top & Base as Picked - Selected Views](#set-top-base-as-picked-selected-views)  
-    [3.9. Set Top & Base as Picked - Views on Selected Sheets](#set-top-base-as-picked-views-on-selected-sheets)  
-    [3.10. Set Top & Base with MENU - Active](#set-top-base-with-menu-active)  
-    [3.11. Set Top & Base with MENU - Selected Views](#set-top-base-with-menu-selected-views)  
-    [3.12. Set Top & Base with MENU - Views on Selected Sheets](#set-top-base-with-menu-views-on-selected-sheets)  
-    [3.13. Save To MEMORY - Top & Base Elevation](#save-top-base-to-memory)  
-    [3.14. Set Top & Base from MEMORY - Active](#set-top-base-from-memory-active)  
-    [3.15. Set Top & Base from MEMORY - Selected Views](#set-top-base-from-memory-selected-views)  
-    [3.15. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
+### [3. Vertical Views](#vertical-views)  
+[3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
+[3.2. Top & Base Offset - Selected Views](#top-&-base-offset-selected-views)  
+[3.3. Top & Base Offset - Views on Selected Sheets](#top-&-base-offset-views-on-selected-sheets)  
+[3.4. Extend Side - Active](#extend-side-active)  
+[3.5. Extend Side - Selected Views](#extend-side-selected-views)  
+[3.6. Extend Side - Views on Selected Sheets](#extend-side-views-on-selected-sheets)  
+[3.7. Set Top & Base as Picked - Active Sheet](#set-top-base-as-picked-active-sheet)  
+[3.8. Set Top & Base as Picked - Selected Views](#set-top-base-as-picked-selected-views)  
+[3.9. Set Top & Base as Picked - Views on Selected Sheets](#set-top-base-as-picked-views-on-selected-sheets)  
+[3.10. Set Top & Base with MENU - Active](#set-top-base-with-menu-active)  
+[3.11. Set Top & Base with MENU - Selected Views](#set-top-base-with-menu-selected-views)  
+[3.12. Set Top & Base with MENU - Views on Selected Sheets](#set-top-base-with-menu-views-on-selected-sheets)  
+[3.13. Save To MEMORY - Top & Base Elevation](#save-top-base-to-memory)  
+[3.14. Set Top & Base from MEMORY - Active](#set-top-base-from-memory-active)  
+[3.15. Set Top & Base from MEMORY - Selected Views](#set-top-base-from-memory-selected-views)  
+[3.15. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
   
 [4. Viewports]()  
 
@@ -518,8 +518,253 @@ Works for vertical views such as sections or elevations.
 ![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
 # Viewports
 
+## Align selected Viewports (Top)
+
+Align selected viewports in Y-Axis to the top.
+
+How to use the tool:
+
+Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+## Align selected Viewports (Middle Y-Axis)
+
+Align selected viewports in Y-Axis to the middle.
+
+How to use the tool:
+
+Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+## Align selected Viewports (Bottom)
+
+Align selected viewports in Y-Axis to the bottom.
+
+How to use the tool:
+
+Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+## Align selected Viewports (Left)
+
+Align selected viewports in X-Axis to the left.
+
+How to use the tool:
+
+Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+## Align selected Viewports (Middle X-Axis)
+
+Align selected viewports in X-Axis to the middle.
+
+How to use the tool:
+
+Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+## Align selected Viewports (Right)
+
+Align selected viewports in X-Axis to the right.
+
+How to use the tool:
+
+Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+## Number by Click
+
+Sets the numbers of selected viewports by the order they were picked.
+
+How to use the tool:
+
+Simply pick viewports one by one. Then click esc or cancel. We will do the rest. 
+
+## Add +1 to selected detail numbers
+
+Adds one to detail numbers of all selected viewport.
+
+How to use the tool:
+
+Select viewports which you want to change, or when started you will be prompted to do it by the tool.
+
+## Subtract 1 from selected detail numbers
+
+Subtracts one from detail numbers of all selected viewport.
+
+How to use the tool:
+
+Select viewports which you want to change, or when started you will be prompted to do it by the tool.
+
+## Add prefix to detail numbers of selected viewports
+
+Adds prefix to detail numbers of all selected viewport.
+
+How to use the tool:
+
+Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
+
+After selection you will be prompted to define the prefix. 
+
+Please bear in mind that these numbers cannot be already used in the sheet. 
+
+## Add suffix to detail numbers of selected viewports
+
+Adds suffix to detail numbers of all selected viewport.
+
+How to use the tool:
+
+Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
+
+After selection you will be prompted to define the prefix. 
+
+Please bear in mind that these numbers cannot be already used in the sheet.
+
+## Renumber detail from left to right
+
+Renumbers detail numbers of all selected viewport from left to right.
+
+How to use the tool:
+
+Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
+
+## Renumber detail from top to bottom 
+
+Renumbers detail numbers of all selected viewport from top to bottom.
+
+How to use the tool:
+
+Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
+
+## Order horizontally from the middle of view
+
+Orders selected viewports from the centre of the viewport. 
+
+How to use the tool:
+
+Select viewports which you want to order, or when started you will be prompted to do it by the tool. 
+
+After selection you will be prompted to define the offset.
+
+## Order horizontally with a chosen gap
+
+Orders selected viewports with a chosen gap. 
+
+How to use the tool:
+
+Select viewports which you want to order, or when started you will be prompted to do it by the tool. 
+
+After selection you will be prompted to define the offset.
+
+## Order up to 4 viewports in two rows with 2 points
+
+Orders up to 4 viewports in two rows with 2 points.  
+
+How to use the tool:
+
+Select viewports which you want to order, or when started you will be prompted to do it by the tool. 
+
+After selection you will be prompted to pick the 2 points. Start with top left. 
+
+
+
 ![Sheets](/images/Tools/Drafter/drafterSheets.jpg)  
 # Sheets
+
+## <a id="numbers-add-1-to-selected-sheet"></a> Numbers - Add +1 to Selected Sheet
+
+Adds one to all selected sheet numbers.
+
+How to use the tool:
+
+Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
+
+## <a id="numbers-subtract-1-from-selected-sheet"></a> Numbers - Subtract 1 from Selected Sheet
+
+Subtract one from all selected sheet numbers.
+
+How to use the tool:
+
+Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
+
+## <a id="reset-title-on-sheet-active-sheet"></a> Reset Title On Sheet - Active Sheet
+
+Resets all Title On Sheets from views placed on active sheet.
+
+How to use the tool:
+
+Open a sheet and press the button. The tool will gather all the viewports on it. 
+
+## <a id="reset-title-on-sheet-selected-sheets"></a> Reset Title On Sheet - Selected Sheets 
+
+Resets all Title On Sheets from views placed on selected sheets.
+
+How to use the tool:
+
+Select some sheets in a project browser and click the button to start the script.
+
+## <a id="reset-title-on-sheet-all-sheets"></a> Reset Title On Sheet - All Sheets 
+
+Resets all Title On Sheets in your project.
+
+How to use the tool:
+
+Press the button. You will be asked to confirm (twice) and informed about the change we did. 
+
+## <a id="fake-scale-active-sheet"></a> Fake Scale - Active Sheet
+
+Applies a fake scale to active sheet.
+
+How to use the tool:
+
+Open a sheet and press the button. The tool will gather all the viewports on it. 
+
+You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
+
+## <a id="fake-scale-selected-sheets"></a> Fake Scale - Selected Sheets 
+
+Applies a fake scale to the selected sheets.
+
+How to use the tool:
+
+Press the button. 
+
+You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters.
+
+The tool will show you a form where you can select the sheets you want to affect.
+
+After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
+
+## <a id="fake-scale-all-sheets"></a> Fake Scale - All Sheets 
+
+Applies a fake scale to all sheets in your project.
+
+How to use the tool:
+
+Press the button. 
+
+You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
+
+## <a id="generic-annotations-adjust-positions-on-all-sheets"></a> Generic Annotations - Adjust positions on all sheets
+
+Moves all instances of selected Generic Annotation to the same position on multiple sheets.
+
+How to use the tool:
+
+Select exemplary generic annotation or when started you will be prompted to do it by the tool. 
+
+We will find all instances of it and adjust their positions on sheets.
+
+## <a id="generic-annotations-save-position-to-memory"></a> Generic Annotations - Save position to MEMORY
+
+Saves position of selected Generic Annotation to Memory.
+
+How to use the tool:
+
+Click the button and pick one viewport. Its settings will be saved in external file for further use.
+ 
+## <a id="generic-annotations-load-position-from-memory-to-selected"></a> Generic Annotations - Load position from MEMORY to Selected
+
+Loads previously saved position of a Generic Annotation from Memory and applies it to selected Generic Annotation.
+
+How to use the tool:
+
+Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
+
 
 ![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
 # Scopeboxes
