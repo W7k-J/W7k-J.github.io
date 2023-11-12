@@ -94,7 +94,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Order up to 4 viewports in two rows with 2 points](/images/Tools/Drafter/Icons/Viewport_OrderUpTo4.png) [4.16. Order up to 4 viewports in two rows with 2 points](#order-up-to-4-viewports-in-two-rows-with-2-points)  
   
 ### ![Sheets](/images/Tools/Drafter/Icons/Sheet_Button.png) [5. Sheets](#sheets)  
-  
+
+
 ### ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) [6. Scopeboxes](#scopeboxes)
   
 ![Aling plans on the sheets with the same scopebox](/images/Tools/Drafter/Icons/Viewport_Scopebox.png) [6.1. Aling plans on the sheets with the same scopebox](#aling-plans-on-the-sheets-with-the-same-scopebox)  
@@ -674,10 +675,15 @@ Select viewports which you want to order, or when started you will be prompted t
 
 After selection you will be prompted to pick the 2 points. Start with top left. 
 
-![Sheets](/images/Tools/Drafter/drafterSheets.jpg)  
-# Sheets
+ 
 
-## <a id="numbers-add-1-to-selected-sheet"></a> Numbers - Add +1 to Selected Sheet
+
+
+![Sheets](/images/Tools/Drafter/drafterSheets.jpg)  
+# <a id="sheets"></a> ![Sheets](/images/Tools/Drafter/Icons/Sheet_Button.png) Sheets  
+[back to LIST](#list)  
+  
+## <a id="numbers-add-1-to-selected-sheet"></a> ![Numbers - Add +1 to Selected Sheet](/images/Tools/Drafter/Icons/Sheet_NumberOneUp.png) Numbers - Add +1 to Selected Sheet
 
 Adds one to all selected sheet numbers.
 
@@ -685,7 +691,7 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
 
-## <a id="numbers-subtract-1-from-selected-sheet"></a> Numbers - Subtract 1 from Selected Sheet
+## <a id="numbers-subtract-1-from-selected-sheet"></a> ![Numbers - Subtract 1 from Selected Sheet](/images/Tools/Drafter/Icons/Sheet_NumberOneDown.png) Numbers - Subtract 1 from Selected Sheet
 
 Subtract one from all selected sheet numbers.
 
@@ -693,7 +699,7 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
 
-## <a id="reset-title-on-sheet-active-sheet"></a> Reset Title On Sheet - Active Sheet
+## <a id="reset-title-on-sheet-active-sheet"></a> ![Reset Title On Sheet - Active Sheet](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_ActiveView.png) Reset Title On Sheet - Active Sheet
 
 Resets all Title On Sheets from views placed on active sheet.
 
@@ -701,7 +707,7 @@ How to use the tool:
 
 Open a sheet and press the button. The tool will gather all the viewports on it. 
 
-## <a id="reset-title-on-sheet-selected-sheets"></a> Reset Title On Sheet - Selected Sheets 
+## <a id="reset-title-on-sheet-selected-sheets"></a> ![Reset Title On Sheet - Selected Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_Selected.png) Reset Title On Sheet - Selected Sheets 
 
 Resets all Title On Sheets from views placed on selected sheets.
 
@@ -709,7 +715,7 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script.
 
-## <a id="reset-title-on-sheet-all-sheets"></a> Reset Title On Sheet - All Sheets 
+## <a id="reset-title-on-sheet-all-sheets"></a> ![Reset Title On Sheet - All Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_All.png) Reset Title On Sheet - All Sheets 
 
 Resets all Title On Sheets in your project.
 
@@ -717,7 +723,7 @@ How to use the tool:
 
 Press the button. You will be asked to confirm (twice) and informed about the change we did. 
 
-## <a id="fake-scale-active-sheet"></a> Fake Scale - Active Sheet
+## <a id="fake-scale-active-sheet"></a> ![Fake Scale - Active Sheet](/images/Tools/Drafter/Icons/Sheet_FakeScale_ActiveView.png) Fake Scale - Active Sheet
 
 Applies a fake scale to active sheet.
 
@@ -727,7 +733,7 @@ Open a sheet and press the button. The tool will gather all the viewports on it.
 
 You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
 
-## <a id="fake-scale-selected-sheets"></a> Fake Scale - Selected Sheets 
+## <a id="fake-scale-selected-sheets"></a> ![Fake Scale - Selected Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_Selected.png) Fake Scale - Selected Sheets 
 
 Applies a fake scale to the selected sheets.
 
@@ -741,7 +747,7 @@ The tool will show you a form where you can select the sheets you want to affect
 
 After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
 
-## <a id="fake-scale-all-sheets"></a> Fake Scale - All Sheets 
+## <a id="fake-scale-all-sheets"></a> ![Fake Scale - All Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_All.png) Fake Scale - All Sheets 
 
 Applies a fake scale to all sheets in your project.
 
@@ -751,7 +757,7 @@ Press the button.
 
 You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
 
-## <a id="generic-annotations-adjust-positions-on-all-sheets"></a> Generic Annotations - Adjust positions on all sheets
+## <a id="generic-annotations-adjust-positions-on-all-sheets"></a> ![Generic Annotations - Adjust positions on all sheets](/images/Tools/Drafter/Icons/Sheet_GA.png) Generic Annotations - Adjust positions on all sheets
 
 Moves all instances of selected Generic Annotation to the same position on multiple sheets.
 
@@ -761,7 +767,7 @@ Select exemplary generic annotation or when started you will be prompted to do i
 
 We will find all instances of it and adjust their positions on sheets.
 
-## <a id="generic-annotations-save-position-to-memory"></a> Generic Annotations - Save position to MEMORY
+## <a id="generic-annotations-save-position-to-memory"></a> ![Generic Annotations - Save position to MEMORY](/images/Tools/Drafter/Icons/Sheet_GA_ToMemory.png) Generic Annotations - Save position to MEMORY
 
 Saves position of selected Generic Annotation to Memory.
 
@@ -769,15 +775,15 @@ How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
  
-## <a id="generic-annotations-load-position-from-memory-to-selected"></a> Generic Annotations - Load position from MEMORY to Selected
+## <a id="generic-annotations-load-position-from-memory-to-selected"></a> ![Generic Annotations - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Sheet_GA_FromMemory.png) Generic Annotations - Load position from MEMORY to Selected
 
 Loads previously saved position of a Generic Annotation from Memory and applies it to selected Generic Annotation.
 
 How to use the tool:
 
 Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
-
-
+  
+  
 
 
 
