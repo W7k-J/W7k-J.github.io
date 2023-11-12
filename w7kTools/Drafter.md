@@ -299,7 +299,9 @@ Gives complete control over a position of title lines and aligns them to selecte
 
 How to use the tool: 
 
-**Select viewports which title lines you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.**
+**Select viewports which title lines you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.**  
+
+**Press Esc to exit.** 
 
 ## <a id="align-tl-in-the-x-axis"></a> ![Align TL in the X axis](/images/Tools/Drafter/Icons/AlignX.png) Align TL in the X axis
 
@@ -307,7 +309,10 @@ Aligns title lines in X axis to the selected point.
 
 How to use the tool: 
 
-**Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.** 
+**Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.**  
+
+**Press Esc to exit.** 
+
 
 ## <a id="align-tl-in-the-y-axis"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/AlignY.png) Align TL in the Y axis
 
@@ -315,7 +320,9 @@ Aligns title lines in Y axis to the selected point.
 
 How to use the tool: 
 
-**Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.** 
+**Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.**  
+
+**Press Esc to exit.** 
 
 ## <a id="set-length-of-selected-tl-as-per-picked-viewport"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/TitleLineLengthAsView.png) Set length of selected TL as per PICKED Viewport
 
