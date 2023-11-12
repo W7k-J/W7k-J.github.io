@@ -826,9 +826,9 @@ You don't have to unpin the viewports - we will do it automatically.
 # Title Blocks
 # <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
 [back to LIST](#list)  
-
-
-Reset position to default – Selected TB
+  
+  
+## Reset position to default - Selected TB
 
 Resets selected title blocks to their default position.
 
@@ -836,7 +836,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will reset their position. At the end you will be informed about the number of changes.
 
-Reset position to default – Instances of Selected TB Type
+## Reset position to default - Instances of Selected TB Type
 
 Resets instances of selected title block to their default position. 
 
@@ -844,7 +844,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and reset their position. At the end you will be informed about the number of changes.
 
-Reset position to default – All TB
+## Reset position to default - All TB
 
 Resets all title blocks to their default position. 
 
@@ -853,7 +853,7 @@ How to use the tool:
 Simply use the script and the tool will move all title blocks to their default position. At the end you will be informed about the number of changes. 
 
 
-Rescue! Set position – Instances of Selected TB Type
+## Rescue! Set position - Instances of Selected TB Type
 
 We know! Someone messed it up and now you cannot reset title blocks. Let's keep them for now. This tool sets the same position to all instances of selected title block to its position.
 
@@ -861,7 +861,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and sets their position as selected. At the end you will be informed about the number of changes.
 
-Rescue! Set position – All Title Blocks
+## Rescue! Set position - All Title Blocks
 
 We know! Someone messed it up and now you cannot reset title blocks. Let's keep them for now. This tool sets the same position to all title blocks in your project to the position of selected title block.
 
@@ -869,7 +869,7 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all title blocks in the project and set their position as selected. At the end you will be informed about the number of changes.
 
-TB – Save position to MEMORY
+## TB - Save position to MEMORY
 
 Saves position of selected title block to Memory.
 
@@ -877,21 +877,13 @@ How to use the tool:
 
 Click the button and pick one title block. Its settings will be saved in external file for further use.
 
-TB – Load position from MEMORY to Selected
+## TB - Load position from MEMORY to Selected
 
 Loads previously saved position of a title block from Memory and applies it to selected title blocks.
 
 How to use the tool:
 
 Select title blocks which you want to change, or when started you will be prompted to do it by the tool. 
-
-
-
-
-
-
-
-
 
 
 ![Legends](/images/Tools/Drafter/drafterLegends.jpg)  
