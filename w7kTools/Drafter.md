@@ -26,7 +26,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 # List
 
 ### [1. Title Lines](#title-lines)
-[1.1. Align TL to the point](#align-tL-to-the-point)  
+[1.1. Align TL to the point ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png)](#align-tL-to-the-point)  
 [1.2. Align TL in the X axis](#align-tl-in-the-x-axis)  
 [1.3. Align TL in the Y axis](#align-tl-in-the-y-axis)    
 [1.4. Set length of selected TL as per PICKED Viewport](#set-length-of-selected-tl-as-per-picked-viewport)  
