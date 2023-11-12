@@ -25,7 +25,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 # List
 
-### ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) [1. Title Lines](#title-lines)
+### ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) [1. Title Lines](#title-lines)  
+  
 ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) [1.1. Align TL to the point ](#align-tl-to-the-point)  
 ![Align TL in the X axis](/images/Tools/Drafter/Icons/AlignX.png) [1.2. Align TL in the X axis](#align-tl-in-the-x-axis)  
 ![Align TL in the Y axis](/images/Tools/Drafter/Icons/AlignY.png) [1.3. Align TL in the Y axis](#align-tl-in-the-y-axis)    
@@ -39,6 +40,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)  
   
 ### ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) [2. Project Browser](#project-browser)  
+  
 ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixBlue.png)[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
 ![Sheet Number - Add suffix](/images/Tools/Drafter/Icons/suffixBlue.png)[2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
 ![Sheet Number - To lower case](/images/Tools/Drafter/Icons/TextToLowerBlue.png)[2.3. Sheet Number - To lower case](#sheet-number-to-lower-case)  
@@ -54,6 +56,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png)[2.13. Names - Find and Replace](#names-find-and-replace)  
   
 ### ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) [3. Vertical Views](#vertical-views)  
+  
 ![Top & Base Offset - Active](/images/Tools/Drafter/Icons/VV_Offset_ActiveView.png)[3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
 ![Top & Base Offset - Selected Views](/images/Tools/Drafter/Icons/VV_Offset_Selected.png)[3.2. Top & Base Offset - Selected Views](#top-&-base-offset-selected-views)  
 ![Top & Base Offset - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Offset_SelectedSheets.png)[3.3. Top & Base Offset - Views on Selected Sheets](#top-&-base-offset-views-on-selected-sheets)  
@@ -71,7 +74,24 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png)[3.15. Set Top & Base from MEMORY - Selected Views](#set-top-base-from-memory-selected-views)  
 ![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png)[3.15. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
   
-### ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) [4. Viewports](#viewports)    
+### ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) [4. Viewports](#viewports)  
+  
+![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) [4.1. Align selected Viewports (Middle Y-Axis)](#align-selected-viewports-(middle-y-axis))  
+![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRMiddle.png) [4.2. Align selected Viewports (Middle Y-Axis)](#align-selected-viewports-(middle-y-axis))  
+![Align selected Viewports (Bottom)](/images/Tools/Drafter/Icons/Viewport_LocationRLow.png) [4.3. Align selected Viewports (Bottom)](#align-selected-viewports-(bottom))  
+![Align selected Viewports (Left)](/images/Tools/Drafter/Icons/Viewport_LocationCLeft.png) [4.4. Align selected Viewports (Left)](#align-selected-viewports-(left))  
+![Align selected Viewports (Middle X-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationCMiddle.png) [4.5. Align selected Viewports (Middle X-Axis)](#align-selected-viewports-(middle-x-axis))  
+![Align selected Viewports (Right)](/images/Tools/Drafter/Icons/Viewport_LocationCRight.png) [4.6. Align selected Viewports (Right)](#align-selected-viewports-(right))  
+![Number by Click](/images/Tools/Drafter/Icons/Viewport_NumberClick.png) [4.7. Number by Click](#number-by-click)  
+![Add +1 to selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneUp.png) [4.8. Add +1 to selected detail numbers](#add-1-to-selected-detail-numbers)  
+![Subtract 1 from selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneDown.png) [4.9. Subtract 1 from selected detail numbers](#subtract-1-from-selected-detail-numbers)  
+![Add prefix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberPrefix.png) [4.10. Add prefix to detail numbers of selected viewports](#add-prefix-to-detail-numbers-of-selected-viewports)
+![Add suffix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberSuffix.png) [4.11. Add suffix to detail numbers of selected viewports](#add-suffix-to-detail-numbers-of-selected-viewports)  
+![Renumber detail from left to right](/images/Tools/Drafter/Icons/Viewport_NumbersFromLeftToRight.png) [4.12. Renumber detail from left to right](#renumber-detail-from-left-to-right)  
+![Renumber detail from top to bottom](/images/Tools/Drafter/Icons/Viewport_NumbersFromTopToBottom.png) [4.13. Renumber detail from top to bottom](#renumber-detail-from-top-to-bottom)  
+![Order horizontally from the middle of view](/images/Tools/Drafter/Icons/Viewport_OrderFromMiddle.png) [4.14. Order horizontally from the middle of view](#order-horizontally-from-the-middle-of-view)  
+![Order horizontally with a chosen gap](/images/Tools/Drafter/Icons/Viewport_OrderHorizontally.png) [4.15. Order horizontally with a chosen gap](#order-horizontally-with-a-chosen-gap)  
+![Order up to 4 viewports in two rows with 2 points](/images/Tools/Drafter/Icons/Viewport_OrderUpTo4.png) [4.16. Order up to 4 viewports in two rows with 2 points](#order-up-to-4-viewports-in-two-rows-with-2-points)  
 
 
 
@@ -551,7 +571,7 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
-## <a id="align-selected-viewports-(middle x-axis)"></a> ![Align selected Viewports (Middle X-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationCMiddle.png) Align selected Viewports (Middle X-Axis)
+## <a id="align-selected-viewports-(middle-x-axis)"></a> ![Align selected Viewports (Middle X-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationCMiddle.png) Align selected Viewports (Middle X-Axis)
 
 Align selected viewports in X-Axis to the middle.
 
@@ -603,7 +623,7 @@ After selection you will be prompted to define the prefix.
 
 Please bear in mind that these numbers cannot be already used in the sheet. 
 
-## <a id="add suffix to detail numbers of selected viewports"></a> ![Add suffix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberSuffix.png) Add suffix to detail numbers of selected viewports
+## <a id="add-suffix-to-detail-numbers-of-selected-viewports"></a> ![Add suffix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberSuffix.png) Add suffix to detail numbers of selected viewports
 
 Adds suffix to detail numbers of all selected viewport.
 
