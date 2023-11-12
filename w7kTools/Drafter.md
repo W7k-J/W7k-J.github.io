@@ -132,7 +132,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
   
 ![Position of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_Position.png) [8.1. Position of all instances of selected Legend](#position-of-all-instances-of-selected-legend)  
 ![Title line type of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_TitleLineType.png) [8.2. Title line type of all instances of selected Legend](#title-line-type-of-all-instances-of-selected-legend)  
-![Title line position & length of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_TitleLinePosLen.png) [8.3. Title line position & length of all instances of selected Legend](#title-line-position-&-length-of-all-instances-of-selected-legend)   
+![Title line position & length of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_TitleLinePosLen.png) [8.3. Title line position & length of all instances of selected Legend](#title-line-position-&-length-of-all-instances-of-selected-legend)  
 ![Make look THE SAME all instances of selected Legends](/images/Tools/Drafter/Icons/Legend_All.png) [8.4. Make look THE SAME all instances of selected Legends](#make-look-the-same-all-instances-of-selected-legends)  
 ![Legend - Save position to MEMORY](/images/Tools/Drafter/Icons/Legend_SaveMemory.png)[8.5. Legend - Save position to MEMORY](#legend-save-position-to-memory)  
 ![Legend - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Legend_PositionFromMemory.png) [8.6. Legend - Load position from MEMORY to Selected](#legend-load-position-from-memory-to-selected")  
@@ -148,8 +148,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![MATCH 2 Schedules - Total width by changing last column](/images/Tools/Drafter/Icons/Schedule_Columns2Last.png) [9.5. MATCH 2 Schedules - Total width by changing last column](#match-2-schedules-total-width-by-changing-last-column)  
 ![Column Widths - Adjust with Clicks](/images/Tools/Drafter/Icons/Schedule_ColumnsAllClick.png) [9.6. Column Widths - Adjust with Clicks](#column-widths-adjust-with-clicks)  
 ![Column Widths - Adjust them with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsAll.png) [9.7. Column Widths - Adjust them with MENU](#column-widths-adjust-them-with-menu)  
-![Column Widths - Save widths to MEMORY](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsToMemory.png) [9.8. Column Widths - Save widths to MEMORY](#column-widths-save-widths-to-memory) 
-![Column Widths - Set widths from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsFromMemory.png) [9.9. Column Widths - Set widths from MEMORY to Selected](#column-widths-set-widths-from-memory-to-selected) 
+![Column Widths - Save widths to MEMORY](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsToMemory.png) [9.8. Column Widths - Save widths to MEMORY](#column-widths-save-widths-to-memory)  
+![Column Widths - Set widths from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsFromMemory.png) [9.9. Column Widths - Set widths from MEMORY to Selected](#column-widths-set-widths-from-memory-to-selected)  
 ![Column Widths - Set all the same with Menu](/images/Tools/Drafter/Icons/Schedule_ColumnsSame.png) [9.10. Column Widths - Set all the same with Menu](#column-widths-set-all-the-same-with-menu)  
 ![Total Width - Adjust it with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotal.png) [9.11. Total Width - Adjust it with MENU](#total-width-adjust-it-with-menu)  
 ![Total Width - Extend/shorten the last column with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotalLast.png) [9.12. Total Width - Extend/shorten the last column with MENU](#total-width-extend/shorten-the-last-column-with-menu)  
@@ -264,7 +264,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ### ![Dimensions](/images/Tools/Drafter/Icons/Dim.png) [17. Dimensions](#dimensions)  
   
 ![Reset value overrides in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png)[Reset value overrides in selected Dimensions](#reset-value-overrides-in-selected-dimensions)  
-![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverwriteReset.png)[Reset text position in selected Dimensions](#reset-text-position-in-selected-dimensions)  
+![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png)[Reset text position in selected Dimensions](#reset-text-position-in-selected-dimensions)  
 ![Find & Replace in all dimensions](/images/Tools/Drafter/Icons/Dim_FindAndReplace.png)[Find & Replace in all dimensions](#find-&-replace-in-all-dimensions)  
 ![Find Zeros in dimensions](/images/Tools/Drafter/Icons/Dim_Zero.png)[Find Zeros in dimensions](#find-zeros-in-dimensions)  
   
@@ -1929,7 +1929,7 @@ How to use the tool:
 
 **Select some dimensions, or when started, you will be prompted to do it by the tool.** 
 
-## <a id="reset-text-position-in-selected-dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverwriteReset.png) Reset text position in selected Dimensions
+## <a id="reset-text-position-in-selected-dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png) Reset text position in selected Dimensions
 
 Resets text position in selected dimensions. 
 
