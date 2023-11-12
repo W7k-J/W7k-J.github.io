@@ -946,7 +946,6 @@ Select generic annotations which you want to change, or when started you will be
 
 
 ![Scopeboxes](/images/Tools/Drafter/drafterScopebox.jpg)  
-
 # <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
 [back to LIST](#list)  
   
@@ -961,8 +960,7 @@ You don't have to unpin the viewports - we will do it automatically.
 
 
 ![Title Blocks](/images/Tools/Drafter/drafterTitleBlocks.jpg)  
-# Title Blocks
-# <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
+# <a id="title-blocks"></a> ![Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_Button.png) Title Blocks  
 [back to LIST](#list)  
   
   
