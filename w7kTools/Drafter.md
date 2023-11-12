@@ -316,7 +316,7 @@ Select some views or sheets in a project browser and press the button. You will 
 # <a id="vertical-views"></a> ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) Vertical Views  
 [<go back to list>](#list)  
 
-## <a id="top-&-base-offset-active"></a> Top & Base Offset - Active
+## <a id="top-&-base-offset-active"></a> ![Top & Base Offset - Active](/images/Tools/Drafter/Icons/VV_Offset_ActiveView.png) Top & Base Offset - Active
 
 Sets the top and base (as offset from closest levels) for currently active vertical view. 
 
@@ -328,7 +328,7 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works for vertical views such as sections or elevations.
 
-## <a id="top-&-base-offset-selected-views"></a> Top & Base Offset - Selected Views
+## <a id="top-&-base-offset-selected-views"></a> ![Top & Base Offset - Selected Views](/images/Tools/Drafter/Icons/VV_Offset_Selected.png) Top & Base Offset - Selected Views
 
 Sets the top and base (as offset from closest levels) for selected views. 
 
@@ -340,7 +340,7 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works for vertical views such as sections or elevations.
 
-## <a id="top-&-base-offset-views-on-selected-sheets"></a> Top & Base Offset - Views on Selected Sheets
+## <a id="top-&-base-offset-views-on-selected-sheets"></a> ![Top & Base Offset - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Offset_SelectedSheets.png) Top & Base Offset - Views on Selected Sheets
 
 Sets the top and base (as offset from closest levels) for views on selected sheets. 
 
@@ -352,7 +352,7 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works for vertical views such as sections or elevations. 
 
-## <a id="extend-side-active"></a> Extend Side - Active
+## <a id="extend-side-active"></a> ![Extend Side - Active](/images/Tools/Drafter/Icons/VV_Side_ActiveV.png) Extend Side - Active 
 
 Extends/trims both sides of currently active vertical view (or all views on currently open sheet).
 
@@ -364,7 +364,7 @@ After selection you will be prompted to define the extension.
 
 Works for vertical views such as sections or elevations.
 
-## <a id="extend-side-selected-views"></a> Extend Side - Selected Views
+## <a id="extend-side-selected-views"></a> ![Extend Side - Selected Views](/images/Tools/Drafter/Icons/VV_Side_Selected.png) Extend Side - Selected Views
 
 Extends/trims both sides of selected views.
 
@@ -376,7 +376,7 @@ After selection you will be prompted to define the extension.
 
 Works for vertical views such as sections or elevations.
 
-## <a id="extend-side-views-on-selected-sheets"></a> Extend Side - Views on Selected Sheets
+## <a id="extend-side-views-on-selected-sheets"></a> ![Extend Side - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Side_SelectedSheets.png) Extend Side - Views on Selected Sheets
 
 Extends/trims both sides of views on selected sheets.
 
@@ -388,7 +388,7 @@ After selection you will be prompted to define the extension.
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-as-picked-active-sheet"></a> Set Top & Base as Picked - Active Sheet
+## <a id="set-top-base-as-picked-active-sheet"></a> ![Set Top & Base as Picked - Active Sheet](/images/Tools/Drafter/Icons/VV_Pick_ActiveView.png) Set Top & Base as Picked - Active Sheet
 
 Sets top and base as per picked view of all selected views.
 
@@ -400,7 +400,7 @@ You will be asked to pick one exemplary view. We will read its top and base elev
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-as-picked-selected-views"></a>  Set Top & Base as Picked - Selected Views
+## <a id="set-top-base-as-picked-selected-views"></a> ![Set Top & Base as Picked - Selected Views](/images/Tools/Drafter/Icons/VV_Pick_Selected.png) Set Top & Base as Picked - Selected Views
 
 Sets top and base as per picked view to all selected views. 
 
@@ -412,7 +412,7 @@ After that you will be asked to pick one exemplary view. We will read its top an
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-as-picked-views-on-selected-sheets"></a> Set Top & Base as Picked - Views on Selected Sheets
+## <a id="set-top-base-as-picked-views-on-selected-sheets"></a> ![Set Top & Base as Picked - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Pick_SelectedSheets.png) Set Top & Base as Picked - Views on Selected Sheets
 
 Sets top and base as per picked view to all views on selected sheets.
 
@@ -424,7 +424,7 @@ After that you will be asked to pick one exemplary view. We will read its top an
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-with-menu-active"></a> Set Top & Base with MENU - Active
+## <a id="set-top-base-with-menu-active"></a> ![Set Top & Base with MENU - Active](/images/Tools/Drafter/Icons/VV_H_ActiveView.png) Set Top & Base with MENU - Active
 
 Sets top and base of active view (or all views on currently open sheet) with provided menu.
 
@@ -438,7 +438,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-with-menu-selected-views"></a> Set Top & Base with MENU - Selected Views
+## <a id="set-top-base-with-menu-selected-views"></a> ![Set Top & Base with MENU - Selected Views](/images/Tools/Drafter/Icons/VV_H_Selected.png) Set Top & Base with MENU - Selected Views
 
 Sets top and base of all selected views with provided menu. 
 
@@ -450,7 +450,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-with-menu-views-on-selected-sheets"></a> Set Top & Base with MENU - Views on Selected Sheets
+## <a id="set-top-base-with-menu-views-on-selected-sheets"></a> ![Set Top & Base with MENU - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_H_SelectedSheets.png) Set Top & Base with MENU - Views on Selected Sheets
 
 Sets top and base of all views on selected sheets with provided menu.
 
@@ -462,7 +462,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-## <a id="save-top-base-to-memory"></a> Save To MEMORY - Top & Base Elevation
+## <a id="save-top-base-to-memory"></a> ![Save To MEMORY - Top & Base Elevation](/images/Tools/Drafter/Icons/VV_Memory.png) Save To MEMORY - Top & Base Elevation
 
 Saves to memory top elevation and base elevations of one selected view.
 
@@ -470,7 +470,7 @@ How to use the tool:
 
 Click the button and pick one view. Its settings will be saved in external file for further use.
 
-## <a id="set-top-base-from-memory-active"></a> Set Top & Base from MEMORY - Active
+## <a id="set-top-base-from-memory-active"></a> ![Set Top & Base from MEMORY - Active](/images/Tools/Drafter/Icons/VV_Memory_ActiveView.png) Set Top & Base from MEMORY - Active
 
 Sets top and base of active view (or all views on currently open sheet) with values saved in Memory.
 
@@ -484,7 +484,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-from-memory-selected-views"></a> Set Top & Base from MEMORY - Selected Views
+## <a id="set-top-base-from-memory-selected-views"></a> ![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png) Set Top & Base from MEMORY - Selected Views
 
 Sets top and base of all selected views with values saved in Memory.
 
@@ -496,7 +496,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works for vertical views such as sections or elevations.
 
-## <a id="set-top-base-from-memory-views-on-selected-sheets"></a> Set Top & Base from MEMORY - Views on Selected Sheets
+## <a id="set-top-base-from-memory-views-on-selected-sheets"></a> ![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png) Set Top & Base from MEMORY - Views on Selected Sheets
 
 Sets top and base of all views on selected sheets with values saved in Memory.
 
@@ -509,7 +509,7 @@ After selection you will be prompted to define the levels and offsets for top an
 Works for vertical views such as sections or elevations.
 
 ![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
-# Viewports
+# <a id="viewports"></a> ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) Viewports  
 [<go back to list>](#list)  
 
 ## Align selected Viewports (Top)
