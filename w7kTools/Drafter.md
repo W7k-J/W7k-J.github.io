@@ -39,7 +39,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Set TL position and length as in MEMORY - Selected Viewports](/images/Tools/Drafter/Icons/TitleLinePositionFromMemory.png) [1.10. Set TL position and length as in MEMORY - Selected Viewports](#set-tl-position-and-length-as-in-memory-selected-viewports)  
 ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)  
   
-
+  
 ### ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) [2. Project Browser](#project-browser)  
   
 ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixblue.png)[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
@@ -55,8 +55,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Names - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png)[2.11. Names - To UPPER CASE](#names-to-upper-case)  
 ![Names - To Title Case](/images/Tools/Drafter/Icons/TextToTitle.png)[2.12. Names - To Title Case](#names-to-title-case)  
 ![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png)[2.13. Names - Find and Replace](#names-find-and-replace)  
+  
 
-    
 ### ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) [3. Vertical Views](#vertical-views)  
   
 ![Top & Base Offset - Active](/images/Tools/Drafter/Icons/VV_Offset_ActiveView.png)[3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
@@ -118,6 +118,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
   
 
 ### ![Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_Button.png) [7. Title Blocks](#title-blocks)  
+  
+
 
 ### ![Legends](/images/Tools/Drafter/Icons/Legend_Button.png) [8. Legends](#legends)  
 
@@ -822,49 +824,144 @@ You don't have to unpin the viewports - we will do it automatically.
 
 ![Title Blocks](/images/Tools/Drafter/drafterTitleBlocks.jpg)  
 # Title Blocks
+# <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
+[back to LIST](#list)  
+
+
+Reset position to default – Selected TB
+
+Resets selected title blocks to their default position.
+
+How to use the tool:
+
+Select the title block or when started you will be prompted to pick some. The tool will reset their position. At the end you will be informed about the number of changes.
+
+Reset position to default – Instances of Selected TB Type
+
+Resets instances of selected title block to their default position. 
+
+How to use the tool:
+
+Select the title block or when started you will be prompted to pick some. The tool will collect all instances and reset their position. At the end you will be informed about the number of changes.
+
+Reset position to default – All TB
+
+Resets all title blocks to their default position. 
+
+How to use the tool:
+
+Simply use the script and the tool will move all title blocks to their default position. At the end you will be informed about the number of changes. 
+
+
+Rescue! Set position – Instances of Selected TB Type
+
+We know! Someone messed it up and now you cannot reset title blocks. Let's keep them for now. This tool sets the same position to all instances of selected title block to its position.
+
+How to use the tool:
+
+Select the title block or when started you will be prompted to pick some. The tool will collect all instances and sets their position as selected. At the end you will be informed about the number of changes.
+
+Rescue! Set position – All Title Blocks
+
+We know! Someone messed it up and now you cannot reset title blocks. Let's keep them for now. This tool sets the same position to all title blocks in your project to the position of selected title block.
+
+How to use the tool:
+
+Select the title block or when started you will be prompted to pick some. The tool will collect all title blocks in the project and set their position as selected. At the end you will be informed about the number of changes.
+
+TB – Save position to MEMORY
+
+Saves position of selected title block to Memory.
+
+How to use the tool:
+
+Click the button and pick one title block. Its settings will be saved in external file for further use.
+
+TB – Load position from MEMORY to Selected
+
+Loads previously saved position of a title block from Memory and applies it to selected title blocks.
+
+How to use the tool:
+
+Select title blocks which you want to change, or when started you will be prompted to do it by the tool. 
+
+
+
+
+
+
+
+
+
 
 ![Legends](/images/Tools/Drafter/drafterLegends.jpg)  
 # Legends
+# <a id="legends"></a> ![Legends](/images/Tools/Drafter/Icons/Legend_Button.png) Legends  
+[back to LIST](#list)  
 
 ![Schedules](/images/Tools/Drafter/drafterSchedules.jpg)  
 # Schedules
+# <a id="schedules"></a> ![Schedules](/images/Tools/Drafter/Icons/Schedule_Button.png) Schedules  
+[back to LIST](#list)  
 
 ![Revisions](/images/Tools/Drafter/drafterRevision.jpg)  
-# Revisions
+# <a id="revisions"></a> ![Revisions](/images/Tools/Drafter/Icons/Revision.png) Revisions  
+[back to LIST](#list)  
 
 ![Text Notes](/images/Tools/Drafter/drafterTN.jpg)  
-# Text Notes
+# <a id="text-notes"></a> ![Text Notes](/images/Tools/Drafter/Icons/TextNotes_Button.png) Text Notes  
+[back to LIST](#list)  
 
 
-# Text Notes - Position
+# <a id="text-notes-position"></a> ![Text Notes - Position](/images/Tools/Drafter/Icons/TextNotes_Pos.png) Text Notes - Position  
+[back to LIST](#list)  
 
 
-# Text Note - Leaders
+# <a id="text-note-leaders"></a> ![Text Note - Leaders](/images/Tools/Drafter/Icons/TextNotesLeader.png) Text Note - Leaders  
+[back to LIST](#list)  
 
 ![Tags](/images/Tools/Drafter/drafterTags.jpg)  
-# Tags
+# <a id="tags"></a> ![Tags](/images/Tools/Drafter/Icons/Tags.png) Tags  
+[back to LIST](#list)  
 
 
-# Tags - Position
+# <a id="tags-position"></a> ![Tags - Position](/images/Tools/Drafter/Icons/Tags_Pos.png) Tags - Position  
+[back to LIST](#list)  
 
 
-# Tags - Leaders
+# <a id="tags-leaders"></a> ![Tags - Leaders](/images/Tools/Drafter/Icons/TagsLeader.png) Tags - Leaders  
+[back to LIST](#list)  
 
 ![Dimensions](/images/Tools/Drafter/drafterDim.jpg)  
-# Dimensions
+# <a id="dimensions"></a> ![Dimensions](/images/Tools/Drafter/Icons/Dim.png) Dimensions  
+[back to LIST](#list)  
 
-![Regions](/images/Tools/Drafter/drafterVarious.jpg)  
-# Various
+![Various](/images/Tools/Drafter/drafterVarious.jpg)  
+# <a id="various"></a> ![Various](/images/Tools/Drafter/Icons/Various.png) Various  
+[back to LIST](#list)  
 
 
-# Regions
+# <a id="regions"></a> ![Regions](/images/Tools/Drafter/Icons/Region.png) Regions  
+[back to LIST](#list)  
 
 
-# Family Editor
+# <a id="family-editor"></a> ![Family Editor](/images/Tools/Drafter/Icons/Family.png) Family Editor  
+[back to LIST](#list)  
   
-  
+
+
+
+
 ## Versions
-Version 1 was published at XXXX-XX-XX as Drafter. Works on Autodesk Revit 2020 - 2024
+[back to LIST](#list)  
+Version 1 was published at XXXX-XX-XX as Drafter. Works on Autodesk Revit 2020 - 2024. 
+
+
+
+## Known Problems  
+[back to LIST](#list)  
+
+
 <br>
 <div class="backToTools">
     <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
