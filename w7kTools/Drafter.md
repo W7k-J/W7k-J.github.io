@@ -85,7 +85,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Number by Click](/images/Tools/Drafter/Icons/Viewport_NumberClick.png) [4.7. Number by Click](#number-by-click)  
 ![Add +1 to selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneUp.png) [4.8. Add +1 to selected detail numbers](#add-1-to-selected-detail-numbers)  
 ![Subtract 1 from selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneDown.png) [4.9. Subtract 1 from selected detail numbers](#subtract-1-from-selected-detail-numbers)  
-![Add prefix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberPrefix.png) [4.10. Add prefix to detail numbers of selected viewports](#add-prefix-to-detail-numbers-of-selected-viewports)
+![Add prefix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberPrefix.png) [4.10. Add prefix to detail numbers of selected viewports](#add-prefix-to-detail-numbers-of-selected-viewports)  
 ![Add suffix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberSuffix.png) [4.11. Add suffix to detail numbers of selected viewports](#add-suffix-to-detail-numbers-of-selected-viewports)  
 ![Renumber detail from left to right](/images/Tools/Drafter/Icons/Viewport_NumbersFromLeftToRight.png) [4.12. Renumber detail from left to right](#renumber-detail-from-left-to-right)  
 ![Renumber detail from top to bottom](/images/Tools/Drafter/Icons/Viewport_NumbersFromTopToBottom.png) [4.13. Renumber detail from top to bottom](#renumber-detail-from-top-to-bottom)  
@@ -140,7 +140,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 ![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
 # <a id="title-lines"></a> ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) Title Lines  
-[<go back to list>](#list)  
+[back to LIST](#list)  
 
 ## <a id="align-tl-to-the-point"></a> ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point  
 
@@ -233,7 +233,7 @@ Select sheets in a project browser and use the tool. We will do the rest.
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
 
 # <a id="project-browser"></a> ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) Project Browser  
-[<go back to list>](#list)  
+[back to LIST](#list)  
 
 ## <a id="sheet-number-add-prefix"></a> ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixBlue.png) Sheet Number - Add prefix 
 
@@ -341,7 +341,7 @@ Select some views or sheets in a project browser and press the button. You will 
 ![Vertical Views](/images/Tools/Drafter/drafterVview.jpg)  
 
 # <a id="vertical-views"></a> ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) Vertical Views  
-[<go back to list>](#list)  
+[back to LIST](#list)  
 
 ## <a id="top-&-base-offset-active"></a> ![Top & Base Offset - Active](/images/Tools/Drafter/Icons/VV_Offset_ActiveView.png) Top & Base Offset - Active
 
@@ -537,7 +537,7 @@ Works for vertical views such as sections or elevations.
 
 ![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
 # <a id="viewports"></a> ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) Viewports  
-[<go back to list>](#list)  
+[back to LIST](#list)  
 
 ## <a id="align-selected-viewports-(middle-y-axis)"></a> ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) Align selected Viewports (Middle Y-Axis)
 
