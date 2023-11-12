@@ -38,38 +38,38 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Set TL position and length as in MEMORY - Selected Viewports](/images/Tools/Drafter/Icons/TitleLinePositionFromMemory.png) [1.10. Set TL position and length as in MEMORY - Selected Viewports](#set-tl-position-and-length-as-in-memory-selected-viewports)  
 ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)    
   
-### [2. Project Browser](#project-browser)  
-[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
-[2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
-[2.3. Sheet Number - To lower case](#sheet-number-to-lower-case) 
-[2.4. Sheet Number - To UPPER CASE](#sheet-number-to-upper-case)   
-[2.5. Sheet Number - To Title Case](#sheet-number-to-title-case)  
-[2.6. Sheet Number - Find and replace](#sheet-number-find-and-replace)  
-[2.7. Sheet Number - Find and replace (All)](#sheet-number-find-and-replace-all)  
-[2.8. Names - Add prefix](#names-add-prefix)  
-[2.9. Names - Add suffix](#names-add-suffix)  
-[2.10. Names - To lower case](#names-to-lower-case)  
-[2.11. Names - To UPPER CASE](#names-to-upper-case)  
-[2.12. Names - To Title Case](#names-to-title-case)  
-[2.13. Names - Find and Replace](#names-find-and-replace)  
+### ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) [2. Project Browser](#project-browser)  
+![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixBlue.png)[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
+![Sheet Number - Add suffix](/images/Tools/Drafter/Icons/suffixBlue.png)[2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
+![Sheet Number - To lower case](/images/Tools/Drafter/Icons/TextToLowerBlue.png)[2.3. Sheet Number - To lower case](#sheet-number-to-lower-case) 
+![Sheet Number - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpperBlue.png)[2.4. Sheet Number - To UPPER CASE](#sheet-number-to-upper-case)   
+![Sheet Number - To Title Case](/images/Tools/Drafter/Icons/TextToTitleBlue.png)[2.5. Sheet Number - To Title Case](#sheet-number-to-title-case)  
+![Sheet Number - Find and replace](/images/Tools/Drafter/Icons/TextFindAndReplaceBlue.png)[2.6. Sheet Number - Find and replace](#sheet-number-find-and-replace)  
+![Sheet Number - Find and replace (All)](/images/Tools/Drafter/Icons/TextFindAndReplaceBlueAll.png)[2.7. Sheet Number - Find and replace (All)](#sheet-number-find-and-replace-all)  
+![Names - Add prefix](/images/Tools/Drafter/Icons/prefix.png)[2.8. Names - Add prefix](#names-add-prefix)  
+![Names - Add suffix](/images/Tools/Drafter/Icons/suffix.png)[2.9. Names - Add suffix](#names-add-suffix)  
+![Names - To lower case](/images/Tools/Drafter/Icons/TextToLower.png)[2.10. Names - To lower case](#names-to-lower-case)  
+![Names - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png)[2.11. Names - To UPPER CASE](#names-to-upper-case)  
+![Names - To Title Case](/images/Tools/Drafter/Icons/TextToTitle.png)[2.12. Names - To Title Case](#names-to-title-case)  
+![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png)[2.13. Names - Find and Replace](#names-find-and-replace)  
   
-### [3. Vertical Views](#vertical-views)  
-[3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
-[3.2. Top & Base Offset - Selected Views](#top-&-base-offset-selected-views)  
-[3.3. Top & Base Offset - Views on Selected Sheets](#top-&-base-offset-views-on-selected-sheets)  
-[3.4. Extend Side - Active](#extend-side-active)  
-[3.5. Extend Side - Selected Views](#extend-side-selected-views)  
-[3.6. Extend Side - Views on Selected Sheets](#extend-side-views-on-selected-sheets)  
-[3.7. Set Top & Base as Picked - Active Sheet](#set-top-base-as-picked-active-sheet)  
-[3.8. Set Top & Base as Picked - Selected Views](#set-top-base-as-picked-selected-views)  
-[3.9. Set Top & Base as Picked - Views on Selected Sheets](#set-top-base-as-picked-views-on-selected-sheets)  
-[3.10. Set Top & Base with MENU - Active](#set-top-base-with-menu-active)  
-[3.11. Set Top & Base with MENU - Selected Views](#set-top-base-with-menu-selected-views)  
-[3.12. Set Top & Base with MENU - Views on Selected Sheets](#set-top-base-with-menu-views-on-selected-sheets)  
-[3.13. Save To MEMORY - Top & Base Elevation](#save-top-base-to-memory)  
-[3.14. Set Top & Base from MEMORY - Active](#set-top-base-from-memory-active)  
-[3.15. Set Top & Base from MEMORY - Selected Views](#set-top-base-from-memory-selected-views)  
-[3.15. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
+### ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) [3. Vertical Views](#vertical-views)  
+![Top & Base Offset - Active](/images/Tools/Drafter/Icons/VV_Offset_ActiveView.png)[3.1. Top & Base Offset - Active](#top-&-base-offset-active")  
+![Top & Base Offset - Selected Views](/images/Tools/Drafter/Icons/VV_Offset_Selected.png)[3.2. Top & Base Offset - Selected Views](#top-&-base-offset-selected-views)  
+![Top & Base Offset - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Offset_SelectedSheets.png)[3.3. Top & Base Offset - Views on Selected Sheets](#top-&-base-offset-views-on-selected-sheets)  
+![Extend Side - Active](/images/Tools/Drafter/Icons/VV_Side_ActiveV.png)[3.4. Extend Side - Active](#extend-side-active)  
+![Extend Side - Selected Views](/images/Tools/Drafter/Icons/VV_Side_Selected.png)[3.5. Extend Side - Selected Views](#extend-side-selected-views)  
+![Extend Side - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Side_SelectedSheets.png)[3.6. Extend Side - Views on Selected Sheets](#extend-side-views-on-selected-sheets)  
+![Set Top & Base as Picked - Active Sheet](/images/Tools/Drafter/Icons/VV_Pick_ActiveView.png)[3.7. Set Top & Base as Picked - Active Sheet](#set-top-base-as-picked-active-sheet)  
+![Set Top & Base as Picked - Selected Views](/images/Tools/Drafter/Icons/VV_Pick_Selected.png)[3.8. Set Top & Base as Picked - Selected Views](#set-top-base-as-picked-selected-views)  
+![Set Top & Base as Picked - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Pick_SelectedSheets.png)[3.9. Set Top & Base as Picked - Views on Selected Sheets](#set-top-base-as-picked-views-on-selected-sheets)  
+![Set Top & Base with MENU - Active](/images/Tools/Drafter/Icons/VV_H_ActiveView.png)[3.10. Set Top & Base with MENU - Active](#set-top-base-with-menu-active)  
+![Set Top & Base with MENU - Selected Views](/images/Tools/Drafter/Icons/VV_H_Selected.png)[3.11. Set Top & Base with MENU - Selected Views](#set-top-base-with-menu-selected-views)  
+![Set Top & Base with MENU - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_H_SelectedSheets.png)[3.12. Set Top & Base with MENU - Views on Selected Sheets](#set-top-base-with-menu-views-on-selected-sheets)  
+![Save To MEMORY - Top & Base Elevation](/images/Tools/Drafter/Icons/VV_Memory.png)[3.13. Save To MEMORY - Top & Base Elevation](#save-top-base-to-memory)  
+![Set Top & Base from MEMORY - Active](/images/Tools/Drafter/Icons/VV_Memory_ActiveView.png)[3.14. Set Top & Base from MEMORY - Active](#set-top-base-from-memory-active)  
+![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png)[3.15. Set Top & Base from MEMORY - Selected Views](#set-top-base-from-memory-selected-views)  
+![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png)[3.15. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
   
 [4. Viewports]()  
 
@@ -113,9 +113,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 
 ![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
 # <a id="title-lines"></a> ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) Title Lines  
-
-[go back to list](#list)
-
+[<go back to list>](#list)  
 
 ## <a id="align-tl-to-the-point"></a> ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point  
 
@@ -205,14 +203,12 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
-
-
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
-# Project Browser 
 
-[go back to list](#list)  
+# <a id="project-browser"></a> ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) Project Browser  
+[<go back to list>](#list)  
 
-## <a id="sheet-number-add-prefix"></a> Sheet Number - Add prefix 
+## <a id="sheet-number-add-prefix"></a> ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixBlue.png) Sheet Number - Add prefix 
 
 Adds a prefix to the numbers of all selected sheets.
 
@@ -220,7 +216,7 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-## <a id="sheet-number-add-suffix"></a> Sheet Number - Add suffix 
+## <a id="sheet-number-add-suffix"></a> ![Sheet Number - Add suffix](/images/Tools/Drafter/Icons/suffixBlue.png) Sheet Number - Add suffix 
 
 Adds a suffix to the numbers of all selected sheets.
 
@@ -228,7 +224,7 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the suffix you want to apply in a special menu. 
 
-## <a id="sheet-number-to-lower-case"></a> Sheet Number - To lower case 
+## <a id="sheet-number-to-lower-case"></a> ![Sheet Number - To lower case](/images/Tools/Drafter/Icons/TextToLowerBlue.png) Sheet Number - To lower case 
 
 Changes numbers of all selected sheets to lower case.
 
@@ -236,7 +232,7 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. 
 
-## <a id="sheet-number-to-upper-case"></a> Sheet Number - To UPPER CASE 
+## <a id="sheet-number-to-upper-case"></a> ![Sheet Number - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpperBlue.png) Sheet Number - To UPPER CASE 
 
 Changes numbers of all selected sheets to UPPER CASE.
 
@@ -244,7 +240,7 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. 
 
-## <a id="sheet-number-to-title-case"></a> Sheet Number - To Title Case 
+## <a id="sheet-number-to-title-case"></a> ![Sheet Number - To Title Case](/images/Tools/Drafter/Icons/TextToTitleBlue.png) Sheet Number - To Title Case 
 
 Changes numbers of all selected sheets to Title Case.
 
@@ -252,7 +248,7 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. 
 
-## <a id="sheet-number-find-and-replace"></a> Sheet Number - Find and replace
+## <a id="sheet-number-find-and-replace"></a> ![Sheet Number - Find and replace](/images/Tools/Drafter/Icons/TextFindAndReplaceBlue.png) Sheet Number - Find and replace
 
 Finds and replaces parts of numbers of all selected sheets.
 
@@ -260,15 +256,14 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
-## <a id="sheet-number-find-and-replace-all"></a> Sheet Number - Find and replace (All)
+## <a id="sheet-number-find-and-replace-all"></a> ![Sheet Number - Find and replace (All)](/images/Tools/Drafter/Icons/TextFindAndReplaceBlueAll.png) Sheet Number - Find and replace (All)
 
 Finds and replaces parts of numbers of all sheets.
 
 How to use the tool:
 Press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
-
-## <a id="names-add-prefix"></a> Names - Add prefix 
+## <a id="names-add-prefix"></a> ![Names - Add prefix](/images/Tools/Drafter/Icons/prefix.png) Names - Add prefix 
 
 Adds a prefix to the names of all selected views or sheets.
 
@@ -276,7 +271,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-## <a id="names-add-suffix"></a> Names - Add suffix 
+## <a id="names-add-suffix"></a> ![Names - Add suffix](/images/Tools/Drafter/Icons/suffix.png) Names - Add suffix 
 
 Adds a suffix to the names of all selected views or sheets.
 
@@ -284,7 +279,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-## <a id="names-to-lower-case"></a> Names - To lower case 
+## <a id="names-to-lower-case"></a> ![Names - To lower case](/images/Tools/Drafter/Icons/TextToLower.png) Names - To lower case 
 
 Changes names of all selected views or sheets to lower case.
 
@@ -292,7 +287,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-## <a id="names-to-upper-case"></a> Names - To UPPER CASE 
+## <a id="names-to-upper-case"></a> ![Names - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png) Names - To UPPER CASE 
 
 Changes names of all selected views or sheets to UPPER CASE.
 
@@ -300,7 +295,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-## <a id="names-to-title-case"></a> Names - To Title Case 
+## <a id="names-to-title-case"></a> ![Names - To Title Case](/images/Tools/Drafter/Icons/TextToTitle.png) Names - To Title Case 
 
 Changes the names of all selected views or sheets to Title Case.
 
@@ -308,7 +303,7 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-## <a id="names-find-and-replace"></a> Names - Find and Replace
+## <a id="names-find-and-replace"></a> ![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png) Names - Find and Replace
 
 Finds and replaces parts of names of all selected views or sheets.
 
@@ -318,7 +313,8 @@ Select some views or sheets in a project browser and press the button. You will 
 
 ![Vertical Views](/images/Tools/Drafter/drafterVview.jpg)  
 
-# Vertical Views
+# <a id="vertical-views"></a> ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) Vertical Views  
+[<go back to list>](#list)  
 
 ## <a id="top-&-base-offset-active"></a> Top & Base Offset - Active
 
@@ -356,7 +352,6 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works for vertical views such as sections or elevations. 
 
-
 ## <a id="extend-side-active"></a> Extend Side - Active
 
 Extends/trims both sides of currently active vertical view (or all views on currently open sheet).
@@ -381,7 +376,6 @@ After selection you will be prompted to define the extension.
 
 Works for vertical views such as sections or elevations.
 
-
 ## <a id="extend-side-views-on-selected-sheets"></a> Extend Side - Views on Selected Sheets
 
 Extends/trims both sides of views on selected sheets.
@@ -394,7 +388,6 @@ After selection you will be prompted to define the extension.
 
 Works for vertical views such as sections or elevations.
 
-
 ## <a id="set-top-base-as-picked-active-sheet"></a> Set Top & Base as Picked - Active Sheet
 
 Sets top and base as per picked view of all selected views.
@@ -404,7 +397,6 @@ How to use the tool:
 Be in a sheet and use the tool. The tool will gather all the vertical viewports on it. 
 
 You will be asked to pick one exemplary view. We will read its top and base elevation and apply it to other selected views.    
-
 
 Works for vertical views such as sections or elevations.
 
@@ -432,7 +424,6 @@ After that you will be asked to pick one exemplary view. We will read its top an
 
 Works for vertical views such as sections or elevations.
 
-
 ## <a id="set-top-base-with-menu-active"></a> Set Top & Base with MENU - Active
 
 Sets top and base of active view (or all views on currently open sheet) with provided menu.
@@ -446,7 +437,6 @@ Press the button. The tool will select the active view automatically. In case of
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
 Works for vertical views such as sections or elevations.
-
 
 ## <a id="set-top-base-with-menu-selected-views"></a> Set Top & Base with MENU - Selected Views
 
@@ -520,6 +510,7 @@ Works for vertical views such as sections or elevations.
 
 ![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
 # Viewports
+[<go back to list>](#list)  
 
 ## Align selected Viewports (Top)
 
