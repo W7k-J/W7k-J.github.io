@@ -169,7 +169,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Delete clouds - Selected Views or Sheets](/images/Tools/Drafter/Icons/RevisionViews.png) [10.5. Delete clouds - Selected Views or Sheets](#delete-clouds-selected-views-or-sheets)  
   
   
-### ![Text Notes](/images/Tools/Drafter/Icons/TextNotes_Buttonr.png) [11. Text Notes](#text-notes)  
+### ![Text Notes](/images/Tools/Drafter/Icons/TextNotes_Button.png) [11. Text Notes](#text-notes)  
   
 ![Text Notes to lower case](/images/Tools/Drafter/Icons/TextToLower.png) [11.1. Text Notes to lower case](#text-notes-to-lower-case)  
 ![Text Notes to Title Case ](/images/Tools/Drafter/Icons/TextToTitle.png) [11.2. Text Notes to Title Case](#text-notes-to-title-case)  
