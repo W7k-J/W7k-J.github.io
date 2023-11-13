@@ -303,7 +303,8 @@ Select viewports which title lines you want to move, or when started you will be
   
 Press Esc to exit.  
 
-<iframe src="https://w7kpl-my.sharepoint.com/personal/jw_w7k_pl/_layouts/15/embed.aspx?UniqueId=8d4cde09-21fe-4a29-a342-5dabdd51e3c8" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="w7kTitleLinesToPoint960na540.gif"></iframe>
+<iframe src="https://w7kpl-my.sharepoint.com/:i:/g/personal/jw_w7k_pl/EQneTI3-ISlKo0Jdq91R48gBQMSoRP8_zBv_bqaxml61Cw?e=yU5xGJ" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="w7kTitleLinesToPoint960na540.gif"></iframe>
+
 
 ## <a id="align-tl-in-the-x-axis"></a> ![Align TL in the X axis](/images/Tools/Drafter/Icons/AlignX.png) Align TL in the X axis
 
