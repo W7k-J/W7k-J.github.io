@@ -353,6 +353,13 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to pick the exemplary viewport, from which we will read the length. 
 
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://drive.google.com/uc?export=view&id=14boCiU_Uzlf3lLC-eBBaFsoQAgQzQrpZ" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
 ## <a id="set-length-of-selected-tl-with-menu"></a> ![Set length of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLineLengthMenu.png) Set length of selected TL with MENU
 
 Sets the length of selected title lines with provided menu. 
