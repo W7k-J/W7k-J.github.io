@@ -305,7 +305,7 @@ Press Esc to exit.
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://drive.google.com/uc?export=view&id=1T5HyqA6BZ6xrMWG12gxWqeVnFIMyTNaS" frameborder="0" allowfullscreen
+    <iframe src="https://drive.google.com/uc?export=view&id=14VZRTJ6JZ7y_Zo358K1vpEUHI9UPitpQ" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
@@ -323,7 +323,7 @@ Press Esc to exit.
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://drive.google.com/uc?export=view&id=13yrTSzMrUWZBO3KrZuJ2B9RySwkDErqK" frameborder="0" allowfullscreen
+    <iframe src="https://drive.google.com/uc?export=view&id=14aeYo5Ikn0X8JvbcKwNfauHBc-NVbuz8" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
@@ -337,6 +337,13 @@ How to use the tool:
 Select viewports which title lines you want to alter, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.  
 
 Press Esc to exit. 
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://drive.google.com/uc?export=view&id=14UZ-w0b3Q-dE5IPtI6W42eS_AB15ZiA3" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
 
 ## <a id="set-length-of-selected-tl-as-per-picked-viewport"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/TitleLineLengthAsView.png) Set length of selected TL as per PICKED Viewport
 
