@@ -321,6 +321,12 @@ Select viewports which title lines you want to alter, or when started you will b
 
 Press Esc to exit.
 
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://drive.google.com/uc?export=view&id=13yrTSzMrUWZBO3KrZuJ2B9RySwkDErqK" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
 
 ## <a id="align-tl-in-the-y-axis"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/AlignY.png) Align TL in the Y axis
 
