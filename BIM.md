@@ -41,8 +41,6 @@ Concept designs and early BIM documentation for discussion with client and herit
 
 ### Programming for AEC & BIM (Dynamo, Revit API, C#, Python)
 
-For info about how I am using programming for BIM go to Code Tab.   
-Link Below:
 [more info -> Code](https://w7k.pl/code/)
 
 ### Point Clouds, Laser scanning and other cool ways to make a survey
