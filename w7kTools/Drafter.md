@@ -348,6 +348,8 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to specify the length of them with provided menu.
 
+![Set length of selected TL with MENU](https://drive.google.com/uc?export=view&id=14szenFVkWfMzyh9piU_Peet-vmJ-Oibo)  
+
 ## <a id="set-positions-of-selected-tl-as-per-picked-viewport"></a> ![Set positions of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLinePositionAsView.png) Set positions of selected TL as per PICKED Viewport
 
 Matches positions (measured as offsets from bottom left corners) of selected title lines to the picked one.
@@ -356,6 +358,8 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to pick the exemplary viewport. We will read the relative offset from its left bottom corner. 
 
+![Set positions of selected TL as per PICKED Viewport](https://drive.google.com/uc?export=view&id=14s3o-WkawB1QFQ9o8sOB8V1wMiRrCkmw)  
+
 ## <a id="set-positions-of-selected-tl-with-menu"></a> ![Set positions of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLinePositionFromLeftCorner.png) Set positions of selected TL with MENU
 
 Sets positions of selected title lines with special menu.
@@ -363,6 +367,8 @@ Sets positions of selected title lines with special menu.
 How to use the tool: 
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to specify the offsets in provided menu.
+
+![Set positions of selected TL with MENU](https://drive.google.com/uc?export=view&id=14juj6z5b8TFmitHPF6iIYcB_xKqK2uBX)  
 
 ## <a id="save-to-memory-tl-position-and-length"></a> ![Save To MEMORY - TL position and length](/images/Tools/Drafter/Icons/TitleLinePositionToMemory.png) Save To MEMORY - TL position and length 
 
