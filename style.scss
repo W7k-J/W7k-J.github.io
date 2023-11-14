@@ -135,6 +135,9 @@ img {
   max-width: 100%;
 }
 
+iframe.example {  width: 100%;  height: 100%; } 
+
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;

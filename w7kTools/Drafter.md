@@ -305,7 +305,7 @@ Press Esc to exit.
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://drive.google.com/uc?export=view&id=14VZRTJ6JZ7y_Zo358K1vpEUHI9UPitpQ" frameborder="0" allowfullscreen
+    <iframe class="example" src="https://drive.google.com/uc?export=view&id=14VZRTJ6JZ7y_Zo358K1vpEUHI9UPitpQ" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
