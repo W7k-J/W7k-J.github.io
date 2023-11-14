@@ -315,12 +315,8 @@ Select viewports which title lines you want to alter, or when started you will b
 
 Press Esc to exit.
 
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://drive.google.com/uc?export=view&id=14aeYo5Ikn0X8JvbcKwNfauHBc-NVbuz8" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
+![Align TL in the X axis](https://drive.google.com/uc?export=view&id=14aeYo5Ikn0X8JvbcKwNfauHBc-NVbuz8)  
+
 
 ## <a id="align-tl-in-the-y-axis"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/AlignY.png) Align TL in the Y axis
 
@@ -332,15 +328,9 @@ Select viewports which title lines you want to alter, or when started you will b
 
 Press Esc to exit. 
 
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://drive.google.com/uc?export=view&id=14UZ-w0b3Q-dE5IPtI6W42eS_AB15ZiA3" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
+![Align TL in the Y axis](https://drive.google.com/uc?export=view&id=14UZ-w0b3Q-dE5IPtI6W42eS_AB15ZiA3)  
 
-
-## <a id="set-length-of-selected-tl-as-per-picked-viewport"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/TitleLineLengthAsView.png) Set length of selected TL as per PICKED Viewport
+## <a id="set-length-of-selected-tl-as-per-picked-viewport"></a> ![Set length of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLineLengthAsView.png) Set length of selected TL as per PICKED Viewport
 
 Reads the length of picked title lines and applies it to selected ones.
 
@@ -348,7 +338,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to pick the exemplary viewport, from which we will read the length. 
 
-<iframe class="example" src="https://drive.google.com/uc?export=view&id=14boCiU_Uzlf3lLC-eBBaFsoQAgQzQrpZ"></iframe>  
+![Set length of selected TL as per PICKED Viewport](https://drive.google.com/uc?export=view&id=14boCiU_Uzlf3lLC-eBBaFsoQAgQzQrpZ)  
 
 ## <a id="set-length-of-selected-tl-with-menu"></a> ![Set length of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLineLengthMenu.png) Set length of selected TL with MENU
 
