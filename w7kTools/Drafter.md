@@ -378,6 +378,8 @@ How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
 
+![Save To MEMORY - TL position and length](https://drive.google.com/uc?export=view&id=15YAC02lEzLPtLessx8IdEFndOCo_3j9p)  
+
 ## <a id="set-tl-position-and-length-as-in-memory-active-sheet"></a> ![Set TL position and length as in MEMORY - Active sheet](/images/Tools/Drafter/Icons/TitleLinePositionFromMemoryActiveSheet.png) Set TL position and length as in MEMORY - Active sheet
 
 Reads a title line position and length from Memory and sets them to all viewports on current sheet.  
@@ -385,6 +387,8 @@ Reads a title line position and length from Memory and sets them to all viewport
 How to use the tool:
 
 Go to the sheet and use the tool. We will do the rest.
+
+![Set TL position and length as in MEMORY - Active sheet](https://drive.google.com/uc?export=view&id=15GrObIfvd9wxoeRrO-Y56K5s0Ba8jGMr)  
 
 ## <a id="set-tl-position-and-length-as-in-memory-selected-viewports"></a> ![Set TL position and length as in MEMORY - Selected Viewports](/images/Tools/Drafter/Icons/TitleLinePositionFromMemory.png) Set TL position and length as in MEMORY - Selected Viewports
 
@@ -394,6 +398,8 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. We will do the rest.
 
+![Set TL position and length as in MEMORY - Active sheet](https://drive.google.com/uc?export=view&id=15Fu6o2ECgURvsqvTHSPQq0Bz123j8UVD)  
+
 ## <a id="set-tl-position-and-length-as-in-memory-selected-sheets"></a> ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) Set TL position and length as in MEMORY - Selected Sheets 
 
 Reads a title line position and length from Memory and sets them to all viewports on selected sheets.  
@@ -402,13 +408,13 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
-
+![Set TL position and length as in MEMORY - Active sheet](https://drive.google.com/uc?export=view&id=15GrObIfvd9wxoeRrO-Y56K5s0Ba8jGMr)  
 
 # <a id="project-browser"></a> ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) Project Browser  
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
 [back to LIST](#list)  
 
-## <a id="sheet-number-add-prefix"></a> ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixBlue.png) Sheet Number - Add prefix 
+## <a id="sheet-number-add-prefix"></a> ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixblue.png) Sheet Number - Add prefix 
 
 Adds a prefix to the numbers of all selected sheets.
 
