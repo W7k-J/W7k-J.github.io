@@ -398,7 +398,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. We will do the rest.
 
-![Set TL position and length as in MEMORY - Active sheet](https://drive.google.com/uc?export=view&id=15Fu6o2ECgURvsqvTHSPQq0Bz123j8UVD)  
+![Set TL position and length as in MEMORY - Selected Viewports](https://drive.google.com/uc?export=view&id=15Fu6o2ECgURvsqvTHSPQq0Bz123j8UVD)  
 
 ## <a id="set-tl-position-and-length-as-in-memory-selected-sheets"></a> ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) Set TL position and length as in MEMORY - Selected Sheets 
 
@@ -408,7 +408,7 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
-![Set TL position and length as in MEMORY - Active sheet](https://drive.google.com/uc?export=view&id=15GrObIfvd9wxoeRrO-Y56K5s0Ba8jGMr)  
+![Set TL position and length as in MEMORY - Selected Sheets](https://drive.google.com/uc?export=view&id=15GrObIfvd9wxoeRrO-Y56K5s0Ba8jGMr)  
 
 # <a id="project-browser"></a> ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) Project Browser  
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
