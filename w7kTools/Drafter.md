@@ -374,6 +374,7 @@ Select viewports which title lines you want to change, or when started you will 
 
 Saves a position and length of a selected title line to memory.
 
+
 How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
