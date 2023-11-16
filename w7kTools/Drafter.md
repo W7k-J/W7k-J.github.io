@@ -558,7 +558,7 @@ Press the button. The tool will select the active viewport automatically. In cas
 
 After selection you will be prompted to define the offsets for top and base and the way we should determine the level (closest, closest above and closest below). Keeping "None" will allow you to disregard either top or base constraint and affect only the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections "Problems on To-Do List" at the bottom of this page 
 
 ## <a id="top-&-base-offset-selected-views"></a> ![Top & Base Offset - Selected Views](/images/Tools/Drafter/Icons/VV_Offset_Selected.png) Top & Base Offset - Selected Views
 
