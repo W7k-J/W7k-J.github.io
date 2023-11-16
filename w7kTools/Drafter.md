@@ -570,7 +570,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the offsets for top and base and the way we should determine the level (closest, closest above and closest below). Keeping "None" will allow you to disregard either top or base constraint and affect only the other one.
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="top-&-base-offset-views-on-selected-sheets"></a> ![Top & Base Offset - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Offset_SelectedSheets.png) Top & Base Offset - Views on Selected Sheets
 
@@ -582,7 +582,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the offsets for top and base and the way we should determine the level (closest, closest above and closest below). Keeping "None" will allow you to disregard either top or base constraint and affect only the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List:  
+Works with vertical views such as sections or elevations.  
 
 ## <a id="extend-side-active"></a> ![Extend Side - Active](/images/Tools/Drafter/Icons/VV_Side_ActiveV.png) Extend Side - Active 
 
@@ -594,7 +594,7 @@ Press the button. The tool will select the active view automatically. In case of
 
 After selection you will be prompted to define the extension. 
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="extend-side-selected-views"></a> ![Extend Side - Selected Views](/images/Tools/Drafter/Icons/VV_Side_Selected.png) Extend Side - Selected Views
 
@@ -606,7 +606,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the extension. 
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="extend-side-views-on-selected-sheets"></a> ![Extend Side - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Side_SelectedSheets.png) Extend Side - Views on Selected Sheets
 
@@ -618,7 +618,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the extension. 
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-as-picked-active-sheet"></a> ![Set Top & Base as Picked - Active Sheet](/images/Tools/Drafter/Icons/VV_Pick_ActiveView.png) Set Top & Base as Picked - Active Sheet
 
@@ -630,7 +630,7 @@ Be in a sheet and use the tool. The tool will gather all the vertical viewports 
 
 You will be asked to pick one exemplary view. We will read its top and base elevation and apply it to other selected views.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-as-picked-selected-views"></a> ![Set Top & Base as Picked - Selected Views](/images/Tools/Drafter/Icons/VV_Pick_Selected.png) Set Top & Base as Picked - Selected Views
 
@@ -642,7 +642,7 @@ Be in a sheet. Select some views in a project browser or on the sheet. If no ver
 
 After that you will be asked to pick one exemplary view. We will read its top and base elevation and apply it to all selected views.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-as-picked-views-on-selected-sheets"></a> ![Set Top & Base as Picked - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Pick_SelectedSheets.png) Set Top & Base as Picked - Views on Selected Sheets
 
@@ -654,7 +654,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After that you will be asked to pick one exemplary view. We will read its top and base elevation and apply it to all collected views.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-with-menu-active"></a> ![Set Top & Base with MENU - Active](/images/Tools/Drafter/Icons/VV_H_ActiveView.png) Set Top & Base with MENU - Active
 
@@ -668,7 +668,7 @@ Press the button. The tool will select the active view automatically. In case of
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-with-menu-selected-views"></a> ![Set Top & Base with MENU - Selected Views](/images/Tools/Drafter/Icons/VV_H_Selected.png) Set Top & Base with MENU - Selected Views
 
@@ -680,7 +680,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-with-menu-views-on-selected-sheets"></a> ![Set Top & Base with MENU - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_H_SelectedSheets.png) Set Top & Base with MENU - Views on Selected Sheets
 
@@ -692,7 +692,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="save-top-base-to-memory"></a> ![Save To MEMORY - Top & Base Elevation](/images/Tools/Drafter/Icons/VV_Memory.png) Save To MEMORY - Top & Base Elevation
 
@@ -714,7 +714,7 @@ Press the button. The tool will select the active view automatically. In case of
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-from-memory-selected-views"></a> ![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png) Set Top & Base from MEMORY - Selected Views
 
@@ -726,7 +726,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 ## <a id="set-top-base-from-memory-views-on-selected-sheets"></a> ![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png) Set Top & Base from MEMORY - Views on Selected Sheets
 
@@ -738,7 +738,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
+Works with vertical views such as sections or elevations. 
 
 
 # <a id="viewports"></a> ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) Viewports  
@@ -2086,11 +2086,10 @@ The number of tools makes it hard to make sure that all of them work 100% of tim
 
 Tags and Text notes - alignment will not work as intended if you rotate the north - I already made it work on non-perpendicular sections and elevations, but still not on plans!
 Tags and Text notes - copying leader settings from memory might not work on sections and elevations as intended.
-Vertical Views - sadly for now they work only on elevations. I am on it. I never needed to use it on sections and  they are somehow diffrent (You can rotate them in 3d) it is way more complicate to edit them. I blocked them (you can still select them but I will skip them while adjusting the rest)
 
 ### Problems not on To-Do List:
 
-Full support for older versions (2020, 2021, a few in 2022) – You are able to download the tool, but some buttons might not work (for example title lines, tags, legends1)
+Full support for older versions (2020, 2021, a few in 2022) - You are able to download the tool, but some buttons might not work (for example title lines, tags, legends1)
 
 
 Your support will help improve this app!
