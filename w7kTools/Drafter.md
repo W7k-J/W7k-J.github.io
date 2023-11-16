@@ -374,12 +374,11 @@ Select viewports which title lines you want to change, or when started you will 
 
 Saves a position and length of a selected title line to memory.
 
-
 How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
 
-![Save To MEMORY - TL position and length](https://drive.google.com/uc?export=view&id=15YAC02lEzLPtLessx8IdEFndOCo_3j9p)  
+![Save To MEMORY - TL position and length](https://drive.google.com/uc?export=view&id=16D3mZBIBeNlTKtWa0F2knvWBPTyJtGaQ)  
 
 ## <a id="set-tl-position-and-length-as-in-memory-active-sheet"></a> ![Set TL position and length as in MEMORY - Active sheet](/images/Tools/Drafter/Icons/TitleLinePositionFromMemoryActiveSheet.png) Set TL position and length as in MEMORY - Active sheet
 
@@ -399,7 +398,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. We will do the rest.
 
-![Set TL position and length as in MEMORY - Selected Viewports](https://drive.google.com/uc?export=view&id=15Fu6o2ECgURvsqvTHSPQq0Bz123j8UVD)  
+![Set TL position and length as in MEMORY - Selected Viewports](https://drive.google.com/uc?export=view&id=16D5Gj5EUrAyICPyx0G7JJouUyd5AGlCl)  
 
 ## <a id="set-tl-position-and-length-as-in-memory-selected-sheets"></a> ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) Set TL position and length as in MEMORY - Selected Sheets 
 
@@ -409,7 +408,7 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
-![Set TL position and length as in MEMORY - Selected Sheets](https://drive.google.com/uc?export=view&id=15GrObIfvd9wxoeRrO-Y56K5s0Ba8jGMr)  
+![Set TL position and length as in MEMORY - Selected Sheets](https://drive.google.com/uc?export=view&id=166IWZAmIkbRrgoGg5LVHJCYpAH6IFdaH)  
 
 # <a id="project-browser"></a> ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) Project Browser  
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
@@ -423,6 +422,8 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
+![Sheet Number - Add prefix](https://drive.google.com/uc?export=view&id=15nL50Dg23UWa0tFKYXJWlXSRvhxHzxE3)  
+
 ## <a id="sheet-number-add-suffix"></a> ![Sheet Number - Add suffix](/images/Tools/Drafter/Icons/suffixBlue.png) Sheet Number - Add suffix 
 
 Adds a suffix to the numbers of all selected sheets.
@@ -430,6 +431,8 @@ Adds a suffix to the numbers of all selected sheets.
 How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the suffix you want to apply in a special menu. 
+
+![Sheet Number - Add suffix](https://drive.google.com/uc?export=view&id=15aE_FyTowhiUXe6-kGzxnVBBhah5Mmt3)  
 
 ## <a id="sheet-number-to-lower-case"></a> ![Sheet Number - To lower case](/images/Tools/Drafter/Icons/TextToLowerBlue.png) Sheet Number - To lower case 
 
@@ -439,6 +442,8 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. 
 
+![Sheet Number - To lower case](https://drive.google.com/uc?export=view&id=15lx1Q0sFQptxAedqJ3XWaSGVA5csPax7)  
+
 ## <a id="sheet-number-to-upper-case"></a> ![Sheet Number - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpperBlue.png) Sheet Number - To UPPER CASE 
 
 Changes numbers of all selected sheets to UPPER CASE.
@@ -446,6 +451,8 @@ Changes numbers of all selected sheets to UPPER CASE.
 How to use the tool:
 
 Select the sheets in a project browser and press the button. 
+
+![Sheet Number - To UPPER CASE](https://drive.google.com/uc?export=view&id=15rQIYnrmLBrUYTmWq63_9F7HN97soNj1)  
 
 ## <a id="sheet-number-to-title-case"></a> ![Sheet Number - To Title Case](/images/Tools/Drafter/Icons/TextToTitleBlue.png) Sheet Number - To Title Case 
 
@@ -455,6 +462,8 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. 
 
+![Sheet Number - To Title Case](https://drive.google.com/uc?export=view&id=15p53jeLKjR29LRddfEH7rcxOxlKl1il5)  
+
 ## <a id="sheet-number-find-and-replace"></a> ![Sheet Number - Find and replace](/images/Tools/Drafter/Icons/TextFindAndReplaceBlue.png) Sheet Number - Find and replace
 
 Finds and replaces parts of numbers of all selected sheets.
@@ -462,6 +471,8 @@ Finds and replaces parts of numbers of all selected sheets.
 How to use the tool:
 
 Select the sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
+
+![Sheet Number - Find and replace](https://drive.google.com/uc?export=view&id=15dI9HpUBN5G-rf5rhIwlBsAxOItDmCbf)  
 
 ## <a id="sheet-number-find-and-replace-all"></a> ![Sheet Number - Find and replace (All)](/images/Tools/Drafter/Icons/TextFindAndReplaceBlueAll.png) Sheet Number - Find and replace (All)
 
@@ -471,6 +482,8 @@ How to use the tool:
 
 Press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
+![Sheet Number - Find and replace (All)](https://drive.google.com/uc?export=view&id=15oBVJEAEvSu80SCrSNUEDLx8WND-sgbs)  
+
 ## <a id="names-add-prefix"></a> ![Names - Add prefix](/images/Tools/Drafter/Icons/prefix.png) Names - Add prefix 
 
 Adds a prefix to the names of all selected views or sheets.
@@ -478,6 +491,8 @@ Adds a prefix to the names of all selected views or sheets.
 How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
+
+![Names - Add prefix](https://drive.google.com/uc?export=view&id=15xPs5N3y7yDOwEr4JkT_5UVCyzs7jjlL)  
 
 ## <a id="names-add-suffix"></a> ![Names - Add suffix](/images/Tools/Drafter/Icons/suffix.png) Names - Add suffix 
 
@@ -487,6 +502,8 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
+![Names - Add suffix](https://drive.google.com/uc?export=view&id=15_0IjjixTtRi32S5KekxsIQrftiEcBGb)  
+
 ## <a id="names-to-lower-case"></a> ![Names - To lower case](/images/Tools/Drafter/Icons/TextToLower.png) Names - To lower case 
 
 Changes names of all selected views or sheets to lower case.
@@ -494,6 +511,8 @@ Changes names of all selected views or sheets to lower case.
 How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
+
+![Names - To lower case](https://drive.google.com/uc?export=view&id=15_MgLWQs96Mex2NmKs5B1QK1zNSDGPdm)  
 
 ## <a id="names-to-upper-case"></a> ![Names - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png) Names - To UPPER CASE 
 
@@ -503,6 +522,8 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
+![Names - To UPPER CASE](https://drive.google.com/uc?export=view&id=15qxQyBoDBQ5brwqYJu9ukVBYS5MrI4dm)  
+
 ## <a id="names-to-title-case"></a> ![Names - To Title Case](/images/Tools/Drafter/Icons/TextToTitle.png) Names - To Title Case 
 
 Changes the names of all selected views or sheets to Title Case.
@@ -511,6 +532,8 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
+![Names - To Title Case](https://drive.google.com/uc?export=view&id=16SO_GDiiFkusLT3tshMfJQvw6_tgTD2V)  
+
 ## <a id="names-find-and-replace"></a> ![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png) Names - Find and Replace
 
 Finds and replaces parts of names of all selected views or sheets.
@@ -518,6 +541,8 @@ Finds and replaces parts of names of all selected views or sheets.
 How to use the tool:
 
 Select some views or sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
+
+![Names - Find and Replace](https://drive.google.com/uc?export=view&id=16HqOgCtKZZnLAJJSjSwIZR6Hyb2Bqgq0)  
 
 # <a id="vertical-views"></a> ![Vertical Views](/images/Tools/Drafter/Icons/VerticalView.png) Vertical Views  
 ![Vertical Views](/images/Tools/Drafter/drafterVview.jpg)  
@@ -533,7 +558,7 @@ Press the button. The tool will select the active viewport automatically. In cas
 
 After selection you will be prompted to define the offsets for top and base and the way we should determine the level (closest, closest above and closest below). Keeping "None" will allow you to disregard either top or base constraint and affect only the other one.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="top-&-base-offset-selected-views"></a> ![Top & Base Offset - Selected Views](/images/Tools/Drafter/Icons/VV_Offset_Selected.png) Top & Base Offset - Selected Views
 
@@ -545,7 +570,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the offsets for top and base and the way we should determine the level (closest, closest above and closest below). Keeping "None" will allow you to disregard either top or base constraint and affect only the other one.
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="top-&-base-offset-views-on-selected-sheets"></a> ![Top & Base Offset - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Offset_SelectedSheets.png) Top & Base Offset - Views on Selected Sheets
 
@@ -557,7 +582,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the offsets for top and base and the way we should determine the level (closest, closest above and closest below). Keeping "None" will allow you to disregard either top or base constraint and affect only the other one.  
 
-Works for vertical views such as sections or elevations. 
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List:  
 
 ## <a id="extend-side-active"></a> ![Extend Side - Active](/images/Tools/Drafter/Icons/VV_Side_ActiveV.png) Extend Side - Active 
 
@@ -569,7 +594,7 @@ Press the button. The tool will select the active view automatically. In case of
 
 After selection you will be prompted to define the extension. 
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="extend-side-selected-views"></a> ![Extend Side - Selected Views](/images/Tools/Drafter/Icons/VV_Side_Selected.png) Extend Side - Selected Views
 
@@ -581,7 +606,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the extension. 
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="extend-side-views-on-selected-sheets"></a> ![Extend Side - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Side_SelectedSheets.png) Extend Side - Views on Selected Sheets
 
@@ -593,7 +618,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the extension. 
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-as-picked-active-sheet"></a> ![Set Top & Base as Picked - Active Sheet](/images/Tools/Drafter/Icons/VV_Pick_ActiveView.png) Set Top & Base as Picked - Active Sheet
 
@@ -605,7 +630,7 @@ Be in a sheet and use the tool. The tool will gather all the vertical viewports 
 
 You will be asked to pick one exemplary view. We will read its top and base elevation and apply it to other selected views.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-as-picked-selected-views"></a> ![Set Top & Base as Picked - Selected Views](/images/Tools/Drafter/Icons/VV_Pick_Selected.png) Set Top & Base as Picked - Selected Views
 
@@ -617,7 +642,7 @@ Be in a sheet. Select some views in a project browser or on the sheet. If no ver
 
 After that you will be asked to pick one exemplary view. We will read its top and base elevation and apply it to all selected views.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-as-picked-views-on-selected-sheets"></a> ![Set Top & Base as Picked - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Pick_SelectedSheets.png) Set Top & Base as Picked - Views on Selected Sheets
 
@@ -629,7 +654,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After that you will be asked to pick one exemplary view. We will read its top and base elevation and apply it to all collected views.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-with-menu-active"></a> ![Set Top & Base with MENU - Active](/images/Tools/Drafter/Icons/VV_H_ActiveView.png) Set Top & Base with MENU - Active
 
@@ -643,7 +668,7 @@ Press the button. The tool will select the active view automatically. In case of
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-with-menu-selected-views"></a> ![Set Top & Base with MENU - Selected Views](/images/Tools/Drafter/Icons/VV_H_Selected.png) Set Top & Base with MENU - Selected Views
 
@@ -655,7 +680,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-with-menu-views-on-selected-sheets"></a> ![Set Top & Base with MENU - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_H_SelectedSheets.png) Set Top & Base with MENU - Views on Selected Sheets
 
@@ -667,7 +692,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="save-top-base-to-memory"></a> ![Save To MEMORY - Top & Base Elevation](/images/Tools/Drafter/Icons/VV_Memory.png) Save To MEMORY - Top & Base Elevation
 
@@ -689,7 +714,7 @@ Press the button. The tool will select the active view automatically. In case of
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-from-memory-selected-views"></a> ![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png) Set Top & Base from MEMORY - Selected Views
 
@@ -701,7 +726,7 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 ## <a id="set-top-base-from-memory-views-on-selected-sheets"></a> ![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png) Set Top & Base from MEMORY - Views on Selected Sheets
 
@@ -713,7 +738,7 @@ Select some sheets in a project browser and click the button to start the script
 
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
-Works for vertical views such as sections or elevations.
+In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections Problems on To-Do List: 
 
 
 # <a id="viewports"></a> ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) Viewports  
