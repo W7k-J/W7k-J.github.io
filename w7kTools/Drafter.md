@@ -74,7 +74,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Save To MEMORY - Top & Base Elevation](/images/Tools/Drafter/Icons/VV_Memory.png)[3.13. Save To MEMORY - Top & Base Elevation](#save-top-base-to-memory)  
 ![Set Top & Base from MEMORY - Active](/images/Tools/Drafter/Icons/VV_Memory_ActiveView.png)[3.14. Set Top & Base from MEMORY - Active](#set-top-base-from-memory-active)  
 ![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png)[3.15. Set Top & Base from MEMORY - Selected Views](#set-top-base-from-memory-selected-views)  
-![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png)[3.15. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
+![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png)[3.16. Set Top & Base from MEMORY - Views on Selected Sheets](#set-top-base-from-memory-views-on-selected-sheets)  
   
   
 ### ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) [4. Viewports](#viewports)  
@@ -144,20 +144,20 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Rotation of all instances of selected schedule](/images/Tools/Drafter/Icons/Schedule_Rotation.png) [9.2. Rotation of all instances of selected schedule](#rotation-of-all-instances-of-selected-schedule)  
 ![Schedule - Save position to MEMORY](/images/Tools/Drafter/Icons/Schedule_PositionToMemory.png) [9.3. Schedule - Save position to MEMORY](#schedule-save-position-to-memory)  
 ![Schedule - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_PositionFromMemory.png) [9.4. Schedule - Load position from MEMORY to Selected](#schedule-load-position-from-memory-to-selected)  
-![MATCH 2 Schedules - All Column Widths](/images/Tools/Drafter/Icons/Schedule_Columns2Paint.png) [9.4. MATCH 2 Schedules - All Column Widths](#match-2-schedules-all-column-widths)  
-![MATCH 2 Schedules - Total width by changing last column](/images/Tools/Drafter/Icons/Schedule_Columns2Last.png) [9.5. MATCH 2 Schedules - Total width by changing last column](#match-2-schedules-total-width-by-changing-last-column)  
-![Column Widths - Adjust with Clicks](/images/Tools/Drafter/Icons/Schedule_ColumnsAllClick.png) [9.6. Column Widths - Adjust with Clicks](#column-widths-adjust-with-clicks)  
-![Column Widths - Adjust them with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsAll.png) [9.7. Column Widths - Adjust them with MENU](#column-widths-adjust-them-with-menu)  
-![Column Widths - Save widths to MEMORY](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsToMemory.png) [9.8. Column Widths - Save widths to MEMORY](#column-widths-save-widths-to-memory)  
-![Column Widths - Set widths from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsFromMemory.png) [9.9. Column Widths - Set widths from MEMORY to Selected](#column-widths-set-widths-from-memory-to-selected)  
-![Column Widths - Set all the same with Menu](/images/Tools/Drafter/Icons/Schedule_ColumnsSame.png) [9.10. Column Widths - Set all the same with Menu](#column-widths-set-all-the-same-with-menu)  
-![Total Width - Adjust it with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotal.png) [9.11. Total Width - Adjust it with MENU](#total-width-adjust-it-with-menu)  
-![Total Width - Extend/shorten the last column with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotalLast.png) [9.12. Total Width - Extend/shorten the last column with MENU](#total-width-extend/shorten-the-last-column-with-menu)  
-![Unhide all columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_Unhide.png) [9.13. Unhide all columns - Selected Schedules](#unhide-all-columns-selected-schedules)  
-![Toggle visibility of hidden columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_UnhideToggle.png) [9.14. Toggle visibility of hidden columns - Selected Schedules](#toggle-visibility-of-hidden-columns-selected-schedules)  
-![Toggle visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideToggleActive.png) [9.15. Toggle visibility of hidden columns - Active](#toggle-visibility-of-hidden-columns-active)  
-![Reset visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideAll.png) [9.16. Reset visibility of hidden columns - Active](#reset-visibility-of-hidden-columns-active)  
-![Reset visibility of hidden columns - All](/images/Tools/Drafter/Icons/Schedule_ResetAll.png) [9.17. Reset visibility of hidden columns - All](#reset-visibility-of-hidden-columns-all)  
+![MATCH 2 Schedules - All Column Widths](/images/Tools/Drafter/Icons/Schedule_Columns2Paint.png) [9.5. MATCH 2 Schedules - All Column Widths](#match-2-schedules-all-column-widths)  
+![MATCH 2 Schedules - Total width by changing last column](/images/Tools/Drafter/Icons/Schedule_Columns2Last.png) [9.6. MATCH 2 Schedules - Total width by changing last column](#match-2-schedules-total-width-by-changing-last-column)  
+![Column Widths - Adjust with Clicks](/images/Tools/Drafter/Icons/Schedule_ColumnsAllClick.png) [9.7. Column Widths - Adjust with Clicks](#column-widths-adjust-with-clicks)  
+![Column Widths - Adjust them with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsAll.png) [9.8. Column Widths - Adjust them with MENU](#column-widths-adjust-them-with-menu)  
+![Column Widths - Save widths to MEMORY](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsToMemory.png) [9.9. Column Widths - Save widths to MEMORY](#column-widths-save-widths-to-memory)  
+![Column Widths - Set widths from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsFromMemory.png) [9.10. Column Widths - Set widths from MEMORY to Selected](#column-widths-set-widths-from-memory-to-selected)  
+![Column Widths - Set all the same with Menu](/images/Tools/Drafter/Icons/Schedule_ColumnsSame.png) [9.11. Column Widths - Set all the same with Menu](#column-widths-set-all-the-same-with-menu)  
+![Total Width - Adjust it with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotal.png) [9.12. Total Width - Adjust it with MENU](#total-width-adjust-it-with-menu)  
+![Total Width - Extend/shorten the last column with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotalLast.png) [9.13. Total Width - Extend/shorten the last column with MENU](#total-width-extend/shorten-the-last-column-with-menu)  
+![Unhide all columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_Unhide.png) [9.14. Unhide all columns - Selected Schedules](#unhide-all-columns-selected-schedules)  
+![Toggle visibility of hidden columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_UnhideToggle.png) [9.15. Toggle visibility of hidden columns - Selected Schedules](#toggle-visibility-of-hidden-columns-selected-schedules)  
+![Toggle visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideToggleActive.png) [9.16. Toggle visibility of hidden columns - Active](#toggle-visibility-of-hidden-columns-active)  
+![Reset visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideAll.png) [9.17. Reset visibility of hidden columns - Active](#reset-visibility-of-hidden-columns-active)  
+![Reset visibility of hidden columns - All](/images/Tools/Drafter/Icons/Schedule_ResetAll.png) [9.18. Reset visibility of hidden columns - All](#reset-visibility-of-hidden-columns-all)  
   
   
 ### ![Revisions](/images/Tools/Drafter/Icons/Revision.png) [10. Revisions](#revisions)  
@@ -216,8 +216,8 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ![Align Text Note leader elbows to point (horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointH.png)[13.10. Align Text Note leader elbows to point (horizontal)](#align-text-note-leader-elbows-to-point-(horizontal))  
 ![Align Text Note leader elbows to point (vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointV.png)[13.11. Align Text Note leader elbows to point (vertical)](#align-text-note-leader-elbows-to-point-(vertical))  
 ![Save Text Note Leader to Memory](/images/Tools/Drafter/Icons/TN_LToMemory.png)[13.12. Save Text Note Leader to Memory](#save-text-note-leader-to-memory)  
-![Set Text Note Leader from MEMORY from Anchor](/images/Tools/Drafter/Icons/TN_LFromMemory.png)[13.3. Set Text Note Leader from MEMORY from Anchor](#set-text-note-leader-from-memory-from-anchor)  
-![Set Text Note Leader from MEMORY from End](/images/Tools/Drafter/Icons/TN_LFromMemoryEnd.png)[13.4. Set Text Note Leader from MEMORY from End](#set-text-note-leader-from-memory-from-end)  
+![Set Text Note Leader from MEMORY from Anchor](/images/Tools/Drafter/Icons/TN_LFromMemory.png)[13.13. Set Text Note Leader from MEMORY from Anchor](#set-text-note-leader-from-memory-from-anchor)  
+![Set Text Note Leader from MEMORY from End](/images/Tools/Drafter/Icons/TN_LFromMemoryEnd.png)[13.14. Set Text Note Leader from MEMORY from End](#set-text-note-leader-from-memory-from-end)  
   
   
 ### ![Tags](/images/Tools/Drafter/Icons/Tags.png) [14. Tags](#tags)  
@@ -560,6 +560,8 @@ After selection you will be prompted to define the offsets for top and base and 
 
 In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections "Problems on To-Do List" at the bottom of this page 
 
+![Top & Base Offset - Active](https://drive.google.com/uc?export=view&id=17NhpvpNFI5a1VNMLwqAn9Wv5MkujHaJG)  
+
 ## <a id="top-&-base-offset-selected-views"></a> ![Top & Base Offset - Selected Views](/images/Tools/Drafter/Icons/VV_Offset_Selected.png) Top & Base Offset - Selected Views
 
 Sets the top and base (as offset from closest levels) for selected views. 
@@ -571,6 +573,8 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 After selection you will be prompted to define the offsets for top and base and the way we should determine the level (closest, closest above and closest below). Keeping "None" will allow you to disregard either top or base constraint and affect only the other one.
 
 Works with vertical views such as sections or elevations. 
+
+![Top & Base Offset - Selected Views](https://drive.google.com/uc?export=view&id=17YjBPAVd43UFhLRx3ZgfSwPX_wRRShBV)  
 
 ## <a id="top-&-base-offset-views-on-selected-sheets"></a> ![Top & Base Offset - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Offset_SelectedSheets.png) Top & Base Offset - Views on Selected Sheets
 
@@ -584,6 +588,8 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works with vertical views such as sections or elevations.  
 
+![Top & Base Offset - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=176vb3OP4ECvqIRYHcLK7JlOhQdkP9nCG)  
+
 ## <a id="extend-side-active"></a> ![Extend Side - Active](/images/Tools/Drafter/Icons/VV_Side_ActiveV.png) Extend Side - Active 
 
 Extends/trims both sides of currently active vertical view (or all views on currently open sheet).
@@ -595,6 +601,8 @@ Press the button. The tool will select the active view automatically. In case of
 After selection you will be prompted to define the extension. 
 
 Works with vertical views such as sections or elevations. 
+
+![Extend Side - Active](https://drive.google.com/uc?export=view&id=17VilepcwEc1xYVhrQN2haE8uBauVjUI_)  
 
 ## <a id="extend-side-selected-views"></a> ![Extend Side - Selected Views](/images/Tools/Drafter/Icons/VV_Side_Selected.png) Extend Side - Selected Views
 
@@ -608,6 +616,8 @@ After selection you will be prompted to define the extension.
 
 Works with vertical views such as sections or elevations. 
 
+![Extend Side - Selected Views](https://drive.google.com/uc?export=view&id=18BfZjkJdtBkdJ1U0UAJGcC36cOjQmsLA)  
+
 ## <a id="extend-side-views-on-selected-sheets"></a> ![Extend Side - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Side_SelectedSheets.png) Extend Side - Views on Selected Sheets
 
 Extends/trims both sides of views on selected sheets.
@@ -619,6 +629,8 @@ Select some sheets in a project browser and click the button to start the script
 After selection you will be prompted to define the extension. 
 
 Works with vertical views such as sections or elevations. 
+
+![Extend Side - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=17Vto-NS0VCE9dSmmKV9_938d2e-G4Ask)  
 
 ## <a id="set-top-base-as-picked-active-sheet"></a> ![Set Top & Base as Picked - Active Sheet](/images/Tools/Drafter/Icons/VV_Pick_ActiveView.png) Set Top & Base as Picked - Active Sheet
 
@@ -632,6 +644,8 @@ You will be asked to pick one exemplary view. We will read its top and base elev
 
 Works with vertical views such as sections or elevations. 
 
+![Set Top & Base as Picked - Active Sheet](https://drive.google.com/uc?export=view&id=17OgpUDk1A_AyP7nWs2hDPYYuQfCUWjZS)  
+
 ## <a id="set-top-base-as-picked-selected-views"></a> ![Set Top & Base as Picked - Selected Views](/images/Tools/Drafter/Icons/VV_Pick_Selected.png) Set Top & Base as Picked - Selected Views
 
 Sets top and base as per picked view to all selected views. 
@@ -644,6 +658,8 @@ After that you will be asked to pick one exemplary view. We will read its top an
 
 Works with vertical views such as sections or elevations. 
 
+![Set Top & Base as Picked - Selected Views](https://drive.google.com/uc?export=view&id=188U04kkMZTzi8sKMbNCXiJ7wvWDIBIy1)  
+
 ## <a id="set-top-base-as-picked-views-on-selected-sheets"></a> ![Set Top & Base as Picked - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Pick_SelectedSheets.png) Set Top & Base as Picked - Views on Selected Sheets
 
 Sets top and base as per picked view to all views on selected sheets.
@@ -655,6 +671,8 @@ Select some sheets in a project browser and click the button to start the script
 After that you will be asked to pick one exemplary view. We will read its top and base elevation and apply it to all collected views.  
 
 Works with vertical views such as sections or elevations. 
+
+![Set Top & Base as Picked - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=17X09EpjnOe50izDyBtegPBaFGNrulVGZ)  
 
 ## <a id="set-top-base-with-menu-active"></a> ![Set Top & Base with MENU - Active](/images/Tools/Drafter/Icons/VV_H_ActiveView.png) Set Top & Base with MENU - Active
 
@@ -670,6 +688,8 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
+![Set Top & Base with MENU - Active](https://drive.google.com/uc?export=view&id=17V4VWwNyMlAst4oBbX8CJy1lfDb6sv2i)  
+
 ## <a id="set-top-base-with-menu-selected-views"></a> ![Set Top & Base with MENU - Selected Views](/images/Tools/Drafter/Icons/VV_H_Selected.png) Set Top & Base with MENU - Selected Views
 
 Sets top and base of all selected views with provided menu. 
@@ -681,6 +701,8 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
 Works with vertical views such as sections or elevations. 
+
+![Set Top & Base with MENU - Selected Views](https://drive.google.com/uc?export=view&id=17S45fcMwF4ClC5VshqMpVxc_GBuBY_Mp)  
 
 ## <a id="set-top-base-with-menu-views-on-selected-sheets"></a> ![Set Top & Base with MENU - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_H_SelectedSheets.png) Set Top & Base with MENU - Views on Selected Sheets
 
@@ -694,6 +716,8 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
+![Set Top & Base with MENU - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=178sc3Ao2rmV6oYg43LzLL5V7PiO5E5hm)  
+
 ## <a id="save-top-base-to-memory"></a> ![Save To MEMORY - Top & Base Elevation](/images/Tools/Drafter/Icons/VV_Memory.png) Save To MEMORY - Top & Base Elevation
 
 Saves to memory top elevation and base elevations of one selected view.
@@ -701,6 +725,8 @@ Saves to memory top elevation and base elevations of one selected view.
 How to use the tool:
 
 Click the button and pick one view. Its settings will be saved in external file for further use.
+
+![Save To MEMORY - Top & Base Elevation](https://drive.google.com/uc?export=view&id=183M6XLURPNy2INaheUYc7hspnarOXPB5)  
 
 ## <a id="set-top-base-from-memory-active"></a> ![Set Top & Base from MEMORY - Active](/images/Tools/Drafter/Icons/VV_Memory_ActiveView.png) Set Top & Base from MEMORY - Active
 
@@ -716,6 +742,8 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
+![Set Top & Base from MEMORY - Active](https://drive.google.com/uc?export=view&id=17_45EYdzTJt3VcU94VJJ1-syUj8MKDJ8)  
+
 ## <a id="set-top-base-from-memory-selected-views"></a> ![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png) Set Top & Base from MEMORY - Selected Views
 
 Sets top and base of all selected views with values saved in Memory.
@@ -727,6 +755,8 @@ Select some views in a project browser or on the sheets. If no vertical views ar
 After selection you will be prompted to define the levels and offsets for top and base. Keeping "None" will allow you to disregard either top or base constraint and only affect the other one.  
 
 Works with vertical views such as sections or elevations. 
+
+![Set Top & Base from MEMORY - Selected Views](https://drive.google.com/uc?export=view&id=18BDXeTzEWaVHC7FN9JP8k409UiBMdUTm)  
 
 ## <a id="set-top-base-from-memory-views-on-selected-sheets"></a> ![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png) Set Top & Base from MEMORY - Views on Selected Sheets
 
@@ -740,6 +770,7 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
+![Set Top & Base from MEMORY - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=16yL2ifHzh4-zZ7bF1P6W7tpZ_gb1f_Pg)  
 
 # <a id="viewports"></a> ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) Viewports  
 ![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
