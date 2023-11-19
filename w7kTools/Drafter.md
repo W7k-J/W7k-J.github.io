@@ -79,7 +79,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
   
 ### ![Viewports](/images/Tools/Drafter/Icons/Viewport.png) [4. Viewports](#viewports)  
   
-![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) [4.1. Align selected Viewports (Middle Y-Axis)](#align-selected-viewports-(middle-y-axis))  
+![Align selected Viewports (Top)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) [4.1. Align selected Viewports (Top)](#align-selected-viewports-(Top))  
 ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRMiddle.png) [4.2. Align selected Viewports (Middle Y-Axis)](#align-selected-viewports-(middle-y-axis))  
 ![Align selected Viewports (Bottom)](/images/Tools/Drafter/Icons/Viewport_LocationRLow.png) [4.3. Align selected Viewports (Bottom)](#align-selected-viewports-(bottom))  
 ![Align selected Viewports (Left)](/images/Tools/Drafter/Icons/Viewport_LocationCLeft.png) [4.4. Align selected Viewports (Left)](#align-selected-viewports-(left))  
@@ -776,7 +776,7 @@ Works with vertical views such as sections or elevations.
 ![Viewports](/images/Tools/Drafter/drafterViewports.jpg)  
 [back to LIST](#list)  
 
-## <a id="align-selected-viewports-(middle-y-axis)"></a> ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) Align selected Viewports (Middle Y-Axis)
+## <a id="align-selected-viewports-(Top)"></a> ![Align selected Viewports (Top)](/images/Tools/Drafter/Icons/Viewport_LocationRTop.png) Align selected Viewports (Top)
 
 Align selected viewports in Y-Axis to the top.
 
