@@ -264,7 +264,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ### ![Dimensions](/images/Tools/Drafter/Icons/Dim.png) [17. Dimensions](#dimensions)  
   
 ![Reset value overrides in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png)[17.1. Reset value overrides in selected Dimensions](#reset-value-overrides-in-selected-dimensions)  
-![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png)[17.2. Reset text position in selected Dimensions](#reset-text-position-in-selected-dimensions)  
+![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_ResetPosition.png)[17.2. Reset text position in selected Dimensions](#reset-text-position-in-selected-dimensions)  
 ![Find & Replace in all dimensions](/images/Tools/Drafter/Icons/Dim_FindAndReplace.png)[17.3. Find & Replace in all dimensions](#find-&-replace-in-all-dimensions)  
 ![Find Zeros in dimensions](/images/Tools/Drafter/Icons/Dim_Zero.png)[17.4. Find Zeros in dimensions](#find-zeros-in-dimensions)  
   
@@ -2013,7 +2013,7 @@ How to use the tool:
 
 Select some dimensions, or when started, you will be prompted to do it by the tool. 
 
-## <a id="reset-text-position-in-selected-dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_OverrideReset.png) Reset text position in selected Dimensions
+## <a id="reset-text-position-in-selected-dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_ResetPosition.png) Reset text position in selected Dimensions
 
 Resets text position in selected dimensions. 
 
@@ -2115,17 +2115,18 @@ The number of tools makes it hard to make sure that all of them work 100% of tim
 
 ### Problems on To-Do List:
 
-Tags and Text notes - alignment will not work as intended if you rotate the north - I already made it work on non-perpendicular sections and elevations, but still not on plans!
-Tags and Text notes - copying leader settings from memory might not work on sections and elevations as intended.
+Spatial Elements Tag (room tags, area tags etc) are not supported by Tag tools - WIP  
+Tags and Text notes - alignment will not work as intended if you rotate the north - I already made it work on non-perpendicular sections and elevations, but still not on plans!  
+Tags and Text notes - copying leader settings from memory might not work on sections and elevations as intended.  
 
 ### Problems not on To-Do List:
 
-Full support for older versions (2020, 2021, a few in 2022) - You are able to download the tool, but some buttons might not work (for example title lines, tags, legends1)
+Full support for older versions (2020, 2021, a few in 2022) - You are able to download the tool, but some buttons might not work (for example title lines, tags, legends1)  
 
 
-Your support will help improve this app!
-For the most common list of exceptions, please visit the tool page.
-This toolset will grow in time! Your support will keep it alive and kicking! Please don't hesitate to contact me with a feedback or ideas of new features.
+Your support will help improve this app!  
+For the most common list of exceptions, please visit the tool page.  
+This toolset will grow in time! Your support will keep it alive and kicking! Please don't hesitate to contact me with a feedback or ideas of new features.  
 
 <br>
 <div class="backToTools">
