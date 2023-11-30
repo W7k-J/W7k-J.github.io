@@ -272,7 +272,7 @@ All the tools are easy to use and master. Using only one of 180+ scripts will si
 ### ![Regions](/images/Tools/Drafter/Icons/Region.png) [18. Regions](#regions)  
   
 ![Convert Masking Region into Filled Region](/images/Tools/Drafter/Icons/Region_Convert.png)[18.1 Convert Masking Region into Filled Region](#convert-masking-region-into-filled-region)  
-![Walls to Filled Region](/images/Tools/Drafter/Icons/Region_ConvertWall.png)[18.1 Walls to Filled Region](#walls-to-filled-region)  
+![Walls to Filled Region](/images/Tools/Drafter/Icons/Region_ConvertWall.png)[18.2 Walls to Filled Region](#walls-to-filled-region)  
   
   
 ### ![Various](/images/Tools/Drafter/Icons/Various.png) [19. Various](#various)  
@@ -2117,15 +2117,16 @@ The number of tools makes it hard to make sure that all of them work 100% of tim
 
 Spatial Elements Tag (room tags, area tags etc) are not supported by Tag tools - WIP  
 Tags and Text notes - alignment will not work as intended if you rotate the north - I already made it work on non-perpendicular sections and elevations, but still not on plans!  
+Tags nudging - for 2020 - 2022 - Sorry no nudging for these versions ;) WIP
+Tags and Text notes with multiple references - tag tools might not work for them as intended - WIP
 Tags and Text notes - copying leader settings from memory might not work on sections and elevations as intended.  
 
 ### Problems not on To-Do List:
 
 Full support for older versions (2020, 2021, a few in 2022) - You are able to download the tool, but some buttons might not work (for example title lines, tags, legends1)  
 
-
 Your support will help improve this app!  
-For the most common list of exceptions, please visit the tool page.  
+
 This toolset will grow in time! Your support will keep it alive and kicking! Please don't hesitate to contact me with a feedback or ideas of new features.  
 
 <br>
