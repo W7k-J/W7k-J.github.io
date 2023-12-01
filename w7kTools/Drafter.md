@@ -784,6 +784,8 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
+![Align selected Viewports (Top)](https://drive.google.com/uc?export=view&id=1FWBxZUwA-hCdjqvwumt_iC8A4QP7F3fj)  
+
 ## <a id="align-selected-viewports-(middle-y-axis)"></a> ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRMiddle.png) Align selected Viewports (Middle Y-Axis)
 
 Align selected viewports in Y-Axis to the middle.
@@ -791,6 +793,8 @@ Align selected viewports in Y-Axis to the middle.
 How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+![Align selected Viewports (Middle Y)](https://drive.google.com/uc?export=view&id=1GOMw02EEhwbonIfpPbxBPIy7nflNl_dg)  
 
 ## <a id="align-selected-viewports-(bottom)"></a> ![ Align selected Viewports (Bottom)](/images/Tools/Drafter/Icons/Viewport_LocationRLow.png) Align selected Viewports (Bottom)
 
@@ -800,6 +804,8 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
+![Align selected Viewports (Bottom)](https://drive.google.com/uc?export=view&id=1FV0JRUpt2DF9lwzQv0y20jPeATvKfDcE)  
+
 ## <a id="align-selected-viewports-(left)"></a> ![Align selected Viewports (Left)](/images/Tools/Drafter/Icons/Viewport_LocationCLeft.png) Align selected Viewports (Left)
 
 Align selected viewports in X-Axis to the left.
@@ -807,6 +813,8 @@ Align selected viewports in X-Axis to the left.
 How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+![Align selected Viewports (Left)](https://drive.google.com/uc?export=view&id=1GN60-L9rU5FCgm3naYasI0GP60mPfUYc)  
 
 ## <a id="align-selected-viewports-(middle-x-axis)"></a> ![Align selected Viewports (Middle X-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationCMiddle.png) Align selected Viewports (Middle X-Axis)
 
@@ -816,6 +824,8 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
+![Align selected Viewports (middle-x-axis)](https://drive.google.com/uc?export=view&1GJ8l1jKIA-CJIeMVLgqbQBCVIgyHuDtG)  
+
 ## <a id="align-selected-viewports-(right)"></a> ![Align selected Viewports (Right)](/images/Tools/Drafter/Icons/Viewport_LocationCRight.png) Align selected Viewports (Right)
 
 Align selected viewports in X-Axis to the right.
@@ -823,6 +833,8 @@ Align selected viewports in X-Axis to the right.
 How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
+
+![Align selected Viewports (right)](https://drive.google.com/uc?export=view&1GWj2Zcf7g6a7a3o_2NuwXpE4he95xe9a)  
 
 ## <a id="number-by-click"></a> ![Number by Click](/images/Tools/Drafter/Icons/Viewport_NumberClick.png) Number by Click
 
@@ -832,13 +844,17 @@ How to use the tool:
 
 Simply pick viewports one by one. Then click esc or cancel. We will do the rest. 
 
-## <a id=" add-1-to-selected-detail-numbers"></a> ![ Add +1 to selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneUp.png) Add +1 to selected detail numbers
+![Number by Click](https://drive.google.com/uc?export=view&1FmfrH4FwKOwf4EANEp8kV0lVuH0qiEqy)  
+
+## <a id=" add-1-to-selected-detail-numbers"></a> ![Add +1 to selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneUp.png) Add +1 to selected detail numbers
 
 Adds one to detail numbers of all selected viewport.
 
 How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool.
+
+![Add +1 to selected detail numbers](https://drive.google.com/uc?export=view&1GeDJXRFsBb8-iEEovN-px91UgdaGq4S3)  
 
 ## <a id="subtract-1-from-selected-detail-numbers"></a> ![Subtract 1 from selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneDown.png) Subtract 1 from selected detail numbers
 
@@ -847,6 +863,8 @@ Subtracts one from detail numbers of all selected viewport.
 How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool.
+
+![Subtract 1 from selected detail numbers](https://drive.google.com/uc?export=view&1FwJCCV9XkU7B4mW78axHGNIJtKNwEJlo)  
 
 ## <a id="add-prefix-to-detail-numbers-of-selected-viewports"></a> ![Add prefix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberPrefix.png) Add prefix to detail numbers of selected viewports
 
@@ -860,6 +878,8 @@ After selection you will be prompted to define the prefix.
 
 Please bear in mind that these numbers cannot be already used in the sheet. 
 
+![Add prefix to detail numbers of selected viewports](https://drive.google.com/uc?export=view&1FfZsmF6Wl8reJeTdRLqFWFJQ9iDFQeSe)  
+
 ## <a id="add-suffix-to-detail-numbers-of-selected-viewports"></a> ![Add suffix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberSuffix.png) Add suffix to detail numbers of selected viewports
 
 Adds suffix to detail numbers of all selected viewport.
@@ -872,6 +892,8 @@ After selection you will be prompted to define the prefix.
 
 Please bear in mind that these numbers cannot be already used in the sheet.
 
+![Add suffix to detail numbers of selected viewports](https://drive.google.com/uc?export=view&1HYn0FzIQaHcTWV7CSRlscK2PZ-DwjiHx)  
+
 ## <a id="renumber-detail-from-left-to-right"></a> ![Renumber detail from left to right](/images/Tools/Drafter/Icons/Viewport_NumbersFromLeftToRight.png) Renumber detail from left to right
 
 Renumbers detail numbers of all selected viewport from left to right.
@@ -880,6 +902,8 @@ How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
 
+![Renumber detail from left to right](https://drive.google.com/uc?export=view&1HD_0KdKK_a8lgAjChpGcVmgqbkr5OCGA)  
+
 ## <a id="renumber-detail-from-top-to-bottom"></a> ![Renumber detail from top to bottom](/images/Tools/Drafter/Icons/Viewport_NumbersFromTopToBottom.png) Renumber detail from top to bottom 
 
 Renumbers detail numbers of all selected viewport from top to bottom.
@@ -887,6 +911,8 @@ Renumbers detail numbers of all selected viewport from top to bottom.
 How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
+
+![Renumber detail from top to bottom](https://drive.google.com/uc?export=view&1HNr7uTnqh-0Bh5LNTs139aLDqNrJwxgv)  
 
 ## <a id="order-horizontally-from-the-middle-of-view"></a> ![Order horizontally from the middle of view](/images/Tools/Drafter/Icons/Viewport_OrderFromMiddle.png) Order horizontally from the middle of view
 
@@ -898,6 +924,8 @@ Select viewports which you want to order, or when started you will be prompted t
 
 After selection you will be prompted to define the offset.
 
+![Order horizontally from the middle of view](https://drive.google.com/uc?export=view&1HVN_9IFWEyeSHNDHLzXrjvarh3bJOc9t)  
+
 ## <a id="order-horizontally-with-a-chosen-gap"></a> ![Order horizontally with a chosen gap](/images/Tools/Drafter/Icons/Viewport_OrderHorizontally.png) Order horizontally with a chosen gap
 
 Orders selected viewports with a chosen gap. 
@@ -908,6 +936,8 @@ Select viewports which you want to order, or when started you will be prompted t
 
 After selection you will be prompted to define the offset.
 
+![Order horizontally with a chosen gap](https://drive.google.com/uc?export=view&1HY16YgaTo99wVnfDLIR_N565v1cQOfqe)  
+
 ## <a id="order-up-to-4-viewports-in-two-rows-with-2-points"></a> ![Order up to 4 viewports in two rows with 2 points](/images/Tools/Drafter/Icons/Viewport_OrderUpTo4.png) Order up to 4 viewports in two rows with 2 points
 
 Orders up to 4 viewports in two rows with 2 points.  
@@ -917,6 +947,9 @@ How to use the tool:
 Select viewports which you want to order, or when started you will be prompted to do it by the tool. 
 
 After selection you will be prompted to pick the 2 points. Start with top left. 
+
+![Order up to 4 viewports in two rows with 2 points](https://drive.google.com/uc?export=view&1HEhNQpie7YPtKaz32VwoftK9XAh1iUQ9)  
+
   
    
 # <a id="sheets"></a> ![Sheets](/images/Tools/Drafter/Icons/Sheet_Button.png) Sheets  
@@ -931,6 +964,9 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
 
+![Numbers - Add +1 to Selected Sheet](https://drive.google.com/uc?export=view&1AkWtp_e9zhGBAYdsSPoBRNaXUoaVcled)  
+
+
 ## <a id="numbers-subtract-1-from-selected-sheet"></a> ![Numbers - Subtract 1 from Selected Sheet](/images/Tools/Drafter/Icons/Sheet_NumberOneDown.png) Numbers - Subtract 1 from Selected Sheet
 
 Subtract one from all selected sheet numbers.
@@ -938,6 +974,8 @@ Subtract one from all selected sheet numbers.
 How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
+
+![Numbers - Subtract 1 from Selected Sheet](https://drive.google.com/uc?export=view&1Ara24x-Tzk5HAgVdWX2YYrfmzADA14eg)  
 
 ## <a id="reset-title-on-sheet-active-sheet"></a> ![Reset Title On Sheet - Active Sheet](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_ActiveView.png) Reset Title On Sheet - Active Sheet
 
@@ -947,6 +985,8 @@ How to use the tool:
 
 Open a sheet and press the button. The tool will gather all the viewports on it. 
 
+![Reset Title On Sheet - Active Sheet](https://drive.google.com/uc?export=view&1AgRbFFf0Y49as7cmuPbWz-wgme3viFYN)  
+
 ## <a id="reset-title-on-sheet-selected-sheets"></a> ![Reset Title On Sheet - Selected Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_Selected.png) Reset Title On Sheet - Selected Sheets 
 
 Resets all Title On Sheets from views placed on selected sheets.
@@ -955,6 +995,8 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script.
 
+![Reset Title On Sheet - Selected Sheets](https://drive.google.com/uc?export=view&1AuisyxRcFGNqdbNwu1wd4Ao6JZvdhMpP)  
+
 ## <a id="reset-title-on-sheet-all-sheets"></a> ![Reset Title On Sheet - All Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_All.png) Reset Title On Sheet - All Sheets 
 
 Resets all Title On Sheets in your project.
@@ -962,6 +1004,8 @@ Resets all Title On Sheets in your project.
 How to use the tool:
 
 Press the button. You will be asked to confirm (twice) and informed about the change we did. 
+
+![Reset Title On Sheet - All Sheets](https://drive.google.com/uc?export=view&1AoioitaHlcB7agT_fi9QG1TqHRY9tJtR)  
 
 ## <a id="fake-scale-active-sheet"></a> ![Fake Scale - Active Sheet](/images/Tools/Drafter/Icons/Sheet_FakeScale_ActiveView.png) Fake Scale - Active Sheet
 
@@ -972,6 +1016,8 @@ How to use the tool:
 Open a sheet and press the button. The tool will gather all the viewports on it. 
 
 You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
+
+![Fake Scale - Active Sheet](https://drive.google.com/uc?export=view&1BAkU363L7Z1xVav_7fsoGHPt7JnrMJGY)  
 
 ## <a id="fake-scale-selected-sheets"></a> ![Fake Scale - Selected Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_Selected.png) Fake Scale - Selected Sheets 
 
@@ -987,6 +1033,8 @@ The tool will show you a form where you can select the sheets you want to affect
 
 After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
 
+![Fake Scale - Selected Sheets](https://drive.google.com/uc?export=view&1BnOwF9NJqIC3K62pMRzJBtCPDGiqSznj)  
+
 ## <a id="fake-scale-all-sheets"></a> ![Fake Scale - All Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_All.png) Fake Scale - All Sheets 
 
 Applies a fake scale to all sheets in your project.
@@ -996,6 +1044,8 @@ How to use the tool:
 Press the button. 
 
 You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
+
+![Fake Scale - All Sheets](https://drive.google.com/uc?export=view&1BJYaP2c60HIZ_TB7t7OVvLy3ALqUoo-z)  
 
 ## <a id="generic-annotations-adjust-positions-on-all-sheets"></a> ![Generic Annotations - Adjust positions on all sheets](/images/Tools/Drafter/Icons/Sheet_GA.png) Generic Annotations - Adjust positions on all sheets
 
@@ -1007,6 +1057,8 @@ Select exemplary generic annotation or when started you will be prompted to do i
 
 We will find all instances of it and adjust their positions on sheets.
 
+![Generic Annotations - Adjust positions on all sheets](https://drive.google.com/uc?export=view&1BXtqZSwCqL6KhO8w2v5lu2jWWbCM8AKm)  
+
 ## <a id="generic-annotations-save-position-to-memory"></a> ![Generic Annotations - Save position to MEMORY](/images/Tools/Drafter/Icons/Sheet_GA_ToMemory.png) Generic Annotations - Save position to MEMORY
 
 Saves position of selected Generic Annotation to Memory.
@@ -1014,7 +1066,9 @@ Saves position of selected Generic Annotation to Memory.
 How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
- 
+
+![Generic Annotations - Save position to MEMORY](https://drive.google.com/uc?export=view&1BenrTkJT-k4TJ7vtbrjeSh1ysumpuXAt)  
+
 ## <a id="generic-annotations-load-position-from-memory-to-selected"></a> ![Generic Annotations - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Sheet_GA_FromMemory.png) Generic Annotations - Load position from MEMORY to Selected
 
 Loads previously saved position of a Generic Annotation from Memory and applies it to selected Generic Annotation.
@@ -1022,6 +1076,8 @@ Loads previously saved position of a Generic Annotation from Memory and applies 
 How to use the tool:
 
 Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
+
+![Generic Annotations - Load position from MEMORY to Selected](https://drive.google.com/uc?export=view&1B9-dX_FWOeyMTEgz3G1Ri12GlFK2HuVd)  
   
   
 # <a id="scopeboxes"></a> ![Scopeboxes](/images/Tools/Drafter/Icons/ScopeBox_Button.png) Scopeboxes  
@@ -1037,6 +1093,8 @@ How to use the tool:
 Select exemplary viewport or when started you will be prompted to do it by the tool.
 You don't have to unpin the viewports - we will do it automatically. 
 
+![Aling plans on the sheets with the same scopebox](https://drive.google.com/uc?export=view&1APUTsCmMV_8iH3OsN0W37KSoRdqFnKcd)  
+
 
 ![Title Blocks](/images/Tools/Drafter/drafterTitleBlocks.jpg)  
 # <a id="title-blocks"></a> ![Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_Button.png) Title Blocks  
@@ -1051,6 +1109,8 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will reset their position. At the end you will be informed about the number of changes.
 
+![Reset position to default - Selected TB](https://drive.google.com/uc?export=view&1C8A1I5WwC-Guv-bgGZru4my4HpUE8A41)  
+
 ## <a id="reset-position-to-default-instances-of-selected-tb-type"></a> ![Reset position to default - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_ResetType.png) Reset position to default - Instances of Selected TB Type
 
 Resets instances of selected title block to their default position. 
@@ -1058,6 +1118,8 @@ Resets instances of selected title block to their default position.
 How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and reset their position. At the end you will be informed about the number of changes.
+
+![Reset position to default - Instances of Selected TB Type](https://drive.google.com/uc?export=view&1CMPFbFvIyeiHzkuJjIt1JObOQuoIvugC)  
 
 ## <a id="reset-position-to-default-all-tb"></a> ![Reset position to default - All TB](/images/Tools/Drafter/Icons/TitleBlock_ResetAll.png) Reset position to default - All TB
 
@@ -1067,6 +1129,8 @@ How to use the tool:
 
 Simply use the script and the tool will move all title blocks to their default position. At the end you will be informed about the number of changes. 
 
+![Reset position to default - All TB](https://drive.google.com/uc?export=view&1C4LaJv7JAYRr6syMhmnl15D8dAe_mC-a)  
+
 ## <a id="rescue!-set-position-instances-of-selected-tb-type"></a> ![Rescue! Set position - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_SetType.png) Rescue! Set position - Instances of Selected TB Type
 
 We know! Someone messed it up and now you cannot reset title blocks. Let's keep them for now. This tool sets the same position to all instances of selected title block to its position.
@@ -1074,6 +1138,8 @@ We know! Someone messed it up and now you cannot reset title blocks. Let's keep 
 How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and sets their position as selected. At the end you will be informed about the number of changes.
+
+![Rescue! Set position - Instances of Selected TB Type](https://drive.google.com/uc?export=view&1CA-QFoct0CaUpvlaazcs9ID7VdazHU11)  
 
 ## <a id="rescue!-set-position-all-title-blocks"></a> ![Rescue! Set position - All Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_SetAll.png) Rescue! Set position - All Title Blocks
 
@@ -1114,6 +1180,8 @@ Select exemplary legend or when started you will be prompted to do it by the too
 
 We will find all instances of it and adjust their positions on sheets.
 
+![Position of all instances of selected Legend](https://drive.google.com/uc?export=view&18yFmlostMzZbEkWGBb_kyT4nVoVsoDlr)  
+
 ## <a id="title-line-type-of-all-instances-of-selected-legend"></a> ![Title line type of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_TitleLineType.png) Title line type of all instances of selected Legend
 
 Sets the same title line type to all instances of selected legend.
@@ -1123,6 +1191,8 @@ How to use the tool:
 Select exemplary legend or when started you will be prompted to do it by the tool. 
 
 The tool will read its type and apply it to all instances of it.
+
+![Title line type of all instances of selected Legend](https://drive.google.com/uc?export=view&18z5EUZ5Wukx9tnaTTM4e1cwmtbf7JUri)  
 
 ## <a id="title-line-position-&-length-of-all-instances-of-selected-legend"></a> ![Title line position & length of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_TitleLinePosLen.png) Title line position & length of all instances of selected Legend
 
@@ -1134,6 +1204,8 @@ Select exemplary legend or when started you will be prompted to do it by the too
 
 Its position (according to the legend's left bottom corner) will be transfer to the rest of its instances.
 
+![Title line position & length of all instances of selected Legend](https://drive.google.com/uc?export=view&18zWmGJAcFYnKV0ykBo65iSgHfHnBvn22)  
+
 ## <a id="make-look-the-same-all-instances-of-selected-legends"></a> ![Make look THE SAME all instances of selected Legends](/images/Tools/Drafter/Icons/Legend_All.png) Make look THE SAME all instances of selected Legends
 
 Makes all instances of selected legend look the same and be in the same position.
@@ -1144,6 +1216,8 @@ Select exemplary legend or when started you will be prompted to do it by the too
 
 We will do the rest! 
 
+![Make look THE SAME all instances of selected Legends](https://drive.google.com/uc?export=view&196GzxLS99wfQHu8jB11gTTT3YQFCyZlQ)  
+
 ## <a id="legend-save-position-to-memory"></a> ![Legend - Save position to MEMORY](/images/Tools/Drafter/Icons/Legend_SaveMemory.png) Legend - Save position to MEMORY
 
 Saves position of selected legend to Memory.
@@ -1151,6 +1225,8 @@ Saves position of selected legend to Memory.
 How to use the tool:
 
 Click the button and pick one legend. Its settings will be saved in external file for further use.
+
+![Legend - Save position to MEMORY](https://drive.google.com/uc?export=view&196GzxLS99wfQHu8jB11gTTT3YQFCyZlQ)  
 
 ## <a id="legend-load-position-from-memory-to-selected"></a> ![Legend - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Legend_PositionFromMemory.png) Legend - Load position from MEMORY to Selected
 
@@ -1161,6 +1237,9 @@ How to use the tool:
 Select legends which you want to change, or when started you will be prompted to do it by the tool. 
 
 Their position on the sheet will be adjusted to position saved in the memory.
+
+![Legend - Load position from MEMORY to Selected](https://drive.google.com/uc?export=view&19mrtvW8gKKHwEks9SQZ5T18KE2pMp3Jl)  
+
   
   
 # <a id="schedules"></a> ![Schedules](/images/Tools/Drafter/Icons/Schedule_Button.png) Schedules  
