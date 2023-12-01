@@ -4,8 +4,9 @@ title: Title Lines
 permalink: /tools/drafter/titlelines
 ---
 
+
 ![Title Lines](/images/Tools/Drafter/drafterTL.jpg)  
-[back to List](/Drafter.md/#list)  
+
 
 # <a id="title-lines"></a> ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) Title Lines  
   
@@ -21,6 +22,8 @@ permalink: /tools/drafter/titlelines
 ![Set TL position and length as in MEMORY - Selected Viewports](/images/Tools/Drafter/Icons/TitleLinePositionFromMemory.png) [1.10. Set TL position and length as in MEMORY - Selected Viewports](#set-tl-position-and-length-as-in-memory-selected-viewports)  
 ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)  
   
+
+[back to List](/Drafter.md/#list)  
 
 ## <a id="align-tl-to-the-point"></a> ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point
 
@@ -139,6 +142,7 @@ Select sheets in a project browser and use the tool. We will do the rest.
 
 ![Set TL position and length as in MEMORY - Selected Sheets](https://drive.google.com/uc?export=view&id=166IWZAmIkbRrgoGg5LVHJCYpAH6IFdaH)  
 
-[Further to Project Browser](/DrProjectBrowser.md/#project-browser)  
+
+[Further to 2.Project Browser](/DrProjectBrowser.md/#project-browser)  
 
 [Back to List](/Drafter.md/#list)  

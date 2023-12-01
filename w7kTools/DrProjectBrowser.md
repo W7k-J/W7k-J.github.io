@@ -4,12 +4,11 @@ title: Project Browser
 permalink: /tools/drafter/projectbrowser
 ---
 
+
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
-[back to List](/Drafter.md/#list)  
+
 
 # <a id="project-browser"></a> ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) Project Browser  
-  
-### ![Project Browser](/images/Tools/Drafter/Icons/ViewName.png) [2. Project Browser](#project-browser)  
   
 ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixblue.png)[2.1. Sheet Number - Add prefix](#sheet-number-add-prefix)  
 ![Sheet Number - Add suffix](/images/Tools/Drafter/Icons/suffixBlue.png)[2.2. Sheet Number - Add suffix](#sheet-number-add-suffix)  
@@ -24,6 +23,8 @@ permalink: /tools/drafter/projectbrowser
 ![Names - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png)[2.11. Names - To UPPER CASE](#names-to-upper-case)  
 ![Names - To Title Case](/images/Tools/Drafter/Icons/TextToTitle.png)[2.12. Names - To Title Case](#names-to-title-case)  
 ![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png)[2.13. Names - Find and Replace](#names-find-and-replace)  
+
+[back to List](/Drafter.md/#list)  
 
 ## <a id="sheet-number-add-prefix"></a> ![Sheet Number - Add prefix](/images/Tools/Drafter/Icons/prefixblue.png) Sheet Number - Add prefix 
 
@@ -154,5 +155,8 @@ How to use the tool:
 Select some views or sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
 ![Names - Find and Replace](https://drive.google.com/uc?export=view&id=16HqOgCtKZZnLAJJSjSwIZR6Hyb2Bqgq0)  
+
+
+[Go to 3.Vertical Views](/DrVerticalViews.md/#vertical-views)  
 
 [Back to List](/Drafter.md/#list)  
