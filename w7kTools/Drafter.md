@@ -12,7 +12,10 @@ Drafter is intended to help you with all things connected with production of dra
 
 For now, there are 180 scripts helping you to work faster and more precise. And this project will grow with time! I already have a list of almost 300 scripts I want to include in it.
 
-All the tools are easy to use and master. Using only one of 180+ scripts will significantly improve your work! Also, I made this tool as cheap as possible, so everyone can afford it and save some time!
+All the tools are easy to use and master. I provided the small GIF animation (showing how the script works) to almost all the buttons. Just click the links below (under the video). There are a lot of buttons in each category so it might take some time to load them to your browser.
+  
+Using only one of 180+ scripts will significantly improve your work! Also, I made this tool as cheap as possible, so everyone can afford it and save some time!
+
 
 # Video
 
