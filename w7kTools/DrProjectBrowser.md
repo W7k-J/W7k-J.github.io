@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Title Lines
-permalink: /tools/drafter/titlelines
+title: Project Browser
+permalink: /tools/drafter/projectbrowser
 ---
 
 ![Project Browser](/images/Tools/Drafter/drafterPB.jpg)  
