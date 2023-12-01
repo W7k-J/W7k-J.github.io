@@ -98,8 +98,10 @@ How to use the tool:
 Select tags, or when started, you will be prompted to do it by the tool. 
 
 After that select the point.
-  
 
+
+
+[Go back to 15.Tags Position](/DrTagsPosition.md/#tags-position)  
 
 [Go to 17.Dimensions](/DrDimensions.md/#dimensions)  
 

@@ -195,6 +195,7 @@ After that you will be asked to choose distance in provided menu.
 
 
 
+[Go back to 14.Tags](/DrTags.md/#tags)  
 
 [Go to 16.Tags Leader](/DrTagsLeader.md/#tags-leaders)  
 

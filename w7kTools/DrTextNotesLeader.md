@@ -143,9 +143,11 @@ Sets leader settings from memory starting from the current end point.
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
-  
 
 
-[Go to 13.Tags](/DrTags.md/#tags)  
+
+[Go back to 12.Text Notes Position](/DrTextNotesPosition.md/#text-notes-position)  
+
+[Go to 14.Tags](/DrTags.md/#tags)  
 
 [Back to List](/Drafter.md/#list)  

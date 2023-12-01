@@ -171,6 +171,9 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 After that you will be asked to choose distances in provided menu. 
 
 
-[Go to 13. - 15.Tags](/DrTags.md/#tags)  
+
+[Go back to 11.Text-Notes](/DrTextNotes.md/#text-notes)  
+
+[Go to 13.Text Notes - Leader](/DrTextNotesLeader.md/#text-notes-leader)  
 
 [Back to List](/Drafter.md/#list)  

@@ -33,6 +33,9 @@ How to use the tool:
 Select some walls, or when started, you will be prompted to do it by the tool.
 
 
+
+[Go back to 17.Dimensions](/DrDimensions.md/#dimensions)  
+
 [Go to 19.Various](/DrVarious.md/#various)  
 
 [Back to List](/Drafter.md/#list)  

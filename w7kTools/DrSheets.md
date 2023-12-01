@@ -147,8 +147,11 @@ How to use the tool:
 Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
 
 ![Generic Annotations - Load position from MEMORY to Selected](https://drive.google.com/uc?export=view&1B9-dX_FWOeyMTEgz3G1Ri12GlFK2HuVd)  
-  
-  
+
+
+
+[Go back to 4.Viewports](/DrViewports.md/#viewports)  
+
 [Go to 6.Scopeboxes](/DrScopeboxes.md/#scope-boxes)  
 
 [Back to List](/Drafter.md/#list)  

@@ -44,6 +44,10 @@ How to use the tool:
 
 Simply click the tool and we will try to find all empty material tags and delete them.  
 
-[Go to 14.Tags Position](/DrTagsPosition.md/#tags-position)  
+
+
+[Go to 13.Text Notes - Leader](/DrTextNotesLeader.md/#text-notes-leader)  
+
+[Go to 15.Tags Position](/DrTagsPosition.md/#tags-position)  
 
 [Back to List](/Drafter.md/#list)  

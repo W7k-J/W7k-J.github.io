@@ -225,11 +225,10 @@ How to use the tool:
 Press the button and the tool will hide columns we made visible and reset their colour to black.
 
 ![Reset visibility of hidden columns - All](https://drive.google.com/uc?export=view&1Ad3h-6m1OsvYW9Td0qNlhdkZnT55mpPm)  
-  
-  
 
 
 
+[Go back to 8.Legends](/DrLegends.md/#legends)  
 
 [Go to 10.Revisions](/DrRevisions.md/#revisions)  
 

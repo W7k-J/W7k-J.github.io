@@ -71,6 +71,8 @@ Select some views or sheets in a project browser and press the button. The tool 
 
 
 
-[Go to 11. - 13.Text-Notes](/DrTextNotes.md/#text-notes)  
+[Go back to 9.Schedules](/DrShedules.md/#schedules)  
+
+[Go to 11.Text-Notes](/DrTextNotes.md/#text-notes)  
 
 [Back to List](/Drafter.md/#list)  

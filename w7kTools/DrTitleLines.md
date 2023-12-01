@@ -143,6 +143,7 @@ Select sheets in a project browser and use the tool. We will do the rest.
 ![Set TL position and length as in MEMORY - Selected Sheets](https://drive.google.com/uc?export=view&id=166IWZAmIkbRrgoGg5LVHJCYpAH6IFdaH)  
 
 
-[Further to 2.Project Browser](/DrProjectBrowser.md/#project-browser)  
+
+[Go to 2.Project Browser](/DrProjectBrowser.md/#project-browser)  
 
 [Back to List](/Drafter.md/#list)  

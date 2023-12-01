@@ -90,7 +90,9 @@ Their position on the sheet will be adjusted to position saved in the memory.
 
 ![Legend - Load position from MEMORY to Selected](https://drive.google.com/uc?export=view&19mrtvW8gKKHwEks9SQZ5T18KE2pMp3Jl)  
 
-  
+
+
+[Go back to 7.Title Blocks](/DrTitleBlocks.md/#title-blocks)  
 
 [Go to 9.Schedules](/DrShedules.md/#schedules)  
 

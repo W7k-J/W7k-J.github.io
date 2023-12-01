@@ -157,6 +157,9 @@ Select some views or sheets in a project browser and press the button. You will 
 ![Names - Find and Replace](https://drive.google.com/uc?export=view&id=16HqOgCtKZZnLAJJSjSwIZR6Hyb2Bqgq0)  
 
 
+
+[Go back to 1.TitleLines](/DrTitleLines.md/#title-lines)  
+
 [Go to 3.Vertical Views](/DrVerticalViews.md/#vertical-views)  
 
 [Back to List](/Drafter.md/#list)  

@@ -26,6 +26,10 @@ You don't have to unpin the viewports - we will do it automatically.
 
 ![Aling plans on the sheets with the same scopebox](https://drive.google.com/uc?export=view&1APUTsCmMV_8iH3OsN0W37KSoRdqFnKcd)  
 
+
+
+[Go back to 5.Sheets](/DrSheets.md/#sheets)  
+
 [Go to 7.Title Blocks](/DrTitleBlocks.md/#title-blocks)  
 
 [Back to List](/Drafter.md/#list)  

@@ -87,11 +87,7 @@ Select title blocks which you want to change, or when started you will be prompt
 
 
 
-
-
-
-
-
+[Go back to 6.Scopeboxes](/DrScopeboxes.md/#scope-boxes)  
 
 [Go to 8.Legends](/DrLegends.md/#legends)  
 
