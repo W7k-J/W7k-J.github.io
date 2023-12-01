@@ -146,4 +146,4 @@ Select sheets in a project browser and use the tool. We will do the rest.
 
 [Go to 2.Project Browser](/DrProjectBrowser.md/#project-browser)  
 
-[Back to List](/Drafter.md/#list)  
+[Back to List](/Drafter.md/#title-lines)  
