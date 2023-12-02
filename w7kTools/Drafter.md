@@ -298,14 +298,14 @@ Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024.
 ## Known Problems  
 [back to LIST](#list)  
 
-The number of tools makes it hard to make sure that all of them work 100% of times. So please don't try to break them and report problems to me! Together we can save even more time for you!
+The number of tools makes it hard to make sure that all of them work 100% of times. So please don't try to break them and report problems to me! Together we can save even more time for you!  
 
 ### Problems on To-Do List:
 
 Spatial Elements Tag (room tags, area tags etc) are not supported by Tag tools - WIP  
 Tags and Text notes - alignment will not work as intended if you rotate the north - I already made it work on non-perpendicular sections and elevations, but still not on plans!  
-Tags nudging - for 2020 - 2022 - Sorry no nudging for these versions ;) WIP
-Tags and Text notes with multiple references - tag tools might not work for them as intended - WIP
+Tags nudging - for 2020 - 2022 - Sorry no nudging for these versions ;) WIP  
+Tags and Text notes with multiple references - tag tools might not work for them as intended - WIP  
 Tags and Text notes - copying leader settings from memory might not work on sections and elevations as intended.  
 
 ### Problems not on To-Do List:
