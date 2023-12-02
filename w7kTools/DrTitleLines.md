@@ -24,6 +24,7 @@ permalink: /tools/drafter/titlelines
   
 
 [back to List](/Drafter.md/#list)  
+[Back to List](/Drafter.md/#title-lines-1-title-lines)  
 
 ## <a id="align-tl-to-the-point"></a> ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point
 
@@ -146,4 +147,4 @@ Select sheets in a project browser and use the tool. We will do the rest.
 
 [Go to 2.Project Browser](/DrProjectBrowser.md/#project-browser)  
 
-[Back to List](/Drafter.md/#1.-title-lines)  
+[Back to List](/Drafter.md/#title-lines-1-title-lines)  
