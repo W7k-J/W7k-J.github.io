@@ -23,6 +23,8 @@ How to use the tool:
 
 Select text elements which you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.
 
+![Image: Move Text Element to the point](https://drive.google.com/uc?export=view&id=18IsFi08GkKjVSFLUQtp-u0BTjaO-Le9k)  
+
 ## <a id="draw-lines-at-(0,-0)"></a> ![Draw lines at (0, 0)](/images/Tools/Drafter/Icons/FE_drawzero.png) Draw lines at (0, 0)
 
 Draws lines at point (0, 0)
@@ -31,7 +33,10 @@ How to use the tool:
 
 Press the button.
 
-## <a id="set-width-of-selected-text-elements-with-menu"></a> ![Set width of selected Text Elements with MENU ](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected Text Elements with MENU 
+![Image: Draw lines at (0, 0)](https://drive.google.com/uc?export=view&id=18N0gezxzM3rP9QSlc_4GetkJSQbdjphk)  
+
+
+## <a id="set-width-of-selected-text-elements-with-menu"></a> ![Set width of selected Text Elements with MENU](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected Text Elements with MENU 
 
 Sets the width of selected text elements to the width chosen in provided menu. 
 
@@ -39,6 +44,7 @@ How to use the tool:
 
 Select text elements or when started you will be prompted to do it by the tool. After that you will be asked to provide us with desire width of your text elements.
 
+![Image: Set width of selected Text Elements with MENU](https://drive.google.com/uc?export=view&id=18tjHsmqUPw-LQT2K74TsSWoXpcc8hnMp)  
 
 
 [Go back to 19.Various](/DrVarious.md/#various)  
