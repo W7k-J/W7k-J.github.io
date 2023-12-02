@@ -211,3 +211,13 @@ After selection you will be prompted to pick the 2 points. Start with top left.
 [Go to 5.Sheets](/DrSheets.md/#sheets)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

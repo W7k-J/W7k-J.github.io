@@ -106,3 +106,13 @@ After that select the point.
 [Go to 17.Dimensions](/DrDimensions.md/#dimensions)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

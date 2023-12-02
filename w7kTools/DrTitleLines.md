@@ -23,8 +23,7 @@ permalink: /tools/drafter/titlelines
 ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) [10.11. Set TL position and length as in MEMORY - Selected Sheets](#set-tl-position-and-length-as-in-memory-selected-sheets)  
   
 
-[back to List](/Drafter.md/#list)  
-[Back to List](/Drafter.md/#title-lines-1-title-lines)  
+[Back to List](/Drafter.md/#list)  
 
 ## <a id="align-tl-to-the-point"></a> ![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) Align TL to the point
 
@@ -148,3 +147,13 @@ Select sheets in a project browser and use the tool. We will do the rest.
 [Go to 2.Project Browser](/DrProjectBrowser.md/#project-browser)  
 
 [Back to List](/Drafter.md/#title-lines-1-title-lines)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

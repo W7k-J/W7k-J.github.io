@@ -92,3 +92,13 @@ Select title blocks which you want to change, or when started you will be prompt
 [Go to 8.Legends](/DrLegends.md/#legends)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

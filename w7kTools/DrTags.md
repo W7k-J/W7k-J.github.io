@@ -51,3 +51,13 @@ Simply click the tool and we will try to find all empty material tags and delete
 [Go to 15.Tags Position](/DrTagsPosition.md/#tags-position)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

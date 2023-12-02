@@ -57,3 +57,13 @@ Start the tool. We will check the project for all dimensions with value "0". You
 [Go to 18.Regions](/DrRegions.md/#regions)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

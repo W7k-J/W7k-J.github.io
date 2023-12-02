@@ -233,3 +233,13 @@ Press the button and the tool will hide columns we made visible and reset their 
 [Go to 10.Revisions](/DrRevisions.md/#revisions)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

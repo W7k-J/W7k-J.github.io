@@ -33,3 +33,13 @@ You don't have to unpin the viewports - we will do it automatically.
 [Go to 7.Title Blocks](/DrTitleBlocks.md/#title-blocks)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
+

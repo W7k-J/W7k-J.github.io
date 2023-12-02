@@ -35,3 +35,12 @@ We recommened you to set 'SWAP' shortcut for this button.
 [Go to 20.Family Editor](/DrFamilyEditor.md/#family-editor)  
 
 [Back to List](/Drafter.md/#list)  
+  
+  
+<br>
+<div class="backToTools">
+    <a href="https://w7k.pl/tools/">Go Back to W7k Tools</a>
+</div>
+<div class="terms">
+    <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
+</div>
