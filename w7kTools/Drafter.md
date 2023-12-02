@@ -14,7 +14,7 @@ For now, there are 180 scripts helping you to work faster and more precise. And 
 
 All the tools are easy to use and master. I provided the small GIF animation (showing how the script works) to almost all the buttons. Just click the links below (under the video). There are a lot of buttons in each category so it might take some time to load them to your browser.
   
-Using only one of 180+ scripts will significantly improve your work! Also, I made this tool as cheap as possible, so everyone can afford it and save some time!
+Using only one of 180+ scripts will significantly improve your work! Also, I made this tool as cheap as possible, so everyone can afford it and save some time!  
 
 
 # Video
@@ -124,9 +124,9 @@ Using only one of 180+ scripts will significantly improve your work! Also, I mad
   
 ![Reset position to default - Selected TB](/images/Tools/Drafter/Icons/TitleBlock_ResetOne.png) [7.1. Reset position to default - Selected TB ](/DrTitleBlocks.md/#reset-position-to-default-selected-tb)  
 ![Reset position to default - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_ResetType.png) [7.2. Reset position to default - Instances of Selected TB Type](/DrTitleBlocks.md/#reset-position-to-default-instances-of-selected-tb-type)  
-![Reset position to default - All TB](/images/Tools/Drafter/Icons/TitleBlock_ResetAll.png) [7.3. Reset position to default - All TB](/DrTitleBlocks.md/#reset-position-to-default-all-tb)   
+![Reset position to default - All TB](/images/Tools/Drafter/Icons/TitleBlock_ResetAll.png) [7.3. Reset position to default - All TB](/DrTitleBlocks.md/#reset-position-to-default-all-tb)  
 ![Rescue! Set position - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_SetType.png)[7.4. Rescue! Set position - Instances of Selected TB Type](/DrTitleBlocks.md/#rescue!-set-position-instances-of-selected-tb-type)  
-![Rescue! Set position - All Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_SetAll.png) [7.5. Rescue! Set position - All Title Blocks](/DrTitleBlocks.md/#rescue!-set-position-all-title-blocks)   
+![Rescue! Set position - All Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_SetAll.png) [7.5. Rescue! Set position - All Title Blocks](/DrTitleBlocks.md/#rescue!-set-position-all-title-blocks)  
 ![TB - Save position to MEMORY](/images/Tools/Drafter/Icons/TitleBlock_Memory.png) [7.6. TB - Save position to MEMORY](/DrTitleBlocks.md/#tb-save-position-to-memory)  
 ![TB - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/TitleBlock_FromMemory.png) [7.7. TB - Load position from MEMORY to Selected](/DrTitleBlocks.md/#tb-load-position-from-memory-to-selected)  
   
@@ -293,7 +293,7 @@ Using only one of 180+ scripts will significantly improve your work! Also, I mad
 
 ## Versions
 [back to LIST](#list)  
-Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024. 
+Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024.  
 
 ## Known Problems  
 [back to LIST](#list)  
