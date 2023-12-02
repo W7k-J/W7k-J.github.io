@@ -26,7 +26,7 @@ How to use the tool:
 
 Press the button. 
 
-![Save revision visibility to MEMORY](https://drive.google.com/uc?export=view&19FsLN1_MoZPE2O9_VXbxmx29L1P9tklL)  
+![Image: Save revision visibility to MEMORY](https://drive.google.com/uc?export=view&id=19FsLN1_MoZPE2O9_VXbxmx29L1P9tklL)  
 
 ## <a id="restore-revision-visibility-from-memory"></a> ![Restore revision visibility from MEMORY](/images/Tools/Drafter/Icons/RevisionRestoreVisibility.png) Restore revision visibility from MEMORY
 
@@ -36,7 +36,7 @@ How to use the tool:
 
 Press the button. The tool will read settings saved in memory and restore them even if you add some new revisions.
 
-![Restore revision visibility from MEMORY](https://drive.google.com/uc?export=view&19Er9TRvRTeF7G4Rx-NGunbku9vvNWV39)  
+![Image: Restore revision visibility from MEMORY](https://drive.google.com/uc?export=view&id=19Er9TRvRTeF7G4Rx-NGunbku9vvNWV39)  
 
 ## <a id="show-all-revision-clouds-and-tags"></a> ![Show all revision clouds and tags](/images/Tools/Drafter/Icons/RevisionVisibility.png) Show all revision clouds and tags
 
@@ -46,7 +46,7 @@ How to use the tool:
 
 Press the button. The tool will save current setting in memory.
 
-![Show all revision clouds and tags](https://drive.google.com/uc?export=view&1AC1dz6ptTy29Jr1If8KDfTuQlMkHkjGG)  
+![Image: Show all revision clouds and tags](https://drive.google.com/uc?export=view&id=1AC1dz6ptTy29Jr1If8KDfTuQlMkHkjGG)  
 
 
 ## <a id="delete-clouds-active"></a> ![Delete clouds - Active](/images/Tools/Drafter/Icons/RevisionActiveView.png) Delete clouds - Active
@@ -57,7 +57,7 @@ How to use the tool:
 
 Press the button. The tool will delete all revisions from active view or active sheet. If you select a sheet, the tool will give you a possibility to gather all the viewports on it and delete revisions from them too. 
  
-![Delete clouds - Active](https://drive.google.com/uc?export=view&19Pv0auz1a6xLwStmMPgCxxHHJD4_qKYp)  
+![Image: Delete clouds - Active](https://drive.google.com/uc?export=view&id=19Pv0auz1a6xLwStmMPgCxxHHJD4_qKYp)  
 
 ## <a id="delete-clouds-selected-views-or-sheets"></a> ![Delete clouds - Selected Views or Sheets](/images/Tools/Drafter/Icons/RevisionViews.png) Delete clouds - Selected Views or Sheets
 
@@ -67,7 +67,7 @@ How to use the tool:
 
 Select some views or sheets in a project browser and press the button. The tool will delete all revisions from them. If you select a sheet, the tool will give you a possibility to gather all the viewports on it and delete revisions from them too. 
 
-![Delete clouds - Selected Views or Sheets](https://drive.google.com/uc?export=view&1A-Olh-YWrNGJD2eRMkmVLrL3HU6vjiHt)  
+![Image: Delete clouds - Selected Views or Sheets](https://drive.google.com/uc?export=view&id=1A-Olh-YWrNGJD2eRMkmVLrL3HU6vjiHt)  
 
 
 

@@ -40,6 +40,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
+![Image: Move selected Text Notes to the point](https://drive.google.com/uc?export=view&id=1DkjNogqhkNGoix6JTnKdV8Ugz5wsyVJ6)  
+
 ## <a id="move-selected-text-notes-by-2-points"></a> ![Move selected Text Notes by 2 points](/images/Tools/Drafter/Icons/TextNotes_MoveByTwo.png) Move selected Text Notes by 2 points
 
 Moves selected Text Notes by the vector created by 2 points.
@@ -50,6 +52,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to select 2 points - base point and direction.
 
+![Image: Move selected Text Notes by 2 points](https://drive.google.com/uc?export=view&id=1DnGGb0FhgiYZyKT9jruFQoZ210YnV0jc)  
+
 ## <a id="swap-position-of-2-text-notes"></a> ![Swap position of 2 Text Notes](/images/Tools/Drafter/Icons/TextNotes_SWAP.png) Swap position of 2 Text Notes
 
 Swap positions of 2 text notes - YOU CAN ALSO USE THE SWAP TOOL FOR THAT!
@@ -57,6 +61,8 @@ Swap positions of 2 text notes - YOU CAN ALSO USE THE SWAP TOOL FOR THAT!
 How to use the tool:
 
 Select 2 text notes, or when started, you will be prompted to do it by the tool.
+
+![Image: Swap position of 2 Text Notes](https://drive.google.com/uc?export=view&id=1DA1NqqvrWIlwtutb4rfI9pRMj-pRmPEW)  
 
 ## <a id="align-selected-text-notes-in x-axis"></a> ![Align selected Text Notes in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Text Notes in X-Axis
 
@@ -68,6 +74,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
+![Image: Align selected Text Notes in X-Axis](https://drive.google.com/uc?export=view&id=1DG8Yj_A_iCveRUfHdL6mSUoAPrzFa0CP)  
+
 ## <a id="align-selected-text-notes-in-y-axis"></a> ![Align selected Text Notes in Y-Axis](/images/Tools/Drafter/Icons/TitleLineAlignY.png) Align selected Text Notes in Y-Axis
 
 Aligns selected text notes in Y-Axis to selected point.
@@ -77,6 +85,8 @@ How to use the tool:
 Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
+
+![Image: Align selected Text Notes in Y-Axis](https://drive.google.com/uc?export=view&id=1D_v8CyI77fN_ShToY18opivg0RrZTPYl)  
 
 ## <a id="alignment-change-and-adjust-text-notes-(horizontal)"></a> ![Alignment - Change and adjust Text Notes (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Text Notes (Horizontal)
 
@@ -88,6 +98,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
+![Image: Alignment - Change and adjust Text Notes (Horizontal)](https://drive.google.com/uc?export=view&id=1EBdeFabpgoWSSK6l4CjaFUmui0KL2HB3)  
+
 ## <a id="alignment-change-and-adjust-text-notes-(vertical)"></a> ![Alignment - Change and adjust Text Notes (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Text Notes (Vertical)
 
 Changes alignments of selected text notes. Please use only with vertical text notes. 
@@ -98,6 +110,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
+![Image: Alignment - Change and adjust Text Notes (Vertical)](https://drive.google.com/uc?export=view&id=1Dr1-DXs8vgfpVOezlsa4y-9c_nIpitGE)  
+
 ## <a id="rotation-make-tn-horizontal"></a> ![Rotation - Make TN Horizontal](/images/Tools/Drafter/Icons/TextNotes_Rotation_Horizontal.png) Rotation - Make TN Horizontal 
 
 Changes the rotation of selected texts notes to make them horizontal. 
@@ -106,13 +120,17 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool.
 
-## <a id="rotation-make-tn-vertical"></a> ![Rotation - Make TN Vertical ](/images/Tools/Drafter/Icons/TextNotes_Rotation_Vertical.png) Rotation - Make TN Vertical 
+![Image: Rotation - Make TN Horizontal](https://drive.google.com/uc?export=view&id=1Dt8CfKyXKxjNMTOu4mUiqa1UIN3il8er)  
+
+## <a id="rotation-make-tn-vertical"></a> ![Rotation - Make TN Vertical](/images/Tools/Drafter/Icons/TextNotes_Rotation_Vertical.png) Rotation - Make TN Vertical 
 
 Changes the rotation of selected texts notes to make them vertical. 
 
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool.
+
+![Image: Rotation - Make TN Vertical](https://drive.google.com/uc?export=view&id=1EC28P0dUaZ0y7541o8QOf2F94sHQ_Rzc)  
 
 ## <a id="rotation-set-tn-with-menu"></a> ![Rotation - Set TN with Menu](/images/Tools/Drafter/Icons/TextNotes_Rotation.png) Rotation - Set TN with Menu 
 
@@ -124,6 +142,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose rotation in provided menu. 
 
+![Image: Rotation - Set TN with Menu](https://drive.google.com/uc?export=view&id=1EDHM68CmGP9n7_BV4YG9rvZjTWAKLv6H)  
+
 ## <a id="distances-(y-axis)-between-selected-text-notes-(horizontal)"></a> ![Distances (Y-Axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Dist2H.png) Distances (Y-Axis) between selected Text Notes (Horizontal)
 
 Orders text notes and sets the same distances (Y-Axis).
@@ -133,6 +153,8 @@ How to use the tool:
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
+
+![Image: Distances (Y-Axis) between selected Text Notes (Horizontal)](https://drive.google.com/uc?export=view&id=1EMYgHJgFItE47GZUh2RFj-sDVJTfWNz4)  
 
 ## <a id="distances-(x-axis)-between-selected-text-notes-(vertical)"></a> ![Distances (X-Axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Dist2V.png) Distances (X-Axis) between selected Text Notes (Vertical)
 
@@ -144,6 +166,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
 
+![Image: Distances (X-Axis) between selected Text Notes (Vertical)](https://drive.google.com/uc?export=view&id=1EWCoif3kYV3JQtGMp4PE6EE9tJskxB0o)  
+
 ## <a id="set-average-distance-(y-axis)-between-selected-text-notes-(horizontal)"></a> ![Set average distance (Y-axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_DistAverageH.png) Set average distance (Y-axis) between selected Text Notes (Horizontal)
 
 Orders text notes and sets the average distances between them (Y-axis).
@@ -152,6 +176,8 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
+![Image: Set average distance (Y-axis) between selected Text Notes (Horizontal)](https://drive.google.com/uc?export=view&id=1EWO1aZV-00OC9HzLx8-oXVJ2aSz6VMiz)  
+
 ## <a id="set-average-distance-(x-axis)-between-selected-text-notes-(vertical)"></a> ![Set average distance (X-axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_DistAverageV.png) Set average distance (X-axis) between selected Text Notes (Vertical)
 
 Orders text notes and sets the average distances between them (X-axis).
@@ -159,6 +185,8 @@ Orders text notes and sets the average distances between them (X-axis).
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
+
+![Image: Set average distance (X-axis) between selected Text Notes (Vertical)](https://drive.google.com/uc?export=view&id=1EsMlinFmeP5ioBWquo_EaR7rTouCrSxk)  
 
 ## <a id="set-distance-between-selected-text-notes-with-menu"></a> ![Set distance between selected Text Notes with Menu](/images/Tools/Drafter/Icons/TextNotes_DistMenu.png) Set distance between selected Text Notes with Menu
 
@@ -170,6 +198,7 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose distances in provided menu. 
 
+![Image: Set distance between selected Text Notes with Menu](https://drive.google.com/uc?export=view&id=1EbFlV2NjspswFDELJl1kANCtdjNztIiH)  
 
 
 [Go back to 11.Text-Notes](/DrTextNotes.md/#text-notes)  

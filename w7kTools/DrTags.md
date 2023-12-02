@@ -28,6 +28,8 @@ How to use the tool:
 
 Simply click the tool and we will try to find all empty material tags. 
 
+![Image: Material Tags - List empty](https://drive.google.com/uc?export=view&id=1AxXl-a9nB0w8ji8VJm4NqfAdeAZQktB2)  
+
 ## <a id="material-tags-nudge-all-empty"></a> ![Material Tags - Nudge all empty](/images/Tools/Drafter/Icons/Tags_Empty_Nudge.png) Material Tags - Nudge all empty
 
 Nudges all empty tags. 
@@ -44,7 +46,7 @@ How to use the tool:
 
 Simply click the tool and we will try to find all empty material tags and delete them.  
 
-
+![Image: Material Tags - Delete all empty](https://drive.google.com/uc?export=view&id=1BqUfITkNVYGmsopSH-El5E2gsEhTwPOY)  
 
 [Go to 13.Text Notes - Leader](/DrTextNotesLeader.md/#text-notes-leader)  
 

@@ -24,7 +24,7 @@ How to use the tool:
 Select exemplary viewport or when started you will be prompted to do it by the tool.
 You don't have to unpin the viewports - we will do it automatically. 
 
-![Aling plans on the sheets with the same scopebox](https://drive.google.com/uc?export=view&1APUTsCmMV_8iH3OsN0W37KSoRdqFnKcd)  
+![Image: Aling plans on the sheets with the same scopebox](https://drive.google.com/uc?export=view&id=1APUTsCmMV_8iH3OsN0W37KSoRdqFnKcd)  
 
 
 

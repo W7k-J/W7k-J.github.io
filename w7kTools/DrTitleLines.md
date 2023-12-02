@@ -35,7 +35,7 @@ Select viewports which title lines you want to move, or when started you will be
   
 Press Esc to exit.  
 
-![Align TL to the point](https://drive.google.com/uc?export=view&id=14VZRTJ6JZ7y_Zo358K1vpEUHI9UPitpQ)
+![Image: Align TL to the point](https://drive.google.com/uc?export=view&id=14VZRTJ6JZ7y_Zo358K1vpEUHI9UPitpQ)
 
 ## <a id="align-tl-in-the-x-axis"></a> ![Align TL in the X axis](/images/Tools/Drafter/Icons/AlignX.png) Align TL in the X axis
 
@@ -47,7 +47,7 @@ Select viewports which title lines you want to alter, or when started you will b
 
 Press Esc to exit.
 
-![Align TL in the X axis](https://drive.google.com/uc?export=view&id=14aeYo5Ikn0X8JvbcKwNfauHBc-NVbuz8)  
+![Image: Align TL in the X axis](https://drive.google.com/uc?export=view&id=14aeYo5Ikn0X8JvbcKwNfauHBc-NVbuz8)  
 
 
 ## <a id="align-tl-in-the-y-axis"></a> ![Align TL in the Y axis](/images/Tools/Drafter/Icons/AlignY.png) Align TL in the Y axis
@@ -60,7 +60,7 @@ Select viewports which title lines you want to alter, or when started you will b
 
 Press Esc to exit. 
 
-![Align TL in the Y axis](https://drive.google.com/uc?export=view&id=14UZ-w0b3Q-dE5IPtI6W42eS_AB15ZiA3)  
+![Image: Align TL in the Y axis](https://drive.google.com/uc?export=view&id=14UZ-w0b3Q-dE5IPtI6W42eS_AB15ZiA3)  
 
 ## <a id="set-length-of-selected-tl-as-per-picked-viewport"></a> ![Set length of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLineLengthAsView.png) Set length of selected TL as per PICKED Viewport
 
@@ -70,7 +70,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to pick the exemplary viewport, from which we will read the length. 
 
-![Set length of selected TL as per PICKED Viewport](https://drive.google.com/uc?export=view&id=14boCiU_Uzlf3lLC-eBBaFsoQAgQzQrpZ)  
+![Image: Set length of selected TL as per PICKED Viewport](https://drive.google.com/uc?export=view&id=14boCiU_Uzlf3lLC-eBBaFsoQAgQzQrpZ)  
 
 ## <a id="set-length-of-selected-tl-with-menu"></a> ![Set length of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLineLengthMenu.png) Set length of selected TL with MENU
 
@@ -80,7 +80,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to specify the length of them with provided menu.
 
-![Set length of selected TL with MENU](https://drive.google.com/uc?export=view&id=14szenFVkWfMzyh9piU_Peet-vmJ-Oibo)  
+![Image: Set length of selected TL with MENU](https://drive.google.com/uc?export=view&id=14szenFVkWfMzyh9piU_Peet-vmJ-Oibo)  
 
 ## <a id="set-positions-of-selected-tl-as-per-picked-viewport"></a> ![Set positions of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLinePositionAsView.png) Set positions of selected TL as per PICKED Viewport
 
@@ -90,7 +90,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to pick the exemplary viewport. We will read the relative offset from its left bottom corner. 
 
-![Set positions of selected TL as per PICKED Viewport](https://drive.google.com/uc?export=view&id=14s3o-WkawB1QFQ9o8sOB8V1wMiRrCkmw)  
+![Image: Set positions of selected TL as per PICKED Viewport](https://drive.google.com/uc?export=view&id=14s3o-WkawB1QFQ9o8sOB8V1wMiRrCkmw)  
 
 ## <a id="set-positions-of-selected-tl-with-menu"></a> ![Set positions of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLinePositionFromLeftCorner.png) Set positions of selected TL with MENU
 
@@ -100,7 +100,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. After that, you just need to specify the offsets in provided menu.
 
-![Set positions of selected TL with MENU](https://drive.google.com/uc?export=view&id=14juj6z5b8TFmitHPF6iIYcB_xKqK2uBX)  
+![Image: Set positions of selected TL with MENU](https://drive.google.com/uc?export=view&id=14juj6z5b8TFmitHPF6iIYcB_xKqK2uBX)  
 
 ## <a id="save-to-memory-tl-position-and-length"></a> ![Save To MEMORY - TL position and length](/images/Tools/Drafter/Icons/TitleLinePositionToMemory.png) Save To MEMORY - TL position and length 
 
@@ -110,7 +110,7 @@ How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
 
-![Save To MEMORY - TL position and length](https://drive.google.com/uc?export=view&id=16D3mZBIBeNlTKtWa0F2knvWBPTyJtGaQ)  
+![Image: Save To MEMORY - TL position and length](https://drive.google.com/uc?export=view&id=16D3mZBIBeNlTKtWa0F2knvWBPTyJtGaQ)  
 
 ## <a id="set-tl-position-and-length-as-in-memory-active-sheet"></a> ![Set TL position and length as in MEMORY - Active sheet](/images/Tools/Drafter/Icons/TitleLinePositionFromMemoryActiveSheet.png) Set TL position and length as in MEMORY - Active sheet
 
@@ -120,7 +120,7 @@ How to use the tool:
 
 Go to the sheet and use the tool. We will do the rest.
 
-![Set TL position and length as in MEMORY - Active sheet](https://drive.google.com/uc?export=view&id=15GrObIfvd9wxoeRrO-Y56K5s0Ba8jGMr)  
+![Image: Set TL position and length as in MEMORY - Active sheet](https://drive.google.com/uc?export=view&id=15GrObIfvd9wxoeRrO-Y56K5s0Ba8jGMr)  
 
 ## <a id="set-tl-position-and-length-as-in-memory-selected-viewports"></a> ![Set TL position and length as in MEMORY - Selected Viewports](/images/Tools/Drafter/Icons/TitleLinePositionFromMemory.png) Set TL position and length as in MEMORY - Selected Viewports
 
@@ -130,7 +130,7 @@ How to use the tool:
 
 Select viewports which title lines you want to change, or when started you will be prompted to do it by the tool. We will do the rest.
 
-![Set TL position and length as in MEMORY - Selected Viewports](https://drive.google.com/uc?export=view&id=16D5Gj5EUrAyICPyx0G7JJouUyd5AGlCl)  
+![Image: Set TL position and length as in MEMORY - Selected Viewports](https://drive.google.com/uc?export=view&id=16D5Gj5EUrAyICPyx0G7JJouUyd5AGlCl)  
 
 ## <a id="set-tl-position-and-length-as-in-memory-selected-sheets"></a> ![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) Set TL position and length as in MEMORY - Selected Sheets 
 
@@ -140,7 +140,7 @@ How to use the tool:
 
 Select sheets in a project browser and use the tool. We will do the rest.
 
-![Set TL position and length as in MEMORY - Selected Sheets](https://drive.google.com/uc?export=view&id=166IWZAmIkbRrgoGg5LVHJCYpAH6IFdaH)  
+![Image: Set TL position and length as in MEMORY - Selected Sheets](https://drive.google.com/uc?export=view&id=166IWZAmIkbRrgoGg5LVHJCYpAH6IFdaH)  
 
 
 

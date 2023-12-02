@@ -38,7 +38,7 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
-![Align selected Viewports (Top)](https://drive.google.com/uc?export=view&id=1FWBxZUwA-hCdjqvwumt_iC8A4QP7F3fj)  
+![Image: Align selected Viewports (Top)](https://drive.google.com/uc?export=view&id=1FWBxZUwA-hCdjqvwumt_iC8A4QP7F3fj)  
 
 ## <a id="align-selected-viewports-(middle-y-axis)"></a> ![Align selected Viewports (Middle Y-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationRMiddle.png) Align selected Viewports (Middle Y-Axis)
 
@@ -48,7 +48,7 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
-![Align selected Viewports (Middle Y)](https://drive.google.com/uc?export=view&id=1GOMw02EEhwbonIfpPbxBPIy7nflNl_dg)  
+![Image: Align selected Viewports (Middle Y)](https://drive.google.com/uc?export=view&id=1GOMw02EEhwbonIfpPbxBPIy7nflNl_dg)  
 
 ## <a id="align-selected-viewports-(bottom)"></a> ![ Align selected Viewports (Bottom)](/images/Tools/Drafter/Icons/Viewport_LocationRLow.png) Align selected Viewports (Bottom)
 
@@ -58,7 +58,7 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
-![Align selected Viewports (Bottom)](https://drive.google.com/uc?export=view&id=1FV0JRUpt2DF9lwzQv0y20jPeATvKfDcE)  
+![Image: Align selected Viewports (Bottom)](https://drive.google.com/uc?export=view&id=1FV0JRUpt2DF9lwzQv0y20jPeATvKfDcE)  
 
 ## <a id="align-selected-viewports-(left)"></a> ![Align selected Viewports (Left)](/images/Tools/Drafter/Icons/Viewport_LocationCLeft.png) Align selected Viewports (Left)
 
@@ -68,7 +68,7 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
-![Align selected Viewports (Left)](https://drive.google.com/uc?export=view&id=1GN60-L9rU5FCgm3naYasI0GP60mPfUYc)  
+![Image: Align selected Viewports (Left)](https://drive.google.com/uc?export=view&id=1GN60-L9rU5FCgm3naYasI0GP60mPfUYc)  
 
 ## <a id="align-selected-viewports-(middle-x-axis)"></a> ![Align selected Viewports (Middle X-Axis)](/images/Tools/Drafter/Icons/Viewport_LocationCMiddle.png) Align selected Viewports (Middle X-Axis)
 
@@ -78,7 +78,7 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
-![Align selected Viewports (middle-x-axis)](https://drive.google.com/uc?export=view&1GJ8l1jKIA-CJIeMVLgqbQBCVIgyHuDtG)  
+![Image: Align selected Viewports (middle-x-axis)](https://drive.google.com/uc?export=view&id=1GJ8l1jKIA-CJIeMVLgqbQBCVIgyHuDtG)  
 
 ## <a id="align-selected-viewports-(right)"></a> ![Align selected Viewports (Right)](/images/Tools/Drafter/Icons/Viewport_LocationCRight.png) Align selected Viewports (Right)
 
@@ -88,7 +88,7 @@ How to use the tool:
 
 Select viewports which you want to align, or when started you will be prompted to do it by the tool.
 
-![Align selected Viewports (right)](https://drive.google.com/uc?export=view&1GWj2Zcf7g6a7a3o_2NuwXpE4he95xe9a)  
+![Image: Align selected Viewports (right)](https://drive.google.com/uc?export=view&id=1GWj2Zcf7g6a7a3o_2NuwXpE4he95xe9a)  
 
 ## <a id="number-by-click"></a> ![Number by Click](/images/Tools/Drafter/Icons/Viewport_NumberClick.png) Number by Click
 
@@ -98,7 +98,7 @@ How to use the tool:
 
 Simply pick viewports one by one. Then click esc or cancel. We will do the rest. 
 
-![Number by Click](https://drive.google.com/uc?export=view&1FmfrH4FwKOwf4EANEp8kV0lVuH0qiEqy)  
+![Image: Number by Click](https://drive.google.com/uc?export=view&id=1FmfrH4FwKOwf4EANEp8kV0lVuH0qiEqy)  
 
 ## <a id=" add-1-to-selected-detail-numbers"></a> ![Add +1 to selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneUp.png) Add +1 to selected detail numbers
 
@@ -108,7 +108,7 @@ How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool.
 
-![Add +1 to selected detail numbers](https://drive.google.com/uc?export=view&1GeDJXRFsBb8-iEEovN-px91UgdaGq4S3)  
+![Image: Add +1 to selected detail numbers](https://drive.google.com/uc?export=view&id=1GeDJXRFsBb8-iEEovN-px91UgdaGq4S3)  
 
 ## <a id="subtract-1-from-selected-detail-numbers"></a> ![Subtract 1 from selected detail numbers](/images/Tools/Drafter/Icons/Viewport_OneDown.png) Subtract 1 from selected detail numbers
 
@@ -118,7 +118,7 @@ How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool.
 
-![Subtract 1 from selected detail numbers](https://drive.google.com/uc?export=view&1FwJCCV9XkU7B4mW78axHGNIJtKNwEJlo)  
+![Image: Subtract 1 from selected detail numbers](https://drive.google.com/uc?export=view&id=1FwJCCV9XkU7B4mW78axHGNIJtKNwEJlo)  
 
 ## <a id="add-prefix-to-detail-numbers-of-selected-viewports"></a> ![Add prefix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberPrefix.png) Add prefix to detail numbers of selected viewports
 
@@ -132,7 +132,7 @@ After selection you will be prompted to define the prefix.
 
 Please bear in mind that these numbers cannot be already used in the sheet. 
 
-![Add prefix to detail numbers of selected viewports](https://drive.google.com/uc?export=view&1FfZsmF6Wl8reJeTdRLqFWFJQ9iDFQeSe)  
+![Image: Add prefix to detail numbers of selected viewports](https://drive.google.com/uc?export=view&id=1FfZsmF6Wl8reJeTdRLqFWFJQ9iDFQeSe)  
 
 ## <a id="add-suffix-to-detail-numbers-of-selected-viewports"></a> ![Add suffix to detail numbers of selected viewports](/images/Tools/Drafter/Icons/Viewport_NumberSuffix.png) Add suffix to detail numbers of selected viewports
 
@@ -146,7 +146,7 @@ After selection you will be prompted to define the prefix.
 
 Please bear in mind that these numbers cannot be already used in the sheet.
 
-![Add suffix to detail numbers of selected viewports](https://drive.google.com/uc?export=view&1HYn0FzIQaHcTWV7CSRlscK2PZ-DwjiHx)  
+![Image: Add suffix to detail numbers of selected viewports](https://drive.google.com/uc?export=view&id=1HYn0FzIQaHcTWV7CSRlscK2PZ-DwjiHx)  
 
 ## <a id="renumber-detail-from-left-to-right"></a> ![Renumber detail from left to right](/images/Tools/Drafter/Icons/Viewport_NumbersFromLeftToRight.png) Renumber detail from left to right
 
@@ -156,7 +156,7 @@ How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
 
-![Renumber detail from left to right](https://drive.google.com/uc?export=view&1HD_0KdKK_a8lgAjChpGcVmgqbkr5OCGA)  
+![Image: Renumber detail from left to right](https://drive.google.com/uc?export=view&id=1HD_0KdKK_a8lgAjChpGcVmgqbkr5OCGA)  
 
 ## <a id="renumber-detail-from-top-to-bottom"></a> ![Renumber detail from top to bottom](/images/Tools/Drafter/Icons/Viewport_NumbersFromTopToBottom.png) Renumber detail from top to bottom 
 
@@ -166,7 +166,7 @@ How to use the tool:
 
 Select viewports which you want to change, or when started you will be prompted to do it by the tool. 
 
-![Renumber detail from top to bottom](https://drive.google.com/uc?export=view&1HNr7uTnqh-0Bh5LNTs139aLDqNrJwxgv)  
+![Image: Renumber detail from top to bottom](https://drive.google.com/uc?export=view&id=1HNr7uTnqh-0Bh5LNTs139aLDqNrJwxgv)  
 
 ## <a id="order-horizontally-from-the-middle-of-view"></a> ![Order horizontally from the middle of view](/images/Tools/Drafter/Icons/Viewport_OrderFromMiddle.png) Order horizontally from the middle of view
 
@@ -178,7 +178,7 @@ Select viewports which you want to order, or when started you will be prompted t
 
 After selection you will be prompted to define the offset.
 
-![Order horizontally from the middle of view](https://drive.google.com/uc?export=view&1HVN_9IFWEyeSHNDHLzXrjvarh3bJOc9t)  
+![Image: Order horizontally from the middle of view](https://drive.google.com/uc?export=view&id=1HVN_9IFWEyeSHNDHLzXrjvarh3bJOc9t)  
 
 ## <a id="order-horizontally-with-a-chosen-gap"></a> ![Order horizontally with a chosen gap](/images/Tools/Drafter/Icons/Viewport_OrderHorizontally.png) Order horizontally with a chosen gap
 
@@ -190,7 +190,7 @@ Select viewports which you want to order, or when started you will be prompted t
 
 After selection you will be prompted to define the offset.
 
-![Order horizontally with a chosen gap](https://drive.google.com/uc?export=view&1HY16YgaTo99wVnfDLIR_N565v1cQOfqe)  
+![Image: Order horizontally with a chosen gap](https://drive.google.com/uc?export=view&id=1HY16YgaTo99wVnfDLIR_N565v1cQOfqe)  
 
 ## <a id="order-up-to-4-viewports-in-two-rows-with-2-points"></a> ![Order up to 4 viewports in two rows with 2 points](/images/Tools/Drafter/Icons/Viewport_OrderUpTo4.png) Order up to 4 viewports in two rows with 2 points
 
@@ -202,7 +202,7 @@ Select viewports which you want to order, or when started you will be prompted t
 
 After selection you will be prompted to pick the 2 points. Start with top left. 
 
-![Order up to 4 viewports in two rows with 2 points](https://drive.google.com/uc?export=view&1HEhNQpie7YPtKaz32VwoftK9XAh1iUQ9)  
+![Image: Order up to 4 viewports in two rows with 2 points](https://drive.google.com/uc?export=view&id=1HEhNQpie7YPtKaz32VwoftK9XAh1iUQ9)  
 
 
 

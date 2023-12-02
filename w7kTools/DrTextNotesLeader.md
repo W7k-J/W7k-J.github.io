@@ -36,6 +36,8 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
+![Image: Delete Leaders](https://drive.google.com/uc?export=view&id=1CR6c7FlG9oEwiFWKP4ajfYUIA4H4l0lr)  
+
 ## <a id="leader-settings"></a> ![Leader Settings](/images/Tools/Drafter/Icons/TextNotes_Leader_Settings.png) Leader Settings
 
 Adjusts all anchors of leaders of selected text notes.
@@ -43,6 +45,8 @@ Adjusts all anchors of leaders of selected text notes.
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
+
+![Image: Leader Settings](https://drive.google.com/uc?export=view&id=1CjpoCPv4uglb2x--8gHs9j2PER62y1LQ)  
 
 ## <a id="make-text-notes-leader-lines-horizontal"></a> ![Make Text Notes leader lines horizontal](/images/Tools/Drafter/Icons/TextNotes_Leader_Horizontal.png) Make Text Notes leader lines horizontal
 
@@ -52,6 +56,8 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
+![Image: Make Text Notes leader lines horizontal](https://drive.google.com/uc?export=view&id=1D5jrpADjlqc_XOKdZNd_n1ToaAxILNHz)  
+
 ## <a id="make-text-notes-leader-lines-vertical"></a> ![Make Text Notes leader lines vertical](/images/Tools/Drafter/Icons/TextNotes_Leader_Vertical.png) Make Text Notes leader lines vertical
 
 Sets leaders of selected text notes to go exactly vertical.
@@ -59,6 +65,8 @@ Sets leaders of selected text notes to go exactly vertical.
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
+
+![Image: Make Text Notes leader lines vertical](https://drive.google.com/uc?export=view&id=1D0_V0RybadK_OxCYUiUPAW0tV9_9DyQO)  
 
 ## <a id="move-text-notes-so-their-leader-lines-go-horizontal"></a> ![Move Text Notes so their leader lines go horizontal](/images/Tools/Drafter/Icons/Text_Leader_StraightHeadH.png) Move Text Notes so their leader lines go horizontal
 
@@ -68,6 +76,8 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
+![Image: Move Text Notes so their leader lines go horizontal](https://drive.google.com/uc?export=view&id=1CyPjo4_zKrqsmQaVhP4ymtYiikNXmwZd)  
+
 ## <a id="move-text-notes-so-their-leader-lines-go-vertical"></a> ![Move Text Notes so their leader lines go vertical](/images/Tools/Drafter/Icons/Text_Leader_StraightHeadV.png) Move Text Notes so their leader lines go vertical
 
 Moves selected text notes left and right so their leader lines go exactly vertical.
@@ -75,6 +85,8 @@ Moves selected text notes left and right so their leader lines go exactly vertic
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
+
+![Image: Move Text Notes so their leader lines go vertical](https://drive.google.com/uc?export=view&id=1D-5iyHBEtPVVvZQqYipJSxdMU9twu8m0)  
 
 ## <a id="make-text-note-leader-lines-go-straight-without-elbow"></a> ![Make Text Note leader lines go straight without elbow](/images/Tools/Drafter/Icons/TextNotes_Leader_NoElbow.png) Make Text Note leader lines go straight without elbow
 
@@ -84,6 +96,8 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
+![Image: Make Text Note leader lines go straight without elbow](https://drive.google.com/uc?export=view&id=1D6uwrWuIoZhCaiUL1Azer8ldiZ-B41u9)  
+
 ## <a id="make-text-note-leader-lines-go-with-90-degree-elbow-(horizontal)"></a> ![Make Text Note leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dH.png) Make Text Note leader lines go with 90-degree elbow (Horizontal)
 
 Sets leaders of selected Text Notes to go horizontal with 90-degree elbows.
@@ -92,6 +106,8 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
+![Image: Make Text Note leader lines go with 90-degree elbow (Horizontal)](https://drive.google.com/uc?export=view&id=1D2twPwpUYJmWFxU1OV5PKINc5PYcgrUn)  
+
 ## <a id="make-text-note-leader-lines-go-with-90-degree-elbow-(vertical)"></a> ![Make Text Note leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_90dV.png) Make Text Note leader lines go with 90-degree elbow (Vertical)
 
 Sets leaders of selected Text Notes to go vertical with 90-degree elbows.
@@ -99,6 +115,8 @@ Sets leaders of selected Text Notes to go vertical with 90-degree elbows.
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
+
+![Image: Make Text Note leader lines go with 90-degree elbow (Vertical)](https://drive.google.com/uc?export=view&id=1D8GpvlIwquBTrN3RetCUiHb5sTiOzugq)  
 
 ## <a id="align-text-note-leader-elbows-to-point-(horizontal)"></a> ![Align Text Note leader elbows to point (horizontal)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointH.png) Align Text Note leader elbows to point (horizontal)
 
@@ -110,6 +128,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
+![Image: Align Text Note leader elbows to point (horizontal)](https://drive.google.com/uc?export=view&id=1D8sYmmUW1wwEB6karBbWfiXAg5y8Zd_y)  
+
 ## <a id="align-text-note-leader-elbows-to-point-(vertical)"></a> ![Align Text Note leader elbows to point (vertical)](/images/Tools/Drafter/Icons/TextNotes_Leader_PointV.png) Align Text Note leader elbows to point (vertical)
 
 Aligns elbows of selected Text Note's leaders to selected point (in Y axis).
@@ -120,6 +140,8 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
+![Image: Align Text Note leader elbows to point (vertical)](https://drive.google.com/uc?export=view&id=1DE54eEtVc5bVBUNsD-QyJT2On5XtwQF8)  
+
 ## <a id="save-text-note-leader-to-memory"></a> ![Save Text Note Leader to Memory](/images/Tools/Drafter/Icons/TN_LToMemory.png) Save Text Note Leader to Memory
 
 Saves leader settings to memory.
@@ -127,6 +149,8 @@ Saves leader settings to memory.
 How to use the tool:
 
 Select a text note, or when started, you will be prompted to do it by the tool. 
+
+![Image: Save Text Note Leader to Memory](https://drive.google.com/uc?export=view&id=1EA7X6gJkOqO4UA6KUOARDGaDAjzBTMAi)  
 
 ## <a id="set-text-note-leader-from-memory-from-anchor"></a> ![Set Text Note Leader from MEMORY from Anchor](/images/Tools/Drafter/Icons/TN_LFromMemory.png) Set Text Note Leader from MEMORY from Anchor
 
@@ -136,6 +160,8 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
+![Image: Set Text Note Leader from MEMORY from Anchor](https://drive.google.com/uc?export=view&id=1DSZJSSAm4qkWfnKomkIX9q43bOK7nhw2)  
+
 ## <a id="set-text-note-leader-from-memory-from-end"></a> ![Set Text Note Leader from MEMORY from End](/images/Tools/Drafter/Icons/TN_LFromMemoryEnd.png) Set Text Note Leader from MEMORY from End
 
 Sets leader settings from memory starting from the current end point.
@@ -143,6 +169,8 @@ Sets leader settings from memory starting from the current end point.
 How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
+
+![Image: Set Text Note Leader from MEMORY from End](https://drive.google.com/uc?export=view&id=1DeK2t7hTQpn7nKLKuV3Vz5nBQUUJrLJv)  
 
 
 
