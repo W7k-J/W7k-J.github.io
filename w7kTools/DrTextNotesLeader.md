@@ -5,7 +5,7 @@ permalink: /tools/drafter/textnotesleader
 ---
 
 
-![Text Notes](/images/Tools/Drafter/drafterTN.jpg)  
+![Text Notes](/images/Tools/Drafter/drafterTNL.jpg)  
 
 
 # <a id="text-note-leaders"></a> ![Text Note - Leaders](/images/Tools/Drafter/Icons/TextNotesLeader.png) Text Note - Leaders  

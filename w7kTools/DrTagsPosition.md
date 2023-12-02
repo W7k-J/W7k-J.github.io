@@ -4,6 +4,10 @@ title: Tags Position
 permalink: /tools/drafter/tagsposition
 ---
 
+
+![Tags Position](/images/Tools/Drafter/drafterTagsP.jpg)  
+
+
   
 # <a id="tags-position"></a> ![Tags - Position](/images/Tools/Drafter/Icons/Tags_Pos.png) Tags - Position  
   

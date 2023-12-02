@@ -5,7 +5,7 @@ permalink: /tools/drafter/tags
 ---
 
 
-![Tags](/images/Tools/Drafter/drafterTags.jpg)  
+![Tags](/images/Tools/Drafter/drafterTags1.jpg)  
 
 
 # <a id="tags"></a> ![Tags](/images/Tools/Drafter/Icons/Tags.png) Tags  

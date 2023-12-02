@@ -4,6 +4,10 @@ title: Tags Position
 permalink: /tools/drafter/tagsposition
 ---
 
+
+![Tags Leaders](/images/Tools/Drafter/drafterTagsL.jpg)  
+
+
 # <a id="tags-leaders"></a> ![Tags - Leaders](/images/Tools/Drafter/Icons/TagsLeader.png) Tags - Leaders  
   
 ![Make Tag leader lines horizontal](/images/Tools/Drafter/Icons/Tags_Leader_H.png)[16.1. Make Tag leader lines horizontal](#make-tag-leader-lines-horizontal)  

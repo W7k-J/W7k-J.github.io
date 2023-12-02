@@ -4,7 +4,7 @@ title: Family Editor
 permalink: /tools/drafter/familyeditor
 ---
 
-![Family Editor](/images/Tools/Drafter/drafterFamily.jpg)  
+![Family Editor](/images/Tools/Drafter/drafterFamilyEditor.jpg)  
 
 # <a id="family-editor"></a> ![Family Editor](/images/Tools/Drafter/Icons/Family.png) Family Editor  
   

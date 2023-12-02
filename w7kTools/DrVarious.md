@@ -5,7 +5,7 @@ permalink: /tools/drafter/various
 ---
 
 
-![Various](/images/Tools/Drafter/drafterVarious.jpg)  
+![Various](/images/Tools/Drafter/drafterVarious1.jpg)  
 
 
 # <a id="various"></a> ![Various](/images/Tools/Drafter/Icons/Various.png) Various  

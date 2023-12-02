@@ -5,7 +5,7 @@ permalink: /tools/drafter/textnotesposition
 ---
 
 
-![Text Notes](/images/Tools/Drafter/drafterTN.jpg)  
+![Text Notes](/images/Tools/Drafter/drafterTNP.jpg)  
 
 
 # <a id="text-notes-position"></a> ![Text Notes - Position](/images/Tools/Drafter/Icons/TextNotes_Pos.png) Text Notes - Position  
