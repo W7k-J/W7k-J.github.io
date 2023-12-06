@@ -18,6 +18,10 @@ Using only one of 180+ scripts will significantly improve your work! Also, I mad
 
 # Video
 
+Please watch videos in HD. 
+
+## Short Video
+
 For an introduction to Drafter, please watch the short version below. You can also show it to your boss to convince them to buy this this tool 😉
 
 <div>
@@ -27,7 +31,9 @@ For an introduction to Drafter, please watch the short version below. You can al
   </div>
 </div>
 
-For a detail introduction to Drafter, please watch the longer version below. 
+## Detailed Video
+
+For a detailed introduction to Drafter, please watch the longer version below. 
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
@@ -36,11 +42,10 @@ For a detail introduction to Drafter, please watch the longer version below.
   </div>
 </div>
 
+## Other Help 
 
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-I am also recommending going to the provided help at the bottom of this page. Simply click on the interesting command from the list. I made small animations for you and short descriptions about each of the buttons. Please give it some time to download  
+I am also recommending going to the provided help at the bottom of this page. Simply click on the interesting command from the list. I made small animations for you and short descriptions about each of the buttons. Please inform me if something is not clear!  
+Please give it some time to download  
 
 # List
 
