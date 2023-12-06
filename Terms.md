@@ -75,7 +75,7 @@ Just to let you know this folder stays on your drive after uinnstalling our apps
 
 Because of the way the Autodesk Apps Store is organised we treat all of transactions from there as "Business to Customer". As such they are a subject to VAT and you might have to pay extra import fees. 
 
-If you would like to get a B2B invoice and made our and your life easier please contact us by email before buying the app and we will arange it! - [contact Us](mailto:apps@w7k.pl). 
+If you would like to get a B2B invoice and made our and your life easier please contact us by email before buying the app and we will arrange it! - [contact Us](mailto:apps@w7k.pl). 
 
 
 ### Disqus

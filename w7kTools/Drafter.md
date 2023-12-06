@@ -16,15 +16,31 @@ All the tools are easy to use and master. I provided the small GIF animation (sh
   
 Using only one of 180+ scripts will significantly improve your work! Also, I made this tool as cheap as possible, so everyone can afford it and save some time!  
 
-
 # Video
+
+For an introduction to Drafter, please watch the short version below. You can also show it to your boss to convince them to buy this this tool 😉
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/4Cgf9nnKQYo" frameborder="0" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/oo51oaNXY9A?si=OhEGN8hiWTKWNEPd" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
+
+For a detail introduction to Drafter, please watch the longer version below. 
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/oaUbs1hGL_U?si=uNM8ogejGYSyBtGH" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
+
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+I am also recommending going to the provided help at the bottom of this page. Simply click on the interesting command from the list. I made small animations for you and short descriptions about each of the buttons. Please give it some time to download  
 
 # List
 
@@ -290,6 +306,10 @@ Using only one of 180+ scripts will significantly improve your work! Also, I mad
 ![Set width of selected Text Elements with MENU ](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png)[20.3. Set width of selected Text Elements with MENU](/DrFamilyEditor.md/#set-width-of-selected-text-elements-with-menu)  
 
   
+
+# Trial version 
+
+Please don't hesitate to contact me on linkedin if you think about buying multiple licenses and need to show how the tool works to the directors etc.  I will try to help.  
 
 ## Versions
 [back to LIST](#list)  
