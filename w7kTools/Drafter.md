@@ -44,8 +44,8 @@ For a detailed introduction to Drafter, please watch the longer version below.
 
 ## Other Help 
 
-I am also recommending going to the provided help at the bottom of this page. Simply click on the interesting command from the list. I made small animations for you and short descriptions about each of the buttons. Please inform me if something is not clear!  
-Please give it some time to download  
+I am also recommending going to the provided help below. Simply click on the interesting command from the list. I made small animations for you and short descriptions about each of the buttons. Please inform me if something is not clear!  
+Please give animations some time to download  
 
 # List
 
