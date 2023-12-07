@@ -52,9 +52,11 @@ We want to collect the least amount of data and we don't collect any information
 
 When you make a purchase or attempt to make a purchase through the Autodesk App Store or by sending us and email, we collect certain information from you, including your name, billing address, shipping address, payment information - (for more information about it visit PayPal & Autodesk App Store). This is called Order Information.
 
-We use the Order Information that we collect generally to fulfil any orders placed (including processing your payment information, arranging for online shipping, and providing you with invoices and/or order confirmations). We shall use this information for tax purposes and share it with our accountants. We will maintain your Order Information for our records as we are requested by the law. 
+We use the Order Information that we collect generally to fulfil any orders placed (including processing your payment information, arranging for online shipping, and providing you with invoices and/or order confirmations). We shall use this information for tax purposes and share it with our accountants. We will maintain your Order Information for our records as we are requested by the law. We may contact you to obtain this information.  
 
-In case of you writing to us we will use obtain information about you (email, name etc.) in order to contact with you and resolve the issue / discuss business oportunities etc. We will not share your information with others (except in case of receiving permition from you to do so).
+Also your feedback is important to us as we strive to offer you the best value so we might contact you to inform you about our newest tools, ask about your experience using the apps or discuss other topics regarding programing in AEC industry.  
+
+In case of you writing to us we will use obtain information about you  in order to contact with you and resolve the issue / discuss business oportunities etc. We will not share your information with others (except in case of receiving permition from you to do so).
 
 
 #### GitHub Pages Service
