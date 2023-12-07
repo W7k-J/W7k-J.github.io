@@ -59,3 +59,6 @@ Version 1 was published at XXXX-XX-XX as a part of Level Changer_v1 (experimenta
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

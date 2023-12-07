@@ -60,3 +60,6 @@ Select text elements or when started you will be prompted to do it by the tool. 
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

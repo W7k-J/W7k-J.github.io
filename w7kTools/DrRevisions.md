@@ -86,3 +86,6 @@ Select some views or sheets in a project browser and press the button. The tool 
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

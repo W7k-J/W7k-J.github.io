@@ -43,3 +43,6 @@ You don't have to unpin the viewports - we will do it automatically.
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

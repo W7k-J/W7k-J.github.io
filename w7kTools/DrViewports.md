@@ -221,3 +221,6 @@ After selection you will be prompted to pick the 2 points. Start with top left.
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

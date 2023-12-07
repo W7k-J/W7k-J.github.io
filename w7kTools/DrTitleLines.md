@@ -157,3 +157,6 @@ Select sheets in a project browser and use the tool. We will do the rest.
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

@@ -45,3 +45,6 @@ We recommened you to set 'SWAP' shortcut for this button.
 <div class="terms">
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
+
+
+{% include disqus.html %} 

@@ -63,3 +63,6 @@ Simply click the tool and we will try to find all empty material tags and delete
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

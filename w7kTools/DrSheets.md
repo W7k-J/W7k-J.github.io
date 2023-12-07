@@ -165,3 +165,6 @@ Select generic annotations which you want to change, or when started you will be
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

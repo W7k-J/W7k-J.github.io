@@ -349,4 +349,6 @@ This toolset will grow in time! Your support will keep it alive and kicking! Ple
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
 {% include disqus.html %} 

@@ -216,3 +216,6 @@ After that you will be asked to choose distances in provided menu.
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

@@ -145,3 +145,6 @@ Select text notes or when started you will be prompted to do it by the tool. Aft
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

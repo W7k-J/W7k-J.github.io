@@ -270,3 +270,6 @@ Works with vertical views such as sections or elevations.
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

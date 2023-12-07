@@ -75,3 +75,6 @@ Start the tool. We will check the project for all dimensions with value "0". You
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 

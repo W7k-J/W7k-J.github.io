@@ -102,3 +102,6 @@ Select title blocks which you want to change, or when started you will be prompt
     <a href="https://w7k.pl/terms/">Disclaimers, Policies, Terms & Conditions</a>
 </div>
 
+
+
+{% include disqus.html %} 
