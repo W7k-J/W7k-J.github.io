@@ -6,7 +6,9 @@ permalink: /tools/
 
 ### Revit Addons
 
-<a href="https://w7k.pl/tools/leveler/">Leveler</a>
+<p><a href="https://w7k.pl/tools/leveler/"><img src="/images/Logos/Leveler_Icon.png" style="width:120px;height:120px;"></a><a href="https://w7k.pl/tools/leveler/">Leveler</a></p></br>
+
+
 
 <a href="https://w7k.pl/tools/wallswap/">Wall Swap</a>
 
