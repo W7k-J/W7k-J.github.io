@@ -56,6 +56,10 @@ We use the Order Information that we collect generally to fulfil any orders plac
 
 Also your feedback is important to us as we strive to offer you the best value so we might contact you to inform you about our newest tools, ask about your experience using the apps or discuss other topics regarding programing in AEC industry.  
 
+We will try to inform you about updates of apps you bought. Please tells us if you would like to opt out.  
+
+ feedback is important to us as we strive to offer you the best value so we might contact you to inform you about our newest tools, ask about your experience using the apps or discuss other topics regarding programing in AEC industry.  
+
 In case of you writing to us we will use obtain information about you  in order to contact with you and resolve the issue / discuss business oportunities etc. We will not share your information with others (except in case of receiving permition from you to do so).
 
 
