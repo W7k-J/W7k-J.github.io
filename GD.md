@@ -3,9 +3,10 @@ layout: page
 title: Graphic Design
 permalink: /gd/
 ---
-This page is under construction
 
-<img src="/images/GD/HorisontSketch.jpg" style="width:Auto;height:Auto;"></p>  
+<img src="/images/GD/HorisontSketch.jpg" style="width:Auto;height:Auto;">  
+
+This page is under construction
 
 ## Projects
 
@@ -19,7 +20,7 @@ This page is under construction
 
 
 ### Computer 2d Art
-1
+
 [Kościół Mariacki, Kraków](https://w7k.pl/Mariacki/)  
 
 
