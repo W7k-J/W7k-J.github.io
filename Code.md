@@ -25,8 +25,12 @@ WIP
 [Tools](https://w7k.pl/tools/)  
 
 My add-ins: 
-
-[Leveler](https://w7k.pl/tools/leveler/)  
+  
+<p><a href="https://w7k.pl/tools/leveler/"><img src="/images/Logos/Leveler_Icon.png" style="width:120px;height:120px;"></a></p>  
+<p><a href="https://w7k.pl/tools/leveler/">Leveler</a></p>  
+  
+<p><a href="https://w7k.pl/tools/drafter/"><img src="/images/Logos/Drafter_Icon.png" style="width:120px;height:120px;"></a></p>  
+<p><a href="https://w7k.pl/tools/drafter/">Drafter</a></p>  
   
 [Wall Swap](https://w7k.pl/tools/wallswap/)  
 
