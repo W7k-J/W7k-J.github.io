@@ -51,7 +51,7 @@ Please don't hesitate to contact me on linkedin if you think about buying multip
 
 ## Versions
 [back to LIST](#list)  
-Version 1 was published at XXXX-XX-XX as a part of Leveler. Works on Autodesk Revit 2020 - 2024.  
+Version 1 was published at XXXX-XX-XX as a part of Leveler 1.1. Works on Autodesk Revit 2020 - 2024.  
 
 ## Known Problems  
 [back to LIST](#list)  
