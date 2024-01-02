@@ -4,7 +4,7 @@ title: Grider
 permalink: /tools/grider/
 ---
 
-![MainTab](/images/Tools/Drafter/drafter_1.jpg)
+![MainTab](/images/Tools/Grider/grider_1.jpg)
 
 Grider allows you to control grids in your project. It allows you to control them better - for example rename them. 
 
@@ -44,11 +44,6 @@ Please give animations some time to download
 ![Set length of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLineLengthAsView.png) [1.4. Set length of selected TL as per PICKED Viewport](/DrTitleLines.md/#set-length-of-selected-tl-as-per-picked-viewport)  
 ![Set length of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLineLengthMenu.png) [1.5. Set length of selected TL with MENU](/DrTitleLines.md/#set-length-of-selected-tl-with-menu)  
 ![Set positions of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLinePositionAsView.png) [1.6. Set positions of selected TL as per PICKED Viewport](/DrTitleLines.md/#set-positions-of-selected-tl-as-per-picked-viewport)  
-![Set positions of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLinePositionFromLeftCorner.png) [1.7. Set positions of selected TL with MENU](/DrTitleLines.md/#set-length-of-selected-tl-with-menu)  
-![Save To MEMORY - TL position and length](/images/Tools/Drafter/Icons/TitleLinePositionToMemory.png) [1.8. Save To MEMORY - TL position and length](/DrTitleLines.md/#save-to-memory-tl-position-and-length)  
-![Set TL position and length as in MEMORY - Active sheet](/images/Tools/Drafter/Icons/TitleLinePositionFromMemoryActiveSheet.png) [1.9. Set TL position and length as in MEMORY - Active sheet](/DrTitleLines.md/#set-tl-position-and-length-as-in-memory-active-sheet)  
-![Set TL position and length as in MEMORY - Selected Viewports](/images/Tools/Drafter/Icons/TitleLinePositionFromMemory.png) [1.10. Set TL position and length as in MEMORY - Selected Viewports](/DrTitleLines.md/#set-tl-position-and-length-as-in-memory-selected-viewports)  
-![Set TL position and length as in MEMORY - Selected Sheets](/images/Tools/Drafter/Icons/TitleLinePositionFromMemorySheet.png) [10.11. Set TL position and length as in MEMORY - Selected Sheets](/DrTitleLines.md/#set-tl-position-and-length-as-in-memory-selected-sheets)  
 
 # Trial version 
 
@@ -56,7 +51,7 @@ Please don't hesitate to contact me on linkedin if you think about buying multip
 
 ## Versions
 [back to LIST](#list)  
-Version 1 was published at XXXX-XX-XX. Works on Autodesk Revit 2020 - 2024.  
+Version 1 was published at XXXX-XX-XX as a part of Leveler. Works on Autodesk Revit 2020 - 2024.  
 
 ## Known Problems  
 [back to LIST](#list)  
