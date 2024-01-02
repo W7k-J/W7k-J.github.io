@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grider
-permalink: /tools/Grider/
+permalink: /tools/grider/
 ---
 
 ![MainTab](/images/Tools/Drafter/drafter_1.jpg)
