@@ -36,14 +36,57 @@ Please give animations some time to download
 
 # List
 
-### ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) [1. Title Lines](/DrTitleLines.md/#title-lines)  
+# <a id="legends"></a> ![Grid Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Grid Names
   
-![Align TL to the point](/images/Tools/Drafter/Icons/TitleLinePoint.png) [1.1. Align TL to the point ](/DrTitleLines.md/#align-tl-to-the-point)  
-![Align TL in the X axis](/images/Tools/Drafter/Icons/AlignX.png) [1.2. Align TL in the X axis](/DrTitleLines.md/#align-tl-in-the-x-axis)  
-![Align TL in the Y axis](/images/Tools/Drafter/Icons/AlignY.png) [1.3. Align TL in the Y axis](/DrTitleLines.md/#align-tl-in-the-y-axis)  
-![Set length of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLineLengthAsView.png) [1.4. Set length of selected TL as per PICKED Viewport](/DrTitleLines.md/#set-length-of-selected-tl-as-per-picked-viewport)  
-![Set length of selected TL with MENU](/images/Tools/Drafter/Icons/TitleLineLengthMenu.png) [1.5. Set length of selected TL with MENU](/DrTitleLines.md/#set-length-of-selected-tl-with-menu)  
-![Set positions of selected TL as per PICKED Viewport](/images/Tools/Drafter/Icons/TitleLinePositionAsView.png) [1.6. Set positions of selected TL as per PICKED Viewport](/DrTitleLines.md/#set-positions-of-selected-tl-as-per-picked-viewport)  
+![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [1.1. Rename Grids with Menu](#rename-grids-with-menu)  
+![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) [1.2. Rename Grids Up](#rename-grids-up)  
+![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) [1.3. Rename Grids Down](#rename-grids-down)  
+![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) [1.4. Add Prefix or Suffix to Grids](#add-prefix-or-suffix-to-grids)  
+
+  
+
+## <a id="rename-grids-with-menu"></a> ![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) Rename Grids with Menu
+
+Changes names of selected grids with provided menu.  
+
+How to use the tool:  
+
+You will be prompted to select two points which will select the grids in order. Use provided menu to define the grid names and press ok.  
+
+![Image: Rename Grids with Menu](https://drive.google.com/uc?export=view&id=1-NYZULf6RomH2p5IQkdG4XTqExac9vAP)  
+
+
+## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
+
+Renames selected grids so they go up (1 to 2, 2 to 3, A to B, B to C).  
+
+How to use the tool:  
+
+Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
+
+![Image: Rename Grids Up](https://drive.google.com/uc?export=view&id=1-KfoNiWLRj-WzZXA_mkeow7rN4wDuqSt)  
+
+
+## <a id="rename-grids-down"></a> ![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) Rename Grids Down
+
+Renames selected grids so they go down (2 to 1, 1 to 0, C to B, B to A).  
+
+How to use the tool:  
+
+Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
+
+![Image: Rename Grids Down](https://drive.google.com/uc?export=view&id=1-amQ2CtClPx4NVGDpq0MBtHXIYNF-BUS)  
+
+
+## <a id="add-prefix-or-suffix-to-grids"></a> ![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Add Prefix or Suffix to Grids
+
+Adds prefix and/or suffix to the names of all selected grids.  
+
+How to use the tool:  
+
+Select some grids or you will be prompted to do it by the tool. After that simply provide the values for prefix and/or suffix. Press ok and we will do the rest.  
+
+![Image: Add Prefix or Suffix to Grids](https://drive.google.com/uc?export=view&id=1-dre82faqgDiLyk5-qXR-XceJc0E9G2U)  
 
 # Trial version 
 
