@@ -24,7 +24,7 @@ Please give animations some time to download
 
 # List
 
-# <a id="legends"></a> ![Grid Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Grid Names
+# <a id="grid-names"></a> ![Grid Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Grid Names
   
 ![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [1.1. Rename Grids with Menu](#rename-grids-with-menu)  
 ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) [1.2. Rename Grids Up](#rename-grids-up)  
