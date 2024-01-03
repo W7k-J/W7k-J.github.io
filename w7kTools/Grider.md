@@ -15,19 +15,7 @@ Grider is a part of Leveler add-in.
 
 # Video
 
-Please watch videos in HD. 
-
-## Short Video
-
-For an introduction to Grider, please watch the short version below. You can also show it to your boss to convince them to buy this this tool 😉
-
-<div>
-  <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/oo51oaNXY9A?si=OhEGN8hiWTKWNEPd" frameborder="0" allowfullscreen
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-  </div>
-</div>
-
+Please visit Leveler for video.  
 
 ## Other Help 
 
