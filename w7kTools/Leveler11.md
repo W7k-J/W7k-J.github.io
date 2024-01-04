@@ -17,11 +17,11 @@ Please watch videos in HD.
 
 ## Short Video
 
-For an introduction to Drafter, please watch the short version below. You can also show it to your boss to convince them to buy this this tool 😉
+For an introduction to new functions, please watch the short version below. You can also show it to your boss to convince them to buy this this tool 😉
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/oo51oaNXY9A?si=OhEGN8hiWTKWNEPd" frameborder="0" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/-iZori9UYBk?si=f7p6dpEj6ZBUOyti" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
@@ -34,21 +34,29 @@ Please give animations some time to download
 
 # List
 
+  
+
 ## Leveler
 
-# <a id="level-names"></a> ![Level Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Level Names
   
-![Rename Levels  with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [1.1. Rename Levels with Menu](#rename-levels-with-menu)  
-![Find and Replace in Levels Names](/images/Tools/Grider/Icons/Grid_RenamePlus.png) [1.2. Find and Replace in Levels Names](#rename-levels-up)  
-![Rename Levels Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) [1.3. Rename Levels Up](#rename-levels-up)  
-![Rename Levels Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) [1.4. Rename Levels Down](#rename-levels-down)  
-![Add Prefix or Suffix to Levels](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) [1.5. Add Prefix or Suffix to Levels](#add-prefix-or-suffix-to-levels)  
 
-# <a id="edit-levels"></a> ![Edit Levels](/images/Tools/Grider/Icons/Grid_Main.png) 2. Edit Levels
+# <a id="level-names"></a> ![Level Names](/images/Tools/Grider/Icons/Lev_Main.png) 1. Level Names
   
-![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [2.1. Rename Grids with Menu](#rename-grids-with-menu)  
+![Rename Levels  with Menu](/images/Tools/Leveler/Icons/Lev_RenameMenu.png) [1.1. Rename Levels with Menu](#rename-levels-with-menu)  
+![Find and Replace in Levels Names](/images/Tools/Leveler/Icons/Lev_FandR.png) [1.2. Find and Replace in Levels Names](#find-and-replace-in-levels-names)  
+![Rename Levels Up](/images/Tools/Leveler/Icons/Lev_Plus.png) [1.3. Rename Levels Up](#rename-levels-up)  
+![Rename Levels Down](/images/Tools/Leveler/Icons/Lev_Minus.png) [1.4. Rename Levels Down](#rename-levels-down)  
+![Add Prefix or Suffix to Levels](/images/Tools/Leveler/Icons/Grid_RenamePrefixSuffix.png) [1.5. Add Prefix or Suffix to Levels](#add-prefix-or-suffix-to-levels)  
 
-## Grider 
+# <a id="edit-levels"></a> ![Edit Levels](/images/Tools/Grider/Icons/Lev_Menu.png) 2. Edit Levels
+  
+![Rename Grids with Menu](/images/Tools/Leveler/Icons/Lev_MoveAll.png) [2.1. Rename Grids with Menu](#rename-grids-with-menu)  
+
+  
+
+## Grider
+
+  
 
 # <a id="grid-names"></a> ![Grid Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Grid Names
   
@@ -57,28 +65,86 @@ Please give animations some time to download
 ![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) [1.3. Rename Grids Down](#rename-grids-down)  
 ![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) [1.4. Add Prefix or Suffix to Grids](#add-prefix-or-suffix-to-grids)  
 
+  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Leveler - Level Names
 
   
+
+## <a id="rename-levels-with-menu"></a> ![Rename Levels with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) Rename Levels with Menu
+
+Changes names of selected levels with provided menu.  
+
+How to use the tool:  
+
+Select some levels or you will be prompted to do it by the tool. Use provided menu to define the grid names and press ok.  
+
+![Image: Rename Levels with Menu](https://drive.google.com/uc?export=view&id=106krw4LkxjFPkttYjBJbU0t-5w7CPSMO)  
+
+## <a id="find-and-replace-in-levels-names"></a> ![Find and Replace in Levels Names](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Find and Replace in Levels Names
+
+Adds prefix and/or suffix to the names of all selected levels.  
+
+How to use the tool:  
+
+Select some levels or you will be prompted to do it by the tool. After that simply provide the values for prefix and/or suffix. Press ok and we will do the rest.  
+
+![Image: Find and Replace in Levels Names](https://drive.google.com/uc?export=view&id=10Vk7Yuw1qpfGTe4z84ijzHoZ972sAX4R)  
+
+## <a id="rename-levels-up"></a> ![Rename Levels Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Levels Up
+
+Renames selected levels so they go up (1 to 2, 2 to 3, A to B, B to C).  
+
+How to use the tool:  
+
+Select some levels or you will be prompted to do it by the tool. Press the button and we will do the rest.  
+
+![Image: Rename Levels Up](https://drive.google.com/uc?export=view&id=10dnWe4PSWx1YPHNO7ViPtVBd0PDwZleS)  
+
+
+## <a id="rename-levels-down"></a> ![Rename Levels Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) Rename Levels Down
+
+Renames selected levels so they go down (2 to 1, 1 to 0, C to B, B to A).  
+
+How to use the tool:  
+
+Select some levels or you will be prompted to do it by the tool. Press the button and we will do the rest.  
+
+![Image: Rename Levels Down](https://drive.google.com/uc?export=view&id=10TnmPZOMcUbGQJFmnQV6sPQHhPy_aoxN)  
+
+
+## <a id="add-prefix-or-suffix-to-levels"></a> ![Add Prefix or Suffix to Levels](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Add Prefix or Suffix to Levels
+
+Adds prefix and/or suffix to the names of all selected levels.  
+
+How to use the tool:  
+
+Select some levels or you will be prompted to do it by the tool. After that simply provide the values for prefix and/or suffix. Press ok and we will do the rest.  
+
+![Image: Add Prefix or Suffix to Levels](https://drive.google.com/uc?export=view&id=105n2cQ7eS4YACouX-9mbZcejUJUo51_M)  
+
+  
+
+## Leveler - Edit Level
+
+  
+
+## <a id="move-multiple-levels-at-the-same-time"></a> ![Move Multiple Levels at the same time](/images/Tools/Grider/Icons/Grid_RenameMenu.png) Move Multiple Levels at the same time
+
+The tool move multiple levels at the same time. For example when you want to change the level height of multiple levels from 3m to 3.2m.  
+
+How to use the tool:  
+
+Select some levels or you will be prompted to do it by the tool. After that, you will have to specify the values you want to move.
+
+![Image: Rename Levels with Menu](https://drive.google.com/uc?export=view&id=10b0xmB46kFeNTG7TY7BAsRdnCLh3Rett)  
+
+  
+
+## Grider - Grid Names
+
+  
+
 ## <a id="rename-grids-with-menu"></a> ![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) Rename Grids with Menu
 
 Changes names of selected grids with provided menu.  
