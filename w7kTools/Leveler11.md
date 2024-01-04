@@ -40,7 +40,7 @@ Please give animations some time to download
 
   
 
-# <a id="level-names"></a> ![Level Names](/images/Tools/Grider/Icons/Lev_Main.png) 1. Level Names
+# <a id="level-names"></a> ![Level Names](/images/Tools/Leveler/Icons/Lev_Main.png) 1. Level Names
   
 ![Rename Levels  with Menu](/images/Tools/Leveler/Icons/Lev_RenameMenu.png) [1.1. Rename Levels with Menu](#rename-levels-with-menu)  
 ![Find and Replace in Levels Names](/images/Tools/Leveler/Icons/Lev_FandR.png) [1.2. Find and Replace in Levels Names](#find-and-replace-in-levels-names)  
