@@ -36,27 +36,17 @@ Please give animations some time to download
 
   
 
-## Leveler
-
-  
-
 # <a id="level-names"></a> ![Level Names](/images/Tools/Leveler/Icons/Lev_Main.png) 1. Level Names
   
 ![Rename Levels  with Menu](/images/Tools/Leveler/Icons/Lev_RenameMenu.png) [1.1. Rename Levels with Menu](#rename-levels-with-menu)  
 ![Find and Replace in Levels Names](/images/Tools/Leveler/Icons/Lev_FandR.png) [1.2. Find and Replace in Levels Names](#find-and-replace-in-levels-names)  
 ![Rename Levels Up](/images/Tools/Leveler/Icons/Lev_Plus.png) [1.3. Rename Levels Up](#rename-levels-up)  
 ![Rename Levels Down](/images/Tools/Leveler/Icons/Lev_Minus.png) [1.4. Rename Levels Down](#rename-levels-down)  
-![Add Prefix or Suffix to Levels](/images/Tools/Leveler/Icons/Grid_RenamePrefixSuffix.png) [1.5. Add Prefix or Suffix to Levels](#add-prefix-or-suffix-to-levels)  
-
-# <a id="edit-levels"></a> ![Edit Levels](/images/Tools/Grider/Icons/Lev_Menu.png) 2. Edit Levels
+![Add Prefix or Suffix to Levels](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [1.5. Add Prefix or Suffix to Levels](#add-prefix-or-suffix-to-levels)  
+  
+# <a id="edit-levels"></a> ![Edit Levels](/images/Tools/Leveler/Icons/Lev_Menu.png) 2. Edit Levels
   
 ![Rename Grids with Menu](/images/Tools/Leveler/Icons/Lev_MoveAll.png) [2.1. Rename Grids with Menu](#rename-grids-with-menu)  
-
-  
-
-## Grider
-
-  
 
 # <a id="grid-names"></a> ![Grid Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Grid Names
   
@@ -176,7 +166,6 @@ How to use the tool:
 Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
 ![Image: Rename Grids Down](https://drive.google.com/uc?export=view&id=10h8hrpqBpPBTjdu7lNgm9YXw-VYBhHct)  
-
 
 ## <a id="add-prefix-or-suffix-to-grids"></a> ![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Add Prefix or Suffix to Grids
 
