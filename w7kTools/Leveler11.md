@@ -4,10 +4,9 @@ title: Leveler 1.1
 permalink: /tools/leveler11/
 ---
 
-![MainTab](/images/Tools/Grider/grider_1.jpg)
+![MainTab](/images/Tools/Leveler/Leveler_NewScripts.jpg)
 
-
-
+Please find below a short description of new feature of Leveler 1.1. I added 10 more new scripts and started a new module "Grider" which will be a part of Leveler.  Grider will contain all the buttons connected with grids. As such please do not hesitate to contact me with your ideas about scripts for grids. 
 
 [Link to Leveler](/Leveler.md)  
 [Link to Leveler at the Autodesk App Store](https://apps.autodesk.com/RVT/en/Detail/Index?id=7992073470185484796&appLang=en&os=Win64)  
@@ -35,6 +34,22 @@ Please give animations some time to download
 
 # List
 
+## Leveler
+
+# <a id="level-names"></a> ![Level Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Level Names
+  
+![Rename Levels  with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [1.1. Rename Levels with Menu](#rename-levels-with-menu)  
+![Find and Replace in Levels Names](/images/Tools/Grider/Icons/Grid_RenamePlus.png) [1.2. Find and Replace in Levels Names](#rename-levels-up)  
+![Rename Levels Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) [1.3. Rename Levels Up](#rename-levels-up)  
+![Rename Levels Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) [1.4. Rename Levels Down](#rename-levels-down)  
+![Add Prefix or Suffix to Levels](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) [1.5. Add Prefix or Suffix to Levels](#add-prefix-or-suffix-to-levels)  
+
+# <a id="edit-levels"></a> ![Edit Levels](/images/Tools/Grider/Icons/Grid_Main.png) 2. Edit Levels
+  
+![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [2.1. Rename Grids with Menu](#rename-grids-with-menu)  
+
+## Grider 
+
 # <a id="grid-names"></a> ![Grid Names](/images/Tools/Grider/Icons/Grid_Main.png) 1. Grid Names
   
 ![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [1.1. Rename Grids with Menu](#rename-grids-with-menu)  
@@ -42,8 +57,28 @@ Please give animations some time to download
 ![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) [1.3. Rename Grids Down](#rename-grids-down)  
 ![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) [1.4. Add Prefix or Suffix to Grids](#add-prefix-or-suffix-to-grids)  
 
-  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 ## <a id="rename-grids-with-menu"></a> ![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) Rename Grids with Menu
 
 Changes names of selected grids with provided menu.  
@@ -52,7 +87,7 @@ How to use the tool:
 
 You will be prompted to select two points which will select the grids in order. Use provided menu to define the grid names and press ok.  
 
-![Image: Rename Grids with Menu](https://drive.google.com/uc?export=view&id=1-NYZULf6RomH2p5IQkdG4XTqExac9vAP)  
+![Image: Rename Grids with Menu](https://drive.google.com/uc?export=view&id=10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs)  
 
 
 ## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
@@ -63,7 +98,7 @@ How to use the tool:
 
 Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
-![Image: Rename Grids Up](https://drive.google.com/uc?export=view&id=1-KfoNiWLRj-WzZXA_mkeow7rN4wDuqSt)  
+![Image: Rename Grids Up](https://drive.google.com/uc?export=view&id=11-pMfgGv8LRp13jrB_UsfejXshXnT20H)  
 
 
 ## <a id="rename-grids-down"></a> ![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) Rename Grids Down
@@ -74,7 +109,7 @@ How to use the tool:
 
 Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
-![Image: Rename Grids Down](https://drive.google.com/uc?export=view&id=1-amQ2CtClPx4NVGDpq0MBtHXIYNF-BUS)  
+![Image: Rename Grids Down](https://drive.google.com/uc?export=view&id=10h8hrpqBpPBTjdu7lNgm9YXw-VYBhHct)  
 
 
 ## <a id="add-prefix-or-suffix-to-grids"></a> ![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Add Prefix or Suffix to Grids
@@ -85,7 +120,7 @@ How to use the tool:
 
 Select some grids or you will be prompted to do it by the tool. After that simply provide the values for prefix and/or suffix. Press ok and we will do the rest.  
 
-![Image: Add Prefix or Suffix to Grids](https://drive.google.com/uc?export=view&id=1-dre82faqgDiLyk5-qXR-XceJc0E9G2U)  
+![Image: Add Prefix or Suffix to Grids](https://drive.google.com/uc?export=view&id=10hfFpUTrbUxq0VyXdSUxB6XLtABcfOxB)  
 
 # Trial version 
 
