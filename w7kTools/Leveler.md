@@ -18,6 +18,10 @@ I came out with the idea of this tool when I had to change manually references o
 
 [Link to the Autodesk App Store](https://apps.autodesk.com/RVT/en/Detail/Index?id=7992073470185484796&appLang=en&os=Win64)
 
+## Leveler Version 1.1
+
+The tool will be updated with 10 more scripts. You will find some extra information about them here.  
+
 ## Buttons by Options
 
 ![LevelerExtendedOptions](/images/Tools/Leveler/LevelerExtendedOptions.png)

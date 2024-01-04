@@ -1,21 +1,32 @@
 ---
 layout: page
-title: Grider
-permalink: /tools/grider/
+title: Leveler 1.1
+permalink: /tools/leveler11/
 ---
 
-![MainTab](/images/Tools/Grider/Large/grider_1.jpg)
+![MainTab](/images/Tools/Grider/grider_1.jpg)
 
-Grider allows you to control grids in your project. It allows you to control them better - for example rename them. 
 
-Grider is a part of Leveler add-in.  
-  
+
+
 [Link to Leveler](/Leveler.md)  
 [Link to Leveler at the Autodesk App Store](https://apps.autodesk.com/RVT/en/Detail/Index?id=7992073470185484796&appLang=en&os=Win64)  
-  
+
 # Video
 
-Please visit Leveler for video.  
+Please watch videos in HD. 
+
+## Short Video
+
+For an introduction to Drafter, please watch the short version below. You can also show it to your boss to convince them to buy this this tool 😉
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/oo51oaNXY9A?si=OhEGN8hiWTKWNEPd" frameborder="0" allowfullscreen
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+  </div>
+</div>
+
 
 ## Other Help 
 
@@ -41,7 +52,7 @@ How to use the tool:
 
 You will be prompted to select two points which will select the grids in order. Use provided menu to define the grid names and press ok.  
 
-![Image: Rename Grids with Menu](https://drive.google.com/file/d/1-NYZULf6RomH2p5IQkdG4XTqExac9vAP/preview)  
+![Image: Rename Grids with Menu](https://drive.google.com/uc?export=view&id=1-NYZULf6RomH2p5IQkdG4XTqExac9vAP)  
 
 
 ## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
