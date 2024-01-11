@@ -123,7 +123,7 @@ Their position on the sheet will be adjusted to position saved in the memory.
 
 [Go back to 7.Title Blocks](/DrTitleBlocks.md/#title-blocks)  
 
-[Go to 9.Schedules](/DrShedules.md/#schedules)  
+[Go to 9.Schedules](/DrSchedules.md/#schedules)  
 
 [Back to List](/Drafter.md/#list)  
   

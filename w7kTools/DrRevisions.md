@@ -93,7 +93,7 @@ Select some views or sheets in a project browser and press the button. The tool 
   </iframe>
 </div>
 
-[Go back to 9.Schedules](/DrShedules.md/#schedules)  
+[Go back to 9.Schedules](/DrSchedules.md/#schedules)  
 
 [Go to 11.Text-Notes](/DrTextNotes.md/#text-notes)  
 
