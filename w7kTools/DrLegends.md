@@ -30,7 +30,12 @@ Select exemplary legend or when started you will be prompted to do it by the too
 
 We will find all instances of it and adjust their positions on sheets.
 
-![Image: Position of all instances of selected Legend](https://drive.google.com/uc?export=view&id=18yFmlostMzZbEkWGBb_kyT4nVoVsoDlr)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18yFmlostMzZbEkWGBb_kyT4nVoVsoDlr/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="title-line-type-of-all-instances-of-selected-legend"></a> ![Title line type of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_TitleLineType.png) Title line type of all instances of selected Legend
 
@@ -42,7 +47,12 @@ Select exemplary legend or when started you will be prompted to do it by the too
 
 The tool will read its type and apply it to all instances of it.
 
-![Image: Title line type of all instances of selected Legend](https://drive.google.com/uc?export=view&id=18z5EUZ5Wukx9tnaTTM4e1cwmtbf7JUri)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18z5EUZ5Wukx9tnaTTM4e1cwmtbf7JUri/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="title-line-position-&-length-of-all-instances-of-selected-legend"></a> ![Title line position & length of all instances of selected Legend](/images/Tools/Drafter/Icons/Legend_TitleLinePosLen.png) Title line position & length of all instances of selected Legend
 
@@ -54,7 +64,12 @@ Select exemplary legend or when started you will be prompted to do it by the too
 
 Its position (according to the legend's left bottom corner) will be transfer to the rest of its instances.
 
-![Image: Title line position & length of all instances of selected Legend](https://drive.google.com/uc?export=view&id=18zWmGJAcFYnKV0ykBo65iSgHfHnBvn22)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18zWmGJAcFYnKV0ykBo65iSgHfHnBvn22/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="make-look-the-same-all-instances-of-selected-legends"></a> ![Make look THE SAME all instances of selected Legends](/images/Tools/Drafter/Icons/Legend_All.png) Make look THE SAME all instances of selected Legends
 
@@ -66,7 +81,12 @@ Select exemplary legend or when started you will be prompted to do it by the too
 
 We will do the rest! 
 
-![Image: Make look THE SAME all instances of selected Legends](https://drive.google.com/uc?export=view&id=196GzxLS99wfQHu8jB11gTTT3YQFCyZlQ)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/196GzxLS99wfQHu8jB11gTTT3YQFCyZlQ/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="legend-save-position-to-memory"></a> ![Legend - Save position to MEMORY](/images/Tools/Drafter/Icons/Legend_SaveMemory.png) Legend - Save position to MEMORY
 
@@ -76,7 +96,12 @@ How to use the tool:
 
 Click the button and pick one legend. Its settings will be saved in external file for further use.
 
-![Image: Legend - Save position to MEMORY](https://drive.google.com/uc?export=view&id=196GzxLS99wfQHu8jB11gTTT3YQFCyZlQ)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/196GzxLS99wfQHu8jB11gTTT3YQFCyZlQ/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="legend-load-position-from-memory-to-selected"></a> ![Legend - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Legend_PositionFromMemory.png) Legend - Load position from MEMORY to Selected
 
@@ -88,8 +113,12 @@ Select legends which you want to change, or when started you will be prompted to
 
 Their position on the sheet will be adjusted to position saved in the memory.
 
-![Image: Legend - Load position from MEMORY to Selected](https://drive.google.com/uc?export=view&id=19mrtvW8gKKHwEks9SQZ5T18KE2pMp3Jl)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19mrtvW8gKKHwEks9SQZ5T18KE2pMp3Jl/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 
 [Go back to 7.Title Blocks](/DrTitleBlocks.md/#title-blocks)  

@@ -34,7 +34,12 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-![Sheet Number - Add prefix](https://drive.google.com/uc?export=view&id=15nL50Dg23UWa0tFKYXJWlXSRvhxHzxE3)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15nL50Dg23UWa0tFKYXJWlXSRvhxHzxE3/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="sheet-number-add-suffix"></a> ![Sheet Number - Add suffix](/images/Tools/Drafter/Icons/suffixBlue.png) Sheet Number - Add suffix 
 
@@ -44,7 +49,12 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. You will be asked to select the suffix you want to apply in a special menu. 
 
-![Sheet Number - Add suffix](https://drive.google.com/uc?export=view&id=15aE_FyTowhiUXe6-kGzxnVBBhah5Mmt3)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15aE_FyTowhiUXe6-kGzxnVBBhah5Mmt3/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="sheet-number-to-lower-case"></a> ![Sheet Number - To lower case](/images/Tools/Drafter/Icons/TextToLowerBlue.png) Sheet Number - To lower case 
 
@@ -54,7 +64,12 @@ How to use the tool:
 
 Select sheets in a project browser and press the button. 
 
-![Sheet Number - To lower case](https://drive.google.com/uc?export=view&id=15lx1Q0sFQptxAedqJ3XWaSGVA5csPax7)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15lx1Q0sFQptxAedqJ3XWaSGVA5csPax7/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="sheet-number-to-upper-case"></a> ![Sheet Number - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpperBlue.png) Sheet Number - To UPPER CASE 
 
@@ -64,7 +79,12 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. 
 
-![Sheet Number - To UPPER CASE](https://drive.google.com/uc?export=view&id=15rQIYnrmLBrUYTmWq63_9F7HN97soNj1)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15rQIYnrmLBrUYTmWq63_9F7HN97soNj1/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="sheet-number-to-title-case"></a> ![Sheet Number - To Title Case](/images/Tools/Drafter/Icons/TextToTitleBlue.png) Sheet Number - To Title Case 
 
@@ -74,7 +94,12 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. 
 
-![Sheet Number - To Title Case](https://drive.google.com/uc?export=view&id=15p53jeLKjR29LRddfEH7rcxOxlKl1il5)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15p53jeLKjR29LRddfEH7rcxOxlKl1il5/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="sheet-number-find-and-replace"></a> ![Sheet Number - Find and replace](/images/Tools/Drafter/Icons/TextFindAndReplaceBlue.png) Sheet Number - Find and replace
 
@@ -84,7 +109,12 @@ How to use the tool:
 
 Select the sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
-![Sheet Number - Find and replace](https://drive.google.com/uc?export=view&id=15dI9HpUBN5G-rf5rhIwlBsAxOItDmCbf)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15dI9HpUBN5G-rf5rhIwlBsAxOItDmCbf/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="sheet-number-find-and-replace-all"></a> ![Sheet Number - Find and replace (All)](/images/Tools/Drafter/Icons/TextFindAndReplaceBlueAll.png) Sheet Number - Find and replace (All)
 
@@ -94,7 +124,12 @@ How to use the tool:
 
 Press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
-![Sheet Number - Find and replace (All)](https://drive.google.com/uc?export=view&id=15oBVJEAEvSu80SCrSNUEDLx8WND-sgbs)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15oBVJEAEvSu80SCrSNUEDLx8WND-sgbs/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="names-add-prefix"></a> ![Names - Add prefix](/images/Tools/Drafter/Icons/prefix.png) Names - Add prefix 
 
@@ -104,7 +139,12 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-![Names - Add prefix](https://drive.google.com/uc?export=view&id=15xPs5N3y7yDOwEr4JkT_5UVCyzs7jjlL)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15xPs5N3y7yDOwEr4JkT_5UVCyzs7jjlL/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="names-add-suffix"></a> ![Names - Add suffix](/images/Tools/Drafter/Icons/suffix.png) Names - Add suffix 
 
@@ -114,7 +154,12 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. You will be asked to select the prefix you want to apply in a special menu. 
 
-![Names - Add suffix](https://drive.google.com/uc?export=view&id=15_0IjjixTtRi32S5KekxsIQrftiEcBGb)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15_0IjjixTtRi32S5KekxsIQrftiEcBGb/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="names-to-lower-case"></a> ![Names - To lower case](/images/Tools/Drafter/Icons/TextToLower.png) Names - To lower case 
 
@@ -124,7 +169,12 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-![Names - To lower case](https://drive.google.com/uc?export=view&id=15_MgLWQs96Mex2NmKs5B1QK1zNSDGPdm)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15_MgLWQs96Mex2NmKs5B1QK1zNSDGPdm/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="names-to-upper-case"></a> ![Names - To UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png) Names - To UPPER CASE 
 
@@ -134,7 +184,12 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-![Names - To UPPER CASE](https://drive.google.com/uc?export=view&id=15qxQyBoDBQ5brwqYJu9ukVBYS5MrI4dm)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/15qxQyBoDBQ5brwqYJu9ukVBYS5MrI4dm/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="names-to-title-case"></a> ![Names - To Title Case](/images/Tools/Drafter/Icons/TextToTitle.png) Names - To Title Case 
 
@@ -144,7 +199,12 @@ How to use the tool:
 
 Select views or sheets in a project browser and press the button. 
 
-![Names - To Title Case](https://drive.google.com/uc?export=view&id=16SO_GDiiFkusLT3tshMfJQvw6_tgTD2V)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/16SO_GDiiFkusLT3tshMfJQvw6_tgTD2V/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="names-find-and-replace"></a> ![Names - Find and Replace](/images/Tools/Drafter/Icons/TextFindAndReplace.png) Names - Find and Replace
 
@@ -154,9 +214,12 @@ How to use the tool:
 
 Select some views or sheets in a project browser and press the button. You will be prompted to provide the values of find and replace. Press ok and we will do the rest. 
 
-![Names - Find and Replace](https://drive.google.com/uc?export=view&id=16HqOgCtKZZnLAJJSjSwIZR6Hyb2Bqgq0)  
-
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/16HqOgCtKZZnLAJJSjSwIZR6Hyb2Bqgq0/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 1.TitleLines](/DrTitleLines.md/#title-lines)  
 

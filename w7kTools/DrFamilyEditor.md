@@ -23,7 +23,13 @@ How to use the tool:
 
 Select text elements which you want to move, or when started you will be prompted to do it by the tool. After that, you just need to pick the point.
 
-![Image: Move Text Element to the point](https://drive.google.com/uc?export=view&id=18IsFi08GkKjVSFLUQtp-u0BTjaO-Le9k)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18IsFi08GkKjVSFLUQtp-u0BTjaO-Le9k/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
 
 ## <a id="draw-lines-at-(0,-0)"></a> ![Draw lines at (0, 0)](/images/Tools/Drafter/Icons/FE_drawzero.png) Draw lines at (0, 0)
 
@@ -33,8 +39,12 @@ How to use the tool:
 
 Press the button.
 
-![Image: Draw lines at (0, 0)](https://drive.google.com/uc?export=view&id=18N0gezxzM3rP9QSlc_4GetkJSQbdjphk)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18N0gezxzM3rP9QSlc_4GetkJSQbdjphk/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-width-of-selected-text-elements-with-menu"></a> ![Set width of selected Text Elements with MENU](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected Text Elements with MENU 
 
@@ -44,8 +54,12 @@ How to use the tool:
 
 Select text elements or when started you will be prompted to do it by the tool. After that you will be asked to provide us with desire width of your text elements.
 
-![Image: Set width of selected Text Elements with MENU](https://drive.google.com/uc?export=view&id=18tjHsmqUPw-LQT2K74TsSWoXpcc8hnMp)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18tjHsmqUPw-LQT2K74TsSWoXpcc8hnMp/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 19.Various](/DrVarious.md/#various)  
 

@@ -40,7 +40,7 @@ Changes names of selected grids with provided menu.
 How to use the tool:  
 
 You will be prompted to select two points which will select the grids in order. Use provided menu to define the grid names and press ok.  
-  
+
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
     src="https://drive.google.com/file/d/10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs/preview"
@@ -51,11 +51,11 @@ You will be prompted to select two points which will select the grids in order. 
 ## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
 
 Renames selected grids so they go up (1 to 2, 2 to 3, A to B, B to C).  
-x
+
 How to use the tool:  
 
 Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
-  
+
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
     src="https://drive.google.com/file/d/11-pMfgGv8LRp13jrB_UsfejXshXnT20H/preview"
@@ -73,7 +73,7 @@ Select some grids or you will be prompted to do it by the tool. Press the button
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
-    src="https://drive.google.com/uc?export=view&id=10h8hrpqBpPBTjdu7lNgm9YXw-VYBhHct/preview"
+    src="https://drive.google.com/file/d/10h8hrpqBpPBTjdu7lNgm9YXw-VYBhHct/preview"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
@@ -88,7 +88,7 @@ Select some grids or you will be prompted to do it by the tool. After that simpl
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
-    src="https://drive.google.com/uc?export=view&id=10hfFpUTrbUxq0VyXdSUxB6XLtABcfOxB/preview"
+    src="https://drive.google.com/file/d/10hfFpUTrbUxq0VyXdSUxB6XLtABcfOxB/preview"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>

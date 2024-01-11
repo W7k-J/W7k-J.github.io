@@ -24,8 +24,12 @@ How to use the tool:
 
 Select some masking regions, or when started, you will be prompted to do it by the tool. 
 
-![Image: Convert Masking Region into Filled Region](https://drive.google.com/uc?export=view&id=198AjheZh8yApM0GHTxYsMk3yKZ31pqle)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/198AjheZh8yApM0GHTxYsMk3yKZ31pqle/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="walls-to-filled-region"></a> ![Walls to Filled Region](/images/Tools/Drafter/Icons/Region_ConvertWall.png) Walls to Filled Region
 
@@ -35,7 +39,12 @@ How to use the tool:
 
 Select some walls, or when started, you will be prompted to do it by the tool.
 
-![Image: Walls to Filled Region](https://drive.google.com/uc?export=view&id=19vxCPgulUdTFk8rCuS9xUSbU1Xaj1H7i)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19vxCPgulUdTFk8rCuS9xUSbU1Xaj1H7i/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 17.Dimensions](/DrDimensions.md/#dimensions)  
 

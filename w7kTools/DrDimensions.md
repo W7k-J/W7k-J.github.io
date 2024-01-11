@@ -26,7 +26,12 @@ How to use the tool:
 
 Select some dimensions, or when started, you will be prompted to do it by the tool. 
 
-![Image: Reset value overrides in selected Dimensions](https://drive.google.com/uc?export=view&id=18_bMgvh9Mz9nGt77Extgx-JOnhkPBXMr)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18_bMgvh9Mz9nGt77Extgx-JOnhkPBXMr/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-text-position-in-selected-dimensions"></a> ![Reset text position in selected Dimensions](/images/Tools/Drafter/Icons/Dim_ResetPosition.png) Reset text position in selected Dimensions
 
@@ -36,7 +41,12 @@ How to use the tool:
 
 Select some dimensions, or when started, you will be prompted to do it by the tool. 
 
-![Image: Reset text position in selected Dimensions](https://drive.google.com/uc?export=view&id=18Zgo9f5spsL7paXUjtGhceBXoq-rdH7r)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18Zgo9f5spsL7paXUjtGhceBXoq-rdH7r/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="find-&-replace-in-all-dimensions"></a> ![Find & Replace in all dimensions](/images/Tools/Drafter/Icons/Dim_FindAndReplace.png) Find & Replace in all dimensions
 
@@ -46,7 +56,12 @@ How to use the tool:
 
 Start the tool.  You will be asked to provide the values in menu you want to search for and replace with.
 
-![Image: Find & Replace in all dimensions](https://drive.google.com/uc?export=view&id=1Hb4crn58uOqYEzqptt_10KAmMHCz6Joc)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1Hb4crn58uOqYEzqptt_10KAmMHCz6Joc/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="find-zeros-in-dimensions"></a> ![Find Zeros in dimensions](/images/Tools/Drafter/Icons/Dim_Zero.png) Find Zeros in dimensions
 
@@ -56,9 +71,12 @@ How to use the tool:
 
 Start the tool. We will check the project for all dimensions with value "0". You will get a menu with a list of them and an option to export it to a txt file. 
 
-![Image: Find Zeros in dimensions](https://drive.google.com/uc?export=view&id=18Saa0f7oK7ThSsxg5TaaPvRENxHsgSGt)  
-
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18Saa0f7oK7ThSsxg5TaaPvRENxHsgSGt/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 16.Tags Leader](/DrTagsLeader.md/#tags-leaders)  
 
