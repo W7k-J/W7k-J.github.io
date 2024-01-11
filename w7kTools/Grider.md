@@ -43,7 +43,7 @@ You will be prompted to select two points which will select the grids in order. 
 
 <img src="https://drive.google.com/uc?export=view&id=10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs" alt="Image: Rename Grids with Menu">
 <img src="https://drive.usercontent.google.com/download?id=10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs&export=view" alt="Image: Rename Grids with Menu">
-<iframe src="https://drive.google.com/file/d/10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs/preview" width="auto" height="auto" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs/preview" width="100%" height="100vh" allow="autoplay"></iframe>
 <img src="https://drive.google.com/file/d/10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs/preview" alt="Image: Rename Grids with Menu">
 
 ## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
