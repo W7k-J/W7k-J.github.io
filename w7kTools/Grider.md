@@ -50,6 +50,9 @@ You will be prompted to select two points which will select the grids in order. 
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
+    
+    
+<img src="https://drive.google.com/file/d/10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs/preview" alt="Image: Rename Grids with Menu">
 
 ## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
 
@@ -60,6 +63,14 @@ How to use the tool:
 Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
 ![Image: Rename Grids Up](https://drive.google.com/uc?export=view&id=11-pMfgGv8LRp13jrB_UsfejXshXnT20H)  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/11-pMfgGv8LRp13jrB_UsfejXshXnT20H/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
 
 
 ## <a id="rename-grids-down"></a> ![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) Rename Grids Down
