@@ -69,7 +69,12 @@ How to use the tool:
 
 Select some levels or you will be prompted to do it by the tool. Use provided menu to define the grid names and press ok.  
 
-![Image: Rename Levels with Menu](https://drive.google.com/uc?export=view&id=106krw4LkxjFPkttYjBJbU0t-5w7CPSMO)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="find-and-replace-in-levels-names"></a> ![Find and Replace in Levels Names](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Find and Replace in Levels Names
 
@@ -79,7 +84,12 @@ How to use the tool:
 
 Select some levels or you will be prompted to do it by the tool. After that simply provide the values for prefix and/or suffix. Press ok and we will do the rest.  
 
-![Image: Find and Replace in Levels Names](https://drive.google.com/uc?export=view&id=10Vk7Yuw1qpfGTe4z84ijzHoZ972sAX4R)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/10Vk7Yuw1qpfGTe4z84ijzHoZ972sAX4R/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rename-levels-up"></a> ![Rename Levels Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Levels Up
 
@@ -89,8 +99,12 @@ How to use the tool:
 
 Select some levels or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
-![Image: Rename Levels Up](https://drive.google.com/uc?export=view&id=10dnWe4PSWx1YPHNO7ViPtVBd0PDwZleS)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/10dnWe4PSWx1YPHNO7ViPtVBd0PDwZleS/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rename-levels-down"></a> ![Rename Levels Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) Rename Levels Down
 
@@ -100,8 +114,12 @@ How to use the tool:
 
 Select some levels or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
-![Image: Rename Levels Down](https://drive.google.com/uc?export=view&id=10TnmPZOMcUbGQJFmnQV6sPQHhPy_aoxN)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/10TnmPZOMcUbGQJFmnQV6sPQHhPy_aoxN/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="add-prefix-or-suffix-to-levels"></a> ![Add Prefix or Suffix to Levels](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Add Prefix or Suffix to Levels
 
@@ -111,7 +129,12 @@ How to use the tool:
 
 Select some levels or you will be prompted to do it by the tool. After that simply provide the values for prefix and/or suffix. Press ok and we will do the rest.  
 
-![Image: Add Prefix or Suffix to Levels](https://drive.google.com/uc?export=view&id=105n2cQ7eS4YACouX-9mbZcejUJUo51_M)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/105n2cQ7eS4YACouX-9mbZcejUJUo51_M/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
   
 
@@ -127,7 +150,12 @@ How to use the tool:
 
 Select some levels or you will be prompted to do it by the tool. After that, you will have to specify the values you want to move.
 
-![Image: Rename Levels with Menu](https://drive.google.com/uc?export=view&id=10b0xmB46kFeNTG7TY7BAsRdnCLh3Rett)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/10b0xmB46kFeNTG7TY7BAsRdnCLh3Rett/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
   
 
@@ -143,8 +171,12 @@ How to use the tool:
 
 You will be prompted to select two points which will select the grids in order. Use provided menu to define the grid names and press ok.  
 
-![Image: Rename Grids with Menu](https://drive.google.com/uc?export=view&id=10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
 
@@ -154,8 +186,12 @@ How to use the tool:
 
 Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
-![Image: Rename Grids Up](https://drive.google.com/uc?export=view&id=11-pMfgGv8LRp13jrB_UsfejXshXnT20H)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/11-pMfgGv8LRp13jrB_UsfejXshXnT20H/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rename-grids-down"></a> ![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) Rename Grids Down
 
@@ -165,7 +201,12 @@ How to use the tool:
 
 Select some grids or you will be prompted to do it by the tool. Press the button and we will do the rest.  
 
-![Image: Rename Grids Down](https://drive.google.com/uc?export=view&id=10h8hrpqBpPBTjdu7lNgm9YXw-VYBhHct)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/10h8hrpqBpPBTjdu7lNgm9YXw-VYBhHct/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="add-prefix-or-suffix-to-grids"></a> ![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) Add Prefix or Suffix to Grids
 
@@ -175,7 +216,12 @@ How to use the tool:
 
 Select some grids or you will be prompted to do it by the tool. After that simply provide the values for prefix and/or suffix. Press ok and we will do the rest.  
 
-![Image: Add Prefix or Suffix to Grids](https://drive.google.com/uc?export=view&id=10hfFpUTrbUxq0VyXdSUxB6XLtABcfOxB)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/10hfFpUTrbUxq0VyXdSUxB6XLtABcfOxB/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 # Trial version 
 
