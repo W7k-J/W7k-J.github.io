@@ -41,7 +41,12 @@ After selection you will be prompted to define the offsets for top and base and 
 
 In theory works for all vertical views such as sections or elevations. Sadly for now I allow it to adjust only elevations. More info in sections "Problems on To-Do List" at the bottom of this page 
 
-![Top & Base Offset - Active](https://drive.google.com/uc?export=view&id=17NhpvpNFI5a1VNMLwqAn9Wv5MkujHaJG)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17NhpvpNFI5a1VNMLwqAn9Wv5MkujHaJG/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="top-&-base-offset-selected-views"></a> ![Top & Base Offset - Selected Views](/images/Tools/Drafter/Icons/VV_Offset_Selected.png) Top & Base Offset - Selected Views
 
@@ -55,7 +60,12 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works with vertical views such as sections or elevations. 
 
-![Top & Base Offset - Selected Views](https://drive.google.com/uc?export=view&id=17YjBPAVd43UFhLRx3ZgfSwPX_wRRShBV)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17YjBPAVd43UFhLRx3ZgfSwPX_wRRShBV/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="top-&-base-offset-views-on-selected-sheets"></a> ![Top & Base Offset - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Offset_SelectedSheets.png) Top & Base Offset - Views on Selected Sheets
 
@@ -69,7 +79,12 @@ After selection you will be prompted to define the offsets for top and base and 
 
 Works with vertical views such as sections or elevations.  
 
-![Top & Base Offset - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=176vb3OP4ECvqIRYHcLK7JlOhQdkP9nCG)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/176vb3OP4ECvqIRYHcLK7JlOhQdkP9nCG/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="extend-side-active"></a> ![Extend Side - Active](/images/Tools/Drafter/Icons/VV_Side_ActiveV.png) Extend Side - Active 
 
@@ -83,7 +98,12 @@ After selection you will be prompted to define the extension.
 
 Works with vertical views such as sections or elevations. 
 
-![Extend Side - Active](https://drive.google.com/uc?export=view&id=17VilepcwEc1xYVhrQN2haE8uBauVjUI_)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17VilepcwEc1xYVhrQN2haE8uBauVjUI_/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="extend-side-selected-views"></a> ![Extend Side - Selected Views](/images/Tools/Drafter/Icons/VV_Side_Selected.png) Extend Side - Selected Views
 
@@ -97,7 +117,12 @@ After selection you will be prompted to define the extension.
 
 Works with vertical views such as sections or elevations. 
 
-![Extend Side - Selected Views](https://drive.google.com/uc?export=view&id=18BfZjkJdtBkdJ1U0UAJGcC36cOjQmsLA)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18BfZjkJdtBkdJ1U0UAJGcC36cOjQmsLA/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="extend-side-views-on-selected-sheets"></a> ![Extend Side - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Side_SelectedSheets.png) Extend Side - Views on Selected Sheets
 
@@ -111,7 +136,12 @@ After selection you will be prompted to define the extension.
 
 Works with vertical views such as sections or elevations. 
 
-![Extend Side - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=17Vto-NS0VCE9dSmmKV9_938d2e-G4Ask)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17Vto-NS0VCE9dSmmKV9_938d2e-G4Ask/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-as-picked-active-sheet"></a> ![Set Top & Base as Picked - Active Sheet](/images/Tools/Drafter/Icons/VV_Pick_ActiveView.png) Set Top & Base as Picked - Active Sheet
 
@@ -125,7 +155,12 @@ You will be asked to pick one exemplary view. We will read its top and base elev
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base as Picked - Active Sheet](https://drive.google.com/uc?export=view&id=17OgpUDk1A_AyP7nWs2hDPYYuQfCUWjZS)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17OgpUDk1A_AyP7nWs2hDPYYuQfCUWjZS/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-as-picked-selected-views"></a> ![Set Top & Base as Picked - Selected Views](/images/Tools/Drafter/Icons/VV_Pick_Selected.png) Set Top & Base as Picked - Selected Views
 
@@ -139,7 +174,12 @@ After that you will be asked to pick one exemplary view. We will read its top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base as Picked - Selected Views](https://drive.google.com/uc?export=view&id=188U04kkMZTzi8sKMbNCXiJ7wvWDIBIy1)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/188U04kkMZTzi8sKMbNCXiJ7wvWDIBIy1/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-as-picked-views-on-selected-sheets"></a> ![Set Top & Base as Picked - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Pick_SelectedSheets.png) Set Top & Base as Picked - Views on Selected Sheets
 
@@ -153,7 +193,12 @@ After that you will be asked to pick one exemplary view. We will read its top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base as Picked - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=17X09EpjnOe50izDyBtegPBaFGNrulVGZ)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17X09EpjnOe50izDyBtegPBaFGNrulVGZ/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-with-menu-active"></a> ![Set Top & Base with MENU - Active](/images/Tools/Drafter/Icons/VV_H_ActiveView.png) Set Top & Base with MENU - Active
 
@@ -169,7 +214,12 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base with MENU - Active](https://drive.google.com/uc?export=view&id=17V4VWwNyMlAst4oBbX8CJy1lfDb6sv2i)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17V4VWwNyMlAst4oBbX8CJy1lfDb6sv2i/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-with-menu-selected-views"></a> ![Set Top & Base with MENU - Selected Views](/images/Tools/Drafter/Icons/VV_H_Selected.png) Set Top & Base with MENU - Selected Views
 
@@ -183,7 +233,12 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base with MENU - Selected Views](https://drive.google.com/uc?export=view&id=17S45fcMwF4ClC5VshqMpVxc_GBuBY_Mp)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17S45fcMwF4ClC5VshqMpVxc_GBuBY_Mp/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-with-menu-views-on-selected-sheets"></a> ![Set Top & Base with MENU - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_H_SelectedSheets.png) Set Top & Base with MENU - Views on Selected Sheets
 
@@ -197,7 +252,12 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base with MENU - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=178sc3Ao2rmV6oYg43LzLL5V7PiO5E5hm)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/178sc3Ao2rmV6oYg43LzLL5V7PiO5E5hm/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="save-top-base-to-memory"></a> ![Save To MEMORY - Top & Base Elevation](/images/Tools/Drafter/Icons/VV_Memory.png) Save To MEMORY - Top & Base Elevation
 
@@ -207,7 +267,12 @@ How to use the tool:
 
 Click the button and pick one view. Its settings will be saved in external file for further use.
 
-![Save To MEMORY - Top & Base Elevation](https://drive.google.com/uc?export=view&id=183M6XLURPNy2INaheUYc7hspnarOXPB5)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/183M6XLURPNy2INaheUYc7hspnarOXPB5/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-from-memory-active"></a> ![Set Top & Base from MEMORY - Active](/images/Tools/Drafter/Icons/VV_Memory_ActiveView.png) Set Top & Base from MEMORY - Active
 
@@ -223,7 +288,12 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base from MEMORY - Active](https://drive.google.com/uc?export=view&id=17_45EYdzTJt3VcU94VJJ1-syUj8MKDJ8)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/17_45EYdzTJt3VcU94VJJ1-syUj8MKDJ8/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-from-memory-selected-views"></a> ![Set Top & Base from MEMORY - Selected Views](/images/Tools/Drafter/Icons/VV_Memory_Selected.png) Set Top & Base from MEMORY - Selected Views
 
@@ -237,7 +307,12 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base from MEMORY - Selected Views](https://drive.google.com/uc?export=view&id=18BDXeTzEWaVHC7FN9JP8k409UiBMdUTm)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/18BDXeTzEWaVHC7FN9JP8k409UiBMdUTm/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-top-base-from-memory-views-on-selected-sheets"></a> ![Set Top & Base from MEMORY - Views on Selected Sheets](/images/Tools/Drafter/Icons/VV_Memory_SelectedSheets.png) Set Top & Base from MEMORY - Views on Selected Sheets
 
@@ -251,9 +326,12 @@ After selection you will be prompted to define the levels and offsets for top an
 
 Works with vertical views such as sections or elevations. 
 
-![Set Top & Base from MEMORY - Views on Selected Sheets](https://drive.google.com/uc?export=view&id=16yL2ifHzh4-zZ7bF1P6W7tpZ_gb1f_Pg)  
-
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/16yL2ifHzh4-zZ7bF1P6W7tpZ_gb1f_Pg/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 2.Project Browser](/DrProjectBrowser.md/#project-browser)  
 
