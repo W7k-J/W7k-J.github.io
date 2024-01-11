@@ -221,7 +221,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
 
-![Image: Distances (X-Axis) between selected Text Notes (Vertical)](https://drive.google.com/uc?export=view&id=1EWCoif3kYV3JQtGMp4PE6EE9tJskxB0o)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EWCoif3kYV3JQtGMp4PE6EE9tJskxB0o/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-average-distance-(y-axis)-between-selected-text-notes-(horizontal)"></a> ![Set average distance (Y-axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_DistAverageH.png) Set average distance (Y-axis) between selected Text Notes (Horizontal)
 
@@ -231,7 +236,12 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-![Image: Set average distance (Y-axis) between selected Text Notes (Horizontal)](https://drive.google.com/uc?export=view&id=1EWO1aZV-00OC9HzLx8-oXVJ2aSz6VMiz)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EWO1aZV-00OC9HzLx8-oXVJ2aSz6VMiz/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-average-distance-(x-axis)-between-selected-text-notes-(vertical)"></a> ![Set average distance (X-axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_DistAverageV.png) Set average distance (X-axis) between selected Text Notes (Vertical)
 
@@ -241,7 +251,12 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool. 
 
-![Image: Set average distance (X-axis) between selected Text Notes (Vertical)](https://drive.google.com/uc?export=view&id=1EsMlinFmeP5ioBWquo_EaR7rTouCrSxk)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EsMlinFmeP5ioBWquo_EaR7rTouCrSxk/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-distance-between-selected-text-notes-with-menu"></a> ![Set distance between selected Text Notes with Menu](/images/Tools/Drafter/Icons/TextNotes_DistMenu.png) Set distance between selected Text Notes with Menu
 
@@ -253,8 +268,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose distances in provided menu. 
 
-![Image: Set distance between selected Text Notes with Menu](https://drive.google.com/uc?export=view&id=1EbFlV2NjspswFDELJl1kANCtdjNztIiH)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EbFlV2NjspswFDELJl1kANCtdjNztIiH/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 11.Text-Notes](/DrTextNotes.md/#text-notes)  
 

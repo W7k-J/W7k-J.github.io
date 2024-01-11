@@ -29,7 +29,12 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will reset their position. At the end you will be informed about the number of changes.
 
-![Image: Reset position to default - Selected TB](https://drive.google.com/uc?export=view&id=1C8A1I5WwC-Guv-bgGZru4my4HpUE8A41)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1C8A1I5WwC-Guv-bgGZru4my4HpUE8A41/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-position-to-default-instances-of-selected-tb-type"></a> ![Reset position to default - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_ResetType.png) Reset position to default - Instances of Selected TB Type
 
@@ -39,7 +44,12 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and reset their position. At the end you will be informed about the number of changes.
 
-![Image: Reset position to default - Instances of Selected TB Type](https://drive.google.com/uc?export=view&id=1CMPFbFvIyeiHzkuJjIt1JObOQuoIvugC)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CMPFbFvIyeiHzkuJjIt1JObOQuoIvugC/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-position-to-default-all-tb"></a> ![Reset position to default - All TB](/images/Tools/Drafter/Icons/TitleBlock_ResetAll.png) Reset position to default - All TB
 
@@ -49,7 +59,12 @@ How to use the tool:
 
 Simply use the script and the tool will move all title blocks to their default position. At the end you will be informed about the number of changes. 
 
-![Image: Reset position to default - All TB](https://drive.google.com/uc?export=view&id=1C4LaJv7JAYRr6syMhmnl15D8dAe_mC-a)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1C4LaJv7JAYRr6syMhmnl15D8dAe_mC-a/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rescue!-set-position-instances-of-selected-tb-type"></a> ![Rescue! Set position - Instances of Selected TB Type](/images/Tools/Drafter/Icons/TitleBlock_SetType.png) Rescue! Set position - Instances of Selected TB Type
 
@@ -59,7 +74,12 @@ How to use the tool:
 
 Select the title block or when started you will be prompted to pick some. The tool will collect all instances and sets their position as selected. At the end you will be informed about the number of changes.
 
-![Image: Rescue! Set position - Instances of Selected TB Type](https://drive.google.com/uc?export=view&id=1CA-QFoct0CaUpvlaazcs9ID7VdazHU11)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CA-QFoct0CaUpvlaazcs9ID7VdazHU11/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rescue!-set-position-all-title-blocks"></a> ![Rescue! Set position - All Title Blocks](/images/Tools/Drafter/Icons/TitleBlock_SetAll.png) Rescue! Set position - All Title Blocks
 

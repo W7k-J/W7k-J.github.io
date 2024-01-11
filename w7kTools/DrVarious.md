@@ -26,9 +26,15 @@ Select two elements and use Swap.
 
 The tool works on multiple categories:
 Select two grids and swap their number. Swap sheet numbers, view names, levels etc.
-We recommened you to set 'SWAP' shortcut for this button.
+We recommend you to set 'SWAP' shortcut for this button.
 
-![Image: SWAP](https://drive.google.com/uc?export=view&id=1BkTaEGS6WWkrcIGA2TRzriaCMkhl_W6I)  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1BkTaEGS6WWkrcIGA2TRzriaCMkhl_W6I/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 
 [Go back to 18.Regions](/DrRegions.md/#regions)  
