@@ -42,7 +42,7 @@ How to use the tool:
 You will be prompted to select two points which will select the grids in order. Use provided menu to define the grid names and press ok.  
 
 <img src="https://drive.google.com/uc?export=view&id=10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs" alt="Image: Rename Grids with Menu">
-
+<img src="https://drive.usercontent.google.com/download?id=10iQGHXIzDWwyOkGEs2ZdrF6eo9OdbQSs&export=view" alt="Image: Rename Grids with Menu">
 
 ## <a id="rename-grids-up"></a> ![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) Rename Grids Up
 
