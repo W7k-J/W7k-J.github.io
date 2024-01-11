@@ -24,9 +24,12 @@ How to use the tool:
 Select exemplary viewport or when started you will be prompted to do it by the tool.
 You don't have to unpin the viewports - we will do it automatically. 
 
-![Image: Aling plans on the sheets with the same scopebox](https://drive.google.com/uc?export=view&id=1APUTsCmMV_8iH3OsN0W37KSoRdqFnKcd)  
-
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1APUTsCmMV_8iH3OsN0W37KSoRdqFnKcd/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 5.Sheets](/DrSheets.md/#sheets)  
 

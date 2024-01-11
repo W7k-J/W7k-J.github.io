@@ -28,7 +28,12 @@ How to use the tool:
 
 Simply click the tool and we will try to find all empty material tags. 
 
-![Image: Material Tags - List empty](https://drive.google.com/uc?export=view&id=1AxXl-a9nB0w8ji8VJm4NqfAdeAZQktB2)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AxXl-a9nB0w8ji8VJm4NqfAdeAZQktB2/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="material-tags-nudge-all-empty"></a> ![Material Tags - Nudge all empty](/images/Tools/Drafter/Icons/Tags_Empty_Nudge.png) Material Tags - Nudge all empty
 
@@ -46,7 +51,12 @@ How to use the tool:
 
 Simply click the tool and we will try to find all empty material tags and delete them.  
 
-![Image: Material Tags - Delete all empty](https://drive.google.com/uc?export=view&id=1BqUfITkNVYGmsopSH-El5E2gsEhTwPOY)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1BqUfITkNVYGmsopSH-El5E2gsEhTwPOY/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go to 13.Text Notes - Leader](/DrTextNotesLeader.md/#text-notes-leader)  
 

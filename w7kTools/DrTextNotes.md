@@ -34,7 +34,12 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, the tool will prompt you to select some text notes.
 
-![Image: Text Notes to lower case](https://drive.google.com/uc?export=view&id=1CCe_59Jc0hmLXunUAO_egtOPdGj3hrc9)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CCe_59Jc0hmLXunUAO_egtOPdGj3hrc9/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="text-notes-to-title-case"></a> ![Text Notes to Title Case](/images/Tools/Drafter/Icons/TextToTitle.png) Text Notes to Title Case 
 
@@ -44,7 +49,12 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, you will be prompted to do select text notes by the tool.
 
-![Image: Text Notes to Title Case](https://drive.google.com/uc?export=view&id=1CIL_dRsFKpReWDZjfzpQlB1QqjSKW_Nn)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CIL_dRsFKpReWDZjfzpQlB1QqjSKW_Nn/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="text-notes-to-upper-case"></a> ![Text Notes to UPPER CASE](/images/Tools/Drafter/Icons/TextToUpper.png) Text Notes to UPPER CASE 
 
@@ -54,7 +64,12 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, the tool will prompt you to select some text notes.
 
-![Image: Text Notes to UPPER CASE](https://drive.google.com/uc?export=view&id=1CS9snsOqwcDavnKHME9VXQaEHlcqkKuh)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CS9snsOqwcDavnKHME9VXQaEHlcqkKuh/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="text-notes-to-upper-case-active"></a> ![Text Notes to UPPER CASE - Active](/images/Tools/Drafter/Icons/TextToUpper_ActiveView.png) Text Notes to UPPER CASE - Active
 
@@ -64,7 +79,12 @@ How to use the tool:
 
 Open a view or a sheet. Use the tool. We will gather all the text notes from it and will format all of them to upper case.  
 
-![Image: Text Notes to UPPER CASE - Active](https://drive.google.com/uc?export=view&id=1CbJM2bRPo_RBoRNx_shdeBkTkjv7uhbM)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CbJM2bRPo_RBoRNx_shdeBkTkjv7uhbM/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="text-notes-to-upper-case-all"></a> ![Text Notes to UPPER CASE - All](/images/Tools/Drafter/Icons/TextToUpper_All.png) Text Notes to UPPER CASE - All
 
@@ -74,7 +94,12 @@ How to use the tool:
 
 Press the button. You will be asked to confirm. After that we will gather all the text notes from your project and will format all of them to upper case.  
 
-![Image: Text Notes to UPPER CASE - All](https://drive.google.com/uc?export=view&id=1CphkEk2mhL9qfBisKboijbKq6uezwfAr)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CphkEk2mhL9qfBisKboijbKq6uezwfAr/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="delete-double-spaces-selected-text-notes"></a> ![Delete double spaces - Selected Text Notes](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces.png) Delete double spaces - Selected Text Notes
 
@@ -84,7 +109,12 @@ How to use the tool:
 
 Select text notes and press the button. If your selection is empty, when started, the tool will prompt you to select some text notes.
 
-![Image: Delete double spaces - Selected Text Notes](https://drive.google.com/uc?export=view&id=1CTNF4njy5R_bVYS0L9cXb7Dm4E-L4h4U)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CTNF4njy5R_bVYS0L9cXb7Dm4E-L4h4U/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="delete-double-spaces-active"></a> ![Delete double spaces - Active](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces_ActiveView.png) Delete double spaces - Active
 
@@ -94,7 +124,12 @@ How to use the tool:
 
 Open a view or a sheet. Use the tool. We will gather all the text notes from it and will delete all double spaces in them.
 
-![Image: Delete double spaces - Active](https://drive.google.com/uc?export=view&id=1CUrL7Qsli8jBugIA9zx2dpR5EGcoje9Y)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CUrL7Qsli8jBugIA9zx2dpR5EGcoje9Y/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="delete-double-spaces-all"></a> ![Delete double spaces - All](/images/Tools/Drafter/Icons/TextNotes_DoubleSpaces_All.png) Delete double spaces - All
 
@@ -104,7 +139,12 @@ How to use the tool:
 
 Press the button. You will be asked to confirm. After that we will gather all the text notes in your project and will delete all double spaces in them. 
 
-![Image: Delete double spaces - All](https://drive.google.com/uc?export=view&id=1CbLo876QfYUoW7FFOGz2dIYixdTGZlAe)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CbLo876QfYUoW7FFOGz2dIYixdTGZlAe/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="match-width-of-selected-tn-to-the-picked"></a> ![Match width of selected TN to the PICKED](/images/Tools/Drafter/Icons/TextNotes_SetWidth.png) Match width of selected TN to the PICKED 
 
@@ -116,7 +156,12 @@ Select the text notes in a view or on the sheet. If no text notes are selected, 
 
 After that you will be asked to pick one text note. We will read its width and apply it to all selected text notes.    
 
-![Image: Match width of selected TN to the PICKED](https://drive.google.com/uc?export=view&id=1CZRDj-mdUg-fdrF_GQ6KIfsR28_9eC7T)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CZRDj-mdUg-fdrF_GQ6KIfsR28_9eC7T/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="set-width-of-selected-tn-with-menu"></a> ![Set width of selected TN with MENU](/images/Tools/Drafter/Icons/TN_SetWidthWithMenu.png) Set width of selected TN with MENU 
 
@@ -126,8 +171,12 @@ How to use the tool:
 
 Select text notes or when started you will be prompted to do it by the tool. After that you will be asked to provide us with desire width of your text notes. 
 
-![Image: Set width of selected TN with MENU](https://drive.google.com/uc?export=view&id=1CaWl9HiSTT3ov_3Lj-TPkMGJORmM2heD)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1CaWl9HiSTT3ov_3Lj-TPkMGJORmM2heD/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 
 [Go to 10.Revisions](/DrRevisions.md/#revisions)  

@@ -33,8 +33,12 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
 
-![Image: Numbers - Add +1 to Selected Sheet](https://drive.google.com/uc?export=view&id=1AkWtp_e9zhGBAYdsSPoBRNaXUoaVcled)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AkWtp_e9zhGBAYdsSPoBRNaXUoaVcled/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="numbers-subtract-1-from-selected-sheet"></a> ![Numbers - Subtract 1 from Selected Sheet](/images/Tools/Drafter/Icons/Sheet_NumberOneDown.png) Numbers - Subtract 1 from Selected Sheet
 
@@ -44,7 +48,12 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script. We will find the part of the number (from the right) which needs to be adjusted.
 
-![Image: Numbers - Subtract 1 from Selected Sheet](https://drive.google.com/uc?export=view&id=1Ara24x-Tzk5HAgVdWX2YYrfmzADA14eg)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1Ara24x-Tzk5HAgVdWX2YYrfmzADA14eg/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-title-on-sheet-active-sheet"></a> ![Reset Title On Sheet - Active Sheet](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_ActiveView.png) Reset Title On Sheet - Active Sheet
 
@@ -54,7 +63,12 @@ How to use the tool:
 
 Open a sheet and press the button. The tool will gather all the viewports on it. 
 
-![Image: Reset Title On Sheet - Active Sheet](https://drive.google.com/uc?export=view&id=1AgRbFFf0Y49as7cmuPbWz-wgme3viFYN)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AgRbFFf0Y49as7cmuPbWz-wgme3viFYN/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-title-on-sheet-selected-sheets"></a> ![Reset Title On Sheet - Selected Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_Selected.png) Reset Title On Sheet - Selected Sheets 
 
@@ -64,7 +78,12 @@ How to use the tool:
 
 Select some sheets in a project browser and click the button to start the script.
 
-![Image: Reset Title On Sheet - Selected Sheets](https://drive.google.com/uc?export=view&id=1AuisyxRcFGNqdbNwu1wd4Ao6JZvdhMpP)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AuisyxRcFGNqdbNwu1wd4Ao6JZvdhMpP/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-title-on-sheet-all-sheets"></a> ![Reset Title On Sheet - All Sheets ](/images/Tools/Drafter/Icons/Sheet_TitleOnSheetReset_All.png) Reset Title On Sheet - All Sheets 
 
@@ -74,7 +93,12 @@ How to use the tool:
 
 Press the button. You will be asked to confirm (twice) and informed about the change we did. 
 
-![Image: Reset Title On Sheet - All Sheets](https://drive.google.com/uc?export=view&id=1AoioitaHlcB7agT_fi9QG1TqHRY9tJtR)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AoioitaHlcB7agT_fi9QG1TqHRY9tJtR/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="fake-scale-active-sheet"></a> ![Fake Scale - Active Sheet](/images/Tools/Drafter/Icons/Sheet_FakeScale_ActiveView.png) Fake Scale - Active Sheet
 
@@ -86,7 +110,12 @@ Open a sheet and press the button. The tool will gather all the viewports on it.
 
 You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
 
-![Image: Fake Scale - Active Sheet](https://drive.google.com/uc?export=view&id=1BAkU363L7Z1xVav_7fsoGHPt7JnrMJGY)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1BAkU363L7Z1xVav_7fsoGHPt7JnrMJGY/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="fake-scale-selected-sheets"></a> ![Fake Scale - Selected Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_Selected.png) Fake Scale - Selected Sheets 
 
@@ -102,7 +131,12 @@ The tool will show you a form where you can select the sheets you want to affect
 
 After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
 
-![Image: Fake Scale - Selected Sheets](https://drive.google.com/uc?export=view&id=1BnOwF9NJqIC3K62pMRzJBtCPDGiqSznj)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1BnOwF9NJqIC3K62pMRzJBtCPDGiqSznj/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="fake-scale-all-sheets"></a> ![Fake Scale - All Sheets](/images/Tools/Drafter/Icons/Sheet_FakeScale_All.png) Fake Scale - All Sheets 
 
@@ -114,7 +148,12 @@ Press the button.
 
 You will be prompted to set the name of the fake scale parameter. It must be a text parameter. Also, you will be able to decide to override previously set fake parameters. After that we will find the scale of your views and apply the fake scale. Fake scale is a scale on your drawings without taking into consideration legends.  
 
-![Image: Fake Scale - All Sheets](https://drive.google.com/uc?export=view&id=1BJYaP2c60HIZ_TB7t7OVvLy3ALqUoo-z)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1BJYaP2c60HIZ_TB7t7OVvLy3ALqUoo-z/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="generic-annotations-adjust-positions-on-all-sheets"></a> ![Generic Annotations - Adjust positions on all sheets](/images/Tools/Drafter/Icons/Sheet_GA.png) Generic Annotations - Adjust positions on all sheets
 
@@ -126,7 +165,12 @@ Select exemplary generic annotation or when started you will be prompted to do i
 
 We will find all instances of it and adjust their positions on sheets.
 
-![Image: Generic Annotations - Adjust positions on all sheets](https://drive.google.com/uc?export=view&id=1BXtqZSwCqL6KhO8w2v5lu2jWWbCM8AKm)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1BXtqZSwCqL6KhO8w2v5lu2jWWbCM8AKm/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="generic-annotations-save-position-to-memory"></a> ![Generic Annotations - Save position to MEMORY](/images/Tools/Drafter/Icons/Sheet_GA_ToMemory.png) Generic Annotations - Save position to MEMORY
 
@@ -136,7 +180,12 @@ How to use the tool:
 
 Click the button and pick one viewport. Its settings will be saved in external file for further use.
 
-![Image: Generic Annotations - Save position to MEMORY](https://drive.google.com/uc?export=view&id=1BenrTkJT-k4TJ7vtbrjeSh1ysumpuXAt)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1BenrTkJT-k4TJ7vtbrjeSh1ysumpuXAt/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="generic-annotations-load-position-from-memory-to-selected"></a> ![Generic Annotations - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Sheet_GA_FromMemory.png) Generic Annotations - Load position from MEMORY to Selected
 
@@ -146,9 +195,12 @@ How to use the tool:
 
 Select generic annotations which you want to change, or when started you will be prompted to do it by the tool. 
 
-![Image: Generic Annotations - Load position from MEMORY to Selected](https://drive.google.com/uc?export=view&id=1B9-dX_FWOeyMTEgz3G1Ri12GlFK2HuVd)  
-
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1B9-dX_FWOeyMTEgz3G1Ri12GlFK2HuVd/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 4.Viewports](/DrViewports.md/#viewports)  
 

@@ -40,7 +40,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-![Image: Move selected Text Notes to the point](https://drive.google.com/uc?export=view&id=1DkjNogqhkNGoix6JTnKdV8Ugz5wsyVJ6)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1DkjNogqhkNGoix6JTnKdV8Ugz5wsyVJ6/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="move-selected-text-notes-by-2-points"></a> ![Move selected Text Notes by 2 points](/images/Tools/Drafter/Icons/TextNotes_MoveByTwo.png) Move selected Text Notes by 2 points
 
@@ -52,7 +57,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to select 2 points - base point and direction.
 
-![Image: Move selected Text Notes by 2 points](https://drive.google.com/uc?export=view&id=1DnGGb0FhgiYZyKT9jruFQoZ210YnV0jc)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1DnGGb0FhgiYZyKT9jruFQoZ210YnV0jc/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="swap-position-of-2-text-notes"></a> ![Swap position of 2 Text Notes](/images/Tools/Drafter/Icons/TextNotes_SWAP.png) Swap position of 2 Text Notes
 
@@ -62,7 +72,12 @@ How to use the tool:
 
 Select 2 text notes, or when started, you will be prompted to do it by the tool.
 
-![Image: Swap position of 2 Text Notes](https://drive.google.com/uc?export=view&id=1DA1NqqvrWIlwtutb4rfI9pRMj-pRmPEW)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1DA1NqqvrWIlwtutb4rfI9pRMj-pRmPEW/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="align-selected-text-notes-in x-axis"></a> ![Align selected Text Notes in X-Axis](/images/Tools/Drafter/Icons/TitleLineAlignX.png) Align selected Text Notes in X-Axis
 
@@ -74,7 +89,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-![Image: Align selected Text Notes in X-Axis](https://drive.google.com/uc?export=view&id=1DG8Yj_A_iCveRUfHdL6mSUoAPrzFa0CP)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1DG8Yj_A_iCveRUfHdL6mSUoAPrzFa0CP/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="align-selected-text-notes-in-y-axis"></a> ![Align selected Text Notes in Y-Axis](/images/Tools/Drafter/Icons/TitleLineAlignY.png) Align selected Text Notes in Y-Axis
 
@@ -86,7 +106,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that, you will be asked to choose the point. 
 
-![Image: Align selected Text Notes in Y-Axis](https://drive.google.com/uc?export=view&id=1D_v8CyI77fN_ShToY18opivg0RrZTPYl)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1D_v8CyI77fN_ShToY18opivg0RrZTPYl/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="alignment-change-and-adjust-text-notes-(horizontal)"></a> ![Alignment - Change and adjust Text Notes (Horizontal)](/images/Tools/Drafter/Icons/Text_AlignmentM.png) Alignment - Change and adjust Text Notes (Horizontal)
 
@@ -98,7 +123,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-![Image: Alignment - Change and adjust Text Notes (Horizontal)](https://drive.google.com/uc?export=view&id=1EBdeFabpgoWSSK6l4CjaFUmui0KL2HB3)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EBdeFabpgoWSSK6l4CjaFUmui0KL2HB3/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="alignment-change-and-adjust-text-notes-(vertical)"></a> ![Alignment - Change and adjust Text Notes (Vertical)](/images/Tools/Drafter/Icons/Text_AlignmentMV.png) Alignment - Change and adjust Text Notes (Vertical)
 
@@ -110,7 +140,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose alignment in provided menu. 
 
-![Image: Alignment - Change and adjust Text Notes (Vertical)](https://drive.google.com/uc?export=view&id=1Dr1-DXs8vgfpVOezlsa4y-9c_nIpitGE)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1Dr1-DXs8vgfpVOezlsa4y-9c_nIpitGE/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rotation-make-tn-horizontal"></a> ![Rotation - Make TN Horizontal](/images/Tools/Drafter/Icons/TextNotes_Rotation_Horizontal.png) Rotation - Make TN Horizontal 
 
@@ -120,7 +155,12 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool.
 
-![Image: Rotation - Make TN Horizontal](https://drive.google.com/uc?export=view&id=1Dt8CfKyXKxjNMTOu4mUiqa1UIN3il8er)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1Dt8CfKyXKxjNMTOu4mUiqa1UIN3il8er/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rotation-make-tn-vertical"></a> ![Rotation - Make TN Vertical](/images/Tools/Drafter/Icons/TextNotes_Rotation_Vertical.png) Rotation - Make TN Vertical 
 
@@ -130,7 +170,12 @@ How to use the tool:
 
 Select text notes, or when started, you will be prompted to do it by the tool.
 
-![Image: Rotation - Make TN Vertical](https://drive.google.com/uc?export=view&id=1EC28P0dUaZ0y7541o8QOf2F94sHQ_Rzc)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EC28P0dUaZ0y7541o8QOf2F94sHQ_Rzc/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rotation-set-tn-with-menu"></a> ![Rotation - Set TN with Menu](/images/Tools/Drafter/Icons/TextNotes_Rotation.png) Rotation - Set TN with Menu 
 
@@ -142,7 +187,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose rotation in provided menu. 
 
-![Image: Rotation - Set TN with Menu](https://drive.google.com/uc?export=view&id=1EDHM68CmGP9n7_BV4YG9rvZjTWAKLv6H)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EDHM68CmGP9n7_BV4YG9rvZjTWAKLv6H/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="distances-(y-axis)-between-selected-text-notes-(horizontal)"></a> ![Distances (Y-Axis) between selected Text Notes (Horizontal)](/images/Tools/Drafter/Icons/TextNotes_Dist2H.png) Distances (Y-Axis) between selected Text Notes (Horizontal)
 
@@ -154,7 +204,12 @@ Select text notes, or when started, you will be prompted to do it by the tool.
 
 After that you will be asked to choose two text notes. We will calculate the distance between 2 of them and apply it to the selected. 
 
-![Image: Distances (Y-Axis) between selected Text Notes (Horizontal)](https://drive.google.com/uc?export=view&id=1EMYgHJgFItE47GZUh2RFj-sDVJTfWNz4)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1EMYgHJgFItE47GZUh2RFj-sDVJTfWNz4/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="distances-(x-axis)-between-selected-text-notes-(vertical)"></a> ![Distances (X-Axis) between selected Text Notes (Vertical)](/images/Tools/Drafter/Icons/TextNotes_Dist2V.png) Distances (X-Axis) between selected Text Notes (Vertical)
 

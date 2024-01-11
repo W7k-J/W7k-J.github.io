@@ -31,7 +31,12 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-![Image: Make Tag leader lines horizontal](https://drive.google.com/uc?export=view&id=1GdqNFx6R7muDKz0YHHkI54ICFeG2fcmd)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1GdqNFx6R7muDKz0YHHkI54ICFeG2fcmd/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="make-tag-leader-lines-vertical"></a> ![Make Tag leader lines vertical](/images/Tools/Drafter/Icons/Tags_Leader_V.png) Make Tag leader lines vertical
 
@@ -41,7 +46,12 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-![Image: Make Tag leader lines vertical](https://drive.google.com/uc?export=view&id=1FoqQOT5B634aKjmwZceNmjKEUytR2opI)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1FoqQOT5B634aKjmwZceNmjKEUytR2opI/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="move-tags-so-their-leader-lines-go-horizontal"></a> ![Move Tags so their leader lines go horizontal](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadH.png) Move Tags so their leader lines go horizontal
 
@@ -51,7 +61,12 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-![Image: Move Tags so their leader lines go horizontal](https://drive.google.com/uc?export=view&id=1Gz5klCMCb0x9IDReckncNqsHGgorneRG)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1Gz5klCMCb0x9IDReckncNqsHGgorneRG/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="move-tags-so-their-leader-lines-go-vertical"></a> ![Move Tags so their leader lines go vertical](/images/Tools/Drafter/Icons/Tags_Leader_StraightHeadV.png) Move Tags so their leader lines go vertical
 
@@ -61,7 +76,12 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-![Image: Move Tags so their leader lines go vertical](https://drive.google.com/uc?export=view&id=1GQiu7G7guUIbGgx6l3WLaScQwxc7gcGb)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1GQiu7G7guUIbGgx6l3WLaScQwxc7gcGb/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="make-tags-leader-lines-go-straight-without-elbow"></a> ![Make tags leader lines go straight without elbow](/images/Tools/Drafter/Icons/Tags_Leader_NoElbow.png) Make tags leader lines go straight without elbow
 
@@ -71,7 +91,12 @@ How to use the tool:
 
 Select tags, or when started, you will be prompted to do it by the tool. 
 
-![Image: Make tags leader lines go straight without elbow](https://drive.google.com/uc?export=view&id=1GW2-sUfyUMV6qCLPeTw_uLjIs7Vaam4a)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1GW2-sUfyUMV6qCLPeTw_uLjIs7Vaam4a/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="make-tags-leader-lines-go-with-90-degree-elbow-(horizontal)"></a> ![Make tags leader lines go with 90-degree elbow (Horizontal)](/images/Tools/Drafter/Icons/Tags_Leader_90dH.png) Make tags leader lines go with 90-degree elbow (Horizontal)
 
@@ -83,7 +108,12 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 It will not work if you have Arc setting selected. 
 
-![Image: Make tags leader lines go with 90-degree elbow (Horizontal)](https://drive.google.com/uc?export=view&id=1Gh6r93O4pmySK0WaGGSS8CmiafIE_0-J)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1Gh6r93O4pmySK0WaGGSS8CmiafIE_0-J/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="make-tags-leader-lines-go-with-90-degree-elbow-(vertical)"></a> ![Make tags leader lines go with 90-degree elbow (Vertical)](/images/Tools/Drafter/Icons/Tags_Leader_90dV.png) Make tags leader lines go with 90-degree elbow (Vertical)
 
@@ -95,7 +125,12 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 It will not work if you have Arc setting selected.
 
-![Image: Make tags leader lines go with 90-degree elbow (Vertical)](https://drive.google.com/uc?export=view&id=1G7sDIA56amAAcOIuvKAqZihXaJ0NjygZ)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1G7sDIA56amAAcOIuvKAqZihXaJ0NjygZ/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="align-tags-leader-elbows-to-point-(horizontal-tn)"></a> ![Align tags leader elbows to point (horizontal TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointH.png) Align tags leader elbows to point (horizontal TN)
 
@@ -107,7 +142,12 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-![Image: Align tags leader elbows to point (horizontal TN)](https://drive.google.com/uc?export=view&id=1H3iC62vR5VVXmg8DiPVOaNHTyB7mEv5E)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1H3iC62vR5VVXmg8DiPVOaNHTyB7mEv5E/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="align-tags-leader-elbows-to-point-(vertical-tn)"></a> ![Align tags leader elbows to point (vertical TN)](/images/Tools/Drafter/Icons/Tags_Leader_PointV.png) Align tags leader elbows to point (vertical TN)
 
@@ -119,7 +159,12 @@ Select tags, or when started, you will be prompted to do it by the tool.
 
 After that select the point.
 
-![Image: Align tags leader elbows to point (vertical TN](https://drive.google.com/uc?export=view&id=1GFIv3SCMQIuYTJ5Hh18TMGJACgc8T624)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1GFIv3SCMQIuYTJ5Hh18TMGJACgc8T624/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 15.Tags Position](/DrTagsPosition.md/#tags-position)  
 

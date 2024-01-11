@@ -26,7 +26,12 @@ How to use the tool:
 
 Press the button. 
 
-![Image: Save revision visibility to MEMORY](https://drive.google.com/uc?export=view&id=19FsLN1_MoZPE2O9_VXbxmx29L1P9tklL)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19FsLN1_MoZPE2O9_VXbxmx29L1P9tklL/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="restore-revision-visibility-from-memory"></a> ![Restore revision visibility from MEMORY](/images/Tools/Drafter/Icons/RevisionRestoreVisibility.png) Restore revision visibility from MEMORY
 
@@ -36,7 +41,12 @@ How to use the tool:
 
 Press the button. The tool will read settings saved in memory and restore them even if you add some new revisions.
 
-![Image: Restore revision visibility from MEMORY](https://drive.google.com/uc?export=view&id=19Er9TRvRTeF7G4Rx-NGunbku9vvNWV39)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19Er9TRvRTeF7G4Rx-NGunbku9vvNWV39/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="show-all-revision-clouds-and-tags"></a> ![Show all revision clouds and tags](/images/Tools/Drafter/Icons/RevisionVisibility.png) Show all revision clouds and tags
 
@@ -46,8 +56,12 @@ How to use the tool:
 
 Press the button. The tool will save current setting in memory.
 
-![Image: Show all revision clouds and tags](https://drive.google.com/uc?export=view&id=1AC1dz6ptTy29Jr1If8KDfTuQlMkHkjGG)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AC1dz6ptTy29Jr1If8KDfTuQlMkHkjGG/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="delete-clouds-active"></a> ![Delete clouds - Active](/images/Tools/Drafter/Icons/RevisionActiveView.png) Delete clouds - Active
 
@@ -56,8 +70,13 @@ Delets all revision clouds from active view or sheet.
 How to use the tool:
 
 Press the button. The tool will delete all revisions from active view or active sheet. If you select a sheet, the tool will give you a possibility to gather all the viewports on it and delete revisions from them too. 
- 
-![Image: Delete clouds - Active](https://drive.google.com/uc?export=view&id=19Pv0auz1a6xLwStmMPgCxxHHJD4_qKYp)  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19Pv0auz1a6xLwStmMPgCxxHHJD4_qKYp/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="delete-clouds-selected-views-or-sheets"></a> ![Delete clouds - Selected Views or Sheets](/images/Tools/Drafter/Icons/RevisionViews.png) Delete clouds - Selected Views or Sheets
 
@@ -67,9 +86,12 @@ How to use the tool:
 
 Select some views or sheets in a project browser and press the button. The tool will delete all revisions from them. If you select a sheet, the tool will give you a possibility to gather all the viewports on it and delete revisions from them too. 
 
-![Image: Delete clouds - Selected Views or Sheets](https://drive.google.com/uc?export=view&id=1A-Olh-YWrNGJD2eRMkmVLrL3HU6vjiHt)  
-
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1A-Olh-YWrNGJD2eRMkmVLrL3HU6vjiHt/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 9.Schedules](/DrShedules.md/#schedules)  
 

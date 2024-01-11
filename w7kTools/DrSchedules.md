@@ -42,8 +42,12 @@ Select exemplary schedule or when started you will be prompted to do it by the t
 
 We will find all instances of it and adjust their positions on sheets.
 
-![Image: Position of all instances of selected schedule](https://drive.google.com/uc?export=view&id=19-XRNFWIxDioFA8SJ4ODBvNT0J9gWv53)  
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19-XRNFWIxDioFA8SJ4ODBvNT0J9gWv53/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="rotation-of-all-instances-of-selected-schedule"></a> ![Rotation of all instances of selected schedule](/images/Tools/Drafter/Icons/Schedule_Rotation.png) Rotation of all instances of selected schedule
 
@@ -55,7 +59,12 @@ Select exemplary schedule or when started you will be prompted to do it by the t
 
 We will find all instances of it and adjust their rotation on sheets.
 
-![Image: Rotation of all instances of selected schedule](https://drive.google.com/uc?export=view&id=19_6qLLxmlpMK_IfaPTHtfsf-QVb50Uff)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19_6qLLxmlpMK_IfaPTHtfsf-QVb50Uff/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="schedule-save-position-to-memory"></a> ![Schedule - Save position to MEMORY](/images/Tools/Drafter/Icons/Schedule_PositionToMemory.png) Schedule - Save position to MEMORY
 
@@ -65,7 +74,12 @@ How to use the tool:
 
 Click the button and pick one schedule. Its position will be saved in external file for further use.
 
-![Image: Schedule - Save position to MEMORY](https://drive.google.com/uc?export=view&id=19N26KfzYmdmls-AqrBJCuuw75W0NAdAR)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19N26KfzYmdmls-AqrBJCuuw75W0NAdAR/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="schedule-load-position-from-memory-to-selected"></a> ![Schedule - Load position from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_PositionFromMemory.png) Schedule - Load position from MEMORY to Selected
 
@@ -77,7 +91,12 @@ Select legends which you want to change, or when started you will be prompted to
 
 Their position on the sheet will be adjusted to position saved in the memory.
 
-![Image: Schedule - Load position from MEMORY to Selected](https://drive.google.com/uc?export=view&id=19ooyfYIy4JoIEmtpMItSY7NvRETWz-3r)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19ooyfYIy4JoIEmtpMItSY7NvRETWz-3r/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="match-2-schedules-all-column-widths"></a> ![MATCH 2 Schedules - All Column Widths](/images/Tools/Drafter/Icons/Schedule_Columns2Paint.png) MATCH 2 Schedules - All Column Widths
 
@@ -87,7 +106,12 @@ How to use the tool:
 
 Simply pick two schedules. The tool adjusts the width of all columns of the second schedule to match with the widths of the first one.
 
-![Image: MATCH 2 Schedules - All Column Widths](https://drive.google.com/uc?export=view&id=19_lkSQPINOEU-uFccwSzCKJ0yDN0zWfW)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19_lkSQPINOEU-uFccwSzCKJ0yDN0zWfW/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="match-2-schedules-total-width-by-changing-last-column"></a> ![MATCH 2 Schedules - Total width by changing last column](/images/Tools/Drafter/Icons/Schedule_Columns2Last.png) MATCH 2 Schedules - Total width by changing last column
 
@@ -97,7 +121,12 @@ How to use the tool:
 
 Simply pick two schedules. The tool will read the total width of the first schedule and adjust the width of the last column in the second schedule to match total width of first one. 
 
-![Image: MATCH 2 Schedules - Total width by changing last column](https://drive.google.com/uc?export=view&id=1A4TS0AQlmg2fAOXik7cXJFp24XIH9GME)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1A4TS0AQlmg2fAOXik7cXJFp24XIH9GME/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="column-widths-adjust-with-clicks"></a> ![Column Widths - Adjust with Clicks](/images/Tools/Drafter/Icons/Schedule_ColumnsAllClick.png) Column Widths - Adjust with Clicks
 
@@ -107,7 +136,12 @@ How to use the tool:
 
 Select a schedule or when started you will be prompted to do it by the tool. After that simple start picking points and we will adjust the widths of schedule columns to them. When clicking Escape you will be asked what to do. 
 
-![Image: Column Widths - Adjust with Clicks](https://drive.google.com/uc?export=view&id=19zWxKorKvjlyj4iI4Fb74SVjiqsvcc5H)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/19zWxKorKvjlyj4iI4Fb74SVjiqsvcc5H/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="column-widths-adjust-them-with-menu"></a> ![Column Widths - Adjust them with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsAll.png) Column Widths - Adjust them with MENU
 
@@ -117,7 +151,12 @@ How to use the tool:
 
 Select one schedule or when started you will be prompted to do it by the tool. After that you will be prompted to define a width of each column with special menu. The tool will adjust the width of all columns to match with the ones provided in menu. Please do not change the number of columns.  
 
-![Image: Column Widths - Adjust them with MENU](https://drive.google.com/uc?export=view&id=1AFWNSCNozoqAVqm60S_kjWyP9pNCtZ9K)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AFWNSCNozoqAVqm60S_kjWyP9pNCtZ9K/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="column-widths-save-widths-to-memory"></a> ![Column Widths - Save widths to MEMORY](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsToMemory.png) Column Widths - Save widths to MEMORY
 
@@ -127,7 +166,12 @@ How to use the tool:
 
 Select a schedule or when started you will be prompted to do it by the tool.
 
-![Image: Column Widths - Save widths to MEMORY](https://drive.google.com/uc?export=view&id=1AefdskInRsLE6av2VWXgN6m6gXSCT9X4)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AefdskInRsLE6av2VWXgN6m6gXSCT9X4/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="column-widths-set-widths-from-memory-to-selected"></a> ![Column Widths - Set widths from MEMORY to Selected](/images/Tools/Drafter/Icons/Schedule_Columns_WidthsFromMemory.png) Column Widths - Set widths from MEMORY to Selected
 
@@ -137,7 +181,12 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. The tool adjusts the width of all columns to match with the widths saved in memory. In case of having two few columns the tool will stop. 
 
-![Image: Column Widths - Set widths from MEMORY to Selected](https://drive.google.com/uc?export=view&id=1AGsnY2gsR57UF2K4rXv-tWzvRGYtYHKQ)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AGsnY2gsR57UF2K4rXv-tWzvRGYtYHKQ/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="column-widths-set-all-the-same-with-menu"></a> ![Column Widths - Set all the same with Menu](/images/Tools/Drafter/Icons/Schedule_ColumnsSame.png) Column Widths - Set all the same with Menu
 
@@ -147,7 +196,12 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. After that you will be prompted to provide us with desire width for all columns. 
 
-![Image: Column Widths - Set all the same with Menu](https://drive.google.com/uc?export=view&id=1AITG7Pn4WOk01T5-qhHaUsTFNEZc4Npo)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AITG7Pn4WOk01T5-qhHaUsTFNEZc4Npo/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="total-width-adjust-it-with-menu"></a> ![Total Width - Adjust it with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotal.png) Total Width - Adjust it with MENU
 
@@ -157,7 +211,12 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. After that you will be prompted to provide us with desire width for whole schedule. We will equally divide it by a number of visible columns. 
 
-![Image: Total Width - Adjust it with MENU](https://drive.google.com/uc?export=view&id=1AUYey4Ifm_el9pijBSft5-maSwoByjoR)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AUYey4Ifm_el9pijBSft5-maSwoByjoR/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="total-width-extend/shorten-the-last-column-with-menu"></a> ![Total Width - Extend/shorten the last column with MENU](/images/Tools/Drafter/Icons/Schedule_ColumnsTotalLast.png) Total Width - Extend/shorten the last column with MENU
 
@@ -170,7 +229,12 @@ After that you will be prompted to provide us with desire width for whole schedu
 
 The tool will check validity of provided width. 
 
-![Image: Total Width - Extend/shorten the last column with MENU](https://drive.google.com/uc?export=view&id=1AM8xbCjiJ9RyWFqOKCkfx8MXUIMqqTZ)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AM8xbCjiJ9RyWFqOKCkfx8MXUIMqqTZ/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="unhide-all-columns-selected-schedules"></a> ![Unhide all columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_Unhide.png) Unhide all columns - Selected Schedules
 
@@ -180,7 +244,12 @@ How to use the tool:
 
 Select schedules or when started you will be prompted to do it by the tool. The tool will check all columns and try to unhide them. For now, the tool will disregard the schedules with template on it. 
 
-![Image: Unhide all columns - Selected Schedules](https://drive.google.com/uc?export=view&id=1ARTyZ5GG2uMqZndGh69YcFPOyHTHzHAD)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1ARTyZ5GG2uMqZndGh69YcFPOyHTHzHAD/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="toggle-visibility-of-hidden-columns-selected schedules"></a> ![Toggle visibility of hidden columns - Selected Schedules](/images/Tools/Drafter/Icons/Schedule_UnhideToggle.png) Toggle visibility of hidden columns - Selected Schedules
 
@@ -190,7 +259,12 @@ How to use the tool:
 
 Select schedules or use the tool in active schedule view. Also, when started you will be prompted to do it by the tool. The tool will unhide the hidden columns and change their colour to red to make them more visible. To reset simply use this button again or use any other provided reset tools.
 
-![Image: Toggle visibility of hidden columns - Selected Schedules](https://drive.google.com/uc?export=view&id=1AOuAEl9LnFRTkb-t-5f7Umq5giomJui9)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AOuAEl9LnFRTkb-t-5f7Umq5giomJui9/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="toggle-visibility-of-hidden-columns-active"></a> ![Toggle visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideToggleActive.png) Toggle visibility of hidden columns - Active
 
@@ -202,7 +276,12 @@ Use the tool in active schedule view or in a sheet. In sheet the tool will gathe
 
 The tool will unhide the hidden columns and change their colour to red to make them more visible. To reset simply use this button again or use any other provided reset tools.
 
-![Image: Rotation of all instances of selected schedule](https://drive.google.com/uc?export=view&id=1ACUfOiEJQBjfz0hVG93zpfSV2mIDI-4v)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1ACUfOiEJQBjfz0hVG93zpfSV2mIDI-4v/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-visibility-of-hidden-columns-active"></a> ![Reset visibility of hidden columns - Active](/images/Tools/Drafter/Icons/Schedule_UnhideAll.png) Reset visibility of hidden columns - Active
 
@@ -214,7 +293,12 @@ Use the tool in active schedule view or in a sheet. In sheet the tool will gathe
 
 The tool will hide columns we made visible and reset their colour to black. 
 
-![Image: Reset visibility of hidden columns - Active](https://drive.google.com/uc?export=view&id=1AbAt8ltnA_nSJSQ2M-QA-wiOoe5g8n3h)  
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1AbAt8ltnA_nSJSQ2M-QA-wiOoe5g8n3h/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 ## <a id="reset-visibility-of-hidden-columns-all"></a> ![Reset visibility of hidden columns - All](/images/Tools/Drafter/Icons/Schedule_ResetAll.png) Reset visibility of hidden columns - All
 
@@ -224,9 +308,12 @@ How to use the tool:
 
 Press the button and the tool will hide columns we made visible and reset their colour to black.
 
-![Image: Reset visibility of hidden columns - All](https://drive.google.com/uc?export=view&id=1Ad3h-6m1OsvYW9Td0qNlhdkZnT55mpPm)  
-
-
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/1Ad3h-6m1OsvYW9Td0qNlhdkZnT55mpPm/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
 
 [Go back to 8.Legends](/DrLegends.md/#legends)  
 
