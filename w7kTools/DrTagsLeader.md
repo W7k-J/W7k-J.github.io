@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tags Position
-permalink: /tools/drafter/tagsposition
+permalink: /tools/drafter/tagsleader
 ---
 
 
