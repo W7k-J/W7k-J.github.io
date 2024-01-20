@@ -8,6 +8,8 @@ author: Julian
 
 <!--excerpt-->
 
+UPDATE! This year I managed to get into the semifinals! Congrats to all winers!
+
 Merry Christmas! It was an intensive year full of several architectural projects (One at Wawel Royal Castle – more in due time!), large graphic design works, laser-scanning projects, UAV photographs and 2 plugins developed and published on Autodesk App Store – Drafter being one of the largest plugins out there! – check it out!
 
 But in December there is always BIMsmith Winter Wonderland challenge! The chance to do something creative and to push my Revit Modeling skills. There are a lot of reasons why I believe young architects should be good at modeling in Revit, just to name a few:
