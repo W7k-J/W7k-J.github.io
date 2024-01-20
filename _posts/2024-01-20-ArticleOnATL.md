@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Open-source against the big tech companies - Being Published in Finnish on ATL
+title: Open-source against the big tech companies - Published in Finnish on ATL blog
 date: 2023-12-26 12:15:00
 author: Julian
 ---
