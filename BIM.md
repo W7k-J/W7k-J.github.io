@@ -35,6 +35,8 @@ Concept designs and early BIM documentation for discussion with client and herit
 
 ### Revit Families - Modeling
 
+[BIMsmith Winter Wonderland Holiday Revit Family Competition 2023 - semifinals](https://w7k.pl/BIMSmith-Winter2023/)
+
 [BIMsmith Winter Wonderland Holiday Revit Family Competition 2022 - 1st Place](https://w7k.pl/BIMSmith-Winter2022/)
 
 [BIMsmith Winter Wonderland Holiday Revit Family Competition 2021 - 1st Place](https://w7k.pl/BIMSmith-Winter/)  
@@ -53,4 +55,4 @@ Concept designs and early BIM documentation for discussion with client and herit
 
 ## Knowledge 
 
-WIP
+[Open-source against the big tech companies - Published in Finnish on ATL blog](https://w7k.pl/ArticleOnATL/)
