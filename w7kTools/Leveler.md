@@ -20,7 +20,7 @@ I came out with the idea of this tool when I had to change manually references o
 
 ## Leveler Version 1.1
 
-The tool will be updated with 10 more scripts. You will find some extra information about them here.  
+The tool will be updated with 10 more scripts. You will find some extra information about them [here](/Leveler11.md).  
 
 ## Buttons by Options
 
