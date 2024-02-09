@@ -4,23 +4,14 @@ title: My Code and everything related to Programming
 permalink: /code/
 ---
 
+
+## Programming
+
+WIP
+
 ## Programming for AEC
 
-WIP 
-
-### Dynamo Scripts
-
-[Assign Room Names To The Ceilings Above](https://w7k.pl/DynamoScript-AssignRoomToCeiling/)
-
-### Python Scripts
-
-### Python Revit Tools
-
-### C# Scripts
-
-[Method GetDefaultWorksetNames](https://w7k.pl/CSharp-GetDefaultWorksetNames/)  
-
-### C# Revit Tools
+### Revit Tools
 
 [Tools](https://w7k.pl/tools/)  
 
@@ -34,9 +25,22 @@ My add-ins:
   
 [Wall Swap](https://w7k.pl/tools/wallswap/)  
 
-## Programming
+## Revit API Experiments 
 
-WIP
+[Swapper](https://w7k.pl/ExperimentSwapper//)  
+[3d View Rotator](https://w7k.pl/CSharp-GetDefaultWorksetNames/)  
+
+### C# Scripts
+
+[Method GetDefaultWorksetNames](https://w7k.pl/CSharp-GetDefaultWorksetNames/)  
+
+### Dynamo Scripts
+
+[Assign Room Names To The Ceilings Above](https://w7k.pl/DynamoScript-AssignRoomToCeiling/)
+
+### Python Scripts
+
+### Python Revit Tools
 
 ## Knowledge 
 
