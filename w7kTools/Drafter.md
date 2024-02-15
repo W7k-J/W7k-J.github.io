@@ -49,6 +49,10 @@ For a detailed introduction to Drafter, please watch the longer version below.
 I am also recommending going to the provided help below. Simply click on the interesting command from the list. I made small animations for you and short descriptions about each of the buttons. Please inform me if something is not clear!  
 Please give animations some time to download  
 
+## Licenses for Students 
+
+If you are a student who cannot afford to buy the license for Drafter, please [contact me](mailto:jw@w7k.pl) and I will get you one! In return please share the knowlage about my tool with you peers and collegues, and write a honest review on Autodesk App Store!
+
 # List
 
 ### ![Title Lines](/images/Tools/Drafter/Icons/TitleLine.png) [1. Title Lines](/DrTitleLines.md/#title-lines)  
