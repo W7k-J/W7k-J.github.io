@@ -4,7 +4,7 @@ title: Drafter ended up on the list of the most popular paid apps for Revit on A
 date: 2024-02-28 12:00:00
 author: Julian
 ---
-![PostPage](/images/2024_BlogPost/DrafterTop.jpg)
+![PostPage](/images/2024_BlogPost/DrafterTop.jpeg)
 
 
 <!--excerpt-->
