@@ -4,7 +4,7 @@ title: Horisont Bygg A, Norway
 date: 2023-02-10 12:00:00
 author: Julian
 ---
-![Photo_1](/images/2023 Horisont/Horisont_1.png)
+![Photo_1](/images/2023 Horisont/Horisont_1.jpg)
 
 <!--excerpt-->
 
@@ -18,9 +18,9 @@ Designing buildings in a different country is always an interesting journey. Fro
 Having to constantly look at the project from different angles, we gathered a team of experts with variety of backgrounds. All of it gave us a very peculiar position to evaluate innovative solutions emerging in the AEC market. To name a few, we had a chance to play with BIM, Virtual Reality and Unreal Engine.
 The work is still in progress, but please take a look;)
 
-![Photo_2](/images/2023 Horisont/Horisont_2.png)
+![Photo_2](/images/2023 Horisont/Horisont_2.jpg)
 
-![Photo_3](/images/2023 Horisont/Horisont_3.png)
+![Photo_3](/images/2023 Horisont/Horisont_3.jpg)
 
 For more information, visit:
 

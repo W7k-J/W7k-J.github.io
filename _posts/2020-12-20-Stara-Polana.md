@@ -4,7 +4,7 @@ title: Stara Polana, ul. Nowotarska 59, Zakopane
 date: 2020-12-20 14:00:00
 author: Julian
 ---
-![Stara Polana](/images/2020 Stara Polana/Polana4.png)
+![Stara Polana](/images/2020 Stara Polana/Polana1.jpg)
 
 <!--excerpt-->
 
@@ -28,7 +28,7 @@ Views from the model below:
 
 ![Pic_1](/images/2020 Stara Polana/Polana_DocumentationExample.png)
 ![Pic_2](/images/2020 Stara Polana/Polana8.png)
-![Pic_3](/images/2020 Stara Polana/Polana1.png)
+![Pic_3](/images/2020 Stara Polana/Polana4.png)
 ![Pic_4](/images/2020 Stara Polana/Polana2.png)
 ![Pic_5](/images/2020 Stara Polana/Polana3.png)
 ![Pic_6](/images/2020 Stara Polana/Polana5.png)

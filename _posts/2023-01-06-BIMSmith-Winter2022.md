@@ -4,7 +4,7 @@ title: BIMsmith Winter Wonderland Holiday Revit Family Competition 2022
 date: 2023-01-06 12:00:00
 author: Julian
 ---
-![Photo_1](/images/2022 BIMsmithWWL/BIMComp2022.png)
+![Photo_1](/images/2022 BIMsmithWWL/BIMComp2022.jpg)
 
 <!--excerpt-->
 
