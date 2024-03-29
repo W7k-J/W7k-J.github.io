@@ -20,7 +20,26 @@ I came out with the idea of this tool when I had to change manually references o
 
 ## Leveler Version 1.1
 
-The tool will be updated with 10 more scripts. You will find some extra information about them [here](/Leveler11.md).  
+Please find below the list of some new features. You can click on them to go to the documentation.  
+
+### ![Level Names](/images/Tools/Leveler/Icons/Lev_Main.png) [1. Level Names](/Leveler11.md/#level-names)  
+  
+![Rename Levels  with Menu](/images/Tools/Leveler/Icons/Lev_RenameMenu.png) [1.1. Rename Levels with Menu](/Leveler11.md/#rename-levels-with-menu)  
+![Find and Replace in Levels Names](/images/Tools/Leveler/Icons/Lev_FandR.png) [1.2. Find and Replace in Levels Names](/Leveler11.md/#find-and-replace-in-levels-names)  
+![Rename Levels Up](/images/Tools/Leveler/Icons/Lev_Plus.png) [1.3. Rename Levels Up](/Leveler11.md/#rename-levels-up)  
+![Rename Levels Down](/images/Tools/Leveler/Icons/Lev_Minus.png) [1.4. Rename Levels Down](/Leveler11.md/#rename-levels-down)  
+![Add Prefix or Suffix to Levels](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [1.5. Add Prefix or Suffix to Levels](/Leveler11.md/#add-prefix-or-suffix-to-levels)  
+  
+### ![Edit Levels](/images/Tools/Leveler/Icons/Lev_Menu.png) [2. Edit Levels](/Leveler11.md/#edit-levels)  
+  
+![Rename Grids with Menu](/images/Tools/Leveler/Icons/Lev_MoveAll.png) [2.1. Rename Grids with Menu](/Leveler11.md/#rename-grids-with-menu)  
+
+### ![Grid Names](/images/Tools/Grider/Icons/Grid_Main.png) [3. Grid Names](/Leveler11.md/#grid-names)  
+  
+![Rename Grids with Menu](/images/Tools/Grider/Icons/Grid_RenameMenu.png) [1.1. Rename Grids with Menu](/Leveler11.md/#rename-grids-with-menu)  
+![Rename Grids Up](/images/Tools/Grider/Icons/Grid_RenamePlus.png) [1.2. Rename Grids Up](/Leveler11.md/#rename-grids-up)  
+![Rename Grids Down](/images/Tools/Grider/Icons/Grid_RenameMinus.png) [1.3. Rename Grids Down](/Leveler11.md/#rename-grids-down)  
+![Add Prefix or Suffix to Grids](/images/Tools/Grider/Icons/Grid_RenamePrefixSuffix.png) [1.4. Add Prefix or Suffix to Grids](/Leveler11.md/#add-prefix-or-suffix-to-grids)  
 
 ## Buttons by Options
 
