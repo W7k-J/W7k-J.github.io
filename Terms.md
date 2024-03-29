@@ -26,7 +26,9 @@ I'm always trying to add an information about an intellectual property (who was 
 
 If it is not stated that materials are free to use please contact me before using them and ask for permission. Mentioning me in your posts / web pages or other articles doesn't cost you much and most of the time it will be everything I will ask for.
 
-### Use of the revit tools
+### Use of my tools
+
+Applies to all (among others) plugins, C# or Python scripts, Dynamo graphs or any other created by me software.  
 
 All Revit API add-ons are experimental in nature. Those applications are provided "as is" with no warranty of any kind and you use the applications at your own risk. 
 
@@ -35,6 +37,9 @@ That said all the tools were thoroughly tested. If you see any problems please [
 Keep in mind that Autodesk Revit provides you an option to undo any changes you made. In short please have some basic Revit knowledge, know what you try to do and you will be fine. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The software provided on Autodesk App Store and in any other way is subjected to [Autodesk App Store - End User License Agreement](https://apps.autodesk.com/en/eula). By downloading or installing it you confirm that you read it, understand its implications  and agreed with it.
+
 
 ### Use of experimental revit tools
 
