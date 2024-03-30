@@ -6,7 +6,13 @@ permalink: /tools/extra/
 
 ![MainTab](/images/Tools/Extra/Extra_StronaGlowna.jpg)
 
-Please find below a short video of Extra, my free add-in for Autodesk Revit 
+Please find below a short video of Extra, my free add-in for Autodesk Revit.  
+
+Important thing to note: The tool automatically copy values to your clipboard so you don't have to copy them.  
+
+For now, the tool is available on the link below:  
+[LINK](https://w7kpl-my.sharepoint.com/:u:/g/personal/jw_w7k_pl/EQ9t1KQROZBDmLGjvZ0fm5UB1QgRvUcR9G_OoYyt-qB0Rw?e=IUwXCZ)  
+Below you will also find the info how to install the tool yourself as it doesn't come with an installer.  
 
 # Video
 
