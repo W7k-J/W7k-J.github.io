@@ -4,17 +4,13 @@ title: Extra
 permalink: /tools/extra/
 ---
 
-![MainTab](/images/Tools/Extra/Extra_StronaGłowna.jpg)
+![MainTab](/images/Tools/Extra/Extra_StronaGlowna.jpg)
 
-Please find below a short description of Extra, my free add-in for Autodesk Revit 
+Please find below a short video of Extra, my free add-in for Autodesk Revit 
 
 # Video
 
 Please watch videos in HD. 
-
-## Short Video
-
-For an introduction to new functions, please watch the short version below. You can also show it to your boss to convince them to buy this this tool 😉
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
@@ -152,10 +148,23 @@ We will copy it to your Clipboard.
 
 # How to install version 
 
-For now, the tool is available on the link below: 
+For now, the tool is available on the link below:  
 
-I hope to publish it on Autodesk App Store, but it takes time. Also here you will always find the newest version of it. 
+[LINK](https://w7kpl-my.sharepoint.com/:u:/g/personal/jw_w7k_pl/EQ9t1KQROZBDmLGjvZ0fm5UB1QgRvUcR9G_OoYyt-qB0Rw?e=IUwXCZ)
 
+I hope to publish it on Autodesk App Store, but it takes time. Also here you will always find the newest version of it.  
+
+Please unpack the file.  
+
+You need to install it:  
+
+C:\Users\YOUR--USER\AppData\Roaming\Autodesk\Revit\Addins  
+
+Put Resources there:  
+
+![Folder](/images/Tools/Extra/folders.jpg)  
+
+and copy the correct versions to correct folders.   
 
 ## Versions
 [back to LIST](#list)  
