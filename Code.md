@@ -7,8 +7,6 @@ permalink: /code/
 
 ## Programming
 
-WIP
-
 ## Programming for AEC
 
 ### Revit Tools
@@ -47,4 +45,8 @@ My add-ins:
 
 ## Knowledge 
 
-WIP
+## Where Can You find me?  
+
+[Building Coder - Entitlement API for Revit, Licensing for Add-Ins](https://thebuildingcoder.typepad.com/blog/2024/06/entitlement-api-for-revit-licensing-for-add-ins.html)
+[Building Coder - UV, Emergence, Fuzz and the get_ Prefix](https://thebuildingcoder.typepad.com/blog/2023/03/uv-emergence-fuzz-and-the-get_-prefix.html)
+[Building Coder - Interactive BIM Notebook, Temporary Graphics and AI](https://thebuildingcoder.typepad.com/blog/2024/02/interactive-bim-notebook-temporary-graphics-and-ai.html)
