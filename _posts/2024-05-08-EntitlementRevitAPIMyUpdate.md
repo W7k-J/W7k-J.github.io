@@ -16,6 +16,10 @@ For some reason in 2025 I had some problems with RestSharp -> while checking the
 
 Update helped but as RestSharp change I started having problems with older revit versions. I decided to rewrite it completely, but this time using default HttpClient:  
 
+>This method ended up on BuildingCoder blog. You will also find some other views there I shared on RevitAPI forum  
+>
+>[Link](https://thebuildingcoder.typepad.com/blog/2024/06/entitlement-api-for-revit-licensing-for-add-ins.html)
+
 ```c#
 
 public static bool CheckOnline(string appId, string userId)
@@ -56,3 +60,5 @@ public class EntitlementResponse
 }
 
 ```
+
+
