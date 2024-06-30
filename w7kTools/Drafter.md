@@ -51,7 +51,7 @@ Please give animations some time to download
 
 ## Licenses for Students 
 
-If you are a student who cannot afford to buy the license for Drafter, please [contact me](mailto:jw@w7k.pl) and I will get you one! In return please share the knowlage about my tool with you peers and collegues, and write a honest review on Autodesk App Store!
+If you are a student who cannot afford to buy the license for Drafter, please [contact me](mailto:jw@w7k.pl) and I will get you one! In return please share the knowledge about my tool with you peers and colleague, and write a honest review on Autodesk App Store!
 
 # List
 
@@ -341,11 +341,11 @@ Tags and Text notes - copying leader settings from memory might not work on sect
 
 ### Problems not on To-Do List:
 
-Full support for older versions (2020, 2021, a few in 2022) - You are able to download the tool, but some buttons might not work (for example title lines, tags, legends1)  
+Full support for older versions (2020, 2021, a few in 2022) - You are able to download the tool, but some buttons might not work (for example title lines, tags, legends)  
 
 Your support will help improve this app!  
 
-This toolset will grow in time! Your support will keep it alive and kicking! Please don't hesitate to contact me with a feedback or ideas of new features.  
+This tool set will grow in time! Your support will keep it alive and kicking! Please don't hesitate to contact me with a feedback or ideas of new features.  
 
 <br>
 <div class="backToTools">

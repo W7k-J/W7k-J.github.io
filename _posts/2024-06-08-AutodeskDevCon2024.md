@@ -21,5 +21,5 @@ With the use of APIs it gives them a possibility to create new features or exten
 I think any developments in this area will have a significant impact on how we use Revit. 
 7.	Autodesk App Store – There was consensus between developers, that it needs to be further developed and we need more modern way of using it. 
 8.	PowerBI connector is so cool. 
-9.	Lack of people – One of the big problems in the AEC industry is and will be a lack of talented individuals. Autodesk hopes to mitigate it by introducing more automations and more connectivity.
+9.	Lack of people – One of the big problems in the AEC industry is and will be a lack of talented individuals. Autodesk hopes to mitigate it by introducing more automation and more connectivity.
 10.	Autodesk DevCon is for everyone. It is not hard, and most presentations were introductory to the topics. Some people complained about it while other said it was a good thing.  
