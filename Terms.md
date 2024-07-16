@@ -26,9 +26,11 @@ I always strive to provide information about intellectual property, including th
 
 If materials are not explicitly marked as free to use, please reach out to me before utilizing them and request permission. Mentioning me in your posts, web pages, or other articles is a simple gesture, and most of the time, it will be all I ask for.
 
-### License regarding content on this webpage
+### License regarding my works 
 
-Please be aware that all my plugins are protected by copyright. Unauthorized reproduction, distribution, or modification of these plugins is prohibited without explicit permission. If you wish to use or incorporate any part of my plugins, kindly reach out to me for authorization.  
+Please be aware that all works (including my plugins, scripts, code and tools etc.) are protected by copyright. Unauthorized reproduction, distribution, or modification of these plugins is prohibited without explicit permission. If you wish to use or incorporate any part of my plugins, kindly reach out to me for authorization.  
+
+By purchasing scripts and code from me, if not stated otherwise, you acquire a license to use the software, but you do not gain ownership or any rights to the underlying code. I retain full rights to the code and may use it as I deem appropriate.  
 
 ### Use of my tools
 
