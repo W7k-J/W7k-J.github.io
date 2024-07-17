@@ -119,7 +119,7 @@ public static double DistanceToFlat2D(XYZ point1, XYZ point2)
 
 And here goes the code in Python:
 
-```Python
+```python
 # Boilerplate
 import clr
 import sys
