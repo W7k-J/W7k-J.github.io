@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: RevitAPI Academy Coding for Dynamo in C# vs Python CheckDistanceAgainstHeight
+title: W7k Academy - Coding for Dynamo in C# and Python CheckDistanceAgainstHeight
 
 date: 2024-07-17 12:00:00
 author: Julian
