@@ -28,7 +28,7 @@ If materials are not explicitly marked as free to use, please reach out to me be
 
 ### License regarding my works 
 
-Please be aware that all works (including my plugins, scripts, code and tools etc.) are protected by copyright. Unauthorized reproduction, distribution, or modification of these plugins is prohibited without explicit permission. If you wish to use or incorporate any part of my plugins, kindly reach out to me for authorization.  
+Please be aware that all works (including my plugins, scripts, code and tools etc.) are protected by copyright. Unauthorized use, reproduction, distribution, or modification of these plugins is prohibited without explicit permission. If you wish to use or incorporate any part of my plugins, kindly reach out to me for authorization.  
 
 By purchasing scripts and code from me, if not stated otherwise, you acquire a license to use the software, but you do not gain ownership or any rights to the underlying code. I retain full rights to the code and may use it as I deem appropriate.  
 
@@ -74,12 +74,6 @@ This Privacy Policy outlines how we collect, use, and share your personal inform
     -   If you contact us, we’ll use the information provided to communicate with you and address any issues or explore business opportunities.
     -   Rest assured, we won’t share your information with others unless you grant explicit permission.
 
-### Other liability
-
-Computer Viruses. We shall not bear any liability, whatsoever, for any damage or interruptions caused by any computer viruses or other malicious code. We advise the regular use of a reputable and readily available virus screening and prevention software.  
-  
-To make our tools as safe as possible we always try to publish them on Autodesk App Store.  
-
 #### GitHub Pages Service
 
 This Website is hosted as a GitHub Pages website. GitHub may collect User Personal Information from visitors to this GitHub Pages website - for more info visit GitHub [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement). We receive from them information about webpage traffic (views and number of unique visitors). 
@@ -87,6 +81,10 @@ This Website is hosted as a GitHub Pages website. GitHub may collect User Person
 #### Autodesk App Store
 
 When buying the add-on from Autodesk App Store please refer to [Autodesk Privacy Statement](https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement) and [Paypal Privacy Statement](https://www.paypal.com/us/legalhub/privacy-full)
+
+#### Disqus
+
+We are using Disqus as a way for you to engage with our page. Please refer to [Disqus Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy) for more information about how your data are being collected and processed by them. 
 
 #### Autodesk Revit Apps
 
@@ -98,7 +96,8 @@ Because of the way the Autodesk Apps Store is organized we treat all of transact
 
 If you would like to get a B2B invoice and made our and your life easier please contact us by email before buying the app and we will arrange it! - [contact Us](mailto:apps@w7k.pl). 
 
+### Other liability
 
-### Disqus
-
-We are using Disqus as a way for you to engage with our page. Please refer to [Disqus Privacy Policy](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy) for more information about how your data are being collected and processed by them. 
+We shall not bear any liability, whatsoever, for any damage or interruptions caused by any computer viruses or other malicious code. We advise the regular use of a reputable and readily available virus screening and prevention software.  
+  
+To make our tools as safe as possible we always try to publish them on Autodesk App Store.  
