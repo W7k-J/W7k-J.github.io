@@ -11,23 +11,23 @@ author: Julian
 
 One morning, while scrolling through LinkedIn, I stumbled upon a post asking for help with creating a script in Dynamo for Revit. 
 
-[LinkedIn InitialPost](/images/2024_BlogPost/Academy_2_Linkedin_1.jpg)
+![LinkedIn InitialPost](/images/2024_BlogPost/Academy_2_Linkedin_1.jpg)  
 
 I initially thought it was a straightforward problem to solve and shared some advices about how to do it. 
 
-[LinkedIn Response](/images/2024_BlogPost/Academy_2_Linkedin_2.jpg)
+![LinkedIn Response](/images/2024_BlogPost/Academy_2_Linkedin_2.jpg)  
 
 In the end I decided to do some "speed coding" to solve this problem.  When it comes to prototyping code, I find myself gravitating toward C#. Its seamless integration with the Revit API and OOP help me think in a logical way. I prefer it to Nodes in Dynamo -  especially where 3d geometry is not involved.  
 
 But firstly I had to create a playground to test my future solution. Nothing fancy - simple families with "H" parameter for height.  
 
-[Custom code block](/images/2024_BlogPost/Academy_2_workingSpace.png)
+![Custom code block](/images/2024_BlogPost/Academy_2_workingSpace.png)  
 
 After some thinking which was longer then I expected I started coding.
 
 As a result I created this custom node.
 
-[Custom code block](/images/2024_BlogPost/Academy_2_checkAgainst1.png)
+![Custom code block](/images/2024_BlogPost/Academy_2_checkAgainst1.png)  
 
 It is not only checking the distances between the elements in correlation to its height but also provides detailed information about problematic elements. Additionally it gives you a human readable report.  
   
