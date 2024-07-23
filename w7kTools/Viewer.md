@@ -4,20 +4,20 @@ title: Viewer
 permalink: /tools/viewer/
 ---
 
-![MainTab](/images/Tools/Viewer/Viewer_ToolShot_01.png)
+![MainTab](/images/Tools/Viewer/Viewer_ToolShot_01.png)  
 
 Automate the process of making views and putting them on sheets. For now, the tool allows creating internal elevations from selected rooms.  
 
-![W7k Viewer - Buttons](/images/Tools/Viewer/Viewer_ToolShot_02.png)
+![W7k Viewer - Buttons](/images/Tools/Viewer/Viewer_ToolShot_02.png)  
 
-Creating views and placing them on sheets can be a time-consuming and rather boring task. We understand this challenge, and this is why we initiated this project.
+Creating views and placing them on sheets can be a time-consuming and rather boring task. We understand this challenge, and this is why we initiated this project.  
 
-Currently, our tool allows you to generate internal elevations from selected rooms. Just think about all these 100 rooms you need to elevate… Countless hours of your creativity and productivity would have been wasted…
+Currently, our tool allows you to generate internal elevations from selected rooms. Just think about all these 100 rooms you need to elevate… Countless hours of your creativity and productivity would have been wasted…  
 
-With our Viewer, all you need to do is select the rooms, and the tool will handle the rest for you!
+With our Viewer, all you need to do is select the rooms, and the tool will handle the rest for you!  
 
 We give you total control over this process, allowing you to:
-
+  
     Choose the elevation type.
     Apply the correct template.
     Control the names of the views.
@@ -30,13 +30,13 @@ We give you total control over this process, allowing you to:
     Extend the elevations to the left and right.
 
 
-It is a must-have for any interior designer working in Autodesk® Revit®. We have experience working on fit-out projects, so we understand how time-consuming this can be and we know your pain. No more with Viewer!
+It is a must-have for any interior designer working in Autodesk® Revit®. We have experience working on fit-out projects, so we understand how time-consuming this can be and we know your pain. No more with Viewer!  
 
-Moreover, it also gives you the option to further automate the process by saving the title block positions and sheet sizes, so you don’t have to set everything every time you use our tool!
+Moreover, it also gives you the option to further automate the process by saving the title block positions and sheet sizes, so you don’t have to set everything every time you use our tool!  
 
-In time, we plan to automate other tasks like the creation of internal elevations of more complicated rooms (having more than 4 sides), sections and details.
+In time, we plan to automate other tasks like the creation of internal elevations of more complicated rooms (having more than 4 sides), sections and details.  
 
-And we always want to hear more about your struggles with creating views so we can make it even better!
+And we always want to hear more about your struggles with creating views so we can make it even better!  
 
 [Link to the Autodesk App Store](https://apps.autodesk.com/RVT/en/Detail/Index?id=4005262267861978700&appLang=en&os=Win64)
 
@@ -57,7 +57,7 @@ Please watch videos in HD.
 
 ## Licenses for Students 
 
-If you are a student who cannot afford to buy the license for Viewer, please [contact me](mailto:apps@w7k.pl) and I will get you one! In return please share the knowledge about my tool with you peers and colleague, and write a honest review on Autodesk App Store!
+If you are a student who cannot afford to buy the license for Viewer, please [contact me](mailto:apps@w7k.pl) and I will get you one! In return please share the knowledge about my tool with you peers and colleague, and write a honest review on Autodesk App Store!  
 
 # List
 
@@ -78,7 +78,7 @@ Version 1 was published at 2024-07-23. Works on Autodesk Revit 2020 - 2025.
 
 ### Problems not on To-Do List:
 
-Full support for older versions (2020, 2021, a few in 2022)
+Full support for older versions (2020, 2021, a few in 2022)  
 
 <br>
 <div class="backToTools">
