@@ -18,17 +18,17 @@ With our Viewer, all you need to do is select the rooms, and the tool will handl
 
 We give you total control over this process, allowing you to:
   
-    Choose the elevation type.
-    Apply the correct template.
-    Control the names of the views.
-    Align the views if the room is rotated.
-    Automatically create sheets with your chosen title block.
-    Control the number and names of all sheets.
-    Control the positions of all four elevations.
-    Align title lines (and their length).
-    Control the elevation's top and bottom based on the offsets from selected levels.
-    Extend the elevations to the left and right.
-
+* Choose the elevation type.  
+* Apply the correct template.  
+* Control the names of the views.  
+* Align the views if the room is rotated.  
+* Automatically create sheets with your chosen title block.  
+* Control the number and names of all sheets.  
+* Control the positions of all four elevations.  
+* Align title lines (and their length).  
+* Control the elevation's top and bottom based on the offsets from selected levels.  
+* Extend the elevations to the left and right.  
+  
 
 It is a must-have for any interior designer working in Autodesk® Revit®. We have experience working on fit-out projects, so we understand how time-consuming this can be and we know your pain. No more with Viewer!  
 
