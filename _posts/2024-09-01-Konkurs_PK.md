@@ -9,8 +9,9 @@ author: Julian
 
 <!--excerpt-->
 
-Together with group of friends we did this competition. I hope to find some time in the future to write about this project.  
+Together with a group of friends we did this competition lately. I hope to write about this project more one day;).  
 
 ![Board_1](/images/2024_PK/KonkursPK_Plansze_1.jpg)  
-
+  
+  
 ![Board_2](/images/2024_PK/KonkursPK_Plansze_2.jpg)  

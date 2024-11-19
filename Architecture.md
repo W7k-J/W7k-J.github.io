@@ -8,6 +8,8 @@ permalink: /architecture/
 
 ### Design Competitions:
 
+[2024 Wydział Informatyki, Kraków](https://w7k.pl/Konkurs_PK/)  
+
 [2021 Plac Kossaka, Kraków](https://w7k.pl/Plac-Kossaka-w-Krakowie/)  
 
 [2020 Schronisko na Lubaniu](https://w7k.pl/Schronisko-Na-Lubaniu/)  
@@ -49,6 +51,8 @@ Revit lead, BIM coordination, drawing packages from design development to tender
 stages). During my time at Buttress Architects
 
 ### Other:
+
+[2024 External Examiner at PK](https://w7k.pl/PKHelp2024/)  
 
 [2021 Ikony motoryzacji, an exhibion in Fabryka Norblina](https://w7k.pl/Ikony-Motoryzacji/)  
 
