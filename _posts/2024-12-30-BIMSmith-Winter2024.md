@@ -63,17 +63,15 @@ namespace W7k.Drafter
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elementSet)
         {
             // SETUP
-
             Autodesk.Revit.ApplicationServices.Application app = commandData.Application.Application;
             Autodesk.Revit.DB.Document doc = commandData.Application.ActiveUIDocument.Document;
             UIDocument uidoc = new UIDocument(doc);
 
             //SELECTION
-
             var collectorByBuiltInCategory = new W7k.RevitAPI.CollectorByBuiltInCategory(doc, BuiltInCategory.OST_Site);
-
-            List<Element> elements = (from s in collectorByBuiltInCategory.GetElements() where s is FamilyInstance fI && fI.Symbol.FamilyName == "SnowFlake" select s).ToList();
-
+            List<Element> elements = (from s in collectorByBuiltInCategory.GetElements() 
+                                      where s is FamilyInstance fI && fI.Symbol.FamilyName == "SnowFlake" 
+                                      select s).ToList();
             TaskDialog.Show("Count", elements.Count.ToString());
 
 
@@ -82,15 +80,11 @@ namespace W7k.Drafter
             using Transaction t2 = new Transaction(doc, $"Previous animation");
             {
                 t2.Start();
-
                 foreach (Element el in elements)
                 {
                     Parameter param = el.GetParameters("Altitude").First();
-
                     param.Set(param.AsDouble() - step * 1013);
-
                 }
-
                 t2.Commit();
             }
             */
@@ -102,15 +96,11 @@ namespace W7k.Drafter
                 using Transaction t1 = new Transaction(doc, $"Animate {i}");
                 {
                     t1.Start();
-
                     foreach (Element el in elements)
                     {
                         Parameter param = el.GetParameters("Altitude").First();
-
                         param.Set(param.AsDouble() - step);
-
                     }
-
                     t1.Commit();
                 }
 
@@ -124,13 +114,9 @@ namespace W7k.Drafter
                     ImageResolution = ImageResolution.DPI_300,
                     ShouldCreateWebSite = false
                 };
-
                 options.ExportRange = ExportRange.CurrentView;
-
                 doc.ExportImage(options);
-
             }
-
             return Result.Succeeded;
         }
     }
