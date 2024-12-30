@@ -38,7 +38,7 @@ Below some images showing how everything works:
   
 ![Internal Flake Family](/images/2024_BlogPost/BimSmithWWL_ParametricFlake_1.png)  
   
-![Movement family](/images/2024_BlogPost/BimSmithWWL_ParametricFlake_2.png.png)  
+![Movement family](/images/2024_BlogPost/BimSmithWWL_ParametricFlake_2.png)  
   
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
