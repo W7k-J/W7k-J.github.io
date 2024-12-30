@@ -31,7 +31,7 @@ Below some images showing how everything works:
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/115DX4RA_8W0TaZhMN4XY3b-sVaa5a54m/view"
+    src="https://drive.google.com/file/d/115DX4RA_8W0TaZhMN4XY3b-sVaa5a54m/preview"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
@@ -42,7 +42,7 @@ Below some images showing how everything works:
   
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/110Pr42SR6HTxoxysvCULbkoFwZ0VWGvl/view"
+    src="https://drive.google.com/file/d/110Pr42SR6HTxoxysvCULbkoFwZ0VWGvl/preview"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
