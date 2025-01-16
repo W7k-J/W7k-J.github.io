@@ -4,7 +4,7 @@ title: BIM Meetup in Krakow
 date: 2024-12-12 12:00:00
 author: Julian
 ---
-![PostPage](/images/2024_BlogPost/Krakoowmeet-up-1.jpg.jpg)
+![PostPage](/images/2024_BlogPost/Krakoowmeet-up-1.jpg)
 
 <!--excerpt-->
 
