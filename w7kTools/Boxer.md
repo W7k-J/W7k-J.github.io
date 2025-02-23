@@ -29,7 +29,7 @@ The tool is free for anyone who already has a subscription to any of my other to
 
 ## Scripts
 
-### ![Section boxer](/images/Tools/Leveler/Icons/Lev_Main.png) [Section boxer](/Boxer.md/#level-names)  
+### ![Section boxer](/images/Tools/Leveler/Icons/Lev_Main.png) [Section boxer](/Boxer.md/#section-boxer)  
   
 ![Section Box by Rectangular](/images/Tools/Leveler/Icons/Lev_RenameMenu.png) [1.1. Section Box by Rectangular](/Boxer.md/#section-box-by-rectangular)  
 ![Section Box by 2 points - Precise](/images/Tools/Leveler/Icons/Lev_FandR.png) [1.2. Section Box by 2 points - Precise](/Boxer.md/#section-box-by-2-points-precise)  
@@ -38,21 +38,23 @@ The tool is free for anyone who already has a subscription to any of my other to
 ![Toggle a Section Box On/Off](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [1.5. Toggle a Section Box On/Off](/Boxer.md/#toggle-a-section-box-onoff)  
 
   
-### ![Various](/images/Tools/Leveler/Icons/Lev_Main.png) [Various](/Leveler11.md/#level-names)  
+### ![Various](/images/Tools/Leveler/Icons/Lev_Main.png) [Various](/Boxer.md/#various)  
   
-![Rename Levels  with Menu](/images/Tools/Leveler/Icons/Lev_RenameMenu.png) [2.1. Rename Levels with Menu](/Leveler11.md/#rename-levels-with-menu)  
-![Find and Replace in Levels Names](/images/Tools/Leveler/Icons/Lev_FandR.png) [2.2. Find and Replace in Levels Names](/Leveler11.md/#find-and-replace-in-levels-names)  
-![Rename Levels Up](/images/Tools/Leveler/Icons/Lev_Plus.png) [2.3. Rename Levels Up](/Leveler11.md/#rename-levels-up)  
-![Rename Levels Down](/images/Tools/Leveler/Icons/Lev_Minus.png) [2.4. Rename Levels Down](/Leveler11.md/#rename-levels-down)  
-![Add Prefix or Suffix to Levels](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [2.5. Add Prefix or Suffix to Levels](/Leveler11.md/#add-prefix-or-suffix-to-levels)  
+![Section Box - Move Corner to Point (in XY)](/images/Tools/Leveler/Icons/Lev_RenameMenu.png) [2.1. Section Box - Move Corner to Point (in XY)](/Boxer.md/#section-box-move-corner-to-point)  
+![Section Box - Set Levels](/images/Tools/Leveler/Icons/Lev_FandR.png) [2.2. Section Box - Set Levels](/Boxer.md/#section-box-set-levels)  
+![Section Box - Set Size](/images/Tools/Leveler/Icons/Lev_Plus.png) [2.3. Section Box - Set Size](/Boxer.md/#section-box-set-size)  
+![Section Box - Reset Rotation](/images/Tools/Leveler/Icons/Lev_Minus.png) [2.4. Section Box - Reset Rotation](/Boxer.md/#section-box-reset-rotation)  
+![Section Box - Rotate to Line](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [2.5. Section Box - Rotate to Line](/Boxer.md/#section-box-rotate-to-line)  
+![Section Box - Align To Line (W)](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [2.6. Section Box - Align To Line (W)](/Boxer.md/#section-box-align-to-linew)  
+![Section Box - Align To Line (L)](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [2.7. Section Box - Align To Line (L)](/Boxer.md/#section-box-align-to-linel)  
+![Section Box - Mirror](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [2.8. Section Box - Mirror](/Boxer.md/#section-mirror)  
+![Section Box - Memory](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [2.9. Section Box - Memory](/Boxer.md/#section-memory)  
+![Section Box - Reset Transformation](/images/Tools/Leveler/Icons/Lev_NamePrefixSuffix.png) [2.10. Section Box - Reset Transformation](/Boxer.md/#section-reset-transformation)  
 
-/////////////////////
 
+## Section boxer
 
-
-### Section boxer
-
-## <a id="section-box-by-rectangular"></a> ![Section Box by Rectangular](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.1. Section Box by Rectangular
+### <a id="section-box-by-rectangular"></a> ![Section Box by Rectangular](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.1. Section Box by Rectangular
 
 Creates a section box based on the selected rectangle.  
 
@@ -67,7 +69,7 @@ To use the tool you need to be in a 2d view (plan, rcp or section). Simply selec
   </iframe>
 </div>
 
-## <a id="section-box-by-2-points-precise"></a> ![Section Box by 2 points - Precise](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.2. Section Box by 2 points - Precise
+### <a id="section-box-by-2-points-precise"></a> ![Section Box by 2 points - Precise](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.2. Section Box by 2 points - Precise
 
 Creates a section box based on two points.  
 
@@ -82,7 +84,7 @@ To use the tool you need to be in a 2d view (plan, rcp or section). Simply selec
   </iframe>
 </div>
 
-## <a id="section-boxs-face-to-2d-view"></a> ![Section Box's Face to 2d View](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.3. Section Box's Face to 2d View
+### <a id="section-boxs-face-to-2d-view"></a> ![Section Box's Face to 2d View](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.3. Section Box's Face to 2d View
 
 Creates a new view based on the selected section box face.  
 
@@ -97,7 +99,7 @@ To use the tool you need to be in a 3d view.Use the tool and select the face of 
   </iframe>
 </div>
 
-## <a id="2d-view-to-3d"></a> ![2d View to 3d](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.4. 2d View to 3d
+### <a id="2d-view-to-3d"></a> ![2d View to 3d](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.4. 2d View to 3d
 
 Recreates a 2d view as new 3d view.  
 
@@ -112,7 +114,7 @@ To use the tool you need to be in a 3d view. Use the tool and we will do the res
   </iframe>
 </div>
 
-## <a id="toggle-a-section-box-onoff"></a> ![Toggle a Section Box On/Off](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.5. Toggle a Section Box On/Off
+### <a id="toggle-a-section-box-onoff"></a> ![Toggle a Section Box On/Off](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 1.5. Toggle a Section Box On/Off
 
 Simply toggle a section box On/Off.  
 
@@ -130,7 +132,172 @@ To use the tool you need to be in a 3d view. Use the tool to hide or show the se
 
 If you have any problems with section boxes, try to delete them and recreate them.  
 
-# Video
+## Various
+
+### <a id="section-box-move-corner-to-point"></a> ![Section Box - Move Corner to Point (in XY)](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.1. Section Box - Move Corner to Point (in XY)
+
+Moves section box corner to selected point.  
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. We will copy it to your Clipboard.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+### Things to keep in mind:  
+
+If you have any problems with section boxes, try to delete them and recreate them.  
+
+### <a id="section-box-set-levels"></a> ![Section Box - Set Levels](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.2. Section Box - Set Levels
+
+Sets Top and Base of section box.  
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Use the form to set top and base of your section box.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+
+### <a id="section-box-set-size"></a> ![Toggle a Section Box On/Off](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.3. Section Box - Set Size
+
+Sets the size of a section box.  
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Use the form to set top and base of your section box.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+
+### <a id="section-box-reset-rotation"></a> ![Section Box - Reset Rotation](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.4. Section Box - Reset Rotation
+
+Resets rotation of a section box.
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box.Use the tool to reset the section box.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+
+### <a id="section-box-rotate-to-line"></a> ![Section Box - Rotate to Line](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.5. Section Box - Rotate to Line
+
+Sets rotation of section box to the selected line.
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Use the tool and pick the line.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+
+### <a id="section-box-align-to-linew"></a> ![Section Box - Align To Line (W)](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.6. Section Box - Align To Line (W)
+
+Align section box (width of the box) to the selected line.
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Use the tool and pick the line.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+
+### <a id="section-box-align-to-linel"></a> ![Section Box - Align To Line (L)](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.7. Section Box - Align To Line (L)
+
+Align section box (length of the box) to the selected line.  
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Use the tool and pick the line.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+### <a id="section-mirror"></a> ![Section Box - Mirror](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.8. Section Box - Mirror
+
+Mirrors section box on the selected face.  
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Use the tool and select the face of you want to use.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+### <a id="section-memory"></a> ![Section Box - Memory](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.9 Section Box - Memory
+
+Manages memory of saved section boxes.  
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Use the form to save, load or delete the sections boxes.  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+### <a id="section-reset-transformation"></a> ![Section Box - Reset Transformation](/images/Tools/Grider/Icons/Grid_RenameMenu.png) 2.10. Section Box - Reset Transformation
+
+Resets transformations.  
+
+How to use the tool:  
+
+To use the tool you need to be in a 3d view with an active section box. Click and it should be done!  
+
+<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
+  <iframe width="100%" height="100%"
+    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  </iframe>
+</div>
+
+
+## Things to keep in mind:  
+
+If you have any problems with section boxes, try to delete them and recreate them.  
+
+## Video
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
