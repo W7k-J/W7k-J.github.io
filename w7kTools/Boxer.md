@@ -116,10 +116,9 @@ To use the tool you need to be in a 3d view. Use the tool and we will do the res
   
 
 <video width="100%" height="100%" controls>
-    <source src="https://drive.google.com/file/d/1Vv0Lk_1nx98LiG5MRW6dH3cknf4OI6_s/preview" type="video/webp">
+    <source src="https://www.youtube.com/embed/RqBbesdl1bY?si=0Od3kr3QSwLO472q" type="video/webp">
     Your browser does not support the video tag.
 </video>
-
 
 
 ### <a id="toggle-a-section-box-onoff"></a> ![Toggle a Section Box On/Off](/images/Tools/Boxer/Icons/Toggle.png) 1.5. Toggle a Section Box On/Off
@@ -136,9 +135,7 @@ To use the tool you need to be in a 3d view. Use the tool to hide or show the se
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
-### Things to keep in mind:  
 
-If you have any problems with section boxes, try to delete them and recreate them.  
 
 ## Various
 
@@ -156,9 +153,8 @@ To use the tool you need to be in a 3d view with an active section box. We will 
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
-### Things to keep in mind:  
 
-If you have any problems with section boxes, try to delete them and recreate them.  
+
 
 ### <a id="section-box-set-levels"></a> ![Section Box - Set Levels](/images/Tools/Boxer/Icons/Levels.png) 2.2. Section Box - Set Levels
 
@@ -301,9 +297,7 @@ To use the tool you need to be in a 3d view with an active section box. Click an
 </div>
 
 
-## Things to keep in mind:  
 
-If you have any problems with section boxes, try to delete them and recreate them.  
 
 ## Context menu:  
 
