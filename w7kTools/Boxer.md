@@ -110,9 +110,17 @@ To use the tool you need to be in a 3d view. Use the tool and we will do the res
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
     src="https://w7k.pl/images/Tools/Boxer/Videos/2dTo3d.webp"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
+  
+<a href="https://w7k.pl/images/Tools/Boxer/Videos/2dTo3d.webp">
+    <video width="100%" height="100%" controls loop autoplay>
+        <source src="video.webp" type="video/webp">
+        Your browser does not support the video tag.
+    </video>
+</a>
+
 
 ### <a id="toggle-a-section-box-onoff"></a> ![Toggle a Section Box On/Off](/images/Tools/Boxer/Icons/Toggle.png) 1.5. Toggle a Section Box On/Off
 
