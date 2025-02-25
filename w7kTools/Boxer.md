@@ -116,7 +116,7 @@ To use the tool you need to be in a 3d view. Use the tool and we will do the res
   
 
 <video width="100%" height="100%" controls>
-    <source src="https://w7k.pl/images/Tools/Boxer/Videos/2dTo3d.webp" type="video/webp">
+    <source src="https://drive.google.com/file/d/1Vv0Lk_1nx98LiG5MRW6dH3cknf4OI6_s/preview" type="video/webp">
     Your browser does not support the video tag.
 </video>
 
