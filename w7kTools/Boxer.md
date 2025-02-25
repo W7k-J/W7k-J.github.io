@@ -300,7 +300,9 @@ To use the tool you need to be in a 3d view with an active section box. Click an
   </iframe>
 </div>
 
+### Problems
 
+In case of problems please try to delete and recreate your current section box.  
 
 
 ## Context menu:  
@@ -313,7 +315,7 @@ The tool supports context menu in all versions above 2025.
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/cXdXycnS-VA" frameborder="0" allowfullscreen
+    <iframe src="https://www.youtube.com/embed/tfJmv0xxzK0?si=tk5V7LLzAdqkhwrr" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
