@@ -31,7 +31,7 @@ The tool is free for anyone who already has a subscription to any of my other to
 
 ### ![Section boxer](/images/Tools/Boxer/Icons/SectionBoxer.png) [Section boxer](/Boxer.md/#section-boxer)  
   
-![Section Box by Rectangular](/images/Tools/Boxer/Icons/SectionBoxByRect.png) [1.1. Section Box by Rectangular](/Boxer.md/#section-box-by-rectangular)  
+![Section Box by Rectangle](/images/Tools/Boxer/Icons/SectionBoxByRect.png) [1.1. Section Box by Rectangle](/Boxer.md/#section-box-by-rectangle)  
 ![Section Box by 2 points - Precise](/images/Tools/Boxer/Icons/SectionBoxBy2Points.png) [1.2. Section Box by 2 points - Precise](/Boxer.md/#section-box-by-2-points-precise)  
 ![Section Box's Face to 2d View](/images/Tools/Boxer/Icons/SectionBoxFaceTo2d.png) [1.3. Section Box's Face to 2d View](/Boxer.md/#section-boxs-face-to-2d-view)  
 ![2d View to 3d](/images/Tools/Boxer/Icons/Remake2dViewAs3dView.png) [1.4. 2d View to 3d](/Boxer.md/#2d-view-to-3d)  
@@ -54,7 +54,7 @@ The tool is free for anyone who already has a subscription to any of my other to
 
 ## Section boxer
 
-### <a id="section-box-by-rectangular"></a> ![Section Box by Rectangular](/images/Tools/Boxer/Icons/SectionBoxByRect.png) 1.1. Section Box by Rectangular
+### <a id="section-box-by-rectangle"></a> ![Section Box by Rectangle](/images/Tools/Boxer/Icons/SectionBoxByRect.png) 1.1. Section Box by Rectangle
 
 Creates a section box based on the selected rectangle.  
 
@@ -109,7 +109,7 @@ To use the tool you need to be in a 3d view. Use the tool and we will do the res
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
+    src="w7k.pl\images\Tools\Boxer\Videos\2dTo3d.webp"
     frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
   </iframe>
 </div>
@@ -168,7 +168,7 @@ To use the tool you need to be in a 3d view with an active section box. Use the 
 </div>
 
 
-### <a id="section-box-set-size"></a> ![Toggle a Section Box On/Off](/images/Tools/Boxer/Icons/SectionBoxSetSize.png) 2.3. Section Box - Set Size
+### <a id="section-box-set-size"></a> ![Section Box - Set Size](/images/Tools/Boxer/Icons/SectionBoxSetSize.png) 2.3. Section Box - Set Size
 
 Sets the size of a section box.  
 
