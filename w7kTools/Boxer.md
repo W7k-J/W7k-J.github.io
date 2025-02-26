@@ -63,11 +63,14 @@ How to use the tool:
 To use the tool you need to be in a 2d view (plan, rcp or section). Simply select the rectangle.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/rGnaVoynR0E?si=_QlYTEp-dqnBO3qx" 
+        title="W7k Tools: Boxer - Section Box By Rectangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
+
 
 ### <a id="section-box-by-2-points-precise"></a> ![Section Box by 2 points - Precise](/images/Tools/Boxer/Icons/SectionBoxBy2Points.png) 1.2. Section Box by 2 points - Precise
 
@@ -78,9 +81,11 @@ How to use the tool:
 To use the tool you need to be in a 2d view (plan, rcp or section). Simply select two points.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/-MjcJU1f38c?si=u5vn1JHh-kOT3VxV" 
+        title="W7k Tools: Boxer - Section Box By 2 Points" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
 
@@ -93,11 +98,14 @@ How to use the tool:
 To use the tool you need to be in a 3d view.Use the tool and select the face of you want to use.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/waMHQchnU8k?si=h1s3vhVW7jerjHB_" 
+        title="W7k Tools: Boxer - Section Box's Face to 2d View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
+
 
 ### <a id="2d-view-to-3d"></a> ![2d View to 3d](/images/Tools/Boxer/Icons/Remake2dViewAs3dView.png) 1.4. 2d View to 3d
 
@@ -107,18 +115,11 @@ How to use the tool:
 
 To use the tool you need to be in a 3d view. Use the tool and we will do the rest.  
 
-<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://w7k.pl/images/Tools/Boxer/Videos/2dTo3d.webp"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0" >
-  </iframe>
-</div>
-  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%" 
-        src="https://www.youtube.com/embed/RqBbesdl1bY?si=FQ1q3m5QG9finmkR" 
-        title="2d to 3d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        src="https://www.youtube.com/embed/RqBbesdl1bY?si=crYCdXtgIVselwuu" 
+        title="W7k Tools: Boxer - 2d To 3d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
         style="position:absolute; top:0; left: 0" >
   </iframe>
@@ -134,12 +135,13 @@ How to use the tool:
 To use the tool you need to be in a 3d view. Use the tool to hide or show the section box. Use it again to toggle the status of your section box.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/i1myaC44PoA?si=VUtz8K7E-d6XFYlb" 
+        title="W7k Tools: Boxer - Toggle Section Box On / Off" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
-
 
 ## Various
 
@@ -152,13 +154,13 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. We will copy it to your Clipboard.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/yI54Nn1-gUM?si=F18N5ryjkRKn-4I-" 
+        title="W7k Tools: Boxer - Section Box - Move Corner to Point in XY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
-
-
 
 ### <a id="section-box-set-levels"></a> ![Section Box - Set Levels](/images/Tools/Boxer/Icons/Levels.png) 2.2. Section Box - Set Levels
 
@@ -169,12 +171,13 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. Use the form to set top and base of your section box.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/m0de5KrKVHM?si=pORJNKqDh6BaPNc2" 
+        title="W7k Tools: Boxer - Section Box - Set Levels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
-
 
 ### <a id="section-box-set-size"></a> ![Section Box - Set Size](/images/Tools/Boxer/Icons/SectionBoxSetSize.png) 2.3. Section Box - Set Size
 
@@ -185,12 +188,13 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. Use the form to set top and base of your section box.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/fN3cmK5svRo?si=pyI-OEGQD3K_GfQZ" 
+        title="W7k Tools: Boxer - Section Box - Set Size" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
-
 
 ### <a id="section-box-reset-rotation"></a> ![Section Box - Reset Rotation](/images/Tools/Boxer/Icons/SectionBoxResetRotation.png) 2.4. Section Box - Reset Rotation
 
@@ -201,12 +205,13 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box.Use the tool to reset the section box.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/LMBNZjKIjZw?si=wACnHKx7LMvHe3Qe" 
+        title="W7k Tools: Boxer - Reset Rotation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
-
 
 ### <a id="section-box-rotate-to-line"></a> ![Section Box - Rotate to Line](/images/Tools/Boxer/Icons/SectionBoxRotateToLine.png) 2.5. Section Box - Rotate to Line
 
@@ -217,12 +222,13 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. Use the tool and pick the line.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/0iNfL1MZdm4?si=JKAFDEwO2bHJ65U4" 
+        title="W7k Tools: Boxer - Rotate To Line" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
-
 
 ### <a id="section-box-align-to-linew"></a> ![Section Box - Align To Line (W)](/images/Tools/Boxer/Icons/SectionBoxAlignToLineW.png) 2.6. Section Box - Align To Line (W)
 
@@ -233,12 +239,13 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. Use the tool and pick the line.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/bgvVQJQPNU8?si=-p1WVBjVjBuKjutk" 
+        title="W7k Tools: Boxer - Align To Line (W)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
-
 
 ### <a id="section-box-align-to-linel"></a> ![Section Box - Align To Line (L)](/images/Tools/Boxer/Icons/SectionBoxAlignToLineL.png) 2.7. Section Box - Align To Line (L)
 
@@ -249,11 +256,14 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. Use the tool and pick the line.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/nELvcxOUzw8?si=1GyYSsvvMeuAf-tl" 
+        title="W7k Tools: Boxer - Align To Line (L)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
+
 
 ### <a id="section-mirror"></a> ![Section Box - Mirror](/images/Tools/Boxer/Icons/SectionBoxMirror.png) 2.8. Section Box - Mirror
 
@@ -264,9 +274,11 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. Use the tool and select the face of you want to use.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/8jYfqL-2blg?si=Rrbureo8qvrSr4UB" 
+        title="W7k Tools: Boxer - Mirror" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
 
@@ -279,9 +291,11 @@ How to use the tool:
 To use the tool you need to be in a 3d view with an active section box. Use the form to save, load or delete the sections boxes.  
 
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
+  <iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/-H52NI2iQQE?si=38RjotgwYDQiAMbo" 
+        title="W7k Tools: Boxer - Memory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
+        style="position:absolute; top:0; left: 0" >
   </iframe>
 </div>
 
@@ -293,17 +307,10 @@ How to use the tool:
 
 To use the tool you need to be in a 3d view with an active section box. Click and it should be done!  
 
-<div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
-  <iframe width="100%" height="100%"
-    src="https://drive.google.com/file/d/106krw4LkxjFPkttYjBJbU0t-5w7CPSMO/preview"
-    frameborder="0" allowfullscreen="" style="position:absolute; top:0; left: 0">
-  </iframe>
-</div>
 
 ### Problems
 
 In case of problems please try to delete and recreate your current section box.  
-
 
 ## Context menu:  
 
