@@ -174,7 +174,10 @@ and copy the correct versions to correct folders.
 
 ## Versions
 [back to LIST](#list)  
-Version 0.9 was published at XXXX-XX-XX as a  1.1. Works on Autodesk Revit 2020 - 2024.  
+
+Version 1.0.0 was published at 2024-03-30 Works on Autodesk Revit 2020 - 2024.  
+Version 1.1.0 was published at 2024-12-17 Works on Autodesk Revit 2020 - 2025.  
+Version 1.2.0 was published at XXXX-XX-XX Works on Autodesk Revit 2020 - 2025.  
 
 ## Known Problems  
 [back to LIST](#list)  
