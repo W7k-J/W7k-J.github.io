@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: BIMsmith Winter Wonderland Holiday Revit Family Competition 2024
+title: Webinar with Ignacy Lozinski from BIM Corner
 date: 2025-01-15 12:00:00
 author: Julian
 ---
