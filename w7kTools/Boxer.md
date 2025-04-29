@@ -328,7 +328,7 @@ The tool supports context menu in all versions above 2025.
 </div>
 
 ## Versions
-Version 1.0 was published at xxxx-xx-xx. Works on Autodesk Revit 2020 - 2025
+Version 1.0 was published at 2025/4/24. Works on Autodesk Revit 2020 - 2026
 
 <br>
 <div class="backToTools">
