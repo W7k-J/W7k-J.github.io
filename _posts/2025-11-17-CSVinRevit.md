@@ -40,6 +40,7 @@ Below the short explanation and the code ready to be used
 ## Example Macro Code
 
 ```csharp
+  
 public void ExportSchedulesToCSV()
 {
     UIDocument uidoc = this.ActiveUIDocument;
@@ -70,5 +71,4 @@ public void ExportSchedulesToCSV()
 
     TaskDialog.Show("Export Complete", "Schedules exported to Desktop.");
 }
-
-
+```  
