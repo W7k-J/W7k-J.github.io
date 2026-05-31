@@ -27,28 +27,34 @@ permalink: /architecture/
 [2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)
   
 2022 Concept design of an new building connected with exisiting hospital (7500 m²) including Emergency department, ICU,
-sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki. 
+sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki.  
   
 2022 Concept design of a superstructure and refurbishment of an existing hospital (4500 m²) including Emergency department, ICU,
-sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki & D.Zając. 
+sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki & D.Zając.  
 
 2021 Co-working space in Warsaw (heritage-listed building, 500 m²) – with B.Hodurek
-Concept design and design development
+Concept design and design development  
 
-2021 Concept design of small buildins at Jordana, Kraków (heritage-listed park layout - concept designs) I did a number of concepts to improve the quality of buildings located at the park area (including public toilets, restaurant, trafo station, gardener's building and local sport facility). We received possitive opinion from the city heritage department.  Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek
+2021 Concept design of small buildins at Jordana, Kraków (heritage-listed park layout - concept designs) I did a number of concepts to improve the quality of buildings located at the park area (including public toilets, restaurant, trafo station, gardener's building and local sport facility). We received possitive opinion from the city heritage department.  Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek  
 
-[2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
+[2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)  
 
-2020 Fontanna na Służewcu, Warsaw (heritage-listed park layout - planning application) Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek
+2020 Fontanna na Służewcu, Warsaw (heritage-listed park layout - planning application) Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek  
 
-60 Curzon Street (£600m High-end residential project - Fit-Out) 
+60 Curzon Street (£600m High-end residential project - Fit-Out)  
 Revit lead, BIM coordination and drawing packages from design development to construction stage. During my time at Darling Associates
 
-Audley Square House (£2b High-end residential project - Fit-Out and Shell&Core)
+Audley Square House (£2b High-end residential project - Fit-Out and Shell&Core)  
 Revit lead, BIM coordination, drawing packages from design development to tender stage. During my time at Darling Associates
 
+[2017 Electric Motor Factory Somfy–Sopem, Niepołomice](https://www.iea.com.pl/n/pl/2017-somfy/)  
+The SOPEM electric motor production facility, part of the French Somfy Group, is located in the Niepołomice Investment Zone and includes offices, production halls, warehouses, and a logistics center. Designed as a combined production, R&D, and logistics hub, the complex features innovative structural solutions and a modern architectural form, with a planned capacity of 2.74 million motors per year. BIM,  36 013 m². During my time at  Ingarden&Ewý Architekci  
+
+[2017 OBIEKT 3M, WROCŁAW](https://www.iea.com.pl/n/pl/2017-3m/)  
+The project involved expanding the existing 3M factory with a new production, warehouse, and office building designed as a compact, two-story volume that integrates seamlessly with the existing facility. BIM, 11 426 m² During my time at  Ingarden&Ewý Architekci  
+
 2012 Design support on several private and social housing schemes (Planning application, Tender, Construction
-stages). During my time at Buttress Architects
+stages). During my time at Buttress Architects  
 
 ### Other:
 
