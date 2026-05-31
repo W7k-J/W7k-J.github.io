@@ -8,8 +8,6 @@ author: Julian
 
 <!--excerpt-->
 
-# BIMsmith Winter Wonderland Holiday Revit Competition 2025 - Revit Game Freerider
-
 As each year it is the time, when I want to share a short summary of what happened this year and, of course, my submission for #BIMsmithWinterWonderland organized by BIMsmith.
 
 It’s been a good year! Architecturally, I continued working on projects in London while still staying active in Poland. At the same time, I managed to update almost all of my tools and even published a new one, Boxer. I also tackled some cool scripting challenges along the way, made some great UAV photos, took active part in 2 webinars…
