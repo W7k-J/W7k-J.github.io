@@ -30,7 +30,7 @@ My add-ins:
 <p><a href="https://w7k.pl/tools/viewer/"><img src="/images/Logos/Viewer_Icon.png" style="width:120px;height:120px;"></a></p>  
 <p><a href="https://w7k.pl/tools/viewer/">Viewer</a></p>  
 
-<p><a href="https://w7k.pl/tools/traveller/"><img src="/images/Logos/Traveller_Icon.png" style="width:120px;height:120px;"></a></p>  
+<p><a href="https://w7k.pl/tools/traveller/"><img src="/images/Logos/Traveller_Icon_120.png" style="width:120px;height:120px;"></a></p>  
 <p><a href="https://w7k.pl/tools/traveller/">Traveller</a></p>  
 
 [Wall Swap](https://w7k.pl/tools/wallswap/)  
