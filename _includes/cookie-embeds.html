@@ -1,0 +1,98 @@
+<!-- Cookie-friendly embeds (GDPR / ePrivacy):
+     Third-party iframes (YouTube, Google Maps/Drive, Vimeo) set cookies as soon
+     as they load. This script intercepts them *before* they load, replaces them
+     with a click-to-load placeholder, and only loads the real embed (and its
+     cookies) once the visitor opts in by clicking. It runs automatically for any
+     embed in any post, so no per-video changes are ever needed. YouTube is also
+     upgraded to the privacy-enhanced youtube-nocookie.com domain. -->
+<script>
+(function () {
+  var BLOCK = /(?:\/\/(?:www\.)?youtube\.com|youtube-nocookie\.com|youtu\.be|\/\/(?:www\.)?google\.[a-z.]+\/maps|drive\.google\.com|player\.vimeo\.com)/i;
+
+  function serviceName(u) {
+    if (/youtube|youtu\.be/i.test(u)) return 'YouTube';
+    if (/google\.[a-z.]+\/maps/i.test(u)) return 'Google Maps';
+    if (/drive\.google/i.test(u)) return 'Google Drive';
+    if (/vimeo/i.test(u)) return 'Vimeo';
+    return 'a third party';
+  }
+
+  // Remove an iframe's src before the browser fetches it, stashing it for later.
+  function neutralize(ifr) {
+    if (ifr.getAttribute('data-embed-src')) return;
+    var src = ifr.getAttribute('src');
+    if (!src || !BLOCK.test(src)) return;
+    src = src.replace(/\/\/(?:www\.)?youtube\.com\//i, '//www.youtube-nocookie.com/'); // privacy-enhanced
+    ifr.setAttribute('data-embed-src', src);
+    ifr.setAttribute('data-embed-service', serviceName(src));
+    ifr.removeAttribute('src');
+  }
+
+  // Catch iframes as the parser inserts them (the MutationObserver callback runs
+  // before the browser's "load the iframe" task, so no request is made).
+  var mo = new MutationObserver(function (recs) {
+    for (var i = 0; i < recs.length; i++) {
+      var added = recs[i].addedNodes;
+      for (var j = 0; j < added.length; j++) {
+        var n = added[j];
+        if (n.nodeType !== 1) continue;
+        if (n.tagName === 'IFRAME') neutralize(n);
+        else if (n.getElementsByTagName) {
+          var inner = n.getElementsByTagName('iframe');
+          for (var k = 0; k < inner.length; k++) neutralize(inner[k]);
+        }
+      }
+    }
+  });
+  mo.observe(document.documentElement, { childList: true, subtree: true });
+
+  function makePlaceholder(svc) {
+    var ph = document.createElement('button');
+    ph.type = 'button';
+    ph.className = 'cc-embed cc-embed--overlay';
+    ph.innerHTML =
+      '<span class="cc-embed-play" aria-hidden="true">&#9658;</span>' +
+      '<span class="cc-embed-title">Load ' + svc + ' content</span>' +
+      '<span class="cc-embed-note">This content is hosted by ' + svc +
+      '. Loading it allows ' + svc + ' (a third party) to set cookies and process your data.</span>';
+    return ph;
+  }
+
+  function build() {
+    mo.disconnect();
+    var frames = document.querySelectorAll('iframe[data-embed-src]');
+    Array.prototype.forEach.call(frames, function (ifr) {
+      var svc = ifr.getAttribute('data-embed-service') || 'a third party';
+      var ph = makePlaceholder(svc);
+      var parent = ifr.parentNode;
+      var pstyle = (parent && parent.getAttribute && parent.getAttribute('style')) || '';
+      var responsive = /padding-(top|bottom)/i.test(pstyle) && /position\s*:\s*relative/i.test(pstyle);
+
+      if (responsive) {
+        ifr.style.display = 'none';
+        parent.appendChild(ph); // overlays the padded responsive box
+      } else {
+        var box = document.createElement('div');
+        box.className = 'cc-embed-box';
+        var w = parseInt(ifr.getAttribute('width'), 10);
+        var h = parseInt(ifr.getAttribute('height'), 10);
+        if (w && h) { box.style.maxWidth = w + 'px'; box.style.aspectRatio = w + ' / ' + h; }
+        parent.insertBefore(box, ifr);
+        ifr.style.display = 'none';
+        box.appendChild(ifr);
+        box.appendChild(ph);
+      }
+
+      ph.addEventListener('click', function () {
+        ifr.src = ifr.getAttribute('data-embed-src');
+        ifr.removeAttribute('data-embed-src');
+        ifr.style.display = '';
+        if (ph.parentNode) ph.parentNode.removeChild(ph);
+      });
+    });
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', build);
+  else build();
+})();
+</script>
