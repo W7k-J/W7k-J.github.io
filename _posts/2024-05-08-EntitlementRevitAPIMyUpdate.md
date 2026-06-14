@@ -4,6 +4,7 @@ title: Entitlement Revit API - My update
 
 date: 2024-05-08 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/CheckOnline.jpg
 ---
 ![PostPage](/images/2024_BlogPost/CheckOnline.jpg)
 

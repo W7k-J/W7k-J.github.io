@@ -24,10 +24,10 @@ Revit lead, BIM coordination and support for Pracownia Inżynierska (Structural 
 
 Other 3 structural projects for Pracownia Inżynierska
 
-[2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)
+[2020 Stara Polana, A hotel in a heritage-listed building](https://w7k.pl/Stara-Polana/)
 
 2022 Lamus, Kędzierzyn Koźle
-Concept designs and early BIM documentation for discussion with client and heritage authorities - WIP with Mirosław Stępień and Bartosz Hodurek for Pracownia Iżynierska
+Concept designs and early BIM documentation for discussion with client and heritage authorities - WIP with Mirosław Stępień and Bartosz Hodurek for Pracownia Inżynierska
 
 2023 Horisont Bygg B & C, Norway
 

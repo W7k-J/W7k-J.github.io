@@ -9,7 +9,11 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {{ post.excerpt }}
+        {% if post.thumbnail %}
+          <a href="{{ site.baseurl }}{{ post.url }}"><img class="post-thumb" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy"></a>
+        {% else %}
+          {{ post.excerpt }}
+        {% endif %}
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>

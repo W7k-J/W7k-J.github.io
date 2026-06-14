@@ -3,6 +3,7 @@ layout: post
 title: Webinar with Ignacy Lozinski from BIM Corner
 date: 2025-01-15 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2025_BlogPost/Master-Your-Revit-Template-1024x576.jpg
 ---
 ![PostPage](/images/2025_BlogPost/Master-Your-Revit-Template-1024x576.jpg)
 

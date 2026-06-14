@@ -3,6 +3,7 @@ layout: post
 title: Plac Kossaka w Krakowie
 date: 2021-08-26 14:00:00
 author: Julian
+thumbnail: /images/thumbs/2_Kossak1.jpg
 ---
 ![Plansza_1](/images/2_Kossak1.jpg)
 

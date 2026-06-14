@@ -3,6 +3,7 @@ layout: post
 title: How did I end up coding another tool from Revit Roadmap? 
 date: 2025-07-02 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2025_BlogPost/StairsFromAutodeskRoadMap.jpg
 ---
 ![PostPage](/images/2025_BlogPost/StairsFromAutodeskRoadMap.jpg)
 

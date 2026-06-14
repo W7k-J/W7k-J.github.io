@@ -3,6 +3,7 @@ layout: post
 title: ProFM - Brand Identity
 date: 2023-09-20 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2023 ProFM Brand Identity/proFM_Horizontal.jpg
 ---
 ![PostPage](/images/2023 ProFM Brand Identity/proFM_Horizontal.png)
 
@@ -12,12 +13,12 @@ author: Julian
 Creating a brand identity for ProFM, a facility management company
 
 ProFM is a company that provides facility management services for offices, industrial and hospitality sectors. They have a wide range of interests and rich experience in their field, but they lacked a consistent brand identity. That’s where I came in.
-We started working by creating a logo that reflects their values and vision. The final version resembles a "home". It conveys many connotations, just to name the few: warm , "feels like at home", sense of peace and security.    
+We started working by creating a logo that reflects their values and vision. The final version resembles a "home". It conveys many connotations, just to name a few: warm, "feels like at home", sense of peace and security.    
 
 For the main logo we decided to use gold, blue and white which symbolize excellence and expertise. We also added a subtle font to show the elegance and professionalism of ProFM’s services.
 Next, we selected a colour palette that conveys their rich offer. We decided to use different colours for each sector.
 
-![Cover](/images/2023 ProFM Brand Identity/proFM_Page1.png)
+![Cover](/images/2023 ProFM Brand Identity/proFM_Page1.jpg)
 
 
 
@@ -27,4 +28,4 @@ The result is a brand identity that showcases ProFM’s expertise and versatilit
 So, if you are looking for new managers for your properties, don't hesitate to get in touch with them at [Link](https://profm.com.pl)! 
 
 
-![Cover](/images/2023 ProFM Brand Identity/proFM_LinkedIn_Cover.png)
+![Cover](/images/2023 ProFM Brand Identity/proFM_LinkedIn_Cover.jpg)

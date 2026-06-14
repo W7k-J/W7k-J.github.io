@@ -3,6 +3,7 @@ layout: post
 title: Revit API Experiments - Internal Elevations
 date: 2024-02-28 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/InternalElevations_MainPage.jpg
 ---
 ![PostPage](/images/2024_BlogPost/InternalElevations_MainPage.jpg)
 

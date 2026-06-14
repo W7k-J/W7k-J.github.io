@@ -3,8 +3,9 @@ layout: post
 title: Bajlandia, Krakow 
 date: 2025-06-15 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2025_Bajlandia/1.jpg
 ---
-![PostPage](/images/2025_Bajlandia/1.png)
+![PostPage](/images/2025_Bajlandia/1.jpg)
 
 <!--excerpt-->
 
@@ -28,4 +29,4 @@ We presented the concept to ZZM, included some comments, and honestly, I forgot 
 Then, just recently, I found out that in February, ZZM selected new managers for the building - the ones who are willing to invest in it. Furthermore, our concept was included in the tender and the final agreement.
 There’s still a long road ahead for the new investors (starting with getting a building permit), but I’m already happy to have played a part in improving a space that means so much to me - and to many others in Kraków.
   
-![Back view of Bajlandia](/images/2025_Bajlandia/3.png)
+![Back view of Bajlandia](/images/2025_Bajlandia/3.jpg)

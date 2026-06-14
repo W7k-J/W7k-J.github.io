@@ -3,6 +3,7 @@ layout: post
 title: BIMsmith Winter Wonderland Holiday Revit Family Competition 2024
 date: 2024-12-30 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/BimSmithWWL_Cover.jpg
 ---
 ![PostPage](/images/2024_BlogPost/BimSmithWWL_Cover.jpg)
 
@@ -36,9 +37,9 @@ Below some images showing how everything works:
   </iframe>
 </div>
   
-![Internal Flake Family](/images/2024_BlogPost/BimSmithWWL_ParametricFlake_1.png)  
+![Internal Flake Family](/images/2024_BlogPost/BimSmithWWL_ParametricFlake_1.jpg)  
   
-![Movement family](/images/2024_BlogPost/BimSmithWWL_ParametricFlake_2.png)  
+![Movement family](/images/2024_BlogPost/BimSmithWWL_ParametricFlake_2.jpg)  
   
 <div style="padding-bottom:56.25%; position:relative; display:block; width: 100%">
   <iframe width="100%" height="100%"

@@ -3,6 +3,7 @@ layout: post
 title: BIMsmith Winter Wonderland Holiday Revit Family Competition 2021
 date: 2022-01-13 14:00:00
 author: Julian
+thumbnail: /images/thumbs/2021 BIMsmithWWL/20210213_WinterWonder.jpg
 ---
 ![Plansza_1](/images/2021 BIMsmithWWL/20210213_WinterWonder.jpg)
 
@@ -18,7 +19,7 @@ Working knowledge about making new Revit content has been always very important 
 
 The family was built using basic parametric profiles hosted by sweep paths that share a common path. The profiles are then placed at the desired location to create the symmetrical snowflake architecture.
   
-![Plansza_1](/images/2021 BIMsmithWWL/instruction.png)  
+![Plansza_1](/images/2021 BIMsmithWWL/instruction.jpg)  
   
 The parameter that drives the family’s size and pattern is easy to understand and surprisingly fun to manipulate. Watch Julian demonstrate his Revit family here."
 

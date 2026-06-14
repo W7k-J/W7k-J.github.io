@@ -3,6 +3,7 @@ layout: post
 title: Stara Polana, ul. Nowotarska 59, Zakopane
 date: 2020-12-20 14:00:00
 author: Julian
+thumbnail: /images/thumbs/2020 Stara Polana/Polana1.jpg
 ---
 ![Stara Polana](/images/2020 Stara Polana/Polana1.jpg)
 
@@ -26,10 +27,10 @@ Project Value: approx. 6 million PLN
 
 Views from the model below:
 
-![Pic_1](/images/2020 Stara Polana/Polana_DocumentationExample.png)
-![Pic_2](/images/2020 Stara Polana/Polana8.png)
-![Pic_3](/images/2020 Stara Polana/Polana4.png)
-![Pic_4](/images/2020 Stara Polana/Polana2.png)
-![Pic_5](/images/2020 Stara Polana/Polana3.png)
-![Pic_6](/images/2020 Stara Polana/Polana5.png)
-![Pic_7](/images/2020 Stara Polana/Polana6.png)
+![Pic_1](/images/2020 Stara Polana/Polana_DocumentationExample.jpg)
+![Pic_2](/images/2020 Stara Polana/Polana8.jpg)
+![Pic_3](/images/2020 Stara Polana/Polana4.jpg)
+![Pic_4](/images/2020 Stara Polana/Polana2.jpg)
+![Pic_5](/images/2020 Stara Polana/Polana3.jpg)
+![Pic_6](/images/2020 Stara Polana/Polana5.jpg)
+![Pic_7](/images/2020 Stara Polana/Polana6.jpg)

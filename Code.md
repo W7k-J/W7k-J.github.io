@@ -37,8 +37,8 @@ My add-ins:
 
 ## Revit API Experiments 
 
-[Swapper](https://w7k.pl/ExperimentSwapper//)  
-[3d View Rotator](https://w7k.pl/CSharp-GetDefaultWorksetNames/)  
+[Swapper](https://w7k.pl/ExperimentSwapper/)  
+[3d View Rotator](https://w7k.pl/ExperimentRotator/)  
 
 ### C# Scripts
 

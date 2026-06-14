@@ -3,8 +3,9 @@ layout: post
 title: Open-source against the big tech companies - Published in Finnish on ATL blog
 date: 2023-12-26 12:15:00
 author: Julian
+thumbnail: /images/thumbs/2024_2_ArticleOnATL/ATL.jpg
 ---
-![PostPage](/images/2024_2_ArticleOnATL/ATL.png)
+![PostPage](/images/2024_2_ArticleOnATL/ATL.jpg)
 
 <!--excerpt-->
 
@@ -32,4 +33,4 @@ After almost 2 years, I would love to add some extra points to it:
 
 6. It is up to normal people and offices to support the developers, to allow them to create free, open-source and useful solutions (in and out of proprietary software). Not up to developers to work for free! This is the only way we will be able to fully utilize the possibilities modern software is giving us.
 
-And we have to do it! As I said in the article, we really need the best tools we can have! We are architects, engineers, BIM coordinators, designers, and other professionals who each day envision a better future for our cities and communities, better ways for people to live and work, and more sustainable methods of using the scarce resources we have. Our work makes a difference!11
+And we have to do it! As I said in the article, we really need the best tools we can have! We are architects, engineers, BIM coordinators, designers, and other professionals who each day envision a better future for our cities and communities, better ways for people to live and work, and more sustainable methods of using the scarce resources we have. Our work makes a difference!

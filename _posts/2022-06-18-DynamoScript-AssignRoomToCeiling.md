@@ -3,8 +3,9 @@ layout: post
 title: Dynamo Script - Assign Room Names To The Ceilings Above
 date: 2022-06-18 12:00:00
 author: Julian
+thumbnail: /images/thumbs/Dynamo/DS1/20220618_Logo.jpg
 ---
-![PostPage](/images/Dynamo/DS1/20220618_Logo.png)
+![PostPage](/images/Dynamo/DS1/20220618_Logo.jpg)
 
 <!--excerpt-->
 
@@ -22,7 +23,7 @@ His explanations are great!
   
 So let’s go through the changes I did.
   
-![Script with changes](/images/Dynamo/DS1/20220618_schemat.png)  
+![Script with changes](/images/Dynamo/DS1/20220618_schemat.jpg)  
   
   
 ### Adding exception to Python Code (1)  

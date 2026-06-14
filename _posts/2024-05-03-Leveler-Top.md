@@ -3,6 +3,7 @@ layout: post
 title: Leveler ended up on the list of the most popular paid apps for Revit on Autodesk App Store!
 date: 2024-05-03 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/levelerMostPopularPost.jpg
 ---
 ![PostPage](/images/2024_BlogPost/levelerMostPopularPost.jpg)
 

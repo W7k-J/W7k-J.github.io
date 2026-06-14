@@ -4,6 +4,7 @@ title: ROG4Creators - Sculpt Your Hero ed. I
 
 date: 2020-05-07 14:00:00
 author: Julian
+thumbnail: /images/thumbs/2020 Rog4Creators/ROG_final.jpg
 ---
 ![Cover](/images/2020 Rog4Creators/ROG_final.jpg)
 

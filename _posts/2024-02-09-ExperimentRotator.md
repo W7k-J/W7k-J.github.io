@@ -3,6 +3,7 @@ layout: post
 title: Revit API Experiments - 3d View Rotator
 date: 2024-02-09 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/Rotator_MainPage.jpg
 ---
 ![PostPage](/images/2024_BlogPost/Rotator_MainPage.jpg)
 

@@ -26,7 +26,7 @@ permalink: /architecture/
 
 [2022 Muzeum Apple Polska, Warsaw](https://w7k.pl/Muzeum-Apple/)
   
-2022 Concept design of an new building connected with exisiting hospital (7500 m²) including Emergency department, ICU,
+2022 Concept design of a new building connected with an existing hospital (7500 m²) including Emergency department, ICU,
 sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklicki.  
   
 2022 Concept design of a superstructure and refurbishment of an existing hospital (4500 m²) including Emergency department, ICU,
@@ -35,9 +35,9 @@ sterile department, and operating block – with A.Wąś, T.Zawisza, A.Zaboklick
 2021 Co-working space in Warsaw (heritage-listed building, 500 m²) – with B.Hodurek
 Concept design and design development  
 
-2021 Concept design of small buildins at Jordana, Kraków (heritage-listed park layout - concept designs) I did a number of concepts to improve the quality of buildings located at the park area (including public toilets, restaurant, trafo station, gardener's building and local sport facility). We received possitive opinion from the city heritage department.  Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek  
+2021 Concept design of small buildings at Jordana, Kraków (heritage-listed park layout - concept designs) I did a number of concepts to improve the quality of buildings located at the park area (including public toilets, restaurant, trafo station, gardener's building and local sport facility). We received a positive opinion from the city heritage department.  Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek  
 
-[2020 Stara Polana, A hotel in an heritage-listed building](https://w7k.pl/Stara-Polana/)  
+[2020 Stara Polana, A hotel in a heritage-listed building](https://w7k.pl/Stara-Polana/)  
 
 2020 Fontanna na Służewcu, Warsaw (heritage-listed park layout - planning application) Work for Pracownia Inżynierska. Together with Mirosław Stępień and Bartosz Hodurek  
 
@@ -60,7 +60,7 @@ stages). During my time at Buttress Architects
 
 [2024 External Examiner at PK](https://w7k.pl/PKHelp2024/)  
 
-[2021 Ikony motoryzacji, an exhibion in Fabryka Norblina](https://w7k.pl/Ikony-Motoryzacji/)  
+[2021 Ikony motoryzacji, an exhibition in Fabryka Norblina](https://w7k.pl/Ikony-Motoryzacji/)  
 
 Bang&Olufsen in Norblin Factory, Warsaw (space layout)
 

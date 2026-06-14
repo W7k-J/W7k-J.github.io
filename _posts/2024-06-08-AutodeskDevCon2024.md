@@ -4,6 +4,7 @@ title: Autodesk DevCon 2024
 
 date: 2024-06-08 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/AutodeskDevCon2024.jpg
 ---
 ![PostPage](/images/2024_BlogPost/AutodeskDevCon2024.jpg)
 
@@ -13,7 +14,7 @@ Last week I attended Autodesk DevCon 2024 in Munich. This event, directed mostly
 I decided to share with you some of my notes from lectures and discussions (formal and informal):
 1.	Autodesk Platform Services – It was the main subject of this conference. While Autodesk invests in cloud-based platforms, it also opens them to the other developers.
 With the use of APIs it gives them a possibility to create new features or extend existing ones by using data, or other tools, from various platforms made by Autodesk. 
-2.	During discussions with power users, most of them were suspicion of this idea. They explained that they pay for the software, so they expect to have workable programs, which are better every year. Because of that attitude (+well known luddite approach towards technology in AEC), software developers I spoke with, expressed deep concerns about making significant investments in AEC, without a clear ROI. 
+2.	During discussions with power users, most of them were suspicious of this idea. They explained that they pay for the software, so they expect to have workable programs, which are better every year. Because of that attitude (+well known luddite approach towards technology in AEC), software developers I spoke with, expressed deep concerns about making significant investments in AEC, without a clear ROI. 
 3.	As a maker of Drafter, plugin for Revit, I very often encounter this problem. People are happy with features of my tools but expect them to be a part of Revit. In extreme cases, the idea of paying extra is even hostile to them. Because of that, it is not the easiest environment to develop new tools and I am very curious to see how this situation in the industry will progress. 
 4.	Autodesk Forma – In the opinion of power users lack of elementary functions is a reason why Forma is not wildly used in architectural offices. “At one moment we tried it, but we couldn’t do something simple so we swapped back to Revit.” Still, majority of them plan to use it again at some point in the future.
 5.	Autodesk Forma - After seeing a presentation about making add-ins for Forma, I promised myself to make a small add-in for it – It looked so easy and its APIs so nice!   

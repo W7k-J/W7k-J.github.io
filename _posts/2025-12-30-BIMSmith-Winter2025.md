@@ -3,6 +3,7 @@ layout: post
 title: BIMsmith Winter Wonderland Holiday Revit Competition 2025 - Revit Game Freerider
 date: 2025-12-30 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2026_BlogPosts/RevitFreeRiderTitle.jpg
 ---
 ![PostPage](/images/2026_BlogPosts/RevitFreeRiderTitle.jpg)
 

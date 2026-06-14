@@ -44,7 +44,7 @@ Keep in mind that Autodesk Revit provides you an option to undo any changes you 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-The software provided on Autodesk App Store and in any other way is subjected to [Autodesk App Store - End User License Agreement](https://apps.autodesk.com/en/eula). By downloading or installing it you confirm that you read it, understand its implications  and agreed with it.
+The software provided on Autodesk App Store and in any other way is subjected to [Autodesk App Store - End User License Agreement](https://apps.autodesk.com/en/eula). By downloading or installing it you confirm that you read it, understand its implications and agree with it.
 
 
 ### Use of experimental revit tools
@@ -92,9 +92,9 @@ Our apps do not share any data. The only collected information is saved in the â
 
 ### Buying our apps - B2B, corporate clients, VAT-EU, invoices etc.  
 
-Because of the way the Autodesk Apps Store is organized we treat all of transactions from there as "Business to Customer". As such they are a subject to VAT and you might have to pay extra import fees. 
+Because of the way the Autodesk Apps Store is organized we treat all transactions from there as "Business to Customer". As such they are a subject to VAT and you might have to pay extra import fees. 
 
-If you would like to get a B2B invoice and made our and your life easier please contact us by email before buying the app and we will arrange it! - [contact Us](mailto:apps@w7k.pl). 
+If you would like to get a B2B invoice and make our and your life easier please contact us by email before buying the app and we will arrange it! - [contact Us](mailto:apps@w7k.pl). 
 
 ### Other liability
 

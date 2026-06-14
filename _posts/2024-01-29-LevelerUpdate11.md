@@ -3,6 +3,7 @@ layout: post
 title: Leveler 1.1 - First Update! 
 date: 2024-01-29 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_3_Leveler11/leveler11.jpg
 ---
 ![PostPage](/images/2024_3_Leveler11/leveler11.jpg)
 

@@ -3,8 +3,9 @@ layout: post
 title: C# - Method GetDefaultWorksetNames
 date: 2023-04-01 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2023 CSharpGetDefaultWorksetNames/CSharpGetDefaultWorksetNames.jpg
 ---
-![PostPage](/images/2023 CSharpGetDefaultWorksetNames/CSharpGetDefaultWorksetNames.png)
+![PostPage](/images/2023 CSharpGetDefaultWorksetNames/CSharpGetDefaultWorksetNames.jpg)
 
 <!--excerpt-->
 

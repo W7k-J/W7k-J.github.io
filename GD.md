@@ -16,7 +16,7 @@ This page is under construction
 
 ### Paintings / Drawings
 
-[Gmach Dyrekcji Kolei, Kraków](https://w7k.pl/GmachDyrekcjiKolei//)  
+[Gmach Dyrekcji Kolei, Kraków](https://w7k.pl/GmachDyrekcjiKolei/)  
 
 
 ### Computer 2d Art

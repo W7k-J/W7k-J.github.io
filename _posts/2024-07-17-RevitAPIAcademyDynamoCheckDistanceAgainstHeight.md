@@ -4,6 +4,7 @@ title: W7k Academy - Coding for Dynamo in C# and Python CheckDistanceAgainstHeig
 
 date: 2024-07-17 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/Academy_2.jpg
 ---
 ![PostPage](/images/2024_BlogPost/Academy_2.jpg)
 
@@ -21,13 +22,13 @@ In the end I decided to do some "speed coding" to solve this problem.  When it c
 
 But firstly I had to create a playground to test my future solution. Nothing fancy - simple families with "H" parameter for height.  
 
-![Custom code block](/images/2024_BlogPost/Academy_2_workingSpace.png)  
+![Custom code block](/images/2024_BlogPost/Academy_2_workingSpace.jpg)  
 
 After some thinking which was longer then I expected I started coding.
 
 As a result I created this custom node.
 
-![Custom code block](/images/2024_BlogPost/Academy_2_checkAgainst1.png)  
+![Custom code block](/images/2024_BlogPost/Academy_2_checkAgainst1.jpg)  
 
 It is not only checking the distances between the elements in correlation to its height but also provides detailed information about problematic elements. Additionally it gives you a human readable report.  
   

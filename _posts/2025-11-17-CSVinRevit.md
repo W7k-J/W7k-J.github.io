@@ -3,6 +3,7 @@ layout: post
 title: What do you do when you need to export multiple schedules as CSV from Revit?
 date: 2025-11-17 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2025_BlogPost/Academy3_Export.jpg
 ---
 ![PostPage](/images/2025_BlogPost/Academy3_Export.jpg)
 

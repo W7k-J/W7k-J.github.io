@@ -4,6 +4,7 @@ title: Design Competition - Politechnika Krakowska, Wydział Informatyki
 
 date: 2024-09-01 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_PK/PK_INF_2.jpg
 ---
 ![PostPage](/images/2024_PK/PK_INF_2.jpg)
 

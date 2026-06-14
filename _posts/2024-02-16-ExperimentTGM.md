@@ -3,6 +3,7 @@ layout: post
 title: Revit API Experiments - TemporaryGraphicsManager
 date: 2024-02-16 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/TemporaryGraphicsManager.jpg
 ---
 ![PostPage](/images/2024_BlogPost/TemporaryGraphicsManager.jpg)
 
@@ -17,7 +18,7 @@ In the initial part of my video, I demonstrate how to align title lines to previ
 
 In the second part of the video, I collect points and save them to an external file for future reference. The TemporaryGraphicsManager conveniently marks their locations, eliminating the need to remember which points I’ve already saved.
 
-Is this the easiest method of controlling title lines? Perhaps not. In an upcoming update to my Drafter tool, I’ll introduce further automations in this area. But one thing is certain: I’ll continue to leverage the power of TemporaryGraphicsManage.
+Is this the easiest method of controlling title lines? Perhaps not. In an upcoming update to my Drafter tool, I’ll introduce further automations in this area. But one thing is certain: I’ll continue to leverage the power of TemporaryGraphicsManager.
 
 <div>
   <div style="position:relative;padding-top:56.25%;">

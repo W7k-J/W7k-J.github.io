@@ -3,6 +3,7 @@ layout: post
 title: Revit API Experiments - Swapper
 date: 2024-02-08 12:00:00
 author: Julian
+thumbnail: /images/thumbs/2024_BlogPost/Swapper_MainPage.jpg
 ---
 ![PostPage](/images/2024_BlogPost/Swapper_MainPage.jpg)
 
