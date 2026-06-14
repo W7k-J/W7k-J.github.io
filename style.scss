@@ -135,6 +135,14 @@ img {
   max-width: 100%;
 }
 
+// Blog post-list thumbnails: span the full content width, like the titles
+.post-thumb {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 15px 0;
+}
+
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {

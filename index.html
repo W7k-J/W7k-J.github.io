@@ -10,7 +10,10 @@ layout: default
 
       <div class="entry">
         {% if post.thumbnail %}
-          <a href="{{ site.baseurl }}{{ post.url }}"><img class="post-thumb" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="{{ post.title }}" loading="lazy"></a>
+          <a href="{{ site.baseurl }}{{ post.url }}"><img class="post-thumb" data-src="{{ site.baseurl }}{{ post.thumbnail }}" alt="{{ post.title }}" decoding="async"></a>
+          <noscript>
+            <a href="{{ site.baseurl }}{{ post.url }}"><img class="post-thumb" src="{{ site.baseurl }}{{ post.thumbnail }}" alt="{{ post.title }}"></a>
+          </noscript>
         {% else %}
           {{ post.excerpt }}
         {% endif %}
@@ -20,3 +23,23 @@ layout: default
     </article>
   {% endfor %}
 </div>
+
+<!-- Load post-list images top-first, a few at a time: we keep up to
+     CONCURRENCY images downloading at once, always picking the next one in
+     top-to-bottom order. Visitors get the top images quickly while reading,
+     and the rest follow downward. -->
+<script>
+  (function () {
+    var CONCURRENCY = 3; // how many images may download at the same time
+    var imgs = Array.prototype.slice.call(document.querySelectorAll('img.post-thumb[data-src]'));
+    function loadNext() {
+      if (!imgs.length) return;
+      var img = imgs.shift();
+      img.addEventListener('load', loadNext);
+      img.addEventListener('error', loadNext);
+      img.src = img.getAttribute('data-src');
+      img.removeAttribute('data-src');
+    }
+    for (var i = 0; i < CONCURRENCY; i++) loadNext();
+  })();
+</script>
