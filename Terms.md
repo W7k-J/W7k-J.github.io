@@ -74,6 +74,14 @@ This Privacy Policy outlines how we collect, use, and share your personal inform
     -   If you contact us, we’ll use the information provided to communicate with you and address any issues or explore business opportunities.
     -   Rest assured, we won’t share your information with others unless you grant explicit permission.
 
+#### Cookies and embedded content
+
+This website does not set any tracking or analytics cookies of its own.
+
+Some pages embed third-party content such as YouTube videos, Google Maps, Google Drive files and Disqus comments. These providers can set their own cookies. To protect your privacy, that content is **not loaded until you choose to load it** by clicking. When you load content from a given provider, all content from that same provider on the page is loaded, and that provider may set cookies on your device.
+
+So we don't have to ask you every time, we save your choices in a single first-party cookie named `cc_embed_consent` (kept for up to 180 days). It only records which providers you agreed to load, and it is not shared with anyone. You can withdraw your choice at any time by clearing your browser's cookies for this site.
+
 #### GitHub Pages Service
 
 This Website is hosted as a GitHub Pages website. GitHub may collect User Personal Information from visitors to this GitHub Pages website - for more info visit GitHub [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement). We receive from them information about webpage traffic (views and number of unique visitors). 

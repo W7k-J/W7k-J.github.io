@@ -1,13 +1,34 @@
 <!-- Cookie-friendly embeds (GDPR / ePrivacy):
      Third-party iframes (YouTube, Google Maps/Drive, Vimeo) set cookies as soon
-     as they load. This script intercepts them *before* they load, replaces them
-     with a click-to-load placeholder, and only loads the real embed (and its
-     cookies) once the visitor opts in by clicking. It runs automatically for any
-     embed in any post, so no per-video changes are ever needed. YouTube is also
-     upgraded to the privacy-enhanced youtube-nocookie.com domain. -->
+     as they load. This script intercepts them *before* they load and shows a
+     click-to-load placeholder. When the visitor loads one source:
+       * every embed from that same source on the page is loaded too, and
+       * the choice is remembered in a first-party cookie, so on later pages and
+         visits that source loads automatically (no more prompts).
+     It runs automatically for any embed added in any post. YouTube is upgraded
+     to the privacy-enhanced youtube-nocookie.com domain. -->
 <script>
 (function () {
   var BLOCK = /(?:\/\/(?:www\.)?youtube\.com|youtube-nocookie\.com|youtu\.be|\/\/(?:www\.)?google\.[a-z.]+\/maps|drive\.google\.com|player\.vimeo\.com)/i;
+  var COOKIE = 'cc_embed_consent';
+  var MAXAGE = 60 * 60 * 24 * 180; // remember for 180 days
+
+  // --- consent store (shared with the Disqus include via window.CCEmbeds) ---
+  function readConsent() {
+    var m = document.cookie.match(/(?:^|;\s*)cc_embed_consent=([^;]*)/);
+    return m ? decodeURIComponent(m[1]).split('|').filter(Boolean) : [];
+  }
+  function writeConsent(list) {
+    document.cookie = COOKIE + '=' + encodeURIComponent(list.join('|')) +
+      ';path=/;max-age=' + MAXAGE + ';SameSite=Lax';
+  }
+  function hasConsent(svc) { return readConsent().indexOf(svc) > -1; }
+  function grantConsent(svc) {
+    var l = readConsent();
+    if (l.indexOf(svc) < 0) { l.push(svc); writeConsent(l); }
+  }
+  function resetConsent() { document.cookie = COOKIE + '=;path=/;max-age=0;SameSite=Lax'; }
+  window.CCEmbeds = { has: hasConsent, grant: grantConsent, reset: resetConsent };
 
   function serviceName(u) {
     if (/youtube|youtu\.be/i.test(u)) return 'YouTube';
@@ -28,8 +49,8 @@
     ifr.removeAttribute('src');
   }
 
-  // Catch iframes as the parser inserts them (the MutationObserver callback runs
-  // before the browser's "load the iframe" task, so no request is made).
+  // Catch iframes as the parser inserts them (this callback runs before the
+  // browser's "load the iframe" task, so no request is made).
   var mo = new MutationObserver(function (recs) {
     for (var i = 0; i < recs.length; i++) {
       var added = recs[i].addedNodes;
@@ -53,9 +74,27 @@
     ph.innerHTML =
       '<span class="cc-embed-play" aria-hidden="true">&#9658;</span>' +
       '<span class="cc-embed-title">Load ' + svc + ' content</span>' +
-      '<span class="cc-embed-note">This content is hosted by ' + svc +
-      '. Loading it allows ' + svc + ' (a third party) to set cookies and process your data.</span>';
+      '<span class="cc-embed-note">Hosted by ' + svc + ' (a third party). Loading it will ' +
+      'also load every other ' + svc + ' item on the page and will set ' + svc + ' cookies. ' +
+      'Your choice is saved as a cookie on your device, so you won’t be asked again.</span>';
     return ph;
+  }
+
+  function loadFrame(ifr) {
+    if (!ifr.getAttribute('data-embed-src')) return;
+    ifr.src = ifr.getAttribute('data-embed-src');
+    ifr.removeAttribute('data-embed-src');
+    ifr.style.display = '';
+    if (ifr.__ph && ifr.__ph.parentNode) ifr.__ph.parentNode.removeChild(ifr.__ph);
+  }
+
+  // Load every still-pending embed from one source, and remember the choice.
+  function loadService(svc) {
+    grantConsent(svc);
+    var frames = document.querySelectorAll('iframe[data-embed-src]');
+    Array.prototype.forEach.call(frames, function (ifr) {
+      if (ifr.getAttribute('data-embed-service') === svc) loadFrame(ifr);
+    });
   }
 
   function build() {
@@ -63,14 +102,14 @@
     var frames = document.querySelectorAll('iframe[data-embed-src]');
     Array.prototype.forEach.call(frames, function (ifr) {
       var svc = ifr.getAttribute('data-embed-service') || 'a third party';
-      var ph = makePlaceholder(svc);
+
+      // Give every embed a positioned container so the placeholder can overlay it.
       var parent = ifr.parentNode;
       var pstyle = (parent && parent.getAttribute && parent.getAttribute('style')) || '';
       var responsive = /padding-(top|bottom)/i.test(pstyle) && /position\s*:\s*relative/i.test(pstyle);
-
+      var container;
       if (responsive) {
-        ifr.style.display = 'none';
-        parent.appendChild(ph); // overlays the padded responsive box
+        container = parent;
       } else {
         var box = document.createElement('div');
         box.className = 'cc-embed-box';
@@ -78,17 +117,18 @@
         var h = parseInt(ifr.getAttribute('height'), 10);
         if (w && h) { box.style.maxWidth = w + 'px'; box.style.aspectRatio = w + ' / ' + h; }
         parent.insertBefore(box, ifr);
-        ifr.style.display = 'none';
         box.appendChild(ifr);
-        box.appendChild(ph);
+        container = box;
       }
 
-      ph.addEventListener('click', function () {
-        ifr.src = ifr.getAttribute('data-embed-src');
-        ifr.removeAttribute('data-embed-src');
-        ifr.style.display = '';
-        if (ph.parentNode) ph.parentNode.removeChild(ph);
-      });
+      // Already consented to this source? Load it straight away.
+      if (hasConsent(svc)) { loadFrame(ifr); return; }
+
+      ifr.style.display = 'none';
+      var ph = makePlaceholder(svc);
+      ifr.__ph = ph;
+      container.appendChild(ph);
+      ph.addEventListener('click', function () { loadService(svc); });
     });
   }
 
