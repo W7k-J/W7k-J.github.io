@@ -53,6 +53,8 @@ A small change to the way we work could make our drawings easier for more people
 
 **GitHub link:** [https://github.com/W7k-J/W7k.RevitColors](https://github.com/W7k-J/W7k.RevitColors)
 
+**Download ZIP:** [W7k.RevitColors.zip](/downloads/W7k.RevitColors.zip)
+
 ---
 
 #### References
